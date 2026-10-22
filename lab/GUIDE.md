@@ -9,7 +9,8 @@ Goal: find changes that make RIPTIDE more profitable after Kalshi fees, prove th
 3. Test walk-forward: fit on older rounds, score on the newest ~25%. Use the same bet rule as live (prob ≥ ask + fee + margin; fee = 0.07·P·(1−P) per contract). Report ¢/contract after fees, bets, win rate, and the noise (±1 standard error). An idea "wins" only if it beats the live model by more than its noise and has 150+ test bets.
 4. If an idea wins: copy `v/<live>/index.html` to `v/<new id>/index.html` (id = YYYY-MM-DD plus a letter), make the smallest change that implements it, set `const APP_VER` to the new id, check the script parses (`node -e` with `new Function`), commit and push to `main`. Do not touch other versions.
    If the change needs new server code (riptide-server.gs), say so in the proposal (`needsServer: true`); do not try to change the server.
-5. File the report with `node lab/post.mjs report.json notebook.json`:
+5. File the report with `node lab/post.mjs report.json notebook.json` (use `-` in place of report.json to save only the notebook). The lab scripts retry on their own; Google's server is slow or flaky now and then, and a full download can take a few minutes.
+   Do not file a report whose proposal points at a version you didn't push today; the latest report replaces any earlier proposal in the app.
    - report: `{ at, title, summary (one line), text (plain-language paragraph), tests: [{ name, result, win }], proposal: { ver, title, detail, needsServer } | null }`
    - notebook: `{ at, entries: [...] }`. Keep everything still useful from the previous notebook, add today's results, and keep it under ~40 KB.
 6. Keep the report plain and honest. If nothing beat the live model, say so; no proposal that day is a normal result.
