@@ -3,7 +3,7 @@
 Goal: find changes that make RIPTIDE more profitable after Kalshi fees, prove them on rounds the model has not seen, and propose them. Never make a change live; Brandon approves in the app.
 
 ## Each run
-1. `node lab/pull.mjs` (env: RIPTIDE_SERVER, RIPTIDE_KEY). Read `lab/data/research.json` → `notebook` (what earlier runs tried and learned) and `ver` (the live version).
+1. `node lab/pull.mjs` (env: RIPTIDE_SERVER, RIPTIDE_KEY). Read `lab/data/research.json` → `notebook` (what earlier runs tried and learned) and `ver` (the live version; if it is null, the live version is the bundled one, which matches the oldest folder in `v/`).
 2. Pick 1–3 ideas not yet settled in the notebook. Prefer ideas that change *price paid* or *which rounds to bet*, since entry price drives most of the profit.
    Backlog: limit (maker) entries a few cents under the ask; Kalshi-lag (BTC moved, Kalshi price hasn't yet); previous round's result; edge-size buckets; price-band limits; hour/weekday effects; waiting rules; new candle/indicator features; recency weighting; risk limits (daily loss cap, streak pause).
 3. Test walk-forward: fit on older rounds, score on the newest ~25%. Use the same bet rule as live (prob ≥ ask + fee + margin; fee = 0.07·P·(1−P) per contract). Report ¢/contract after fees, bets, win rate, and the noise (±1 standard error). An idea "wins" only if it beats the live model by more than its noise and has 150+ test bets.
