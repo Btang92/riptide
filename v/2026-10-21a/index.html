@@ -1088,7 +1088,7 @@ function srvPolicy(){const L=getL(),B=getBrain(),cal={};
     cal,mom:{true:+L.M[true].adj.toFixed(4),false:+L.M[false].adj.toFixed(4)},
     blocked:Object.values(L.B).filter(x=>x.status==="blocked").map(x=>x.key),margin:B.active?+(B.ece*100).toFixed(2):3};}
 async function syncServer(force){
-  const url=(db.set.server||"").trim();if(!url)return;
+  const url=(db.set.server||"").trim();if(!url)return;if(!getKey()){showLock();return;}
   if(!force&&Date.now()-SRV.syncAt<60000)return;SRV.syncAt=Date.now();
   try{
     const stj=await j1(url+(url.includes("?")?"&":"?")+keyQ()+"action=status");if(stj&&stj.auth===false){showLock(stj.why==="wrong password"?"Password changed or wrong. Enter it again.":"Set PASSWORD in Apps Script → Project Settings → Script Properties.");return;}
