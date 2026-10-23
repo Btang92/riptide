@@ -34,3 +34,18 @@ table("After the call (checkpoint reads)", flip);
 // late-flip losses: losses where every checkpoint after the call still agreed
 const late = calls.filter(c => c.result === "LOSS" && flip(c) === "held through 10:00 checks").length, lossN = N - W;
 console.log(`Losses that still looked right at every check up to 10:00 (flipped in the last 5 minutes): ${late} of ${lossN} losses with checkpoint data: ${calls.filter(c=>c.result==="LOSS"&&flip(c)).length}`);
+
+// Missed chances: rounds RIPTIDE skipped where a later check (up to 8:00) showed value on the side that went on to win.
+const fee2 = p => 0.07 * p * (100 - p) / 100;
+const skipped = calls.filter(c => c.skip || c.traded === false);
+let missed = 0, traps = 0, rows = [], mp = 0;
+for (const c of skipped) {
+  const l = (byW.get(c.start) || []).filter(p => p.s >= 180 && p.s <= 480).sort((a, b) => a.s - b.s);
+  for (const p of l) { const q = p.pm ?? p.pb ?? p.pu, side = q >= .5 ? "UP" : "DOWN", prob = Math.max(q, 1 - q), ask = side === "UP" ? p.ya : p.na;
+    if (ask == null || prob * 100 < ask + fee2(ask) + 3) continue;
+    mp += (side === c.winner ? 100 - ask : -ask) - fee2(ask);
+    if (side === c.winner) { missed++; rows.push(`${new Date(c.start).toLocaleString("en-US", { timeZone: "America/New_York", hour: "numeric", minute: "2-digit" })} · ${side} at ${p.s / 60}:00 for ${ask}¢ (read ${(prob * 100).toFixed(0)}%)`); } else traps++;
+    break; }
+}
+console.log(`\nMissed chances (skipped at the call, value appeared by 8:00): ${missed} would have won, ${traps} would have lost, ${(mp / Math.max(1, missed + traps) >= 0 ? "+" : "") + (mp / Math.max(1, missed + traps)).toFixed(1)}¢/contract after fees.`);
+for (const r of rows.slice(-8)) console.log("  " + r);
