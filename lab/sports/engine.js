@@ -50,10 +50,14 @@ const pmPrice=m=>{const bb=+m.bestBid,ba=+m.bestAsk;if(isFinite(bb)&&isFinite(ba
 // ---- collect ----
 const games=[],legs=[],unmatched=[];
 const days=[];for(let t=now-12*3600e3;t<=horizon;t+=864e5)days.push(ymd(t));if(!days.includes(ymd(horizon)))days.push(ymd(horizon));
-let kLive=0;const kq=async u=>{while(kLive>=6)await new Promise(r=>setTimeout(r,60));kLive++;try{for(let i=0;;i++){try{return await io.kalshi(u);}catch(e){if(i>=3)throw e;await new Promise(r=>setTimeout(r,700*(i+1)));}}}finally{kLive--;}};
+// Kalshi is shared with the BTC engine: keep sportsbook traffic gentle (2 at a time, 300 ms apart) and stop at the first sign of rate limiting.
+let kLive=0,kLast=0,kErr=0;const KQ_GAP=cfg.kGap??600,KQ_MAX=cfg.kMax??1;
+const kq=async u=>{if(kErr>=3)throw new Error("Kalshi is rate-limiting; sportsbook paused so BTC prices keep flowing");
+  while(kLive>=KQ_MAX||Date.now()-kLast<KQ_GAP)await new Promise(r=>setTimeout(r,40));kLive++;kLast=Date.now();
+  try{const d=await io.kalshi(u);kErr=0;return d;}catch(e){kErr++;if(/429|too many/i.test(e.message))kErr=3;throw e;}finally{kLive--;}};
 const kAll=async series=>{const out=[];let cur="";for(let pg=0;pg<8;pg++){const d=await kq(`${KX}/markets?series_ticker=${series}&status=open&limit=1000${cur?"&cursor="+cur:""}`);out.push(...(d.markets||[]));cur=d.cursor;if(!cur)break;}return out;};
 const book=(m)=>{const ya=cents(m,"yes_ask"),na=cents(m,"no_ask");return{ya,na,ok:ya!=null&&na!=null&&ya>0&&na>0&&ya<100&&na<100&&ya+na-100<=maxGap};};
-await Promise.all(LEAGUES.map(async L=>{const LN=L.name||L.id;
+const doLeague=async L=>{const LN=L.name||L.id;
   let kms=[];try{kms=await kAll(L.game);}catch(e){notes.push(`${LN}: Kalshi ${e.message}`);return;}
   if(!kms.length)return;
   // ESPN games
@@ -107,7 +111,7 @@ await Promise.all(LEAGUES.map(async L=>{const LN=L.name||L.id;
       add({m,g,mk:"ML",side:"yes",ask:b.ya,ti,label:ti==="draw"?"Tie":g.teams[ti].name,short:ti==="draw"?"Tie":g.teams[ti].nick||g.teams[ti].name,src,pmRef,
         move:g.dk&&g.dk.mlOpen[ti]!=null&&g.dk.ml[ti]!=null?{from:g.dk.mlOpen[ti],to:g.dk.ml[ti]}:null,nBooks:g.oa?g.oa.n:0});});}
   // spreads, totals, team totals
-  const extra=[[L.spread,"SPREAD"],[L.total,"TOTAL"],[L.tt,"TT"]].filter(x=>x[0]);
+  const extra=[[L.spread,"SPREAD"],[L.total,"TOTAL"],[cfg.teamTotals?L.tt:null,"TT"]].filter(x=>x[0]);
   for(const[series,mk]of extra){let ms=[];try{ms=await kAll(series);}catch(e){notes.push(`${LN} ${mk}: ${e.message}`);continue;}
     for(const m of ms){const g=bySuf[suffix(m.event_ticker)];if(!g)continue;const b=book(m);if(!b.ok)continue;const line=+m.floor_strike;if(!isFinite(line))continue;const t=m.yes_sub_title||m.title||"";
       if(mk==="SPREAD"){const mm=t.match(/^(.+?) wins? by (?:over|more than) /i);if(!mm)continue;const ti=teamOf(mm[1],g);if(ti==null)continue;const oi=g.teams.findIndex((_,k)=>k!==ti);
@@ -123,13 +127,14 @@ await Promise.all(LEAGUES.map(async L=>{const LN=L.name||L.id;
         add({m,g,mk,side:"yes",ask:b.ya,ti,line,label:`${T.name} over ${line}`,short:`${T.nick||T.name} o${line}`,src,pmRef:pt?[{slug:pt.slug,out:pt.yesOut}]:[]});
         add({m,g,mk,side:"no",ask:b.na,ti,line,label:`${T.name} under ${line}`,short:`${T.nick||T.name} u${line}`,src:inv(src),pmRef:pt?[{slug:pt.slug,out:"!"+pt.yesOut}]:[],note:`NO on “${t}”`});}}}
   // player props
-  for(const pp of L.props||[]){let ms=[];try{ms=await kAll(pp.k);}catch(e){notes.push(`${LN} ${pp.stat}: ${e.message}`);continue;}
+  for(const pp of (L.props||[]).filter(pp=>cfg.kalshiOnlyProps||PMSTAT[pp.stat])){let ms=[];try{ms=await kAll(pp.k);}catch(e){notes.push(`${LN} ${pp.stat}: ${e.message}`);continue;}
     for(const m of ms){const g=bySuf[suffix(m.event_ticker)];if(!g)continue;const b=book(m);if(!b.ok)continue;const line=+m.floor_strike;if(!isFinite(line))continue;
       const who=(m.yes_sub_title||m.title||"").split(":")[0].trim();if(!who)continue;const n=Math.round(line+.5);const src={};
       const st=PMSTAT[pp.stat];const pr=st&&g.pm&&g.pm.pr.find(x=>x.stat===st&&x.player===pname(who)&&Math.abs(x.line-line)<.01);if(pr)src.pm=pr.p;
       const team=m.ticker.split("-")[2]?.slice(0,3);
       add({m,g,mk:"PROP",side:"yes",ask:b.ya,player:who,stat:pp.stat,line,label:`${who} ${n}+ ${pp.stat.toLowerCase()}`,short:`${who} ${n}+ ${pp.unit}`,src,pmRef:pr?[{slug:pr.slug,out:pr.yesOut}]:[],teamAbbr:team});
-      add({m,g,mk:"PROP",side:"no",ask:b.na,player:who,stat:pp.stat,line,label:`${who} under ${line} ${pp.stat.toLowerCase()}`,short:`${who} u${line} ${pp.unit}`,src:inv(src),pmRef:pr?[{slug:pr.slug,out:"!"+pr.yesOut}]:[],teamAbbr:team,note:`NO on “${m.title}”`});}}}));
+      add({m,g,mk:"PROP",side:"no",ask:b.na,player:who,stat:pp.stat,line,label:`${who} under ${line} ${pp.stat.toLowerCase()}`,short:`${who} u${line} ${pp.unit}`,src:inv(src),pmRef:pr?[{slug:pr.slug,out:"!"+pr.yesOut}]:[],teamAbbr:team,note:`NO on “${m.title}”`});}}};
+for(const L of LEAGUES){if(kErr>=3){notes.push("Stopped early: Kalshi asked to slow down. BTC prices take priority; try again in a few minutes.");break;}await doLeague(L);}
 function inv(s){const o={};for(const k in s)o[k]=1-s[k];return o;}
 function add(x){const vals=Object.values(x.src);const fair=vals.length?vals.reduce((a,b)=>a+b,0)/vals.length:null;const spread=vals.length>1?Math.max(...vals)-Math.min(...vals):0;
   const cost=x.ask+feeC(x.ask),edge=fair==null?null:fair*100-cost,prevY=cents(x.m,"previous_yes_ask");
@@ -145,7 +150,7 @@ if(leaders.length&&Object.keys(bySlug).length){const res=await Promise.allSettle
       for(const{l,out}of refs){const neg=out.startsWith("!"),o=neg?out.slice(1):out;const backs=(p.outcome===o)!==neg;const s=(l.sharp??={f:0,a:0,fn:[],an:[]});if(backs){s.f+=v;if(!s.fn.includes(nm))s.fn.push(nm);}else{s.a+=v;if(!s.an.includes(nm))s.an.push(nm);}}}}}
 // ---- intel for the most interesting legs ----
 const score=l=>(l.edge??-9)+(l.sharp?Math.min(4,Math.abs(l.sharp.f-l.sharp.a)/5000):0);
-const cand=legs.filter(l=>l.fair!=null&&Math.abs(l.ask-l.fair*100)<=15).sort((a,b)=>score(b)-score(a)).slice(0,cfg.maxIntel||60);
+const cand=legs.filter(l=>l.fair!=null&&Math.abs(l.ask-l.fair*100)<=15).sort((a,b)=>score(b)-score(a)).slice(0,cfg.maxIntel||40);
 const sumCache={},injCache={};
 const intelOne=async l=>{const g=l.g;l.intel=true;
   try{if(!(g.eventId in sumCache))sumCache[g.eventId]=io.json(`${ESPN}/${g.league.espn}/summary?event=${g.eventId}`);const S=await sumCache[g.eventId];
@@ -156,7 +161,7 @@ const intelOne=async l=>{const g=l.g;l.intel=true;
     else l.inj={own:[],opp:all.flat().filter(i=>!/questionable/i.test(i.st))};
     const names=g.teams.map(t=>t.name);l.news=(S.news?.articles||[]).filter(a=>(a.categories||[]).some(c=>names.includes(c.description)||(l.player&&pname(c.description||"")===pname(l.player)))&&Date.parse(a.published||0)>now-48*3600e3).slice(0,3).map(a=>({h:a.headline,t:a.published,u:a.links?.web?.href}));
     if(l.mk==="ML"&&l.ti!=="draw"&&S.predictor){const side=g.teams[l.ti].side==="home"?S.predictor.homeTeam:S.predictor.awayTeam;if(side?.gameProjection)l.espnProj=+side.gameProjection/100;}}catch(e){}
-  try{const d=await kq(`${KX}/markets/trades?ticker=${l.ticker}&limit=1000&min_ts=${Math.floor((now-24*3600e3)/1000)}`);let f=0,a=0;
+  if(cand.indexOf(l)<(cfg.maxTrades??20))try{const d=await kq(`${KX}/markets/trades?ticker=${l.ticker}&limit=1000&min_ts=${Math.floor((now-24*3600e3)/1000)}`);let f=0,a=0;
     for(const t of d.trades||[]){const c=+(t.count_fp??t.count??0),yp=t.yes_price_dollars!=null?+t.yes_price_dollars:(t.yes_price||0)/100,usd=t.taker_side==="yes"?c*yp:c*(1-yp);if(usd<(cfg.bigTrade||250))continue;if((t.taker_side==="yes")===(l.side==="yes"))f+=usd;else a+=usd;}
     l.big={f,a};}catch(e){}};
 for(let i=0;i<cand.length;i+=8)await Promise.all(cand.slice(i,i+8).map(intelOne));
