@@ -1,13 +1,12 @@
 // Live scan from Node (needs network to Kalshi, ESPN, Polymarket): NODE_USE_ENV_PROXY=1 node lab/sports/scan.mjs
 import {createRequire} from 'module';const require=createRequire(import.meta.url);const {sportsEngine}=require('./engine.js');
-const get=async u=>{for(let i=0;i<3;i++){try{const r=await fetch(u,{headers:{'accept-encoding':'gzip'}});if(!r.ok)throw new Error(r.status);return await r.json();}catch(e){if(i==2)throw e;await new Promise(s=>setTimeout(s,800));}}};
-const t0=Date.now();
-const R=await sportsEngine({hrs:48,edge:2,agree:4,minSrc:2,useVeto:true},{kalshi:get,json:get});
-console.log('secs',(Date.now()-t0)/1000,'games',R.games.length,'kalshi-matched',R.games.filter(g=>g.kalshi).length,'withDK',R.games.filter(g=>g.dk).length,'withPM',R.games.filter(g=>g.pm).length,'legs',R.legs.length,'leaders',R.leaders);
-console.log('notes',R.notes.slice(0,10));console.log('unmatched',R.unmatched.length,R.unmatched.slice(0,30));
-const by={};for(const l of R.legs)(by[l.league]??=[]).push(l);for(const[k,v]of Object.entries(by))console.log(k,'legs',v.length,'2src',v.filter(l=>l.nSrc>=2).length,'edge>=2',v.filter(l=>l.edge>=2).length,'ok',v.filter(l=>l.ok).length);
+const get=async u=>{for(let i=0;i<3;i++){try{const r=await fetch(u);if(!r.ok)throw new Error(r.status);return await r.json();}catch(e){if(i==2)throw e;await new Promise(s=>setTimeout(s,800));}}};
+const t0=Date.now();const R=await sportsEngine({hrs:36,useVeto:true},{kalshi:get,json:get});
+console.log('secs',(Date.now()-t0)/1000,'games',R.games.filter(g=>g.kalshi).length,'legs',R.legs.length,'notes',R.notes.slice(0,8));
+const by={};for(const l of R.legs){const k=l.league+' '+l.mk;(by[k]??={n:0,priced:0,two:0,ok:0,gap:0});by[k].n++;if(l.fair!=null){by[k].priced++;by[k].gap+=Math.abs(l.ask-l.fair*100);}if(l.nSrc>=2)by[k].two++;if(l.ok)by[k].ok++;}
+for(const[k,v]of Object.entries(by))console.log(k.padEnd(28),'legs',v.n,'priced',v.priced,'2src',v.two,'value',v.ok,'avg gap',(v.gap/Math.max(1,v.priced)).toFixed(2));
 const f=x=>x==null?'-':(x*100).toFixed(1);
-for(const l of R.legs.filter(l=>l.edge!=null).sort((a,b)=>b.edge-a.edge).slice(0,25))console.log(`${l.ok?'OK ':'   '}${l.league} | ${l.g.title} | ${l.pick} ask ${l.ask} fair ${f(l.fair)} [dk ${f(l.src.dk)} pm ${f(l.src.pm)}] spread ${f(l.spread)} edge ${l.edge.toFixed(1)} dkMove ${f(l.dkMove)} k24 ${l.kMove} sharp ${l.sharp?Math.round(l.sharp.f)+'/'+Math.round(l.sharp.a)+' '+l.sharp.fn.length+'/'+l.sharp.an.length:'-'} big ${l.big?Math.round(l.big.f)+'/'+Math.round(l.big.a):'-'} inj ${l.inj?l.inj.own.length+'/'+l.inj.opp.length:'-'} news ${l.news?.length??'-'} espn ${f(l.espnProj)} flags ${l.flags.join('; ')} boost ${l.boost.join('; ')}`);
-// sanity: Kalshi ask vs fair calibration
-const two=R.legs.filter(l=>l.nSrc>=2);console.log('mean |ask-fair|',(two.reduce((s,l)=>s+Math.abs(l.ask-l.fair*100),0)/two.length).toFixed(2),'n',two.length);
-const sb=R.legs.filter(l=>l.sharp);console.log('legs with top-trader positions',sb.length);for(const l of sb.sort((a,b)=>Math.abs(b.sharp.f-b.sharp.a)-Math.abs(a.sharp.f-a.sharp.a)).slice(0,12))console.log('SHARP',l.league,l.pick,'ask',l.ask,'fair',(l.fair*100).toFixed(1),'edge',l.edge?.toFixed(1),'for',Math.round(l.sharp.f),l.sharp.fn.join(','),'against',Math.round(l.sharp.a),l.sharp.an.join(','),'| big',l.big?Math.round(l.big.f)+'/'+Math.round(l.big.a):'-','| inj',l.inj?JSON.stringify(l.inj.own.slice(0,2)):'-','| news',l.news?l.news.map(n=>n.h).slice(0,1):'-');
+console.log('--- top by edge (priced)');for(const l of R.legs.filter(l=>l.edge!=null).sort((a,b)=>b.edge-a.edge).slice(0,25))console.log(`${l.ok?'OK':'  '} ${l.league} ${l.mk} | ${l.g.title} | ${l.label} [${l.side}] ask ${l.ask} fair ${f(l.fair)} (dk ${f(l.src.dk)} pm ${f(l.src.pm)}) edge ${l.edge.toFixed(1)} sharp ${l.sharp?Math.round(l.sharp.f)+'/'+Math.round(l.sharp.a):'-'} flags ${l.flags.join(';')} boost ${l.boost.join(';')}`);
+console.log('--- sanity spreads at DK line');for(const l of R.legs.filter(l=>l.mk==='SPREAD'&&l.src.dk!=null).slice(0,6))console.log(l.g.title,l.label,l.side,'ask',l.ask,'dk',f(l.src.dk),'pm',f(l.src.pm));
+console.log('--- sanity totals');for(const l of R.legs.filter(l=>l.mk==='TOTAL'&&l.src.dk!=null).slice(0,6))console.log(l.g.title,l.label,'ask',l.ask,'dk',f(l.src.dk),'pm',f(l.src.pm));
+console.log('--- props priced');for(const l of R.legs.filter(l=>l.mk==='PROP'&&l.fair!=null).slice(0,8))console.log(l.g.title,'|',l.label,l.side,'ask',l.ask,'pm',f(l.src.pm),'edge',l.edge.toFixed(1),l.sharp?'sharp '+Math.round(l.sharp.f)+'/'+Math.round(l.sharp.a):'');
