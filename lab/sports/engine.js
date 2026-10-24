@@ -97,7 +97,7 @@ for(const L of LEAGUES){
       const vals=Object.values(src);const fair=vals.length?vals.reduce((x,y)=>x+y,0)/vals.length:null,spread=vals.length>1?Math.max(...vals)-Math.min(...vals):(g.oa&&g.oa.spread[ti])||0;
       const cost=ask+feeC(ask),edge=fair==null?null:fair*100-cost;const team=ti==="draw"?{name:"Draw"}:g.teams[ti];
       const opp=ti==="draw"?null:g.teams.findIndex((_,k)=>k!==ti);
-      legs.push({ticker:m.ticker,event:et,g,ti,opp,pick:ti==="draw"?"Draw":team.name,ask,bid,prev,cost,fair,src,nSrc:vals.length+(g.oa?g.oa.n-1:0),spread,edge,league:L.name,start:g.start,
+      legs.push({ticker:m.ticker,mtitle:m.title||(labs[i]+' wins'),event:et,g,ti,opp,dkOpen:g.dk&&g.dk.open[ti]!=null?g.dk.open[ti]:null,dkNow:g.dk&&g.dk.by[ti]!=null?g.dk.by[ti]:null,oppName:ti==='draw'?null:(g.teams.find((_,k)=>k!==ti)||{}).name,draw:ti==='draw',pick:ti==="draw"?"Draw":team.name,ask,bid,prev,cost,fair,src,nSrc:vals.length+(g.oa?g.oa.n-1:0),spread,edge,league:L.name,start:g.start,
         dkMove:g.dk&&g.dk.open[ti]!=null?g.dk.by[ti]-g.dk.open[ti]:null,kMove:prev!=null?ask-prev:null});});}}
 // ---- 2. intel for candidate legs ----
 // Polymarket top sports traders (verified on-chain profit): month + all-time leaders
@@ -118,7 +118,7 @@ const sumCache={};
 for(const l of cand){const g=l.g;l.intel=true;
   try{if(!(g.eventId in sumCache))sumCache[g.eventId]=await io.json(`${ESPN}/${g.league.espn}/summary?event=${g.eventId}`);const S=sumCache[g.eventId];
     if(l.ti!=="draw"){const tm=g.teams[l.ti],op=g.teams[l.opp];
-      const injOf=t=>{const blk=(S.injuries||[]).find(x=>x.team&&(x.team.id==t.id||x.team.displayName===t.name));return(blk?.injuries||[]).filter(i=>/out|doubtful/i.test(i.status||"")).map(i=>({n:i.athlete?.displayName,pos:i.athlete?.position?.abbreviation,st:i.status,fresh:Date.parse(i.date||0)>now-24*3600e3}));};
+      const injOf=t=>{const blk=(S.injuries||[]).find(x=>x.team&&(x.team.id==t.id||x.team.displayName===t.name));return(blk?.injuries||[]).filter(i=>/out|doubtful/i.test(i.status||"")).map(i=>({n:i.athlete?.displayName,pos:i.athlete?.position?.abbreviation,st:i.status,fresh:Date.parse(i.date||0)>now-12*3600e3}));};
       l.inj={own:injOf(tm),opp:op?injOf(op):[]};
       l.news=(S.news?.articles||[]).filter(a=>(a.categories||[]).some(c=>c.description===tm.name||c.description===op?.name)&&Date.parse(a.published||0)>now-48*3600e3).slice(0,3).map(a=>({h:a.headline,t:a.published,u:a.links?.web?.href}));
       const pr=S.predictor;if(pr){const side=tm.side==="home"?pr.homeTeam:pr.awayTeam;if(side?.gameProjection)l.espnProj=+side.gameProjection/100;}}}catch(e){}
