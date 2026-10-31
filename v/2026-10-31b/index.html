@@ -1554,7 +1554,7 @@ setInterval(()=>{if(S.win){const l=Math.max(0,Math.round((S.win.end-Date.now())/
  <div class="sb-wrap">
   <main>
    <div class="note" id="spStatus" style="margin-bottom:8px">Tap Refresh odds to load today's games (about 40 seconds). Refresh is limited to once every 2 minutes so the BTC side keeps its Kalshi prices.</div>
-   <div class="tabs2" role="tablist"><button data-tab="lines" data-on="true">Game lines</button><button data-tab="props" data-on="false">Player props</button><button data-tab="build" data-on="false">Parlay builder</button><button data-tab="pol" data-on="false">Politics</button><button data-tab="bets" data-on="false">My bets</button><button data-tab="help" data-on="false">How it works</button></div>
+   <div class="tabs2" role="tablist"><button data-tab="lines" data-on="true">Game lines</button><button data-tab="props" data-on="false">Player props</button><button data-tab="build" data-on="false">Parlay builder</button><button data-tab="pol" data-on="false">Politics &amp; more</button><button data-tab="bets" data-on="false">My bets</button><button data-tab="help" data-on="false">How it works</button></div>
    <div class="chips" id="spLg"></div>
    <div id="tab-lines"></div>
    <div id="tab-props" hidden>
@@ -1571,8 +1571,9 @@ setInterval(()=>{if(S.win){const l=Math.max(0,Math.round((S.win.end-Date.now())/
     <div id="bOut"></div>
    </div>
    <div id="tab-pol" hidden>
-    <div class="box"><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><button id="polScan" class="go">Load politics</button><div class="chips" id="polViews" style="margin:0"><button data-v="edge" data-on="true">Value on Kalshi</button><button data-v="sharp" data-on="false">Sharp money</button><button data-v="soon" data-on="false">Settling within 2 weeks</button><button data-v="all" data-on="false">All matched</button></div><input id="polQ" type="search" placeholder="Search (e.g. Senate, Texas, Vance)" style="flex:1;min-width:160px;background:var(--raise);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:6px 8px;font:12px var(--ui)"></div>
-    <div class="note" id="polStatus" style="margin-top:8px">Election bets where Polymarket's most profitable politics traders have money down, and where Kalshi is cheaper than Polymarket for the same outcome.</div></div>
+    <div class="box"><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><button id="polScan" class="go">Load markets</button><div class="chips" id="polViews" style="margin:0"><button data-v="edge" data-on="true">Value on Kalshi</button><button data-v="sharp" data-on="false">Sharp money</button><button data-v="soon" data-on="false">Settling within 2 weeks</button><button data-v="all" data-on="false">All matched</button></div><input id="polQ" type="search" placeholder="Search (e.g. Senate, Trump say, Rotten Tomatoes)" style="flex:1;min-width:160px;background:var(--raise);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:6px 8px;font:12px var(--ui)"></div>
+    <div class="chips" id="polCats" style="margin:8px 0 0"></div>
+    <div class="note" id="polStatus" style="margin-top:8px">Every non-sports bet that both Kalshi and Polymarket offer (elections, politics, what Trump and others will say, culture, economy, tech, weather), where Polymarket's most profitable traders have money down and where Kalshi is cheaper than Polymarket.</div></div>
     <div id="polOut"></div>
     <div class="box"><div style="display:flex;justify-content:space-between;align-items:center"><div class="kick2">Tracked political bets (paper)</div><button id="polCheck">Check results</button></div><div id="polHist" style="margin-top:6px"></div></div>
    </div>
@@ -1581,7 +1582,7 @@ setInterval(()=>{if(S.win){const l=Math.max(0,Math.round((S.win.end-Date.now())/
     <p><b>Prices.</b> Every button is a real Kalshi contract that pays <b>$1</b> if it wins. The big number is the Kalshi price in American odds (−110, +150…), the small number is the price in cents. Kalshi's fee (up to 1.75¢) is included in every edge and payout shown.</p>
     <p><b>Bet types.</b> Moneyline = team wins. Spread −4.5 = must win by 5+; +4.5 = lose by 4 or fewer, or win. Total = combined points over/under the line. Team total = one team's points. Props = a player's stat, e.g. "15+ points" or "under 14.5 points". Unders and underdog spreads are the NO side of the Kalshi market.</p>
     <p><b>Fair chance & edge.</b> RIPTIDE prices every bet against outside markets with their built-in margins removed, weighting the sharpest most: Pinnacle (with an Odds API key, for moneylines, spreads and totals) counts 4×, Polymarket 2×, the median of other sportsbooks 1.5×, DraftKings (via ESPN) 1×. Edge = fair chance minus what Kalshi charges, in points. </p><p><b>Expert picks 📣.</b> Once a day RIPTIDE collects published expert picks from the web and marks matching bets. They never make a bet VALUE on their own; the closing-line check in Paper bets shows whether they actually help. </p><p><b>Closing line.</b> For every paper bet RIPTIDE keeps checking the price until the game starts. Beating the closing price consistently is the fastest proof that picks have an edge, long before wins and losses settle it. The chip under each price: <span class="ed v">+2.1</span> value · <span class="ed f">−0.4</span> about fair · <span class="ed x">⚠</span> sharp money or news against it · <span class="ed n">—</span> no outside price to compare.</p>
-    <p><b>Politics.</b> RIPTIDE reads the public positions of Polymarket's 50 most profitable politics traders (this month and all time; open positions worth $100+). <b>Sharp</b> = their net money on one side is at least the amount in Settings. Each Polymarket market is paired with the same outcome on Kalshi (Senate/House control, balance of power, every Senate, governor and House race by party or candidate, 2028 nominations and presidency, French 2027), and Polymarket's price becomes the fair chance. <b>Value</b> = Kalshi is cheaper than that by your value threshold after Kalshi's fee. Top traders can be wrong, hedged or market-making, and the two sites' rules can differ (for example Kalshi's chamber-control markets settle on who controls Congress on Feb 1, 2027), so open both rule pages before betting. Political bets are tracked separately with their own results.</p>
+    <p><b>Politics &amp; more.</b> Every non-sports bet that both Kalshi and Polymarket offer: elections and politics, mention markets (what Trump, Vance, CEOs and others will say), culture (awards, Rotten Tomatoes, Steam, celebrity), economy and companies, tech and science, and weather. Elections are paired by fixed rules (party/candidate races, chamber control, House seats, 2028 nominations). Everything else is matched automatically: same question, same deadline, and the same outcome label, number or person; matches whose wording or data source differ (word lists, weather stations) are marked ⚠ and never called value, and auto-matched gaps over 6 points show as CHECK WORDING because they usually mean the questions differ. Polymarket's price is the fair chance; <b>Value</b> = Kalshi is cheaper by your threshold after Kalshi's fee. <b>Sharp</b> = net money from Polymarket's most profitable traders in that category (leaderboards for politics, mentions, culture, weather, economics, tech, finance and crypto; open positions of $100+) reaches the amount in Settings. Top traders can be wrong, hedged or market-making, and rules can differ (Kalshi's chamber-control markets settle on Feb 1, 2027), so open both rule pages before betting. These bets are tracked separately with their own results.</p>
     <p><b>Sharp money.</b> Positions held by Polymarket's most profitable sports bettors (verified profit, month + all time), big Kalshi bets ($250+) in the last 24 hours, and DraftKings line movement since open. Tap any leg in your slip to see the details, injuries and news.</p>
     <p><b>Parlays.</b> All legs must win. The slip multiplies the leg prices; Kalshi's own combo price can be different, so compare before buying. Legs from the same game are linked (one result affects the other), so their combined odds are less reliable.</p>
     <details><summary class="kick2" style="cursor:pointer">Settings</summary><div class="setg">
@@ -1596,7 +1597,7 @@ setInterval(()=>{if(S.win){const l=Math.max(0,Math.round((S.win.end-Date.now())/
      <label style="display:flex;align-items:center;gap:6px"><input id="spOP" type="checkbox"> Price player props with sportsbooks via Odds API (uses about 1 Odds API request per game per prop type, games in the next 12 hours)</label>
      <label style="display:flex;align-items:center;gap:6px"><input id="spVeto" type="checkbox" checked> Never call a leg "value" when sharp signals are against it</label>
      <label>Optional Odds API key (the-odds-api.com)<input id="spKey" type="password" autocomplete="off" placeholder="optional"></label>
-     <label>Politics: top traders' net $ that counts<input id="polNet" type="number" step="1000" min="1000" value="5000"></label>
+     <label>Politics &amp; more: top traders' net $ that counts<input id="polNet" type="number" step="1000" min="1000" value="5000"></label>
      <label>Kalshi fee rate<input id="spFee" type="number" step="0.005" min="0" value="0.07"></label>
     </div></details>
    </div></div>
@@ -1827,9 +1828,11 @@ for(const l of legs){if(l.edge==null)continue;const sv=cfg.sharpVeto||5000;
   l.ok=l.edge>=(cfg.edge??2)&&l.nSrc>=need&&l.spread*100<=(cfg.agree??4)&&(!cfg.useVeto||!l.flags.length);}
 return{legs,games,unmatched,notes,leaders:leaders.length,nPicks,slowed:k429};}
 if(typeof module!=="undefined")module.exports={sportsEngine};
-/* RIPTIDE politics engine. Finds political bets where (a) Polymarket's most profitable politics traders hold big positions and/or
-   (b) Kalshi is cheaper than Polymarket for the same outcome. Pairs come from politics/map.json (rule-based, built by
-   lab/politics/map.mjs: Polymarket "Yes" = Kalshi YES). io = {kalshi(url)->json, json(url)->json}. Paper picks only. */
+/* RIPTIDE cross-market engine (Politics & more tab). Finds non-sports bets where (a) Polymarket's most profitable traders in that
+   category (politics, mentions, culture, weather, economics, tech, finance, crypto) hold big positions and/or (b) Kalshi is cheaper
+   than Polymarket for the same outcome. Pairs come from xmarkets/map.json (built by lab/xmarkets/build.mjs; Polymarket "Yes" =
+   Kalshi YES; "rule" pairs are election rules, "auto" pairs come from the generic matcher, "loose" = wording/data source may differ).
+   io = {kalshi(url)->json, json(url)->json}. Paper picks only. */
 async function politicsEngine(cfg,io){
 const KX="https://api.elections.kalshi.com/trade-api/v2",GAMMA="https://gamma-api.polymarket.com",DATA="https://data-api.polymarket.com";
 const notes=[],feeC=a=>(cfg.fee??.07)*a*(100-a)/100,minPos=cfg.minPos??100,minNet=cfg.minNet??5000;
@@ -1842,14 +1845,17 @@ const batch=async(arr,n,fn)=>{const out=[];for(let i=0;i<arr.length;i+=n)out.pus
 let pairs=[];try{const m=await io.json(cfg.mapUrl);pairs=m.pairs||[];if(m.at&&Date.now()-Date.parse(m.at)>4*86400e3)notes.push("market map is "+Math.round((Date.now()-Date.parse(m.at))/86400e3)+" days old");}catch(e){notes.push("market map: "+e.message);}
 const pairBy=new Map(pairs.map(p=>[p.pm,p]));
 // ---- 2) top politics traders (verified profit, month + all time) and their open positions
-let leaders=[];try{const seen=new Set();for(const tp of["MONTH","ALL"]){const a=await io.json(`${DATA}/v1/leaderboard?category=POLITICS&timePeriod=${tp}&orderBy=PNL&limit=50`);
-  a.forEach(u=>{if(!seen.has(u.proxyWallet)){seen.add(u.proxyWallet);leaders.push({...u,tp});}});}}catch(e){notes.push("Polymarket leaderboard: "+e.message);}
+const BOARDS=cfg.boards||[["POLITICS","Politics",50,["MONTH","ALL"]],["MENTIONS","Mentions",25,["MONTH","ALL"]],["CULTURE","Culture",25,["MONTH"]],["WEATHER","Weather",25,["MONTH"]],["ECONOMICS","Economics",25,["MONTH"]],["TECH","Tech",25,["MONTH"]],["FINANCE","Finance",25,["MONTH"]],["CRYPTO","Crypto",20,["MONTH"]]];
+let leaders=[];const lbBy=new Map();
+await batch(BOARDS.flatMap(([c,lab,n,tps])=>tps.map(tp=>[c,lab,n,tp])),4,async([c,lab,n,tp])=>{const a=await pj(`${DATA}/v1/leaderboard?category=${c}&timePeriod=${tp}&orderBy=PNL&limit=${n}`);
+  for(const u of a||[]){const x=lbBy.get(u.proxyWallet);const tag=`${lab} #${u.rank}${tp==="ALL"?" all-time":""}`;if(x){if(!x.cats.includes(lab))x.cats.push(lab);x.tags.push(tag);}else lbBy.set(u.proxyWallet,{...u,cats:[lab],tags:[tag]});}});
+leaders=[...lbBy.values()];if(!leaders.length)notes.push("Polymarket leaderboards didn't load");
 const agg=new Map();
 const pos=await batch(leaders,8,u=>pj(`${DATA}/positions?user=${u.proxyWallet}&limit=500&sizeThreshold=1`).then(ps=>[u,ps]));
 for(const r of pos){if(!r)continue;const[u,ps]=r;const name=u.userName||u.proxyWallet.slice(0,8);
   for(const p of ps||[]){if(p.redeemable||!(p.outcome==="Yes"||p.outcome==="No"))continue;const v=+p.currentValue||0;if(v<minPos||!(p.curPrice>.02&&p.curPrice<.98))continue;
     const a=agg.get(p.slug)||{slug:p.slug,q:p.title,ev:p.eventSlug,end:p.endDate,yes:{v:0,who:[]},no:{v:0,who:[]}};const s=p.outcome==="Yes"?a.yes:a.no;
-    s.v+=v;s.who.push({n:name,v,avg:+p.avgPrice||null,pnl:+u.pnl||0});a.pmYes=p.outcome==="Yes"?p.curPrice:1-p.curPrice;agg.set(p.slug,a);}}
+    s.v+=v;s.who.push({n:name,v,avg:+p.avgPrice||null,pnl:+u.pnl||0,tag:u.tags[0],cats:u.cats});(a.cats??={});for(const c of u.cats)a.cats[c]=(a.cats[c]||0)+v;a.pmYes=p.outcome==="Yes"?p.curPrice:1-p.curPrice;agg.set(p.slug,a);}}
 for(const a of agg.values())for(const s of[a.yes,a.no])s.who.sort((x,y)=>y.v-x.v);
 // ---- 3) which markets to price: every mapped pair + every market with meaningful sharp money
 const sharpSlugs=[...agg.values()].filter(a=>Math.abs(a.yes.v-a.no.v)>=minNet).map(a=>a.slug);
@@ -1867,7 +1873,7 @@ await batch(Array.from({length:Math.ceil(tick.length/50)},(_,i)=>tick.slice(i*50
 const rows=[];
 for(const s of slugs){const p=pm.get(s);if(!p||p.closed||p.yes==null||!(p.yes>.02&&p.yes<.98))continue;const a=agg.get(s),pr=pairBy.get(s),k=pr&&kx.get(pr.kx);
   const net=a?a.yes.v-a.no.v:0,sharpSide=Math.abs(net)>=minNet?(net>0?"yes":"no"):null;
-  const r={slug:s,q:p.q||a?.q||pr?.q,ev:p.ev||a?.ev,end:Date.parse(p.end||a?.end||"")||null,pmYes:p.yes,pmSpread:p.spread,pmVol:p.vol,sharp:a?{yes:a.yes,no:a.no,net,side:sharpSide}:null,pair:pr||null,k:null,best:null};
+  const r={cat:pr?.cat||"Polymarket only",auto:pr?.rule==="auto",loose:!!pr?.loose,how:pr?.how||null,pOpt:pr?.pOpt||null,slug:s,q:p.q||a?.q||pr?.q,ev:p.ev||a?.ev,end:Date.parse(p.end||a?.end||"")||null,pmYes:p.yes,pmSpread:p.spread,pmVol:p.vol,sharp:a?{yes:a.yes,no:a.no,net,side:sharpSide}:null,pair:pr||null,k:null,best:null};
   if(k&&k.status==="active"){const sides=[];
     if(k.ya>0&&k.ya<100)sides.push({side:"yes",ask:k.ya,fair:p.yes,edge:p.yes*100-(k.ya+feeC(k.ya))});
     if(k.na>0&&k.na<100)sides.push({side:"no",ask:k.na,fair:1-p.yes,edge:(1-p.yes)*100-(k.na+feeC(k.na))});
@@ -1875,15 +1881,18 @@ for(const s of slugs){const p=pm.get(s);if(!p||p.closed||p.yes==null||!(p.yes>.0
     r.best=sides.sort((x,y)=>y.edge-x.edge)[0]||null;
     if(sharpSide)r.sharpLeg=sides.find(x=>x.side===sharpSide)||null;}
   // verdict
-  const E=cfg.edge??2,maxGap=cfg.maxGap??6;const thin=r.k&&r.k.gap!=null&&r.k.gap>maxGap,ok=l=>l&&l.edge>=E&&l.ask>=5&&l.ask<=95&&!thin; // 1–4¢ longshots: a few tenths of a cent of fair price is noise
-  if(ok(r.sharpLeg))r.verdict="SHARP+VALUE";
+  const E=cfg.edge??2,maxGap=cfg.maxGap??6;const pmThin=p.spread==null||p.spread>(cfg.pmMaxSpread??.06); // a wide Polymarket market gives no reliable fair price
+  const thin=r.k&&r.k.gap!=null&&r.k.gap>maxGap,ok=l=>l&&l.edge>=E&&l.ask>=5&&l.ask<=95&&!thin&&!pmThin; // 1–4¢ longshots: a few tenths of a cent of fair price is noise
+  const big=l=>l&&r.auto&&l.edge>6; // a 6+ point gap between auto-matched markets usually means the questions differ
+  if((r.loose||big(r.sharpLeg)||big(r.best))&&(ok(r.sharpLeg)||ok(r.best)))r.verdict="CHECK WORDING"; // looks cheap, but the two markets' wording or data source differ
+  else if(ok(r.sharpLeg))r.verdict="SHARP+VALUE";
   else if(ok(r.best))r.verdict=sharpSide&&sharpSide!==r.best.side?"VALUE vs SHARPS":"VALUE";
   else if(sharpSide&&r.k)r.verdict="SHARP";
   else if(sharpSide)r.verdict="SHARP · no Kalshi match";
   else if(r.k)r.verdict="FAIR";
   else continue;
-  r.thin=thin;rows.push(r);}
-const rank={"SHARP+VALUE":0,"VALUE":1,"SHARP":2,"VALUE vs SHARPS":3,"SHARP · no Kalshi match":4,"FAIR":5};
+  r.thin=thin;r.pmThin=pmThin;rows.push(r);}
+const rank={"SHARP+VALUE":0,"VALUE":1,"SHARP":2,"VALUE vs SHARPS":3,"CHECK WORDING":4,"SHARP · no Kalshi match":5,"FAIR":6};
 rows.sort((a,b)=>rank[a.verdict]-rank[b.verdict]||((b.sharpLeg?.edge??b.best?.edge??-99)-(a.sharpLeg?.edge??a.best?.edge??-99))||Math.abs(b.sharp?.net||0)-Math.abs(a.sharp?.net||0));
 return{rows,leaders:leaders.length,pairs:pairs.length,priced:rows.filter(r=>r.k).length,notes,slowed:k429};}
 (()=>{
@@ -2039,39 +2048,43 @@ g("spCheck").onclick=async()=>{const op=(st.hist||[]).filter(x=>!x.res),tick=[..
   try{for(let i=0;i<tick.length;i+=50){const d=await kget(`https://api.elections.kalshi.com/trade-api/v2/markets?tickers=${tick.slice(i,i+50).join(",")}&limit=100`);for(const m of d.markets||[])M[m.ticker]=m;}}catch(e){g("spRec").textContent="Could not reach Kalshi: "+e.message;return;}
   for(const x of op){for(const l of x.legs){const m=M[l.ticker];if(m&&(m.result==="yes"||m.result==="no"))l.res=m.result;}if(x.legs.some(l=>l.res&&l.res!==l.side))x.res="LOSS";else if(x.legs.every(l=>l.res===l.side))x.res="WIN";}save();renderHist();};
 function renderAll(){if(tab==="lines")renderLines();if(tab==="props")renderProps();renderSlip();}
-// ---- Politics tab: Polymarket's top politics traders + Kalshi vs Polymarket price gaps (paper only) ----
-let PR=null,polBusy=false,polLast=0,polView="edge";st.pol=Array.isArray(st.pol)?st.pol:[];
-const MAPURL="https://raw.githubusercontent.com/Btang92/riptide/main/politics/map.json";
+// ---- Politics & more tab: Polymarket's top traders by category + Kalshi vs Polymarket price gaps on every matched non-sports market (paper only) ----
+let PR=null,polBusy=false,polLast=0,polView="edge",polCat="All";st.pol=Array.isArray(st.pol)?st.pol:[];
+const MAPURL="https://raw.githubusercontent.com/Btang92/riptide/main/xmarkets/map.json";
+const CATS={"Elections":"Elections","Politics":"Politics","Mentions":"Mentions","Entertainment":"Culture","Culture":"Culture","Social":"Culture","Climate and Weather":"Weather","Weather":"Weather","Economics":"Economy & business","Financials":"Economy & business","Companies":"Economy & business","Finance":"Economy & business","Crypto":"Economy & business","Commodities":"Economy & business","Science and Technology":"Tech & science","Tech":"Tech & science","AI":"Tech & science","Health":"Tech & science"};const catOf=r=>r.cat==="Polymarket only"?"Polymarket only":CATS[r.cat]||"World & other";
 const kUrl=t=>`https://kalshi.com/markets/${String(t||"").split("-")[0].toLowerCase()}`,pUrl=r=>`https://polymarket.com/event/${encodeURIComponent(r.ev||r.slug)}`;
-const cls={"SHARP+VALUE":"v","VALUE":"v","SHARP":"f","VALUE vs SHARPS":"x","SHARP · no Kalshi match":"n","FAIR":"n"};
+const cls={"SHARP+VALUE":"v","VALUE":"v","SHARP":"f","VALUE vs SHARPS":"x","CHECK WORDING":"x","SHARP · no Kalshi match":"n","FAIR":"n"};
 const sideLbl=(r,s)=>s==="yes"?"YES":"NO";const m$=x=>x>=1e6?"$"+(x/1e6).toFixed(2)+"M":k$(x);
 async function polScan(){if(polBusy)return;if(PR&&Date.now()-polLast<120000){g("polStatus").insertAdjacentHTML("afterbegin",`<b>Under 2 minutes old; refresh again in ${Math.ceil((120000-(Date.now()-polLast))/1000)}s. </b>`);return;}
-  polBusy=true;polLast=Date.now();g("polScan").disabled=true;g("polStatus").textContent="Loading Polymarket's top politics traders, Polymarket prices and Kalshi prices… (about 15 seconds)";
+  polBusy=true;polLast=Date.now();g("polScan").disabled=true;g("polStatus").textContent="Loading Polymarket's top traders (politics, mentions, culture, weather, economy, tech, crypto), Polymarket prices and Kalshi prices… (about 40 seconds)";
   try{PR=await politicsEngine({mapUrl:MAPURL+"?t="+Date.now(),fee:st.fee,edge:st.edge,minNet:st.polNet||5000,maxGap:6},{kalshi:kget,json:jget});}
   catch(e){g("polStatus").textContent="Could not load politics: "+e.message;PR=null;polLast=0;}
   polBusy=false;g("polScan").disabled=false;if(!PR)return;
   // closing-line: keep the latest Kalshi price for tracked bets
   const byT=new Map(PR.rows.filter(r=>r.k).map(r=>[r.k.ticker,r]));for(const b of st.pol){const r=byT.get(b.ticker);if(r&&!b.res){const s=r.k.sides.find(x=>x.side===b.side);if(s)b.now={ask:s.ask,fair:+s.fair.toFixed(4),at:Date.now()};}}save();
   const c=v=>PR.rows.filter(r=>r.verdict===v).length;
-  g("polStatus").innerHTML=`Updated ${new Date().toLocaleTimeString()} · ${PR.leaders} top politics traders tracked · ${PR.priced} Kalshi markets matched to Polymarket · <b class="${c("SHARP+VALUE")?"pos":""}">${c("SHARP+VALUE")} sharp + value</b> · ${c("VALUE")} value · ${c("SHARP")} sharp-backed`+(PR.notes.length?` · <span class="neg">${E(PR.notes.slice(0,3).join(" · "))}</span>`:"");
+  g("polStatus").innerHTML=`Updated ${new Date().toLocaleTimeString()} · ${PR.leaders} top Polymarket traders tracked · ${PR.priced} Kalshi markets matched to Polymarket · <b class="${c("SHARP+VALUE")?"pos":""}">${c("SHARP+VALUE")} sharp + value</b> · ${c("VALUE")} value · ${c("SHARP")} sharp-backed`+(PR.notes.length?` · <span class="neg">${E(PR.notes.slice(0,3).join(" · "))}</span>`:"");
   renderPol();}
 function polCard(r){const sh=r.sharp,ss=sh&&sh.side,lg=r.sharpLeg||r.best;
-  const who=s=>s.who.slice(0,4).map(w=>`${E(w.n)} ${m$(w.v)}${w.avg?` @${Math.round(w.avg*100)}¢`:""}`).join(", ")+(s.who.length>4?` +${s.who.length-4} more`:"");
-  const sharpTxt=sh&&(sh.yes.v||sh.no.v)?`<li><b>Top politics traders:</b> YES ${m$(sh.yes.v)} (${sh.yes.who.length}) · NO ${m$(sh.no.v)} (${sh.no.who.length})${ss?` → net <b>${m$(Math.abs(sh.net))} on ${ss.toUpperCase()}</b>`:" → no clear side"}${sh[ss||"yes"].who.length?`<br><span class="note">${who(sh[ss||(sh.yes.v>=sh.no.v?"yes":"no")])}</span>`:""}</li>`:"";
-  const k=r.k;const kTxt=k?`<li><b>Kalshi:</b> YES ${k.ya}¢ · NO ${k.na}¢${k.gap!=null?` · spread ${k.gap}¢`:""}${r.thin?' <span class="neg">(thin market)</span>':""} · ${E(k.kTitle)}${k.kOpt?` → <b>${E(k.kOpt)}</b>`:""}</li>`:`<li class="note">No matching Kalshi market found, so this is Polymarket-only information.</li>`;
+  const who=s=>s.who.slice(0,4).map(w=>`${E(w.n)} <span title="Polymarket leaderboard">(${E(w.tag||"")})</span> ${m$(w.v)}${w.avg?` @${Math.round(w.avg*100)}¢`:""}`).join(", ")+(s.who.length>4?` +${s.who.length-4} more`:"");
+  const sharpTxt=sh&&(sh.yes.v||sh.no.v)?`<li><b>Top Polymarket traders:</b> YES ${m$(sh.yes.v)} (${sh.yes.who.length}) · NO ${m$(sh.no.v)} (${sh.no.who.length})${ss?` → net <b>${m$(Math.abs(sh.net))} on ${ss.toUpperCase()}</b>`:" → no clear side"}${sh[ss||"yes"].who.length?`<br><span class="note">${who(sh[ss||(sh.yes.v>=sh.no.v?"yes":"no")])}</span>`:""}</li>`:"";
+  const k=r.k;const match=r.k&&r.auto?`<li class="note">${r.loose?"⚠ Matched automatically and the wording or data source differs (e.g. a different weather station or word list), so the prices aren't directly comparable. ":"Matched automatically ("+E(r.how||"")+"). "}Open both rule pages before betting.</li>`:"";
+  const kTxt=k?`<li><b>Kalshi:</b> YES ${k.ya}¢ · NO ${k.na}¢${k.gap!=null?` · spread ${k.gap}¢`:""}${r.thin?' <span class="neg">(thin market)</span>':""} · ${E(k.kTitle)}${k.kOpt?` → <b>${E(k.kOpt)}</b>`:""}</li>`:`<li class="note">No matching Kalshi market found, so this is Polymarket-only information.</li>`;
   const buy=lg&&k?`<li><b>Bet:</b> buy <b>${sideLbl(r,lg.side)}</b> on Kalshi at ${lg.ask}¢ (${amer(lg.ask/100)}) · fair ${pct(lg.fair)} from Polymarket · edge <b class="${lg.edge>=0?"pos":"neg"}">${lg.edge>0?"+":""}${lg.edge.toFixed(1)}</b> pts after fee${r.sharpLeg&&r.best&&r.best.side!==r.sharpLeg.side?` <span class="note">(other side's edge ${r.best.edge.toFixed(1)})</span>`:""}</li>`:"";
   const tracked=k&&lg&&st.pol.some(b=>b.ticker===k.ticker&&b.side===lg.side&&!b.res);
-  return`<div class="gm pc"><div class="gm-h"><div style="min-width:0"><span class="tag ${cls[r.verdict]}">${E(r.verdict)}</span> <b>${E(r.q)}</b><div class="note">${r.end?"Polymarket ends "+new Date(r.end).toLocaleDateString([],{month:"short",day:"numeric",year:"numeric"})+" · ":""}Polymarket YES ${pct(r.pmYes)}${r.pmSpread!=null?` (spread ${Math.round(r.pmSpread*100)}¢)`:""} · <a href="${pUrl(r)}" target="_blank" rel="noopener">Polymarket</a>${k?` · <a href="${kUrl(k.ticker)}" target="_blank" rel="noopener">Kalshi</a>`:""}</div></div>${k&&lg?`<button class="polT" data-t="${E(k.ticker)}" data-s="${lg.side}" ${tracked?"disabled":""}>${tracked?"Tracking":"Track (paper)"}</button>`:""}</div>
-   <ul>${buy}${kTxt}${sharpTxt}</ul></div>`;}
-function renderPol(){const out=g("polOut");if(!PR){out.innerHTML=`<div class="box note">Tap <b>Load politics</b>. RIPTIDE pulls the open positions of Polymarket's 50 most profitable politics traders this month and all time, then prices the same outcomes on Kalshi.</div>`;renderPolHist();return;}
-  let rows=PR.rows;const q=(g("polQ").value||"").trim().toLowerCase();if(q)rows=rows.filter(r=>(r.q||"").toLowerCase().includes(q)||(r.k?.kTitle||"").toLowerCase().includes(q));
+  return`<div class="gm pc"><div class="gm-h"><div style="min-width:0"><span class="tag ${cls[r.verdict]}">${E(r.verdict)}</span> <span class="tag n">${E(catOf(r))}</span> <b>${E(r.q)}</b><div class="note">${r.end?"Polymarket ends "+new Date(r.end).toLocaleDateString([],{month:"short",day:"numeric",year:"numeric"})+" · ":""}Polymarket YES ${pct(r.pmYes)}${r.pmSpread!=null?` (spread ${Math.round(r.pmSpread*100)}¢)`:""}${r.pmThin&&r.k?' <span class="neg">(thin Polymarket market, so no value call)</span>':""} · <a href="${pUrl(r)}" target="_blank" rel="noopener">Polymarket</a>${k?` · <a href="${kUrl(k.ticker)}" target="_blank" rel="noopener">Kalshi</a>`:""}</div></div>${k&&lg?`<button class="polT" data-t="${E(k.ticker)}" data-s="${lg.side}" ${tracked?"disabled":""}>${tracked?"Tracking":"Track (paper)"}</button>`:""}</div>
+   <ul>${buy}${kTxt}${match}${sharpTxt}</ul></div>`;}
+function renderPol(){const out=g("polOut");if(!PR){out.innerHTML=`<div class="box note">Tap <b>Load markets</b>. RIPTIDE pulls the open positions of Polymarket's most profitable traders in politics, mentions (what Trump and others will say), culture, weather, economy, tech and crypto, then prices every outcome that both Kalshi and Polymarket offer.</div>`;renderPolHist();return;}
+  renderPolCats();let rows=PR.rows.filter(r=>polCat==="All"||catOf(r)===polCat);const q=(g("polQ").value||"").trim().toLowerCase();if(q)rows=rows.filter(r=>(r.q||"").toLowerCase().includes(q)||(r.k?.kTitle||"").toLowerCase().includes(q));
   if(polView==="edge")rows=rows.filter(r=>/VALUE/.test(r.verdict));else if(polView==="sharp")rows=rows.filter(r=>r.sharp&&r.sharp.side).sort((a,b)=>Math.abs(b.sharp.net)-Math.abs(a.sharp.net));else if(polView==="soon")rows=rows.filter(r=>r.k&&r.end&&r.end-Date.now()<14*86400e3&&r.end>Date.now()).sort((a,b)=>(b.sharpLeg?.edge??b.best?.edge??-99)-(a.sharpLeg?.edge??a.best?.edge??-99));
-  out.innerHTML=rows.length?rows.slice(0,150).map(polCard).join("")+(rows.length>150?`<div class="note">Showing 150 of ${rows.length}. Use search to narrow.</div>`:""):`<div class="box note">Nothing here right now${polView==="edge"?": no Kalshi political market is cheaper than Polymarket by your value threshold. Try “Sharp money” to see where the top traders are positioned.":"."}</div>`;
+  out.innerHTML=rows.length?rows.slice(0,150).map(polCard).join("")+(rows.length>150?`<div class="note">Showing 150 of ${rows.length}. Use search to narrow.</div>`:""):`<div class="box note">Nothing here right now${polView==="edge"?": no matched Kalshi market is cheaper than Polymarket by your value threshold. Try “Sharp money” to see where the top traders are positioned.":"."}</div>`;
   renderPolHist();}
+function renderPolCats(){if(!PR)return;const n={};for(const r of PR.rows){const c=catOf(r);n[c]=(n[c]||0)+1;}const cs=["All",...["Elections","Politics","Mentions","Culture","Economy & business","Tech & science","Weather","World & other","Polymarket only"].filter(c=>n[c])];
+  g("polCats").innerHTML=cs.map(c=>`<button data-c="${E(c)}" data-on="${c===polCat}">${E(c)}${c==="All"?"":` <small>${n[c]}</small>`}</button>`).join("");}
 function renderPolHist(){const h=st.pol;const el=g("polHist");if(!h.length){el.innerHTML=`<div class="note">No tracked political bets yet. Tap “Track (paper)” on any card; RIPTIDE keeps the latest Kalshi price until it settles, so you can see whether the price moved your way.</div>`;return;}
   const done=h.filter(b=>b.res),w=done.filter(b=>b.res===b.side).length,clv=h.filter(b=>b.now).map(b=>b.now.ask-b.ask);
   el.innerHTML=`<div class="note" style="margin-bottom:6px">${done.length?`Settled ${w}-${done.length-w}, ${done.reduce((a,b)=>a+(b.res===b.side?100-b.ask:-b.ask)-b.fee,0).toFixed(0)}¢ per contract total · `:""}${clv.length?`Price moved ${clv.filter(x=>x>0).length} for / ${clv.filter(x=>x<0).length} against (avg ${(clv.reduce((a,b)=>a+b,0)/clv.length).toFixed(1)}¢)`:""}</div><div class="scroll"><table><thead><tr><th>Tracked</th><th>Bet</th><th>Price</th><th>Fair then</th><th>Now</th><th>Result</th><th></th></tr></thead><tbody>${h.map((b,i)=>`<tr><td>${new Date(b.at).toLocaleDateString([],{month:"short",day:"numeric"})}</td><td>${b.side.toUpperCase()} · ${E(b.q)}${b.opt?` <span class="note">(${E(b.opt)})</span>`:""}${b.sharp?` <span class="note">· sharps ${b.sharp}</span>`:""}</td><td>${b.ask}¢</td><td>${pct(b.fair)}</td><td>${b.now?`${b.now.ask}¢ <span class="${b.now.ask>b.ask?"pos":b.now.ask<b.ask?"neg":""}">${b.now.ask>b.ask?"+":""}${b.now.ask-b.ask}</span>`:"–"}</td><td>${b.res?`<b class="${b.res===b.side?"pos":"neg"}">${b.res===b.side?"WIN":"LOSS"}</b>`:"open"}</td><td><button class="polX" data-i="${i}" title="remove">×</button></td></tr>`).join("")}</tbody></table></div>`;}
-g("polScan").onclick=polScan;g("polQ").oninput=()=>renderPol();
+g("polScan").onclick=polScan;g("polCats").onclick=e=>{const b=e.target.closest("button[data-c]");if(!b)return;polCat=b.dataset.c;renderPol();};g("polQ").oninput=()=>renderPol();
 g("polViews").onclick=e=>{const b=e.target.closest("button[data-v]");if(!b)return;polView=b.dataset.v;for(const x of g("polViews").querySelectorAll("button"))x.dataset.on=x.dataset.v===polView;renderPol();};
 g("polOut").onclick=e=>{const b=e.target.closest("button.polT");if(!b||!PR)return;const r=PR.rows.find(x=>x.k&&x.k.ticker===b.dataset.t);if(!r)return;const s=r.k.sides.find(x=>x.side===b.dataset.s);if(!s)return;
   st.pol.unshift({at:Date.now(),ticker:r.k.ticker,side:s.side,ask:s.ask,fee:+((st.fee??.07)*s.ask*(100-s.ask)/100).toFixed(2),fair:+s.fair.toFixed(4),edge:+s.edge.toFixed(1),q:r.q,opt:r.k.kOpt,sharp:r.sharp&&r.sharp.side?`${k$(Math.abs(r.sharp.net))} ${r.sharp.side.toUpperCase()}`:null,verdict:r.verdict});save();renderPol();};
