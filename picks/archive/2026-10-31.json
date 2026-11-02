@@ -11,7 +11,9 @@
    "line": -5.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "Portland's offense should exploit a thin Utah frontcourt; Utah lost three straight"
+   "note": "Portland's offense should exploit a thin Utah frontcourt; Utah lost three straight",
+   "result": "win",
+   "final": "POR 112 - UTA 90"
   },
   {
    "league": "NBA",
@@ -23,7 +25,9 @@
    "line": -1.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "Healthy 76ers defense vs Charlotte's last-ranked offensive rating"
+   "note": "Healthy 76ers defense vs Charlotte's last-ranked offensive rating",
+   "result": "win",
+   "final": "PHI 109 - CHA 104"
   },
   {
    "league": "NBA",
@@ -35,7 +39,9 @@
    "line": 4.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "New Orleans can attack the paint vs an Atlanta D that allows many interior points"
+   "note": "New Orleans can attack the paint vs an Atlanta D that allows many interior points",
+   "result": "win",
+   "final": "ATL 99 - NO 121"
   },
   {
    "league": "NBA",
@@ -47,7 +53,9 @@
    "line": -10.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "Winless Sacramento ranks poorly on both ends; Memphis strong on both"
+   "note": "Winless Sacramento ranks poorly on both ends; Memphis strong on both",
+   "result": "win",
+   "final": "SAC 105 - MEM 136"
   },
   {
    "league": "NBA",
@@ -59,7 +67,9 @@
    "line": 9.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "Cleveland rarely covers double-digit road spreads"
+   "note": "Cleveland rarely covers double-digit road spreads",
+   "result": "loss",
+   "final": "CLE 136 - MIL 111"
   },
   {
    "league": "NBA",
@@ -71,7 +81,9 @@
    "line": 11.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "Minnesota's defense should keep it competitive despite Edwards' absence"
+   "note": "Minnesota's defense should keep it competitive despite Edwards' absence",
+   "result": "win",
+   "final": "MIN 111 - SA 121"
   },
   {
    "league": "NBA",
@@ -83,7 +95,9 @@
    "line": -4.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-oct-31-2026",
-   "note": "OKC missing several key players; Houston's depth the difference"
+   "note": "OKC missing several key players; Houston's depth the difference",
+   "result": "win",
+   "final": "OKC 98 - HOU 119"
   },
   {
    "league": "NBA",
@@ -95,7 +109,9 @@
    "line": 10.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 56% cover probability, top play on the slate"
+   "note": "Model: 56% cover probability, top play on the slate",
+   "result": "loss",
+   "final": "SAC 105 - MEM 136"
   },
   {
    "league": "NBA",
@@ -107,7 +123,9 @@
    "line": 11.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 57% cover probability"
+   "note": "Model: 57% cover probability",
+   "result": "win",
+   "final": "MIN 111 - SA 121"
   },
   {
    "league": "NBA",
@@ -119,7 +137,9 @@
    "line": 8.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 54.8% cover probability"
+   "note": "Model: 54.8% cover probability",
+   "result": "loss",
+   "final": "CLE 136 - MIL 111"
   },
   {
    "league": "NBA",
@@ -130,7 +150,9 @@
    "team": "Philadelphia 76ers",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 57.6% win probability"
+   "note": "Model: 57.6% win probability",
+   "result": "win",
+   "final": "PHI 109 - CHA 104"
   },
   {
    "league": "NBA",
@@ -142,7 +164,9 @@
    "side": "under",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 52.4% under probability"
+   "note": "Model: 52.4% under probability",
+   "result": "win",
+   "final": "ATL 99 - NO 121 (total 220)"
   },
   {
    "league": "NBA",
@@ -153,7 +177,9 @@
    "team": "Portland Trail Blazers",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 72.3% win probability"
+   "note": "Model: 72.3% win probability",
+   "result": "win",
+   "final": "POR 112 - UTA 90"
   },
   {
    "league": "NBA",
@@ -165,7 +191,9 @@
    "line": 3.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-10-31-2026-ac",
-   "note": "Model: 54.4% cover probability"
+   "note": "Model: 54.4% cover probability",
+   "result": "win",
+   "final": "ATL 99 - NO 121"
   },
   {
    "league": "NBA",
@@ -179,7 +207,9 @@
    "stat": "points",
    "source": "Action Network staff (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/hawks-vs-pelicans-prediction-pick-135607766.html",
-   "note": "Bigger role with Missi and Poole out; projected 8.7 points"
+   "note": "Bigger role with Missi and Poole out; projected 8.7 points",
+   "result": "win",
+   "final": "Herbert Jones 11 pts"
   },
   {
    "league": "NBA",
@@ -193,7 +223,9 @@
    "stat": "rebounds",
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/nba/news/nba-player-props-10-31-2026-ac",
-   "note": "Model projects 4.9 rebounds (67%)"
+   "note": "Model projects 4.9 rebounds (67%)",
+   "result": "win",
+   "final": "Aday Mara 9 reb"
   },
   {
    "league": "NBA",
@@ -207,7 +239,9 @@
    "stat": "assists",
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/nba/news/nba-player-props-10-31-2026-ac",
-   "note": "Model projects 6.4 assists (65%)"
+   "note": "Model projects 6.4 assists (65%)",
+   "result": "win",
+   "final": "Domantas Sabonis 8 ast"
   },
   {
    "league": "NHL",
@@ -221,7 +255,9 @@
    "stat": "shots",
    "source": "Covers / Todd Cordell",
    "url": "https://www.covers.com/nhl/best-bets-oct-31-2026",
-   "note": "Leads NHL blueliners in shot attempts and shots on goal"
+   "note": "Leads NHL blueliners in shot attempts and shots on goal",
+   "result": "loss",
+   "final": "Matthew Schaefer 2 SOG"
   },
   {
    "league": "NHL",
@@ -235,7 +271,9 @@
    "stat": "shots",
    "source": "Covers / Todd Cordell",
    "url": "https://www.covers.com/nhl/best-bets-oct-31-2026",
-   "note": "Vancouver last in shots allowed at 5v5 and on the PK"
+   "note": "Vancouver last in shots allowed at 5v5 and on the PK",
+   "result": "loss",
+   "final": "William Nylander 2 SOG"
   },
   {
    "league": "NHL",
@@ -249,7 +287,9 @@
    "stat": "points",
    "source": "Covers / Todd Cordell",
    "url": "https://www.covers.com/nhl/best-bets-oct-31-2026",
-   "note": "Quinn has a point in 62% of games; Kings weak in xGA"
+   "note": "Quinn has a point in 62% of games; Kings weak in xGA",
+   "result": "win",
+   "final": "Jack Quinn 1G 1A (2 pts); BUF 3 - LA 2"
   },
   {
    "league": "NHL",
@@ -261,7 +301,9 @@
    "line": -1.5,
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nhl/blackhawks-vs-bruins-prediction-picks-oct-31-2026",
-   "note": "Chicago 30th in 5v5 CF% and xG%; expects a convincing Boston win"
+   "note": "Chicago 30th in 5v5 CF% and xG%; expects a convincing Boston win",
+   "result": "loss",
+   "final": "CHI 4 - BOS 5 (OT)"
   },
   {
    "league": "NHL",
@@ -273,7 +315,9 @@
    "side": "under",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nhl/blackhawks-vs-bruins-prediction-picks-oct-31-2026",
-   "note": "Chicago's offensive struggles plus Boston goaltending"
+   "note": "Chicago's offensive struggles plus Boston goaltending",
+   "result": "loss",
+   "final": "CHI 4 - BOS 5 (OT), total 9"
   },
   {
    "league": "NHL",
@@ -285,7 +329,9 @@
    "line": -1.5,
    "source": "Pickswise / Ryan Hodges",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-october-31-picks-predictions/",
-   "note": "Boston the stronger team; Chicago near the bottom in goal differential"
+   "note": "Boston the stronger team; Chicago near the bottom in goal differential",
+   "result": "loss",
+   "final": "CHI 4 - BOS 5 (OT)"
   },
   {
    "league": "NHL",
@@ -296,7 +342,9 @@
    "side": "over",
    "source": "Pickswise / Ryan Hodges",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-october-31-picks-predictions/",
-   "note": "Both teams allowing plenty of goals; last meeting ended 7-3"
+   "note": "Both teams allowing plenty of goals; last meeting ended 7-3",
+   "result": "win",
+   "final": "CGY 2 - COL 5 (total 7)"
   },
   {
    "league": "NHL",
@@ -307,7 +355,9 @@
    "team": "New York Islanders",
    "source": "Action Network / Nick Griffith (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/oilers-vs-islanders-prediction-picks-133300146.html",
-   "note": "Goaltending edge with Sorokin vs an Edmonton team without Devon Levi"
+   "note": "Goaltending edge with Sorokin vs an Edmonton team without Devon Levi",
+   "result": "loss",
+   "final": "EDM 4 - NYI 0"
   },
   {
    "league": "NCAAF",
@@ -319,7 +369,9 @@
    "line": 3.5,
    "source": "Covers / JD Yonke",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Texas Tech QB has more turnover-worthy passes than big-time throws"
+   "note": "Texas Tech QB has more turnover-worthy passes than big-time throws",
+   "result": "loss",
+   "final": "ARIZ 26 - TTU 34"
   },
   {
    "league": "NCAAF",
@@ -331,7 +383,9 @@
    "side": "over",
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Notre Dame scores heavily vs Navy under Freeman; Navy D ranks poorly"
+   "note": "Notre Dame scores heavily vs Navy under Freeman; Navy D ranks poorly",
+   "result": "loss",
+   "final": "ND 35 - NAVY 13 (total 48)"
   },
   {
    "league": "NCAAF",
@@ -343,7 +397,9 @@
    "line": -3.5,
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Iowa bounces back at home after a turnover-heavy loss"
+   "note": "Iowa bounces back at home after a turnover-heavy loss",
+   "result": "win",
+   "final": "WIS 0 - IOWA 30"
   },
   {
    "league": "NCAAF",
@@ -355,7 +411,9 @@
    "side": "under",
    "source": "Covers / Chris Hatfield",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Auburn's inefficient passing; Ole Miss does most of the scoring"
+   "note": "Auburn's inefficient passing; Ole Miss does most of the scoring",
+   "result": "loss",
+   "final": "AUB 15 - MISS 45 (total 60)"
   },
   {
    "league": "NCAAF",
@@ -367,7 +425,9 @@
    "side": "over",
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Georgia overs trend, Florida D ranks poorly"
+   "note": "Georgia overs trend, Florida D ranks poorly",
+   "result": "loss",
+   "final": "FLA 8 - UGA 27 (total 35)"
   },
   {
    "league": "NCAAF",
@@ -379,7 +439,9 @@
    "line": -20.5,
    "source": "Covers / Nick Galaida",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Minnesota struggles on the road; clear Indiana talent edge"
+   "note": "Minnesota struggles on the road; clear Indiana talent edge",
+   "result": "loss",
+   "final": "MINN 16 - IU 23 (OT)"
   },
   {
    "league": "NCAAF",
@@ -391,7 +453,9 @@
    "line": 3.5,
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Northwestern's rushing game can disrupt a pressured Oregon"
+   "note": "Northwestern's rushing game can disrupt a pressured Oregon",
+   "result": "loss",
+   "final": "NU 26 - ORE 34"
   },
   {
    "league": "NCAAF",
@@ -403,7 +467,9 @@
    "line": 21.5,
    "source": "Covers / JD Yonke",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "UCLA scoring less lately; 3+ TD margin hard to cover"
+   "note": "UCLA scoring less lately; 3+ TD margin hard to cover",
+   "result": "loss",
+   "final": "NEV 0 - UCLA 27"
   },
   {
    "league": "NCAAF",
@@ -415,7 +481,9 @@
    "side": "over",
    "source": "Covers / Jason Ence",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Efficient Purdue passing; both defenses weak"
+   "note": "Efficient Purdue passing; both defenses weak",
+   "result": "loss",
+   "final": "PUR 17 - PSU 31 (total 48)"
   },
   {
    "league": "NCAAF",
@@ -427,7 +495,9 @@
    "line": 6.5,
    "source": "Covers / Nick Galaida",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Clemson's underlying numbers better than its results"
+   "note": "Clemson's underlying numbers better than its results",
+   "result": "win",
+   "final": "CLEM 36 - FSU 24"
   },
   {
    "league": "NCAAF",
@@ -439,7 +509,9 @@
    "side": "under",
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Injuries on both offenses and poor red-zone efficiency"
+   "note": "Injuries on both offenses and poor red-zone efficiency",
+   "result": "win",
+   "final": "GT 11 - PITT 34 (total 45)"
   },
   {
    "league": "NCAAF",
@@ -451,7 +523,9 @@
    "side": "under",
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Slow Miami tempo; UNC offense weak with OL injuries"
+   "note": "Slow Miami tempo; UNC offense weak with OL injuries",
+   "result": "loss",
+   "final": "MIA 38 - UNC 35 (total 73)"
   },
   {
    "league": "NCAAF",
@@ -463,7 +537,9 @@
    "line": -20.5,
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Elite Texas D; Mississippi State lost its starting QB"
+   "note": "Elite Texas D; Mississippi State lost its starting QB",
+   "result": "win",
+   "final": "MSST 3 - TEX 31"
   },
   {
    "league": "NCAAF",
@@ -475,7 +551,9 @@
    "line": -6.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Ohio State's elite defense vs a USC team that scored 7 last game"
+   "note": "Ohio State's elite defense vs a USC team that scored 7 last game",
+   "result": "loss",
+   "final": "OSU 18 - USC 30"
   },
   {
    "league": "NCAAF",
@@ -487,7 +565,9 @@
    "line": -6.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/college-week-9-top-picks-saturday-oct-31-2026",
-   "note": "Oregon State on a win streak with a rushing edge"
+   "note": "Oregon State on a win streak with a rushing edge",
+   "result": "loss",
+   "final": "ORST 22 - FRES 38"
   },
   {
    "league": "NCAAF",
@@ -499,7 +579,9 @@
    "line": 2.5,
    "source": "Action Network / George Stuckey (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-best-bets-today-093222341.html",
-   "note": "Kansas State's QB room badly depleted; Colorado faced tougher schedule"
+   "note": "Kansas State's QB room badly depleted; Colorado faced tougher schedule",
+   "result": "win",
+   "final": "KSU 24 - COLO 27 (OT)"
   },
   {
    "league": "NCAAF",
@@ -511,7 +593,9 @@
    "side": "over",
    "source": "Action Network / Collin Wilson (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-best-bets-today-093222341.html",
-   "note": "Georgia struggles vs power run concepts Florida relies on"
+   "note": "Georgia struggles vs power run concepts Florida relies on",
+   "result": "loss",
+   "final": "FLA 8 - UGA 27 (total 35)"
   },
   {
    "league": "NCAAF",
@@ -525,7 +609,9 @@
    "stat": "touchdowns",
    "source": "Action Network / Collin Wilson (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-best-bets-today-093222341.html",
-   "note": "Florida's primary power-run back vs a vulnerable Georgia front (anytime TD)"
+   "note": "Florida's primary power-run back vs a vulnerable Georgia front (anytime TD)",
+   "result": "loss",
+   "final": "Jadan Baugh 0 TD (17 car, 38 yds)"
   },
   {
    "league": "NCAAF",
@@ -539,7 +625,9 @@
    "stat": "touchdowns",
    "source": "Action Network / Jordan Vanek (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-best-bets-today-093222341.html",
-   "note": "Designed runs and high red-zone rush share (anytime TD)"
+   "note": "Designed runs and high red-zone rush share (anytime TD)",
+   "result": "loss",
+   "final": "Gio Lopez 0 rush/rec TD (13 car 64 yds; 1 pass TD)"
   },
   {
    "league": "NCAAF",
@@ -567,7 +655,9 @@
    "stat": "rushing yards",
    "source": "Action Network / Doug Ziefel (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-predictions-picks-staff-093435061.html",
-   "note": "Haynes has cleared 51.5 in every game he's played"
+   "note": "Haynes has cleared 51.5 in every game he's played",
+   "result": "loss",
+   "final": "Justice Haynes 33 rush yds"
   },
   {
    "league": "NCAAF",
@@ -579,7 +669,9 @@
    "side": "under",
    "source": "Action Network / Bet Labs (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/college-football-predictions-picks-staff-093435061.html",
-   "note": "Late-night games historically go under; fits an Under system"
+   "note": "Late-night games historically go under; fits an Under system",
+   "result": "loss",
+   "final": "ORST 22 - FRES 38 (total 60)"
   },
   {
    "league": "NCAAF",
@@ -590,7 +682,9 @@
    "team": "USC",
    "source": "Pickswise / Andrew Wilsher",
    "url": "https://www.pickswise.com/college-football/news/college-football-parlay-picks-saturday-october-31/",
-   "note": "Ohio State offense declined with backup QB; USC run game keeps it close"
+   "note": "Ohio State offense declined with backup QB; USC run game keeps it close",
+   "result": "win",
+   "final": "OSU 18 - USC 30"
   },
   {
    "league": "NCAAF",
@@ -600,7 +694,9 @@
    "team": "Utah",
    "source": "Pickswise / Andrew Wilsher",
    "url": "https://www.pickswise.com/college-football/news/college-football-parlay-picks-saturday-october-31/",
-   "note": "Cincinnati D outside top 100 in EPA/play allowed; explosive Utah offense"
+   "note": "Cincinnati D outside top 100 in EPA/play allowed; explosive Utah offense",
+   "result": "win",
+   "final": "UTAH 49 - CIN 25"
   },
   {
    "league": "NFL",
@@ -612,7 +708,9 @@
    "line": 3.5,
    "source": "Pickswise / Luke Lindholm",
    "url": "https://www.pickswise.com/nfl/games/pittsburgh-steelers-cleveland-browns-nfl-2026-11-01-1300/picks/",
-   "note": "Cleveland experienced in close games; Pittsburgh CBs injured"
+   "note": "Cleveland experienced in close games; Pittsburgh CBs injured",
+   "result": "loss",
+   "final": "CLE 6 - PIT 27"
   },
   {
    "league": "NFL",
@@ -624,7 +722,9 @@
    "line": 12.5,
    "source": "Pickswise / Aaron Taylor",
    "url": "https://www.pickswise.com/nfl/games/cincinnati-bengals-tennessee-titans-nfl-2026-11-01-1300/picks/",
-   "note": "Strong Tennessee defense; likely lower-scoring than expected"
+   "note": "Strong Tennessee defense; likely lower-scoring than expected",
+   "result": "win",
+   "final": "TEN 36 - CIN 43 (OT)"
   },
   {
    "league": "NFL",
@@ -636,7 +736,9 @@
    "side": "under",
    "source": "Pickswise / Aaron Taylor",
    "url": "https://www.pickswise.com/nfl/games/cincinnati-bengals-tennessee-titans-nfl-2026-11-01-1300/picks/",
-   "note": "Best Bet: both defenses limit scoring, weak Titans offense"
+   "note": "Best Bet: both defenses limit scoring, weak Titans offense",
+   "result": "loss",
+   "final": "TEN 36 - CIN 43 (OT, total 79)"
   },
   {
    "league": "NFL",
@@ -648,7 +750,9 @@
    "side": "over",
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nfl/games/tampa-bay-buccaneers-atlanta-falcons-nfl-2026-11-01-1300/picks/",
-   "note": "Recent meetings high-scoring; both QBs healthy"
+   "note": "Recent meetings high-scoring; both QBs healthy",
+   "result": "loss",
+   "final": "ATL 0 - TB 16 (total 16)"
   },
   {
    "league": "NFL",
@@ -660,7 +764,9 @@
    "line": -3,
    "source": "Pickswise / Sam Avellone",
    "url": "https://www.pickswise.com/nfl/games/buffalo-bills-baltimore-ravens-nfl-2026-11-01-1300/picks/",
-   "note": "Buffalo off a bye with an efficient offense"
+   "note": "Buffalo off a bye with an efficient offense",
+   "result": "win",
+   "final": "BAL 10 - BUF 36"
   },
   {
    "league": "NFL",
@@ -672,7 +778,9 @@
    "side": "over",
    "source": "Pickswise / Sam Avellone",
    "url": "https://www.pickswise.com/nfl/games/buffalo-bills-baltimore-ravens-nfl-2026-11-01-1300/picks/",
-   "note": "Lamar Jackson's return vs a weak Buffalo defense"
+   "note": "Lamar Jackson's return vs a weak Buffalo defense",
+   "result": "loss",
+   "final": "BAL 10 - BUF 36 (total 46)"
   },
   {
    "league": "NFL",
@@ -684,7 +792,9 @@
    "line": -9.5,
    "source": "Pickswise / Sam Avellone",
    "url": "https://www.pickswise.com/nfl/games/jacksonville-jaguars-indianapolis-colts-nfl-2026-11-01-1300/picks/",
-   "note": "Rested Jacksonville with a strong run defense"
+   "note": "Rested Jacksonville with a strong run defense",
+   "result": "win",
+   "final": "IND 7 - JAX 42"
   },
   {
    "league": "NFL",
@@ -696,7 +806,9 @@
    "line": 7,
    "source": "Pickswise / Kevin Rogers",
    "url": "https://www.pickswise.com/nfl/games/dallas-cowboys-arizona-cardinals-nfl-2026-11-01-1300/picks/",
-   "note": "Arizona good as road dog; Dallas struggles to cover as favorite"
+   "note": "Arizona good as road dog; Dallas struggles to cover as favorite",
+   "result": "win",
+   "final": "ARI 33 - DAL 30 (OT)"
   },
   {
    "league": "NFL",
@@ -708,7 +820,9 @@
    "side": "under",
    "source": "Pickswise / Kevin Rogers",
    "url": "https://www.pickswise.com/nfl/games/dallas-cowboys-arizona-cardinals-nfl-2026-11-01-1300/picks/",
-   "note": "Improved Dallas defense; expects high 40s"
+   "note": "Improved Dallas defense; expects high 40s",
+   "result": "loss",
+   "final": "ARI 33 - DAL 30 (OT, total 63)"
   },
   {
    "league": "NFL",
@@ -720,7 +834,9 @@
    "line": 1.5,
    "source": "Pickswise / Kevin Rogers",
    "url": "https://www.pickswise.com/nfl/games/new-york-jets-las-vegas-raiders-nfl-2026-11-01-1300/picks/",
-   "note": "Jets poor as favorites; Raiders faced tougher schedule"
+   "note": "Jets poor as favorites; Raiders faced tougher schedule",
+   "result": "win",
+   "final": "LV 38 - NYJ 33"
   },
   {
    "league": "NFL",
@@ -732,7 +848,9 @@
    "line": -3.5,
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nfl/games/detroit-lions-minnesota-vikings-nfl-2026-11-01-1300/picks/",
-   "note": "Low-ranked Minnesota offense; Detroit at home"
+   "note": "Low-ranked Minnesota offense; Detroit at home",
+   "result": "win",
+   "final": "MIN 15 - DET 19"
   },
   {
    "league": "NFL",
@@ -744,7 +862,9 @@
    "side": "under",
    "source": "Pickswise / Kevin Rogers",
    "url": "https://www.pickswise.com/nfl/games/los-angeles-rams-los-angeles-chargers-nfl-2026-11-01-1605/picks/",
-   "note": "Expects a defensive game"
+   "note": "Expects a defensive game",
+   "result": "win",
+   "final": "LAC 9 - LAR 24 (total 33)"
   },
   {
    "league": "NFL",
@@ -756,7 +876,9 @@
    "side": "under",
    "source": "Pickswise / Kevin Rogers",
    "url": "https://www.pickswise.com/nfl/games/denver-broncos-kansas-city-chiefs-nfl-2026-11-01-1625/picks/",
-   "note": "Recent head-to-heads stayed low-scoring"
+   "note": "Recent head-to-heads stayed low-scoring",
+   "result": "loss",
+   "final": "KC 24 - DEN 28 (total 52)"
   },
   {
    "league": "NFL",
@@ -768,7 +890,9 @@
    "side": "under",
    "source": "Pickswise / Luke Lindholm",
    "url": "https://www.pickswise.com/nfl/games/miami-dolphins-new-england-patriots-nfl-2026-11-01-1625/picks/",
-   "note": "Storms forecast; both passing games banged up"
+   "note": "Storms forecast; both passing games banged up",
+   "result": "win",
+   "final": "NE 24 - MIA 19 (total 43)"
   },
   {
    "league": "NFL",
@@ -780,7 +904,9 @@
    "line": -5.5,
    "source": "Pickswise / Chris Farley",
    "url": "https://www.pickswise.com/nfl/games/washington-commanders-philadelphia-eagles-nfl-2026-11-01-2020/picks/",
-   "note": "Philadelphia's QB situation a concern"
+   "note": "Philadelphia's QB situation a concern",
+   "result": "win",
+   "final": "PHI 10 - WSH 27"
   },
   {
    "league": "NFL",
@@ -792,7 +918,9 @@
    "side": "over",
    "source": "Pickswise / Chris Farley",
    "url": "https://www.pickswise.com/nfl/games/washington-commanders-philadelphia-eagles-nfl-2026-11-01-2020/picks/",
-   "note": "Best Bet: enough Eagles offense to clear a low total"
+   "note": "Best Bet: enough Eagles offense to clear a low total",
+   "result": "loss",
+   "final": "PHI 10 - WSH 27 (total 37)"
   },
   {
    "league": "NFL",
@@ -830,7 +958,9 @@
    "stat": "receiving yards",
    "source": "Covers / Nick Galaida",
    "url": "https://www.covers.com/picks/nfl",
-   "note": "Leads Colts WRs in targets per route since Week 3"
+   "note": "Leads Colts WRs in targets per route since Week 3",
+   "result": "win",
+   "final": "Keenan Allen 67 rec yds"
   },
   {
    "league": "NFL",
@@ -844,7 +974,9 @@
    "stat": "touchdowns",
    "source": "Covers / Nick Galaida",
    "url": "https://www.covers.com/picks/nfl",
-   "note": "Gets every Jaguars RB carry inside the 10 (anytime TD)"
+   "note": "Gets every Jaguars RB carry inside the 10 (anytime TD)",
+   "result": "win",
+   "final": "Bhayshul Tuten 2 TD (1 rush, 1 rec)"
   },
   {
    "league": "NFL",
@@ -858,7 +990,9 @@
    "stat": "receiving yards",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/picks/nfl",
-   "note": "Tennessee struggles vs deep passes; projects ~81 yards"
+   "note": "Tennessee struggles vs deep passes; projects ~81 yards",
+   "result": "win",
+   "final": "Tee Higgins 155 rec yds"
   },
   {
    "league": "NFL",
@@ -872,7 +1006,9 @@
    "stat": "touchdowns",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/picks/nfl",
-   "note": "Only one TD despite red-zone touches (anytime TD)"
+   "note": "Only one TD despite red-zone touches (anytime TD)",
+   "result": "loss",
+   "final": "Chase Brown 0 TD"
   },
   {
    "league": "NFL",
@@ -886,7 +1022,9 @@
    "stat": "rushing yards",
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/picks/nfl",
-   "note": "45 yards on 6 carries in his return; near-split snaps with Judkins"
+   "note": "45 yards on 6 carries in his return; near-split snaps with Judkins",
+   "result": "loss",
+   "final": "Dylan Sampson 7 rush yds (1 car)"
   },
   {
    "league": "EPL",
@@ -897,7 +1035,9 @@
    "team": "Hull City",
    "source": "Dimers / Damien Souness (model)",
    "url": "https://www.dimers.com/epl/news/premier-league-best-bets-10-31-2026-ac",
-   "note": "Model: 42% win probability, 6.5% edge"
+   "note": "Model: 42% win probability, 6.5% edge",
+   "result": "loss",
+   "final": "IPS 2 - HUL 2"
   },
   {
    "league": "EPL",
@@ -908,7 +1048,9 @@
    "team": "Manchester City",
    "source": "Dimers / Damien Souness (model)",
    "url": "https://www.dimers.com/epl/news/premier-league-best-bets-10-31-2026-ac",
-   "note": "Model: 61.9% win probability"
+   "note": "Model: 61.9% win probability",
+   "result": "loss",
+   "final": "BHA 1 - MNC 0"
   },
   {
    "league": "EPL",
@@ -919,7 +1061,9 @@
    "team": "Sunderland",
    "source": "Dimers / Damien Souness (model)",
    "url": "https://www.dimers.com/epl/news/premier-league-best-bets-10-31-2026-ac",
-   "note": "Model: 45.4% win probability"
+   "note": "Model: 45.4% win probability",
+   "result": "loss",
+   "final": "SUN 1 - COV 3"
   },
   {
    "league": "EPL",
@@ -931,7 +1075,9 @@
    "side": "under",
    "source": "Dimers / Damien Souness (model)",
    "url": "https://www.dimers.com/epl/news/premier-league-best-bets-10-31-2026-ac",
-   "note": "Model: 34.1% probability, 3.1% edge"
+   "note": "Model: 34.1% probability, 3.1% edge",
+   "result": "win",
+   "final": "BHA 1 - MNC 0 (total 1)"
   },
   {
    "league": "EPL",
@@ -942,7 +1088,9 @@
    "team": "Nottingham Forest",
    "source": "Dimers / Damien Souness (model)",
    "url": "https://www.dimers.com/epl/news/premier-league-best-bets-10-31-2026-ac",
-   "note": "Model: 30% win probability, 2% edge"
+   "note": "Model: 30% win probability, 2% edge",
+   "result": "loss",
+   "final": "NFO 0 - BRE 2"
   },
   {
    "league": "EPL",
@@ -954,7 +1102,10 @@
    "side": "over",
    "source": "Covers / James Eastham",
    "url": "https://www.covers.com/soccer/liverpool-vs-arsenal-prediction-picks-nov-1-2026",
-   "note": "Recent head-to-heads often produced 3+ goals"
+   "note": "Recent head-to-heads often produced 3+ goals",
+   "result": "loss",
+   "final": "ARS 1 - LIV 0 (total 1)"
   }
- ]
+ ],
+ "graded": "2026-11-02T16:05:45Z"
 }
