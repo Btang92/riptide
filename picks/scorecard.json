@@ -1,7 +1,8 @@
 {
- "updated": "2026-11-02T16:05:45Z",
+ "updated": "2026-11-03T15:56:17Z",
  "graded_files": [
-  "2026-10-31"
+  "2026-10-31",
+  "2026-11-01"
  ],
  "sources": {
   "Action Network / Bet Labs (via Yahoo)": {
@@ -51,7 +52,7 @@
   },
   "Covers / Geoff Clark": {
    "w": 2,
-   "l": 2,
+   "l": 6,
    "p": 0
   },
   "Covers / JD Yonke": {
@@ -61,7 +62,7 @@
   },
   "Covers / James Eastham": {
    "w": 0,
-   "l": 1,
+   "l": 3,
    "p": 0
   },
   "Covers / Jason Ence": {
@@ -70,17 +71,27 @@
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 1,
+   "w": 4,
+   "l": 4,
+   "p": 0
+  },
+  "Covers / Jon Metler": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "Covers / Josh Inglis": {
+   "w": 0,
    "l": 1,
    "p": 0
   },
   "Covers / Neil Parker": {
-   "w": 0,
-   "l": 2,
+   "w": 3,
+   "l": 5,
    "p": 0
   },
   "Covers / Nick Galaida": {
-   "w": 3,
+   "w": 5,
    "l": 1,
    "p": 0
   },
@@ -94,9 +105,19 @@
    "l": 4,
    "p": 0
   },
+  "Covers / Shawn Krest": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
   "Covers / Todd Cordell": {
    "w": 1,
    "l": 2,
+   "p": 0
+  },
+  "Dimers (model)": {
+   "w": 0,
+   "l": 3,
    "p": 0
   },
   "Dimers / Damien Souness (model)": {
@@ -115,8 +136,8 @@
    "p": 0
   },
   "Pickswise / Aaron Taylor": {
-   "w": 1,
-   "l": 1,
+   "w": 2,
+   "l": 2,
    "p": 0
   },
   "Pickswise / Andrew Wilsher": {
@@ -124,24 +145,34 @@
    "l": 0,
    "p": 0
   },
-  "Pickswise / Chris Farley": {
+  "Pickswise / Ben Dezell": {
    "w": 1,
    "l": 1,
+   "p": 0
+  },
+  "Pickswise / Chris Farley": {
+   "w": 3,
+   "l": 3,
+   "p": 0
+  },
+  "Pickswise / Filip Tomic": {
+   "w": 1,
+   "l": 4,
    "p": 0
   },
   "Pickswise / Kevin Rogers": {
-   "w": 3,
-   "l": 2,
+   "w": 7,
+   "l": 6,
    "p": 0
   },
   "Pickswise / Luke Lindholm": {
-   "w": 1,
-   "l": 1,
+   "w": 4,
+   "l": 2,
    "p": 0
   },
   "Pickswise / Ricky Dimon": {
-   "w": 1,
-   "l": 1,
+   "w": 3,
+   "l": 3,
    "p": 0
   },
   "Pickswise / Ryan Hodges": {
@@ -150,7 +181,17 @@
    "p": 0
   },
   "Pickswise / Sam Avellone": {
+   "w": 4,
+   "l": 3,
+   "p": 0
+  },
+  "SportsBettingDime / Jordan Tomiyama": {
    "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "TheSpread / Alex Becker": {
+   "w": 1,
    "l": 1,
    "p": 0
   }
