@@ -1,0 +1,5 @@
+import { execFileSync } from "node:child_process"; import { readFileSync, writeFileSync } from "node:fs";
+const P = JSON.parse(readFileSync("pm5.json")); const get = u => { for (let a = 0; a < 4; a++) { try { return JSON.parse(execFileSync("curl", ["-sS", "--fail", "-m", "30", u], { maxBuffer: 32 << 20, stdio: ["ignore", "pipe", "ignore"] }).toString()); } catch (e) { execFileSync("sleep", ["1"]); } } return null; };
+let n = 0; for (const [k, x] of Object.entries(P)) { if (x.none || x.h) continue; const ev = get(`https://gamma-api.polymarket.com/events?slug=btc-updown-5m-${k}`), m = ev && ev[0] && ev[0].markets[0]; if (!m) continue;
+  const tok = JSON.parse(m.clobTokenIds)[0], h = get(`https://clob.polymarket.com/prices-history?market=${tok}&startTs=${k}&endTs=${+k + 300}&fidelity=1`); x.h = h ? h.history.map(y => [y.t, y.p]) : []; if (++n % 100 === 0) writeFileSync("pm5.json", JSON.stringify(P)); }
+writeFileSync("pm5.json", JSON.stringify(P)); console.log("histories:", Object.values(P).filter(x => x.h && x.h.length).length);
