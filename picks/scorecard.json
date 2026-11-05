@@ -1,9 +1,10 @@
 {
- "updated": "2026-11-04T15:55:13Z",
+ "updated": "2026-11-05T15:46:21Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -22,7 +23,7 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Colby Marchio": {
-   "w": 1,
+   "w": 2,
    "l": 0,
    "p": 0
   },
@@ -71,8 +72,18 @@
    "l": 0,
    "p": 0
   },
+  "BettingNews / PJ Glasser": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
   "CBS Sports / Cameron Salerno": {
    "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Daniel Kohn": {
+   "w": 0,
    "l": 1,
    "p": 0
   },
@@ -102,8 +113,8 @@
    "p": 0
   },
   "Covers / JD Yonke": {
-   "w": 0,
-   "l": 2,
+   "w": 1,
+   "l": 3,
    "p": 0
   },
   "Covers / James Eastham": {
@@ -171,13 +182,18 @@
    "l": 3,
    "p": 0
   },
+  "Dimers / Best Bets": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
   "Dimers / Damien Souness (model)": {
    "w": 1,
    "l": 4,
    "p": 0
   },
   "Dimers / Dave Garofolo": {
-   "w": 2,
+   "w": 3,
    "l": 0,
    "p": 0
   },
@@ -187,8 +203,8 @@
    "p": 0
   },
   "Dimers / Dimers Data": {
-   "w": 2,
-   "l": 0,
+   "w": 5,
+   "l": 2,
    "p": 0
   },
   "Dimers / Dimers Data (model)": {
@@ -198,6 +214,11 @@
   },
   "Dimers / Jason Bevilacqua": {
    "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "Dimers / Mac Douglass": {
+   "w": 0,
    "l": 1,
    "p": 0
   },
@@ -214,6 +235,21 @@
   "Dimers / Ryan Leaver (model)": {
    "w": 5,
    "l": 2,
+   "p": 0
+  },
+  "FanDuel Research / FanDuel Staff": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "FanDuel Research / numberFire model (Data Skrive)": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Last Word On Sports / Dan Mount": {
+   "w": 1,
+   "l": 0,
    "p": 0
   },
   "Pickswise / Aaron Taylor": {
@@ -243,7 +279,7 @@
   },
   "Pickswise / Connor Grootenhuis": {
    "w": 0,
-   "l": 1,
+   "l": 3,
    "p": 0
   },
   "Pickswise / Filip Tomic": {
@@ -251,8 +287,13 @@
    "l": 7,
    "p": 0
   },
-  "Pickswise / Jon Yaremko": {
+  "Pickswise / Joe Williams": {
    "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "Pickswise / Jon Yaremko": {
+   "w": 2,
    "l": 1,
    "p": 0
   },
@@ -271,9 +312,14 @@
    "l": 0,
    "p": 0
   },
-  "Pickswise / Nate Duffett": {
+  "Pickswise / Napier Montgomery": {
    "w": 1,
-   "l": 0,
+   "l": 2,
+   "p": 0
+  },
+  "Pickswise / Nate Duffett": {
+   "w": 2,
+   "l": 1,
    "p": 0
   },
   "Pickswise / Ricky Dimon": {
@@ -291,6 +337,16 @@
    "l": 6,
    "p": 0
   },
+  "Pickswise / Tyler Mortimer": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Pro Football Network / Jason Katz": {
+   "w": 1,
+   "l": 3,
+   "p": 0
+  },
   "SI / Peter Dewey": {
    "w": 1,
    "l": 0,
@@ -302,8 +358,8 @@
    "p": 0
   },
   "TheLines / Justin Bales": {
-   "w": 2,
-   "l": 0,
+   "w": 3,
+   "l": 1,
    "p": 0
   },
   "TheLines / Nick Crain": {
@@ -312,23 +368,23 @@
    "p": 0
   },
   "TheSpread / Alex Becker": {
-   "w": 3,
-   "l": 3,
+   "w": 5,
+   "l": 4,
    "p": 0
   },
   "TheSpread / Anthony Rome": {
-   "w": 0,
-   "l": 2,
+   "w": 1,
+   "l": 4,
    "p": 0
   },
   "TheSpread / Paul Elliot": {
-   "w": 1,
-   "l": 3,
+   "w": 2,
+   "l": 4,
    "p": 0
   },
   "VSiN / Adam Burke": {
-   "w": 0,
-   "l": 1,
+   "w": 2,
+   "l": 3,
    "p": 0
   },
   "Yahoo Sports / Matt Russell": {
