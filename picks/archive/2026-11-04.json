@@ -11,7 +11,9 @@
    "line": -3.5,
    "source": "Pro Football Network / Jason Katz",
    "url": "https://profootballnetwork.com/cfb/maction-week-10-predictions-2026",
-   "note": "QB Pop Watson returns; Ball State defense ranks 134th in PFN Defensive Impact"
+   "note": "QB Pop Watson returns; Ball State defense ranks 134th in PFN Defensive Impact",
+   "result": "loss",
+   "final": "BALL 30 - UMASS 31 (OT)"
   },
   {
    "league": "NCAAF",
@@ -23,7 +25,9 @@
    "line": -3,
    "source": "WagerTalk / Kyle Kargel",
    "url": "https://www.wagertalk.com/news/college-football/ball-state-vs-massachusetts-prediction-picks-odds-november-4-2026/",
-   "note": "Motivated UMass at home vs BSU (1-4 road, allows 35.3 ppg); projects 31-24"
+   "note": "Motivated UMass at home vs BSU (1-4 road, allows 35.3 ppg); projects 31-24",
+   "result": "loss",
+   "final": "BALL 30 - UMASS 31 (OT)"
   },
   {
    "league": "NCAAF",
@@ -35,7 +39,9 @@
    "side": "over",
    "source": "WagerTalk / Kyle Kargel",
    "url": "https://www.wagertalk.com/news/college-football/ball-state-vs-massachusetts-prediction-picks-odds-november-4-2026/",
-   "note": "UMass pushes pace vs a 131st-ranked scoring defense"
+   "note": "UMass pushes pace vs a 131st-ranked scoring defense",
+   "result": "win",
+   "final": "BALL 30 - UMASS 31 (OT) (total 61)"
   },
   {
    "league": "NCAAF",
@@ -47,7 +53,9 @@
    "side": "over",
    "source": "CBS Sports / Daniel Kohn (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/ball-state-umass-prediction-odds-time-2026-week-10-maction-college-football-picks/",
-   "note": "Over 8 of BSU's last 10; model projects 52 points"
+   "note": "Over 8 of BSU's last 10; model projects 52 points",
+   "result": "win",
+   "final": "BALL 30 - UMASS 31 (OT) (total 61)"
   },
   {
    "league": "NCAAF",
@@ -59,7 +67,9 @@
    "line": 3.5,
    "source": "The Grueling Truth / James Ernest",
    "url": "https://thegruelingtruth.com/college-football/ncaa-week-10-ball-state-at-massachusetts-2026-preview-prediction-betting-odds-4-prop-bets/",
-   "note": "Best bet: predicts UMass 27-24, Ball State covers on a 2-game win streak"
+   "note": "Best bet: predicts UMass 27-24, Ball State covers on a 2-game win streak",
+   "result": "win",
+   "final": "BALL 30 - UMASS 31 (OT)"
   },
   {
    "league": "NCAAF",
@@ -73,7 +83,10 @@
    "side": "over",
    "source": "The Grueling Truth / James Ernest",
    "url": "https://thegruelingtruth.com/college-football/ncaa-week-10-ball-state-at-massachusetts-2026-preview-prediction-betting-odds-4-prop-bets/",
-   "note": "Top prop: 193 rush yds over last two games; projects 61"
+   "note": "Top prop: 193 rush yds over last two games; projects 61",
+   "result": "loss",
+   "final": "BALL 30 - UMASS 31 (OT); Luster 14 car, 21 rush yds",
+   "actual": 21
   },
   {
    "league": "NCAAF",
@@ -85,7 +98,9 @@
    "line": -25.5,
    "source": "Pro Football Network / Jason Katz",
    "url": "https://profootballnetwork.com/cfb/maction-week-10-predictions-2026",
-   "note": "Toledo rested since Oct 24; Sac State 128th in PFN Defensive Impact"
+   "note": "Toledo rested since Oct 24; Sac State 128th in PFN Defensive Impact",
+   "result": "loss",
+   "final": "TOL 20 - SAC 17"
   },
   {
    "league": "NCAAF",
@@ -97,7 +112,9 @@
    "line": -25.5,
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/ncaaf-articles/toledo-vs-sacramento-state-prediction-november-4-2026/",
-   "note": "Rest edge (11 days vs 5) and line moved from -24 toward Toledo"
+   "note": "Rest edge (11 days vs 5) and line moved from -24 toward Toledo",
+   "result": "loss",
+   "final": "TOL 20 - SAC 17"
   },
   {
    "league": "NCAAF",
@@ -111,7 +128,10 @@
    "side": "over",
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/ncaaf-articles/toledo-vs-sacramento-state-prediction-november-4-2026/",
-   "note": "Alt 275+ at +140; Richter averaging ~280 ypg"
+   "note": "Alt 275+ at +140; Richter averaging ~280 ypg",
+   "result": "loss",
+   "final": "TOL 20 - SAC 17; Richter 9/17, 60 pass yds",
+   "actual": 60
   },
   {
    "league": "NCAAF",
@@ -123,7 +143,9 @@
    "line": 25.5,
    "source": "WagerTalk / Kyle Kargel",
    "url": "https://www.wagertalk.com/news/college-football/toledo-vs-sacramento-state-prediction-picks-odds-november-4-2026/",
-   "note": "Sac State can shorten game with run; held Kent State to 10; line moved toward dog"
+   "note": "Sac State can shorten game with run; held Kent State to 10; line moved toward dog",
+   "result": "win",
+   "final": "TOL 20 - SAC 17"
   },
   {
    "league": "NCAAF",
@@ -135,7 +157,9 @@
    "side": "under",
    "source": "WagerTalk / Kyle Kargel",
    "url": "https://www.wagertalk.com/news/college-football/toledo-vs-sacramento-state-prediction-picks-odds-november-4-2026/",
-   "note": "Sac State's limited scoring and Toledo controlling possession; projects 35-14"
+   "note": "Sac State's limited scoring and Toledo controlling possession; projects 35-14",
+   "result": "win",
+   "final": "TOL 20 - SAC 17 (total 37)"
   },
   {
    "league": "NBA",
@@ -146,7 +170,9 @@
    "team": "Washington Wizards",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/hawks-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Wizards 4-3, three straight home wins, strong defense (+114 DK)."
+   "note": "Wizards 4-3, three straight home wins, strong defense (+114 DK).",
+   "result": "loss",
+   "final": "ATL 120 - WSH 105"
   },
   {
    "league": "NBA",
@@ -160,7 +186,10 @@
    "line": 2.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/hawks-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Young shooting 27.1% from three this season (-164)."
+   "note": "Young shooting 27.1% from three this season (-164).",
+   "result": "win",
+   "final": "ATL 120 - WSH 105; Young 18 pts, 2-6 3PT",
+   "actual": 2
   },
   {
    "league": "NBA",
@@ -171,7 +200,9 @@
    "team": "Atlanta Hawks",
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/nba/games/washington-wizards-atlanta-hawks-nba-2026-11-04-1900/picks/",
-   "note": "Market may overrate Washington; Atlanta won last three meetings (-138)."
+   "note": "Market may overrate Washington; Atlanta won last three meetings (-138).",
+   "result": "win",
+   "final": "ATL 120 - WSH 105"
   },
   {
    "league": "NBA",
@@ -183,7 +214,9 @@
    "line": -2.5,
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/nba/games/detroit-pistons-philadelphia-76ers-nba-2026-11-04-1900/picks/",
-   "note": "Detroit has beaten Philly six straight; strong defense (-104)."
+   "note": "Detroit has beaten Philly six straight; strong defense (-104).",
+   "result": "loss",
+   "final": "PHI 112 - DET 106"
   },
   {
    "league": "NBA",
@@ -195,7 +228,9 @@
    "line": 2.5,
    "source": "Dimers / Mac Douglass",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-04-2026-ac",
-   "note": "Model: 52.2% cover probability, 3.2% edge (+104)."
+   "note": "Model: 52.2% cover probability, 3.2% edge (+104).",
+   "result": "win",
+   "final": "PHI 112 - DET 106"
   },
   {
    "league": "NCAAB",
@@ -207,7 +242,9 @@
    "line": 25.5,
    "source": "Dimers / Mac Douglass",
    "url": "https://www.dimers.com/cbb/news/fairleigh-dickinson-vs-butler-prediction-11-04-2026-ac",
-   "note": "Model 55% to cover despite projecting Butler 88-65 (-115)"
+   "note": "Model 55% to cover despite projecting Butler 88-65 (-115)",
+   "result": "loss",
+   "final": "FDU 65 - BUT 99"
   },
   {
    "league": "NCAAB",
@@ -219,7 +256,9 @@
    "side": "under",
    "source": "CBS Sports / Daniel Kohn (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/butler-fairleigh-dickinson-odds-prediction-2026-college-basketball-picks-for-wednesday-november-4/",
-   "note": "Under hit in 3 of FDU's last 4; FDU 341st in scoring last season (article also cites 160-pt projection)"
+   "note": "Under hit in 3 of FDU's last 4; FDU 341st in scoring last season (article also cites 160-pt projection)",
+   "result": "loss",
+   "final": "FDU 65 - BUT 99 (total 164)"
   },
   {
    "league": "NCAAB",
@@ -231,7 +270,9 @@
    "line": 33.5,
    "source": "Dimers",
    "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac",
-   "note": "Model gives 58% cover probability, 5.6% edge (-110)"
+   "note": "Model gives 58% cover probability, 5.6% edge (-110)",
+   "result": "win",
+   "final": "UMES 49 - HP 63"
   },
   {
    "league": "NCAAF",
@@ -243,7 +284,9 @@
    "side": "under",
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/central-michigan-vs-eastern-michigan-prediction-picks-odds-nov-4-2026",
-   "note": "Top pick: both teams run-heavy and slow, clock bleeds; playable to 42.5"
+   "note": "Top pick: both teams run-heavy and slow, clock bleeds; playable to 42.5",
+   "result": "win",
+   "final": "CMU 35 - EMU 7 (total 42)"
   },
   {
    "league": "NCAAF",
@@ -254,7 +297,9 @@
    "team": "Central Michigan Chippewas",
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/central-michigan-vs-eastern-michigan-prediction-picks-odds-nov-4-2026",
-   "note": "CMU battle-tested by tougher schedule; ground game lets them win outright as slight dog"
+   "note": "CMU battle-tested by tougher schedule; ground game lets them win outright as slight dog",
+   "result": "win",
+   "final": "CMU 35 - EMU 7"
   },
   {
    "league": "NCAAF",
@@ -266,7 +311,9 @@
    "line": 1.5,
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/central-michigan-vs-eastern-michigan-prediction-picks-odds-nov-4-2026",
-   "note": "Alternative to the ML for extra cushion"
+   "note": "Alternative to the ML for extra cushion",
+   "result": "win",
+   "final": "CMU 35 - EMU 7"
   },
   {
    "league": "NCAAF",
@@ -277,7 +324,9 @@
    "team": "Central Michigan Chippewas",
    "source": "FanDuel Research / Data Skrive (numberFire)",
    "url": "https://www.fanduel.com/research/eastern-michigan-vs-central-michigan-college-football-odds-picks-best-bets-for-11-4-2026",
-   "note": "numberFire projects Chippewas win at 63.5%"
+   "note": "numberFire projects Chippewas win at 63.5%",
+   "result": "win",
+   "final": "CMU 35 - EMU 7"
   },
   {
    "league": "NBA",
@@ -288,7 +337,9 @@
    "team": "Brooklyn Nets",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-4-2026",
-   "note": "Market overrates Charlotte's returning players on minutes limits (41% Polymarket)."
+   "note": "Market overrates Charlotte's returning players on minutes limits (41% Polymarket).",
+   "result": "win",
+   "final": "CHA 104 - BKN 114"
   },
   {
    "league": "NBA",
@@ -300,7 +351,9 @@
    "line": 11.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/bulls-vs-knicks-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Knicks 1-6 ATS, 21st in offensive rating, Hart questionable (-105 DK)."
+   "note": "Knicks 1-6 ATS, 21st in offensive rating, Hart questionable (-105 DK).",
+   "result": "loss",
+   "final": "CHI 105 - NYK 135"
   },
   {
    "league": "NBA",
@@ -314,7 +367,10 @@
    "line": 2.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/bulls-vs-knicks-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "3+ threes in three straight; Bulls 24th in opp 3PM (+111)."
+   "note": "3+ threes in three straight; Bulls 24th in opp 3PM (+111).",
+   "result": "win",
+   "final": "CHI 105 - NYK 135; Brunson 33 pts, 5-10 3PT",
+   "actual": 5
   },
   {
    "league": "NBA",
@@ -326,7 +382,9 @@
    "line": 11.5,
    "source": "Dimers / Mac Douglass",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-04-2026-ac",
-   "note": "Model: 55% cover probability, 4.5% edge (-102)."
+   "note": "Model: 55% cover probability, 4.5% edge (-102).",
+   "result": "win",
+   "final": "MIL 102 - BOS 109"
   },
   {
    "league": "NHL",
@@ -337,7 +395,9 @@
    "team": "Florida Panthers",
    "source": "Covers / Dustin Saracini",
    "url": "https://www.covers.com/nhl/moneyline-picks-nov-4-2026",
-   "note": "The Blackhawks are near the bottom of the league in several categories"
+   "note": "The Blackhawks are near the bottom of the league in several categories",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -348,7 +408,9 @@
    "team": "Florida Panthers",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/blackhawks-vs-panthers-prediction-november-4-2026/",
-   "note": "Lean at -260: Chicago 31st in goals/game, Florida allows third-fewest shots"
+   "note": "Lean at -260: Chicago 31st in goals/game, Florida allows third-fewest shots",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -362,7 +424,10 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/blackhawks-vs-panthers-prediction-november-4-2026/",
-   "note": "1+ assists at -132; six assists in last five games with Barkov out"
+   "note": "1+ assists at -132; six assists in last five games with Barkov out",
+   "result": "loss",
+   "final": "CHI 3 - FLA 5; Seth Jones (FLA) 1 G, 0 A",
+   "actual": 0
   },
   {
    "league": "NHL",
@@ -374,7 +439,9 @@
    "line": -1.5,
    "source": "TheLines / Jason Green",
    "url": "https://www.thelines.com/nhl/picks/blackhawks-vs-panthers-odds-picks-prediction-lay-panthers-on-home-ice/",
-   "note": "Chicago near bottom in goals scored and allowed; expects 2+ goal Florida win (+100)"
+   "note": "Chicago near bottom in goals scored and allowed; expects 2+ goal Florida win (+100)",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -388,7 +455,10 @@
    "side": "over",
    "source": "TheLines / Jason Green",
    "url": "https://www.thelines.com/nhl/picks/blackhawks-vs-panthers-odds-picks-prediction-lay-panthers-on-home-ice/",
-   "note": "Anytime goal +125; tied for team lead and scored in each of last three games"
+   "note": "Anytime goal +125; tied for team lead and scored in each of last three games",
+   "result": "win",
+   "final": "CHI 3 - FLA 5; Reinhart 1 G, 2 A",
+   "actual": 1
   },
   {
    "league": "NHL",
@@ -402,7 +472,10 @@
    "side": "over",
    "source": "TheLines / Jason Green",
    "url": "https://www.thelines.com/nhl/picks/blackhawks-vs-panthers-odds-picks-prediction-lay-panthers-on-home-ice/",
-   "note": "1+ assists -170; five assists in last three games"
+   "note": "1+ assists -170; five assists in last three games",
+   "result": "win",
+   "final": "CHI 3 - FLA 5; M. Tkachuk 0 G, 1 A",
+   "actual": 1
   },
   {
    "league": "NHL",
@@ -413,7 +486,9 @@
    "team": "Florida Panthers",
    "source": "Last Word on Sports / Dan Mount",
    "url": "https://lastwordonsports.com/hockey/2026/11/04/nhl-predictions-chi-fla/",
-   "note": "Predicts Panthers 5-1 given Chicago injuries and defensive problems (-250)"
+   "note": "Predicts Panthers 5-1 given Chicago injuries and defensive problems (-250)",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -425,7 +500,9 @@
    "line": -1.5,
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/games/florida-panthers-chicago-blackhawks-nhl-2026-11-04-1930/picks/",
-   "note": "Florida bounces back vs. Chicago team allowing second-most goals (+100, high confidence)"
+   "note": "Florida bounces back vs. Chicago team allowing second-most goals (+100, high confidence)",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -437,7 +514,9 @@
    "line": -1.5,
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nhl/games/florida-panthers-chicago-blackhawks-nhl-2026-11-04-1930/picks/",
-   "note": "Chicago on three-game skid, second-to-last in scoring, 0-5-1 on road (parlay leg)"
+   "note": "Chicago on three-game skid, second-to-last in scoring, 0-5-1 on road (parlay leg)",
+   "result": "win",
+   "final": "CHI 3 - FLA 5"
   },
   {
    "league": "NHL",
@@ -451,7 +530,10 @@
    "side": "over",
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-04-2026-ac",
-   "note": "Anytime goal +145; model 43.5% probability"
+   "note": "Anytime goal +145; model 43.5% probability",
+   "result": "win",
+   "final": "CHI 3 - FLA 5; Reinhart 1 G, 2 A",
+   "actual": 1
   },
   {
    "league": "NHL",
@@ -462,7 +544,9 @@
    "team": "Buffalo Sabres",
    "source": "FanDuel Research / Data Skrive (numberFire model)",
    "url": "https://www.fanduel.com/research/sabres-vs-senators-prediction-nhl-odds-11-4-2026",
-   "note": "Model gives Sabres 61.2% win probability at -126"
+   "note": "Model gives Sabres 61.2% win probability at -126",
+   "result": "loss",
+   "final": "OTT 2 - BUF 1"
   },
   {
    "league": "NHL",
@@ -473,7 +557,9 @@
    "team": "Ottawa Senators",
    "source": "Covers / Dustin Saracini",
    "url": "https://www.covers.com/nhl/moneyline-picks-nov-4-2026",
-   "note": "Ottawa's offense can exploit a struggling Buffalo defense; riding underdog value"
+   "note": "Ottawa's offense can exploit a struggling Buffalo defense; riding underdog value",
+   "result": "win",
+   "final": "OTT 2 - BUF 1"
   },
   {
    "league": "NHL",
@@ -484,7 +570,9 @@
    "team": "Ottawa Senators",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/senators-vs-sabres-prediction-november-4-2026/",
-   "note": "Lean at +110: line moved toward Ottawa despite Sabres tickets; better goal differential"
+   "note": "Lean at +110: line moved toward Ottawa despite Sabres tickets; better goal differential",
+   "result": "win",
+   "final": "OTT 2 - BUF 1"
   },
   {
    "league": "NHL",
@@ -496,7 +584,9 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/senators-vs-sabres-prediction-november-4-2026/",
-   "note": "Unsettled goaltending on both sides and bottom-third penalty kills (-122)"
+   "note": "Unsettled goaltending on both sides and bottom-third penalty kills (-122)",
+   "result": "loss",
+   "final": "OTT 2 - BUF 1 (total 3)"
   },
   {
    "league": "NHL",
@@ -508,7 +598,9 @@
    "side": "over",
    "source": "RG.org / Sergey Demidov",
    "url": "https://rg.org/news/gambling-industry/best-bets-today-76ers-pistons-cavaliers-thunder-november-4-2026",
-   "note": "Ottawa's top goalie on IR and both teams have weak penalty kills (-118)"
+   "note": "Ottawa's top goalie on IR and both teams have weak penalty kills (-118)",
+   "result": "loss",
+   "final": "OTT 2 - BUF 1 (total 3)"
   },
   {
    "league": "NCAAB",
@@ -520,7 +612,9 @@
    "line": -14.5,
    "source": "TheSpread / Alex Becker",
    "url": "https://www.thespread.com/ncaab-articles/cs-northridge-vs-wichita-state-prediction-november-4-2026/",
-   "note": "Barttorvik projects 89-71 WSU; CSUN turnovers give extra possessions (-115)"
+   "note": "Barttorvik projects 89-71 WSU; CSUN turnovers give extra possessions (-115)",
+   "result": "loss",
+   "final": "CSUN 67 - WSU 79"
   },
   {
    "league": "NCAAB",
@@ -532,7 +626,9 @@
    "side": "under",
    "source": "TheSpread / Alex Becker",
    "url": "https://www.thespread.com/ncaab-articles/cs-northridge-vs-wichita-state-prediction-november-4-2026/",
-   "note": "Total's early drop matches projection; CSUN offense outside top 200 (-105)"
+   "note": "Total's early drop matches projection; CSUN offense outside top 200 (-105)",
+   "result": "win",
+   "final": "CSUN 67 - WSU 79 (total 146)"
   },
   {
    "league": "NBA",
@@ -543,7 +639,9 @@
    "team": "Oklahoma City Thunder",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/cavaliers-vs-thunder-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Cavs 2-5 ATS and missing two top wing defenders on the road (-135 DK)."
+   "note": "Cavs 2-5 ATS and missing two top wing defenders on the road (-135 DK).",
+   "result": "win",
+   "final": "CLE 116 - OKC 124"
   },
   {
    "league": "NBA",
@@ -557,7 +655,10 @@
    "line": 31.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/cavaliers-vs-thunder-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "More shots with J. Williams, Wallace, Holmgren out (-117)."
+   "note": "More shots with J. Williams, Wallace, Holmgren out (-117).",
+   "result": "win",
+   "final": "CLE 116 - OKC 124; SGA 42 pts",
+   "actual": 42
   },
   {
    "league": "NBA",
@@ -569,7 +670,9 @@
    "line": -7.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/pacers-vs-grizzlies-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Indiana short-handed without Haliburton, on five-game skid (-105 DK)."
+   "note": "Indiana short-handed without Haliburton, on five-game skid (-105 DK).",
+   "result": "loss",
+   "final": "IND 107 - MEM 103"
   },
   {
    "league": "NBA",
@@ -583,7 +686,10 @@
    "line": 14.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/pacers-vs-grizzlies-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "15+ R+A in 4 of 7; Indiana 29th in rebound % (-132)."
+   "note": "15+ R+A in 4 of 7; Indiana 29th in rebound % (-132).",
+   "result": "loss",
+   "final": "IND 107 - MEM 103; Boozer 6 reb, 4 ast",
+   "actual": 10
   },
   {
    "league": "NBA",
@@ -595,7 +701,9 @@
    "line": -6.5,
    "source": "Pickswise / Filip Tomic",
    "url": "https://www.pickswise.com/nba/games/memphis-grizzlies-indiana-pacers-nba-2026-11-04-2000/picks/",
-   "note": "Injury-riddled Indiana played just six players last game (+100)."
+   "note": "Injury-riddled Indiana played just six players last game (+100).",
+   "result": "loss",
+   "final": "IND 107 - MEM 103"
   },
   {
    "league": "NBA",
@@ -606,7 +714,9 @@
    "team": "Utah Jazz",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-4-2026",
-   "note": "Prices Utah near 38% vs market 30% (Polymarket)."
+   "note": "Prices Utah near 38% vs market 30% (Polymarket).",
+   "result": "loss",
+   "final": "UTA 113 - NO 120 (OT)"
   },
   {
    "league": "NCAAB",
@@ -618,7 +728,9 @@
    "line": -2.5,
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4",
-   "note": "NKU 197th in KenPom vs. South Dakota 259th; laying under a field goal"
+   "note": "NKU 197th in KenPom vs. South Dakota 259th; laying under a field goal",
+   "result": "win",
+   "final": "NKU 102 - SDAK 94"
   },
   {
    "league": "NCAAB",
@@ -630,7 +742,9 @@
    "side": "over",
    "source": "Dimers / Mac Douglass",
    "url": "https://www.dimers.com/cbb/news/southeastern-louisiana-vs-auburn-prediction-11-04-2026-ac",
-   "note": "Model projects Auburn 90-64 (154 total); 53.5% over probability"
+   "note": "Model projects Auburn 90-64 (154 total); 53.5% over probability",
+   "result": "loss",
+   "final": "SELA 59 - AUB 92 (total 151)"
   },
   {
    "league": "NBA",
@@ -642,7 +756,9 @@
    "line": -8.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/timberwolves-vs-rockets-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Elite Houston defense; Minnesota without Anthony Edwards (-104 DK)."
+   "note": "Elite Houston defense; Minnesota without Anthony Edwards (-104 DK).",
+   "result": "loss",
+   "final": "MIN 117 - HOU 107"
   },
   {
    "league": "NBA",
@@ -656,7 +772,10 @@
    "line": 19.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/timberwolves-vs-rockets-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Only three 20-pt games, 26.3 mpg, vs top-six Houston D (-111)."
+   "note": "Only three 20-pt games, 26.3 mpg, vs top-six Houston D (-111).",
+   "result": "loss",
+   "final": "MIN 117 - HOU 107; LaMelo Ball (MIN) 20 pts",
+   "actual": 20
   },
   {
    "league": "NBA",
@@ -668,7 +787,9 @@
    "line": 7.5,
    "source": "Pickswise / Brandon Sachs",
    "url": "https://www.pickswise.com/nba/games/houston-rockets-minnesota-timberwolves-nba-2026-11-04-2030/picks/",
-   "note": "Houston missing both backup centers (-104)."
+   "note": "Houston missing both backup centers (-104).",
+   "result": "win",
+   "final": "MIN 117 - HOU 107"
   },
   {
    "league": "NBA",
@@ -680,7 +801,9 @@
    "line": -2.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/trail-blazers-vs-suns-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Phoenix frontcourt shaky; Portland defense strong (-117 DK)."
+   "note": "Phoenix frontcourt shaky; Portland defense strong (-117 DK).",
+   "result": "win",
+   "final": "POR 132 - PHX 119"
   },
   {
    "league": "NBA",
@@ -694,7 +817,10 @@
    "line": 2.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/trail-blazers-vs-suns-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Suns last in opp 3P%; Lillard 6-of-10 from deep vs them in opener (-166)."
+   "note": "Suns last in opp 3P%; Lillard 6-of-10 from deep vs them in opener (-166).",
+   "result": "loss",
+   "final": "POR 132 - PHX 119; Lillard 25 pts, 2-8 3PT",
+   "actual": 2
   },
   {
    "league": "NBA",
@@ -705,7 +831,9 @@
    "team": "Phoenix Suns",
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/nba/games/phoenix-suns-portland-trail-blazers-nba-2026-11-04-2100/picks/",
-   "note": "Line barely moved from look-ahead; unpopular Suns undervalued (+135)."
+   "note": "Line barely moved from look-ahead; unpopular Suns undervalued (+135).",
+   "result": "loss",
+   "final": "POR 132 - PHX 119"
   },
   {
    "league": "NBA",
@@ -717,7 +845,9 @@
    "line": -3.5,
    "source": "Before You Bet / Jake Smit",
    "url": "https://www.beforeyoubet.com.au/nba-betting-tips-2026-27-thursday-november-5th",
-   "note": "Phoenix last defensively and weak on boards; his strongest bet ($1.95, 1.5u)."
+   "note": "Phoenix last defensively and weak on boards; his strongest bet ($1.95, 1.5u).",
+   "result": "win",
+   "final": "POR 132 - PHX 119"
   },
   {
    "league": "NBA",
@@ -729,7 +859,9 @@
    "line": 4.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/raptors-vs-nuggets-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Denver overvalued at home after 3-3 start, 19th in net rating (-110 DK)."
+   "note": "Denver overvalued at home after 3-3 start, 19th in net rating (-110 DK).",
+   "result": "loss",
+   "final": "TOR 109 - DEN 128"
   },
   {
    "league": "NBA",
@@ -743,7 +875,10 @@
    "line": 22.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/raptors-vs-nuggets-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Heavy volume without Kawhi vs weak Denver defense (-122)."
+   "note": "Heavy volume without Kawhi vs weak Denver defense (-122).",
+   "result": "loss",
+   "final": "TOR 109 - DEN 128; Barnes 17 pts",
+   "actual": 17
   },
   {
    "league": "NBA",
@@ -755,7 +890,9 @@
    "line": 230.5,
    "source": "Pickswise / Brandon Sachs",
    "url": "https://www.pickswise.com/nba/games/denver-nuggets-toronto-raptors-nba-2026-11-04-2100/picks/",
-   "note": "Denver allows most offensive boards; Toronto leads league in them (+103)."
+   "note": "Denver allows most offensive boards; Toronto leads league in them (+103).",
+   "result": "win",
+   "final": "TOR 109 - DEN 128 (total 237)"
   },
   {
    "league": "NBA",
@@ -767,7 +904,9 @@
    "line": 11.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/mavericks-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Expects Dallas to lose but keep margin under 12 (-115 DK)."
+   "note": "Expects Dallas to lose but keep margin under 12 (-115 DK).",
+   "result": "win",
+   "final": "DAL 111 - SA 112"
   },
   {
    "league": "NBA",
@@ -781,7 +920,10 @@
    "line": 5.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/mavericks-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Averages 6.5 apg; Dallas runs offense through him (-102)."
+   "note": "Averages 6.5 apg; Dallas runs offense through him (-102).",
+   "result": "loss",
+   "final": "DAL 111 - SA 112; Flagg 19 pts, 10 reb, 5 ast",
+   "actual": 5
   },
   {
    "league": "NBA",
@@ -793,7 +935,9 @@
    "line": 12.5,
    "source": "Pickswise / Brandon Sachs",
    "url": "https://www.pickswise.com/nba/games/san-antonio-spurs-dallas-mavericks-nba-2026-11-04-2130/picks/",
-   "note": "Dallas has covered three straight as an underdog (-104)."
+   "note": "Dallas has covered three straight as an underdog (-104).",
+   "result": "win",
+   "final": "DAL 111 - SA 112"
   },
   {
    "league": "NBA",
@@ -805,7 +949,9 @@
    "line": 234.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/lakers-vs-kings-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Kings' pace plus Lakers' top-ranked offense (-110 DK)."
+   "note": "Kings' pace plus Lakers' top-ranked offense (-110 DK).",
+   "result": "loss",
+   "final": "LAL 116 - SAC 103 (total 219)"
   },
   {
    "league": "NBA",
@@ -819,7 +965,10 @@
    "line": 34.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/lakers-vs-kings-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Averaging ~38 ppg vs Kings defense ranked 28th (-106)."
+   "note": "Averaging ~38 ppg vs Kings defense ranked 28th (-106).",
+   "result": "win",
+   "final": "LAL 116 - SAC 103; Doncic 40 pts",
+   "actual": 40
   },
   {
    "league": "NBA",
@@ -831,7 +980,9 @@
    "line": 11.5,
    "source": "Dimers / Mac Douglass",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-04-2026-ac",
-   "note": "Model: 55.8% cover probability, 5.8% edge (+100)."
+   "note": "Model: 55.8% cover probability, 5.8% edge (+100).",
+   "result": "loss",
+   "final": "LAL 116 - SAC 103"
   },
   {
    "league": "NHL",
@@ -842,7 +993,9 @@
    "team": "Seattle Kraken",
    "source": "Covers / Dustin Saracini",
    "url": "https://www.covers.com/nhl/moneyline-picks-nov-4-2026",
-   "note": "Seattle's offense vs. Calgary's goaltending problems on home ice"
+   "note": "Seattle's offense vs. Calgary's goaltending problems on home ice",
+   "result": "win",
+   "final": "CGY 1 - SEA 2 (OT)"
   },
   {
    "league": "NHL",
@@ -853,7 +1006,9 @@
    "team": "Seattle Kraken",
    "source": "iHeartMedia (computer model)",
    "url": "https://ripcityradio.iheart.com/content/2026-11-03-flames-vs-kraken-prediction-picks-nov-4/",
-   "note": "Model projects Kraken 4-2 at -165"
+   "note": "Model projects Kraken 4-2 at -165",
+   "result": "win",
+   "final": "CGY 1 - SEA 2 (OT)"
   },
   {
    "league": "NHL",
@@ -864,7 +1019,9 @@
    "team": "San Jose Sharks",
    "source": "Covers / Dustin Saracini",
    "url": "https://www.covers.com/nhl/moneyline-picks-nov-4-2026",
-   "note": "San Jose power play vs. the Kings' league-worst penalty kill"
+   "note": "San Jose power play vs. the Kings' league-worst penalty kill",
+   "result": "loss",
+   "final": "SJ 2 - LA 7"
   },
   {
    "league": "NHL",
@@ -875,7 +1032,9 @@
    "team": "San Jose Sharks",
    "source": "Pickswise / Connor Grootenhuis",
    "url": "https://www.pickswise.com/nhl/games/los-angeles-kings-san-jose-sharks-nhl-2026-11-04-2200/picks/",
-   "note": "Kings allow many goals with weak goaltending; Kempe may miss (+125)"
+   "note": "Kings allow many goals with weak goaltending; Kempe may miss (+125)",
+   "result": "loss",
+   "final": "SJ 2 - LA 7"
   },
   {
    "league": "NHL",
@@ -889,7 +1048,10 @@
    "side": "over",
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-04-2026-ac",
-   "note": "Anytime goal +180 for LA; model 42.9%, a 7.1% edge"
+   "note": "Anytime goal +180 for LA; model 42.9%, a 7.1% edge",
+   "result": "loss",
+   "final": "SJ 2 - LA 7; Panarin (LA) 0 G, 4 A",
+   "actual": 0
   },
   {
    "league": "NCAAB",
@@ -901,7 +1063,9 @@
    "line": -13.5,
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4",
-   "note": "Home-court edge and talent; Gaels went 17-0 at home last season"
+   "note": "Home-court edge and talent; Gaels went 17-0 at home last season",
+   "result": "win",
+   "final": "NDSU 64 - SMC 105"
   },
   {
    "league": "NCAAB",
@@ -913,7 +1077,9 @@
    "line": 13.5,
    "source": "PredictEm / Joe Jensen",
    "url": "https://www.predictem.com/college-basketball/ndsu-vs-saint-marys-picks-odds-wednesday-in-moraga/",
-   "note": "Line overstates SMC (his gap ~10); Bison have veteran PG and experienced scorers"
+   "note": "Line overstates SMC (his gap ~10); Bison have veteran PG and experienced scorers",
+   "result": "loss",
+   "final": "NDSU 64 - SMC 105"
   },
   {
    "league": "NBA",
@@ -925,7 +1091,9 @@
    "line": -4.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/heat-vs-clippers-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "Clippers lack frontcourt depth and reliable scoring beyond Garland (-115 DK)."
+   "note": "Clippers lack frontcourt depth and reliable scoring beyond Garland (-115 DK).",
+   "result": "loss",
+   "final": "MIA 117 - LAC 116 (OT)"
   },
   {
    "league": "NBA",
@@ -939,7 +1107,10 @@
    "line": 11.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/heat-vs-clippers-prediction-odds-and-best-nba-prop-bets-for-wednesday-nov-4-2026",
-   "note": "12+ boards in 5 of 7 games; Clippers 14th in rebound % (-127)."
+   "note": "12+ boards in 5 of 7 games; Clippers 14th in rebound % (-127).",
+   "result": "win",
+   "final": "MIA 117 - LAC 116 (OT); Giannis (MIA) 14 reb",
+   "actual": 14
   },
   {
    "league": "NFL",
@@ -951,7 +1122,9 @@
    "line": -10,
    "source": "ClutchPoints (via Yahoo Sports) / Garrett Kerman",
    "url": "https://sports.yahoo.com/articles/jaguars-vs-ravens-prediction-odds-152824042.html",
-   "note": "Ravens QB injuries (Jackson IR, Huntley out) and 2-6 ATS; projects Jaguars 27-13"
+   "note": "Ravens QB injuries (Jackson IR, Huntley out) and 2-6 ATS; projects Jaguars 27-13",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -963,7 +1136,9 @@
    "line": 10.5,
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/nfl/jaguars-vs-ravens-predictions-week-9-thursday-night-football-odds-picks-and-player-props/",
-   "note": "Shop for +10/+10.5; Ravens can keep it within the number at home"
+   "note": "Shop for +10/+10.5; Ravens can keep it within the number at home",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -974,7 +1149,9 @@
    "team": "Baltimore Ravens",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/nfl/jaguars-vs-ravens-predictions-week-9-thursday-night-football-odds-picks-and-player-props/",
-   "note": "0.25u upset sprinkle at +410; NFL often defies the obvious"
+   "note": "0.25u upset sprinkle at +410; NFL often defies the obvious",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -988,7 +1165,10 @@
    "side": "over",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/nfl/jaguars-vs-ravens-predictions-week-9-thursday-night-football-odds-picks-and-player-props/",
-   "note": "Lean only (not bet): Baltimore should lean on Henry with backup QB"
+   "note": "Lean only (not bet): Baltimore should lean on Henry with backup QB",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 17 car, 57 yds",
+   "actual": 17
   },
   {
    "league": "NFL",
@@ -1002,7 +1182,10 @@
    "side": "over",
    "source": "Pickswise / Bobby Stanley",
    "url": "https://www.pickswise.com/nfl/news/jaguars-vs-ravens-player-props-best-bets-and-predictions/",
-   "note": "Negative game script pushes Baltimore toward Hill's passing-down work"
+   "note": "Negative game script pushes Baltimore toward Hill's passing-down work",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Hill 9-85 rush, 3-7 rec",
+   "actual": 92
   },
   {
    "league": "NFL",
@@ -1016,7 +1199,10 @@
    "side": "over",
    "source": "Pickswise / Bobby Stanley",
    "url": "https://www.pickswise.com/nfl/news/jaguars-vs-ravens-player-props-best-bets-and-predictions/",
-   "note": "Over this line in 5 of 7 games; 17 TD to 4 INT"
+   "note": "Over this line in 5 of 7 games; 17 TD to 4 INT",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Lawrence 16/26, 242 yds, 1 TD",
+   "actual": 1
   },
   {
    "league": "NFL",
@@ -1028,7 +1214,9 @@
    "line": -9.5,
    "source": "Sports Betting Dime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-ravens-picks-predictions-best-bets-tnf-nov-4/",
-   "note": "JAX efficiency and run defense vs a Baltimore team on a backup QB"
+   "note": "JAX efficiency and run defense vs a Baltimore team on a backup QB",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1040,7 +1228,9 @@
    "side": "under",
    "source": "Sports Betting Dime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-ravens-picks-predictions-best-bets-tnf-nov-4/",
-   "note": "Baltimore's low scoring and run-heavy plan shorten the game"
+   "note": "Baltimore's low scoring and run-heavy plan shorten the game",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NFL",
@@ -1054,7 +1244,10 @@
    "side": "over",
    "source": "Sports Betting Dime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-ravens-picks-predictions-best-bets-tnf-nov-4/",
-   "note": "Thin passing game and Justice Hill groin injury mean heavy Henry usage"
+   "note": "Thin passing game and Justice Hill groin injury mean heavy Henry usage",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 17 car, 57 yds",
+   "actual": 17
   },
   {
    "league": "NFL",
@@ -1068,7 +1261,10 @@
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-ravens-picks-predictions-best-bets-tnf-nov-4/",
    "note": "Henry is Baltimore's main red-zone option (+108)",
    "line": 0.5,
-   "side": "over"
+   "side": "over",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 17-57, 0 TD",
+   "actual": 0
   },
   {
    "league": "NFL",
@@ -1080,7 +1276,9 @@
    "line": -8.5,
    "source": "Sports Betting Dime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
-   "note": "JAX third-down/red-zone edge, +7 TO margin, NFL-best run D; Lamar out"
+   "note": "JAX third-down/red-zone edge, +7 TO margin, NFL-best run D; Lamar out",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1092,7 +1290,9 @@
    "side": "over",
    "source": "Sports Betting Dime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
-   "note": "Total fell 49.5 to 43.5; teams combine for 50.3 ppg"
+   "note": "Total fell 49.5 to 43.5; teams combine for 50.3 ppg",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NFL",
@@ -1106,7 +1306,10 @@
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
    "note": "Scored in 6 of 8 games; more goal-line reliance with Jackson out (+100)",
    "line": 0.5,
-   "side": "over"
+   "side": "over",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 17-57, 0 TD",
+   "actual": 0
   },
   {
    "league": "NFL",
@@ -1118,7 +1321,9 @@
    "line": -9.5,
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/jaguars-vs-ravens-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Rookie Fagnano likely starts; JAX 12-3-1 ATS last 16 as favorite"
+   "note": "Rookie Fagnano likely starts; JAX 12-3-1 ATS last 16 as favorite",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1130,7 +1335,9 @@
    "side": "under",
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/jaguars-vs-ravens-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Lean: BAL averaging 11 ppg last three; JAX road games trending Under"
+   "note": "Lean: BAL averaging 11 ppg last three; JAX road games trending Under",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NFL",
@@ -1142,7 +1349,9 @@
    "side": "over",
    "source": "CBS Sports / Daniel Kohn (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/jaguars-ravens-prediction-odds-time-nfl-week-9-thursday-night-football-picks/",
-   "note": "Model projects 48 combined points; Over hits 60% of sims"
+   "note": "Model projects 48 combined points; Over hits 60% of sims",
+   "result": "win",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NFL",
@@ -1154,7 +1363,9 @@
    "line": 8.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nfl/news/jacksonville-jaguars-vs-baltimore-ravens-early-prediction-nfl-week-9-2026-ac",
-   "note": "Model lean: Ravens cover 53.7% in 10,000 sims; projects JAX 24-16"
+   "note": "Model lean: Ravens cover 53.7% in 10,000 sims; projects JAX 24-16",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1166,7 +1377,9 @@
    "side": "under",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nfl/news/jacksonville-jaguars-vs-baltimore-ravens-early-prediction-nfl-week-9-2026-ac",
-   "note": "Model lean: Under 54.9% in 10,000 sims"
+   "note": "Model lean: Under 54.9% in 10,000 sims",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NFL",
@@ -1177,7 +1390,9 @@
    "team": "Jacksonville Jaguars",
    "source": "FanDuel Research / Data Skrive (numberFire)",
    "url": "https://www.fanduel.com/research/jaguars-vs-ravens-predictions-odds-picks-best-bets-for-nfl-week-9-thursday-night-football-2026",
-   "note": "numberFire gives Jaguars a 72.1% win probability"
+   "note": "numberFire gives Jaguars a 72.1% win probability",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1189,7 +1404,9 @@
    "line": -8.5,
    "source": "The Grueling Truth / James Ernest",
    "url": "https://thegruelingtruth.com/football/nfl/week-9-jacksonville-jaguars-at-baltimore-ravens-2026/",
-   "note": "Best bet: Ravens QB injuries; predicts Jaguars 27-13"
+   "note": "Best bet: Ravens QB injuries; predicts Jaguars 27-13",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -1201,7 +1418,9 @@
    "side": "under",
    "source": "The Grueling Truth / James Ernest",
    "url": "https://thegruelingtruth.com/football/nfl/week-9-jacksonville-jaguars-at-baltimore-ravens-2026/",
-   "note": "Baltimore offense struggles to sustain drives vs strong JAX defense"
+   "note": "Baltimore offense struggles to sustain drives vs strong JAX defense",
+   "result": "win",
+   "final": "JAX 33 - BAL 10 (total 43)"
   },
   {
    "league": "NBA",
@@ -1212,7 +1431,9 @@
    "team": "Phoenix Suns",
    "source": "Pickswise (model, no named author)",
    "url": "https://www.pickswise.com/nba/games/phoenix-suns-orlando-magic-nba-2026-11-05-2100/",
-   "note": "Best moneyline per model: PHX 52.1% win prob (-109 Polymarket)."
+   "note": "Best moneyline per model: PHX 52.1% win prob (-109 Polymarket).",
+   "result": "win",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NBA",
@@ -1223,7 +1444,9 @@
    "team": "Golden State Warriors",
    "source": "Pickswise (model, no named author)",
    "url": "https://www.pickswise.com/nba/games/golden-state-warriors-miami-heat-nba-2026-11-05-2200/",
-   "note": "Best moneyline per model: GSW 56.4% win prob (-164 Polymarket)."
+   "note": "Best moneyline per model: GSW 56.4% win prob (-164 Polymarket).",
+   "result": "win",
+   "final": "MIA 100 - GSW 120"
   }
  ]
 }
