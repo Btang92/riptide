@@ -34,7 +34,7 @@ Goal: find changes that make RIPTIDE more profitable after Kalshi fees, prove th
    If the change needs new server code (riptide-server.gs), say so in the proposal (`needsServer: true`); do not try to change the server.
 6. File the report with `node lab/post.mjs report.json notebook.json` (use `-` in place of report.json to save only the notebook). The lab scripts retry on their own; Google's server is slow or flaky now and then, and a full download can take a few minutes.
    Do not file a report whose proposal points at a version you didn't push today; the latest report replaces any earlier proposal in the app.
-   Exception: until the live version is 2026-11-07a or newer, a report with no proposal of its own carries `{ ver: "2026-11-07a", title: "Fix \"browser storage full\"", detail: "Trims the oldest local history when the browser fills up; your calls and settings are kept, full history stays on the server.", needsServer: false }`.
+   Exception: until the live version is 2026-11-07b or newer, a report with no proposal of its own carries `{ ver: "2026-11-07b", title: "Bet of the Day + Polymarket leaderboard fix", detail: "Adds the 🔥 Bet of the Day tab (single through max legs, researched daily) and moves the sharp-money check to Polymarket's new v2 data API.", needsServer: false }`.
    - report: `{ at, title, summary (one line), text (plain-language paragraph), tests: [{ name, result, win }], proposal: { ver, title, detail, needsServer } | null }`
    - notebook: `{ at, entries: [...] }`. Keep everything still useful from the previous notebook, add today's results, and keep it under ~40 KB.
 7. Keep the report plain and honest. If nothing beat the live model, say so; no proposal that day is a normal result.
