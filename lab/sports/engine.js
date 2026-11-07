@@ -141,10 +141,11 @@ function add(x){const vals=Object.values(x.src);const fair=vals.length?vals.redu
   legs.push({...x,id:x.m.ticker+":"+x.side,ticker:x.m.ticker,mtitle:x.m.title,fair,spread,cost,edge,nSrc:vals.length+(x.nBooks?x.nBooks-1:0),start:x.g.start,league:x.g.lname,
     kMove:prevY!=null&&x.side==="yes"?cents(x.m,"yes_ask")-prevY:null,flags:[],boost:[]});}
 // ---- sharp money: Polymarket top sports traders ----
-let leaders=[];try{const a=await io.json(`${DATA}/v1/leaderboard?category=SPORTS&timePeriod=MONTH&orderBy=PNL&limit=50`),b=await io.json(`${DATA}/v1/leaderboard?category=SPORTS&timePeriod=ALL&orderBy=PNL&limit=50`);
-  const seen=new Set();for(const u of [...a,...b])if(!seen.has(u.proxyWallet)){seen.add(u.proxyWallet);leaders.push(u);}}catch(e){notes.push("Polymarket leaderboard: "+e.message);}
+const pmRows=j=>(Array.isArray(j)?j:(j&&j.data)||[]);
+let leaders=[];try{const lb=t=>io.json(`${DATA}/v2/leaderboard?category=SPORTS&timePeriod=${t}&orderBy=PNL&limit=50`).then(j=>pmRows(j).map(u=>({proxyWallet:u.user_id||u.proxyWallet,userName:u.user_name||u.userName})));const a=await lb("MONTH"),b=await lb("ALL");
+  const seen=new Set();for(const u of [...a,...b])if(u.proxyWallet&&!seen.has(u.proxyWallet)){seen.add(u.proxyWallet);leaders.push(u);}}catch(e){notes.push("Polymarket leaderboard: "+e.message);}
 const bySlug={};for(const l of legs)for(const r of l.pmRef||[])(bySlug[r.slug]??=[]).push({l,out:r.out});
-if(leaders.length&&Object.keys(bySlug).length){const res=await Promise.allSettled(leaders.map(u=>io.json(`${DATA}/positions?user=${u.proxyWallet}&limit=500&sizeThreshold=1`).then(ps=>[u,ps])));
+if(leaders.length&&Object.keys(bySlug).length){const res=await Promise.allSettled(leaders.map(u=>io.json(`${DATA}/v2/positions?user=${u.proxyWallet}&limit=500&sizeThreshold=1`).then(j=>[u,pmRows(j).map(p=>({slug:p.slug,outcome:p.outcome,redeemable:p.redeemable,currentValue:p.current_value??p.currentValue}))])));
   for(const r of res){if(r.status!=="fulfilled")continue;const[u,ps]=r.value;const nm=u.userName||u.proxyWallet.slice(0,8);
     for(const p of ps||[]){const refs=bySlug[p.slug];if(!refs||p.redeemable)continue;const v=+p.currentValue||0;if(v<50)continue;
       for(const{l,out}of refs){const neg=out.startsWith("!"),o=neg?out.slice(1):out;const backs=(p.outcome===o)!==neg;const s=(l.sharp??={f:0,a:0,fn:[],an:[]});if(backs){s.f+=v;if(!s.fn.includes(nm))s.fn.push(nm);}else{s.a+=v;if(!s.an.includes(nm))s.an.push(nm);}}}}}
