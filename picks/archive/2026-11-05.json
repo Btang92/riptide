@@ -11,7 +11,9 @@
    "side": "under",
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 55.4% under"
+   "note": "Model 55.4% under",
+   "result": "loss",
+   "final": "BELL 69 - IU 92"
   },
   {
    "league": "NCAAB",
@@ -23,7 +25,9 @@
    "line": 17.5,
    "source": "Action Network (via Yahoo) / Sean Paul",
    "url": "https://sports.yahoo.com/articles/wake-forest-vs-vanderbilt-prediction-110104762.html",
-   "note": "Line feels high; Wake forces turnovers (25% TO rate in opener); play to +15.5"
+   "note": "Line feels high; Wake forces turnovers (25% TO rate in opener); play to +15.5",
+   "result": "loss",
+   "final": "WAKE 51 - VAN 74"
   },
   {
    "league": "NCAAB",
@@ -35,7 +39,9 @@
    "line": -17.5,
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "Seton Hall defense creates separation"
+   "note": "Seton Hall defense creates separation",
+   "result": "loss",
+   "final": "LIU 60 - HALL 67"
   },
   {
    "league": "NCAAB",
@@ -47,7 +53,9 @@
    "line": 3.5,
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 55.8% cover"
+   "note": "Model 55.8% cover",
+   "result": "win",
+   "final": "UALB 72 - MAN 68"
   },
   {
    "league": "NCAAB",
@@ -59,7 +67,9 @@
    "line": 3.5,
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 58.4% cover"
+   "note": "Model 58.4% cover",
+   "result": "loss",
+   "final": "UMBC 80 - MRST 88"
   },
   {
    "league": "NHL",
@@ -70,7 +80,9 @@
    "team": "Dallas Stars",
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/nhl-picks-today-predictions-props-best-bets-thursday-nov-5",
-   "note": "Strong DAL defense/PK; CBJ PP 17.1%; DAL won earlier meeting"
+   "note": "Strong DAL defense/PK; CBJ PP 17.1%; DAL won earlier meeting",
+   "result": "loss",
+   "final": "DAL 1 - CBJ 2 (SO)"
   },
   {
    "league": "NHL",
@@ -84,7 +96,9 @@
    "stat": "assists",
    "source": "DK Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/05/nhl-player-props-november-5/",
-   "note": "Assist in 11 straight; Detroit PK ranks poorly"
+   "note": "Assist in 11 straight; Detroit PK ranks poorly",
+   "result": "loss",
+   "final": "VGK 2 - DET 1; Marner 0 A"
   },
   {
    "league": "NHL",
@@ -98,7 +112,9 @@
    "stat": "goals",
    "source": "Dimers / Jason Bevilacqua (model)",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-05-2026-ac",
-   "note": "Anytime goal +200; model 37.4%, 4.0% edge"
+   "note": "Anytime goal +200; model 37.4%, 4.0% edge",
+   "result": "loss",
+   "final": "VGK 2 - DET 1; Arvidsson 0 G"
   },
   {
    "league": "NHL",
@@ -112,7 +128,9 @@
    "stat": "goals",
    "source": "Dimers / Jason Bevilacqua (model)",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-05-2026-ac",
-   "note": "Anytime goal +145; model 45.7%, 4.9% edge"
+   "note": "Anytime goal +145; model 45.7%, 4.9% edge",
+   "result": "win",
+   "final": "UTA 4 - MTL 5 (OT); Caufield 1 G"
   },
   {
    "league": "NHL",
@@ -123,7 +141,9 @@
    "team": "Carolina Hurricanes",
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/nhl-picks-today-predictions-props-best-bets-thursday-nov-5",
-   "note": "12-3-2 Carolina with clear shot-generation edge"
+   "note": "12-3-2 Carolina with clear shot-generation edge",
+   "result": "win",
+   "final": "CAR 5 - NYI 3"
   },
   {
    "league": "NHL",
@@ -135,7 +155,9 @@
    "line": 1.5,
    "source": "Dimers / Dimers Data (model)",
    "url": "https://www.dimers.com/nhl/news/carolina-hurricanes-vs-ny-islanders-prediction-11-05-2026-ac",
-   "note": "Model 62.4% cover vs 61% implied"
+   "note": "Model 62.4% cover vs 61% implied",
+   "result": "loss",
+   "final": "CAR 5 - NYI 3"
   },
   {
    "league": "NHL",
@@ -149,7 +171,9 @@
    "stat": "shots on goal",
    "source": "DK Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/05/nhl-player-props-november-5/",
-   "note": "3+ shots in 7 of 10 since return; top PP focal point"
+   "note": "3+ shots in 7 of 10 since return; top PP focal point",
+   "result": "win",
+   "final": "CHI 1 - TB 4; Bedard 4 SOG"
   },
   {
    "league": "NHL",
@@ -163,7 +187,9 @@
    "stat": "goals",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-5-picks-predictions/",
-   "note": "Scored in 4 straight, plays with Kucherov; CHI allows heavy shots"
+   "note": "Scored in 4 straight, plays with Kucherov; CHI allows heavy shots",
+   "result": "loss",
+   "final": "CHI 1 - TB 4; Point 0 G"
   },
   {
    "league": "NHL",
@@ -177,7 +203,9 @@
    "stat": "goals",
    "source": "Dimers / Jason Bevilacqua (model)",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-05-2026-ac",
-   "note": "Anytime goal +300; model 35.3%, 10.3% edge"
+   "note": "Anytime goal +300; model 35.3%, 10.3% edge",
+   "result": "win",
+   "final": "CHI 1 - TB 4; Kantserov 1 G"
   },
   {
    "league": "NHL",
@@ -189,7 +217,9 @@
    "line": 1.5,
    "source": "Dimers / Dimers Data (model)",
    "url": "https://www.dimers.com/nhl/news/chicago-blackhawks-vs-tampa-bay-lightning-prediction-11-05-2026-ac",
-   "note": "Model 47.4% cover vs 40.5% implied"
+   "note": "Model 47.4% cover vs 40.5% implied",
+   "result": "loss",
+   "final": "CHI 1 - TB 4"
   },
   {
    "league": "NCAAB",
@@ -201,7 +231,9 @@
    "line": 11.5,
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 55.9% cover"
+   "note": "Model 55.9% cover",
+   "result": "win",
+   "final": "JKST 87 - TULN 85"
   },
   {
    "league": "NCAAF",
@@ -213,7 +245,9 @@
    "side": "over",
    "source": "SportsBettingDime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/college-football/thursday-picks-predictions-best-bets-nov-5/",
-   "note": "UTSA rushing attack plus extra possessions; FAU's last game went 48-41"
+   "note": "UTSA rushing attack plus extra possessions; FAU's last game went 48-41",
+   "result": "win",
+   "final": "UTSA 29 - FAU 60"
   },
   {
    "league": "NCAAF",
@@ -225,7 +259,9 @@
    "line": -7,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/college-football/utsa-at-florida-atlantic-prediction-thursday-cfb-odds-pick/",
-   "note": "UTSA run game vs bottom-tier FAU run D; projects 41-30"
+   "note": "UTSA run game vs bottom-tier FAU run D; projects 41-30",
+   "result": "loss",
+   "final": "UTSA 29 - FAU 60"
   },
   {
    "league": "NCAAB",
@@ -237,7 +273,9 @@
    "line": -40.5,
    "source": "Pickswise / Robby Nardini",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "Duke rebounds from poor shooting; Coastal shoots 29% from three"
+   "note": "Duke rebounds from poor shooting; Coastal shoots 29% from three",
+   "result": "win",
+   "final": "CCU 52 - DUKE 113"
   },
   {
    "league": "NCAAB",
@@ -249,7 +287,9 @@
    "line": 31.5,
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 52% cover, 8.1% edge at +128"
+   "note": "Model 52% cover, 8.1% edge at +128",
+   "result": "win",
+   "final": "JAX 57 - FLA 88"
   },
   {
    "league": "NCAAB",
@@ -261,7 +301,9 @@
    "line": -35.5,
    "source": "Pickswise / Jason Fragomeni",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "Big step up for Jacksonville; Florida returns most of roster"
+   "note": "Big step up for Jacksonville; Florida returns most of roster",
+   "result": "loss",
+   "final": "JAX 57 - FLA 88"
   },
   {
    "league": "NCAAB",
@@ -273,7 +315,9 @@
    "line": 27.5,
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "Inflated spread; MSU look-ahead to Duke"
+   "note": "Inflated spread; MSU look-ahead to Duke",
+   "result": "loss",
+   "final": "TOL 61 - MSU 91"
   },
   {
    "league": "NCAAB",
@@ -285,7 +329,9 @@
    "line": 38.5,
    "source": "Dimers / Dave Garofolo (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-05-2026-ac",
-   "note": "Model 57% cover"
+   "note": "Model 57% cover",
+   "result": "loss",
+   "final": "GWEB 50 - TEX 98"
   },
   {
    "league": "NCAAF",
@@ -297,7 +343,9 @@
    "line": -14.5,
    "source": "SportsBettingDime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/college-football/thursday-picks-predictions-best-bets-nov-5/",
-   "note": "Balanced JMU offense, red-zone scoring and stingy D"
+   "note": "Balanced JMU offense, red-zone scoring and stingy D",
+   "result": "win",
+   "final": "JMU 54 - USM 23"
   },
   {
    "league": "NCAAF",
@@ -309,7 +357,9 @@
    "side": "over",
    "source": "WagerTalk / GoldSheet",
    "url": "https://wagertalk.com/news/college-football/james-madison-vs-southern-miss-prediction-picks-odds-november-4-2026",
-   "note": "Best bet: USM games avg 61.8 pts, defense among Sun Belt's worst"
+   "note": "Best bet: USM games avg 61.8 pts, defense among Sun Belt's worst",
+   "result": "win",
+   "final": "JMU 54 - USM 23"
   },
   {
    "league": "NCAAF",
@@ -321,7 +371,9 @@
    "line": -14.5,
    "source": "WagerTalk / GoldSheet",
    "url": "https://wagertalk.com/news/college-football/james-madison-vs-southern-miss-prediction-picks-odds-november-4-2026",
-   "note": "Lean: extra rest after two losses vs leaky defense; projects 38-21"
+   "note": "Lean: extra rest after two losses vs leaky defense; projects 38-21",
+   "result": "win",
+   "final": "JMU 54 - USM 23"
   },
   {
    "league": "NHL",
@@ -335,7 +387,9 @@
    "stat": "assists",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-5-picks-predictions/",
-   "note": "31 assists in 16 games; Ducks take many penalties"
+   "note": "31 assists in 16 games; Ducks take many penalties",
+   "result": "win",
+   "final": "ANA 5 - EDM 4; McDavid 3 A"
   },
   {
    "league": "NHL",
@@ -349,7 +403,9 @@
    "stat": "shots on goal",
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/nhl-picks-today-predictions-props-best-bets-thursday-nov-5",
-   "note": "Averages 4+ shots; 3.75 in 8 games vs EDM"
+   "note": "Averages 4+ shots; 3.75 in 8 games vs EDM",
+   "result": "loss",
+   "final": "ANA 5 - EDM 4; Gauthier 3 SOG"
   },
   {
    "league": "NHL",
@@ -360,7 +416,9 @@
    "team": "Winnipeg Jets",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-5-picks-predictions/",
-   "note": "3-way regulation ML (-140); Canucks lost 3 straight"
+   "note": "3-way regulation ML (-140); Canucks lost 3 straight",
+   "result": "win",
+   "final": "VAN 2 - WPG 6"
   },
   {
    "league": "NHL",
@@ -374,7 +432,9 @@
    "stat": "goals",
    "source": "Dimers / Jason Bevilacqua (model)",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-05-2026-ac",
-   "note": "Anytime goal +110; model 48.9%"
+   "note": "Anytime goal +110; model 48.9%",
+   "result": "loss",
+   "final": "VAN 2 - WPG 6; Connor 0 G"
   },
   {
    "league": "NFL",
@@ -386,7 +446,9 @@
    "line": -8.5,
    "source": "SI / Iain MacMillan",
    "url": "https://www.si.com/betting/best-nfl-picks-and-predictions-today-how-to-bet-jaguars-vs-ravens-on-thursday-night-football-in-nfl-week-9-2026",
-   "note": "Ravens QB situation leaves few options vs a top Jaguars run defense"
+   "note": "Ravens QB situation leaves few options vs a top Jaguars run defense",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -400,7 +462,9 @@
    "stat": "touchdowns",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nfl-picks-and-predictions-today-how-to-bet-jaguars-vs-ravens-on-thursday-night-football-in-nfl-week-9-2026",
-   "note": "Tuten has heavy workload and 6 TDs in 7 games; run-heavy script expected"
+   "note": "Tuten has heavy workload and 6 TDs in 7 games; run-heavy script expected",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Tuten 1 TD (rush)"
   },
   {
    "league": "NFL",
@@ -414,7 +478,9 @@
    "stat": "pass attempts",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nfl-picks-and-predictions-today-how-to-bet-jaguars-vs-ravens-on-thursday-night-football-in-nfl-week-9-2026",
-   "note": "Big Jaguars favorite running the ball; Lawrence threw 14 times in Week 8"
+   "note": "Big Jaguars favorite running the ball; Lawrence threw 14 times in Week 8",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Lawrence 26 pass att"
   },
   {
    "league": "NFL",
@@ -428,7 +494,9 @@
    "stat": "rushing yards",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nfl-picks-and-predictions-today-how-to-bet-jaguars-vs-ravens-on-thursday-night-football-in-nfl-week-9-2026",
-   "note": "Jaguars expected to stack the box; bad game script, only 11 carries in Week 8"
+   "note": "Jaguars expected to stack the box; bad game script, only 11 carries in Week 8",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Henry 57 rush yds"
   },
   {
    "league": "NFL",
@@ -440,7 +508,9 @@
    "line": -7.5,
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/jaguars-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
-   "note": "Lamar on IR, likely third-string QB on short week vs top-5 EPA Jaguars (Nov 2 pick)"
+   "note": "Lamar on IR, likely third-string QB on short week vs top-5 EPA Jaguars (Nov 2 pick)",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -452,7 +522,9 @@
    "line": -10,
    "source": "ClutchPoints (via Yahoo) / Garrett Kerman",
    "url": "https://sports.yahoo.com/articles/jaguars-vs-ravens-prediction-odds-152824042.html",
-   "note": "Ravens QB injuries and 2-6 ATS; projects Jaguars 27-13"
+   "note": "Ravens QB injuries and 2-6 ATS; projects Jaguars 27-13",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -464,7 +536,9 @@
    "line": 10,
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/nfl/jaguars-vs-ravens-odds-picks-and-prediction-november-5-2026/",
-   "note": "Best bet: market overreacted to QB downgrade; Ravens keep Henry, defense, home field"
+   "note": "Best bet: market overreacted to QB downgrade; Ravens keep Henry, defense, home field",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -476,7 +550,9 @@
    "side": "under",
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/nfl/jaguars-vs-ravens-odds-picks-and-prediction-november-5-2026/",
-   "note": "Rookie third-string QB and Jaguars run-heavy approach = slow game"
+   "note": "Rookie third-string QB and Jaguars run-heavy approach = slow game",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -488,7 +564,9 @@
    "line": -9.5,
    "source": "SportsbookReview / Liam Fox",
    "url": "https://www.sportsbookreview.com/picks/nfl/jaguars-vs-ravens-prediction-odds-picks-week-9-2026/",
-   "note": "Unproven Ravens QB group vs strong Jaguars defense (0.5u)"
+   "note": "Unproven Ravens QB group vs strong Jaguars defense (0.5u)",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -500,7 +578,9 @@
    "side": "under",
    "source": "SportsbookReview / Liam Fox",
    "url": "https://www.sportsbookreview.com/picks/nfl/jaguars-vs-ravens-prediction-odds-picks-week-9-2026/",
-   "note": "Best bet: inexperienced QBs, short week; article says play to 40.5"
+   "note": "Best bet: inexperienced QBs, short week; article says play to 40.5",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -514,7 +594,9 @@
    "stat": "passing yards",
    "source": "Action Network (via Yahoo) / Sam Farley",
    "url": "https://sports.yahoo.com/articles/jaguars-vs-ravens-player-props-030005745.html",
-   "note": "Backup Ravens QB, likely blowout and rain limit passing; under in 4 of 7"
+   "note": "Backup Ravens QB, likely blowout and rain limit passing; under in 4 of 7",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Lawrence 242 pass yds"
   },
   {
    "league": "NFL",
@@ -528,7 +610,9 @@
    "stat": "rushing yards",
    "source": "Action Network (via Yahoo) / Sam Farley",
    "url": "https://sports.yahoo.com/articles/jaguars-vs-ravens-player-props-030005745.html",
-   "note": "Big carry share in Week 8, Tuten questionable"
+   "note": "Big carry share in Week 8, Tuten questionable",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Rodriguez 19 rush yds"
   },
   {
    "league": "NFL",
@@ -542,7 +626,9 @@
    "stat": "rushing yards",
    "source": "Action Network (via Yahoo) / Sam Farley",
    "url": "https://sports.yahoo.com/articles/jaguars-vs-ravens-player-props-030005745.html",
-   "note": "No Lamar threat, 4.0 YPC, league's stingiest run D"
+   "note": "No Lamar threat, 4.0 YPC, league's stingiest run D",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Henry 57 rush yds"
   },
   {
    "league": "NFL",
@@ -554,7 +640,9 @@
    "line": -8.5,
    "source": "SportsBettingDime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
-   "note": "Jaguars' 3rd-down, red-zone and turnover edges vs Lamar-less offense"
+   "note": "Jaguars' 3rd-down, red-zone and turnover edges vs Lamar-less offense",
+   "result": "win",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -566,7 +654,9 @@
    "side": "over",
    "source": "SportsBettingDime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
-   "note": "Total fell 49.5 to 43.5; scoring averages say too low (Nov 2-3 pick)"
+   "note": "Total fell 49.5 to 43.5; scoring averages say too low (Nov 2-3 pick)",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10"
   },
   {
    "league": "NFL",
@@ -580,7 +670,9 @@
    "stat": "touchdowns",
    "source": "SportsBettingDime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/jaguars-vs-ravens-odds-predictions-and-week-9-betting-picks/",
-   "note": "Ravens lean on Henry at the goal line; scored in 6 of 8"
+   "note": "Ravens lean on Henry at the goal line; scored in 6 of 8",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 0 TD"
   },
   {
    "league": "NFL",
@@ -594,7 +686,9 @@
    "stat": "rushing yards",
    "source": "BettorsInsider / Earnest Horn",
    "url": "https://bettorsinsider.com/sports-betting/2026/11/04/3-skill-position-props-to-back-for-jaguars-vs-ravens-on-tnf/",
-   "note": "No reliable Ravens passer keeps Henry's workload up"
+   "note": "No reliable Ravens passer keeps Henry's workload up",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Henry 57 rush yds"
   },
   {
    "league": "NFL",
@@ -608,7 +702,9 @@
    "stat": "receiving yards",
    "source": "BettorsInsider / Earnest Horn",
    "url": "https://bettorsinsider.com/sports-betting/2026/11/04/3-skill-position-props-to-back-for-jaguars-vs-ravens-on-tnf/",
-   "note": "Efficient target; Ravens allow heavy WR receiving yardage"
+   "note": "Efficient target; Ravens allow heavy WR receiving yardage",
+   "result": "win",
+   "final": "JAX 33 - BAL 10; Washington 61 rec yds"
   },
   {
    "league": "NFL",
@@ -622,7 +718,9 @@
    "stat": "receiving yards",
    "source": "BettorsInsider / Earnest Horn",
    "url": "https://bettorsinsider.com/sports-betting/2026/11/04/3-skill-position-props-to-back-for-jaguars-vs-ravens-on-tnf/",
-   "note": "Jaguars weak vs pass; Flowers leads air-yard share"
+   "note": "Jaguars weak vs pass; Flowers leads air-yard share",
+   "result": "loss",
+   "final": "JAX 33 - BAL 10; Flowers 6 rec yds"
   },
   {
    "league": "NCAAB",
@@ -634,7 +732,9 @@
    "line": -6.5,
    "source": "Pickswise / Chad Hartsock",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "DePaul frontcourt size and veteran PG; USF on 4th coach in 4 years"
+   "note": "DePaul frontcourt size and veteran PG; USF on 4th coach in 4 years",
+   "result": "loss",
+   "final": "USF 80 - DEP 82"
   },
   {
    "league": "NCAAB",
@@ -646,7 +746,9 @@
    "line": -30.5,
    "source": "Pickswise / Jason Fragomeni",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "Clear talent and depth edge"
+   "note": "Clear talent and depth edge",
+   "result": "win",
+   "final": "PENN 70 - ILL 112"
   },
   {
    "league": "NBA",
@@ -660,7 +762,9 @@
    "stat": "points + rebounds + assists",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-bam-adebayo-anthony-black-and-steph-curry-on-thursday",
-   "note": "Banchero and Suggs out; Phoenix near bottom in defensive rating"
+   "note": "Banchero and Suggs out; Phoenix near bottom in defensive rating",
+   "result": "loss",
+   "final": "ORL 104 - PHX 117; Black 23 PRA (10/7/6)"
   },
   {
    "league": "NBA",
@@ -671,7 +775,9 @@
    "team": "Phoenix Suns",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-5-2026",
-   "note": "Prices Phoenix ~58% vs 53% market; Suggs out"
+   "note": "Prices Phoenix ~58% vs 53% market; Suggs out",
+   "result": "win",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NBA",
@@ -682,7 +788,9 @@
    "team": "Phoenix Suns",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-05-2026-ac",
-   "note": "Model 56.1% win"
+   "note": "Model 56.1% win",
+   "result": "win",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NBA",
@@ -694,7 +802,9 @@
    "line": -2.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-05-2026-ac",
-   "note": "Model 55.2% cover"
+   "note": "Model 55.2% cover",
+   "result": "win",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NBA",
@@ -706,7 +816,9 @@
    "line": 1.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/magic-at-suns-prediction-nba-best-bet-for-thursday-night/",
-   "note": "Lean: Suns on B2B after rough loss; projects Magic 112-110"
+   "note": "Lean: Suns on B2B after rough loss; projects Magic 112-110",
+   "result": "loss",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NBA",
@@ -717,7 +829,9 @@
    "team": "Phoenix Suns",
    "source": "FanDuel Research / numberFire model (Data Skrive)",
    "url": "https://www.fanduel.com/research/suns-vs-magic-prediction-nba-odds-spread-best-bets-for-11-5-2026",
-   "note": "numberFire 58.4% Suns win"
+   "note": "numberFire 58.4% Suns win",
+   "result": "win",
+   "final": "ORL 104 - PHX 117"
   },
   {
    "league": "NHL",
@@ -731,7 +845,9 @@
    "stat": "shots on goal",
    "source": "DK Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/05/nhl-player-props-november-5/",
-   "note": "35 shots over last 10, 25+ min a night"
+   "note": "35 shots over last 10, 25+ min a night",
+   "result": "loss",
+   "final": "NSH 3 - COL 2 (OT); Josi 2 SOG"
   },
   {
    "league": "NBA",
@@ -745,7 +861,9 @@
    "stat": "3-pointers made",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-bam-adebayo-anthony-black-and-steph-curry-on-thursday",
-   "note": "5+ threes in 3 straight; Miami last in opponent 3PM"
+   "note": "5+ threes in 3 straight; Miami last in opponent 3PM",
+   "result": "win",
+   "final": "MIA 100 - GS 120; Curry 6 3PM"
   },
   {
    "league": "NBA",
@@ -759,7 +877,9 @@
    "stat": "rebounds",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-bam-adebayo-anthony-black-and-steph-curry-on-thursday",
-   "note": "Averages 8.3 reb, cleared 9.5 once; GSW strong on glass"
+   "note": "Averages 8.3 reb, cleared 9.5 once; GSW strong on glass",
+   "result": "loss",
+   "final": "MIA 100 - GS 120; Adebayo 10 reb"
   },
   {
    "league": "NBA",
@@ -770,7 +890,9 @@
    "team": "Miami Heat",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-5-2026",
-   "note": "Prices Miami ~42% vs 39%; thin edge, back-to-back caution"
+   "note": "Prices Miami ~42% vs 39%; thin edge, back-to-back caution",
+   "result": "loss",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NBA",
@@ -782,7 +904,9 @@
    "line": 4.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-05-2026-ac",
-   "note": "Model 57.5% cover"
+   "note": "Model 57.5% cover",
+   "result": "loss",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NBA",
@@ -794,7 +918,9 @@
    "line": 7.5,
    "source": "Dimers / Dimers Data (model)",
    "url": "https://www.dimers.com/nba/news/miami-heat-vs-golden-state-warriors-prediction-11-05-2026-ac",
-   "note": "Model 54.2% cover vs 51.9% implied"
+   "note": "Model 54.2% cover vs 51.9% implied",
+   "result": "loss",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NBA",
@@ -806,7 +932,9 @@
    "side": "over",
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/nba/heat-vs-warriors-predictions-picks-and-odds-november-5-2026/",
-   "note": "Best bet: rested Warriors push pace vs Heat on back-to-back"
+   "note": "Best bet: rested Warriors push pace vs Heat on back-to-back",
+   "result": "loss",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NBA",
@@ -818,7 +946,9 @@
    "line": -7.5,
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/nba/heat-vs-warriors-predictions-picks-and-odds-november-5-2026/",
-   "note": "Lean: rest edge and form; projects 124-114"
+   "note": "Lean: rest edge and form; projects 124-114",
+   "result": "win",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NBA",
@@ -830,7 +960,9 @@
    "line": -7.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/heat-vs-warriors-best-bet-nba-pick-for-thursday-night/",
-   "note": "Miami 2nd night of B2B after OT game; poor defense"
+   "note": "Miami 2nd night of B2B after OT game; poor defense",
+   "result": "win",
+   "final": "MIA 100 - GS 120"
   },
   {
    "league": "NCAAB",
@@ -842,7 +974,9 @@
    "line": 30.5,
    "source": "Pickswise / Napier Montgomery",
    "url": "https://www.pickswise.com/college-basketball/picks/",
-   "note": "High total and Cal Poly pace create backdoor chances"
+   "note": "High total and Cal Poly pace create backdoor chances",
+   "result": "win",
+   "final": "CP 84 - ARIZ 104"
   },
   {
    "league": "NCAAF",
@@ -854,7 +988,9 @@
    "line": 6,
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/college-football/virginia-tech-vs-smu-prediction-picks-odds-november-6-2026/",
-   "note": "Best bet: rested VT on 2-game streak; SMU inconsistent; projects 27-24"
+   "note": "Best bet: rested VT on 2-game streak; SMU inconsistent; projects 27-24",
+   "result": "loss",
+   "final": "VT 28 - SMU 51"
   },
   {
    "league": "NCAAF",
@@ -866,7 +1002,9 @@
    "side": "under",
    "source": "WagerTalk / GoldSheet",
    "url": "https://www.wagertalk.com/news/college-football/virginia-tech-vs-smu-prediction-picks-odds-november-6-2026/",
-   "note": "VT extra prep limits SMU QB; SMU slow starts"
+   "note": "VT extra prep limits SMU QB; SMU slow starts",
+   "result": "loss",
+   "final": "VT 28 - SMU 51"
   },
   {
    "league": "NCAAF",
@@ -878,7 +1016,9 @@
    "line": 6,
    "source": "SI / Ryan Gilbert",
    "url": "https://www.si.com/betting/virginia-tech-vs-smu-prediction-odds-and-key-players-to-watch-for-college-football-week-10-2026",
-   "note": "VT hasn't lost by more than 5; off a bye"
+   "note": "VT hasn't lost by more than 5; off a bye",
+   "result": "loss",
+   "final": "VT 28 - SMU 51"
   },
   {
    "league": "NCAAF",
@@ -890,7 +1030,9 @@
    "line": 4.5,
    "source": "SI / Ryan Gilbert",
    "url": "https://www.si.com/betting/nebraska-vs-illinois-prediction-odds-and-key-players-to-watch-for-college-football-week-10-2026",
-   "note": "Illinois won 3 straight at home incl. Oregon; Nebraska lost 3 in a row"
+   "note": "Illinois won 3 straight at home incl. Oregon; Nebraska lost 3 in a row",
+   "result": "win",
+   "final": "NEB 13 - ILL 24"
   },
   {
    "league": "NCAAF",
@@ -902,7 +1044,9 @@
    "line": 4.5,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-10-picks-nebraska-vs-illinois-tcu-vs-arizona/",
-   "note": "Katin Houser returns; Colandrea inefficient, sacked 11 times in 3 games"
+   "note": "Katin Houser returns; Colandrea inefficient, sacked 11 times in 3 games",
+   "result": "win",
+   "final": "NEB 13 - ILL 24"
   },
   {
    "league": "NCAAF",
@@ -914,7 +1058,9 @@
    "line": -9,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-10-picks-nebraska-vs-illinois-tcu-vs-arizona/",
-   "note": "Fifita keeps Arizona on schedule; TCU's Craig sacked 21 times"
+   "note": "Fifita keeps Arizona on schedule; TCU's Craig sacked 21 times",
+   "result": "loss",
+   "final": "TCU 28 - ARIZ 29"
   }
  ]
 }

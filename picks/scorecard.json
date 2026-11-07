@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-06T15:54:46Z",
+ "updated": "2026-11-07T15:53:44Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
   "2026-11-02",
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -154,8 +155,8 @@
    "p": 0
   },
   "Covers / Jon Metler": {
-   "w": 10,
-   "l": 11,
+   "w": 11,
+   "l": 12,
    "p": 0
   },
   "Covers / Josh Inglis": {
@@ -224,8 +225,8 @@
    "p": 0
   },
   "Dimers / Dave Garofolo (model)": {
-   "w": 2,
-   "l": 0,
+   "w": 5,
+   "l": 3,
    "p": 0
   },
   "Dimers / Dimers Data": {
@@ -235,7 +236,7 @@
   },
   "Dimers / Dimers Data (model)": {
    "w": 1,
-   "l": 0,
+   "l": 3,
    "p": 0
   },
   "Dimers / Jason Bevilacqua": {
@@ -259,8 +260,8 @@
    "p": 0
   },
   "Dimers / Ryan Leaver (model)": {
-   "w": 5,
-   "l": 4,
+   "w": 7,
+   "l": 5,
    "p": 0
   },
   "FanDuel Research / Data Skrive (numberFire model)": {
@@ -274,12 +275,12 @@
    "p": 0
   },
   "FanDuel Research / FanDuel Staff": {
-   "w": 3,
-   "l": 2,
+   "w": 4,
+   "l": 4,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -344,8 +345,8 @@
    "p": 0
   },
   "Pickswise / Jon Yaremko": {
-   "w": 3,
-   "l": 1,
+   "w": 5,
+   "l": 2,
    "p": 0
   },
   "Pickswise / Kevin Rogers": {
@@ -364,8 +365,8 @@
    "p": 0
   },
   "Pickswise / Napier Montgomery": {
-   "w": 2,
-   "l": 4,
+   "w": 3,
+   "l": 6,
    "p": 0
   },
   "Pickswise / Nate Duffett": {
@@ -409,8 +410,8 @@
    "p": 0
   },
   "SI / Peter Dewey": {
-   "w": 1,
-   "l": 0,
+   "w": 6,
+   "l": 2,
    "p": 0
   },
   "SI Betting / Peter Dewey": {
@@ -469,8 +470,8 @@
    "p": 0
   },
   "VSiN / Adam Burke": {
-   "w": 2,
-   "l": 3,
+   "w": 3,
+   "l": 4,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
@@ -491,6 +492,86 @@
   "iHeartMedia (computer model)": {
    "w": 1,
    "l": 0,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Sean Paul": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "DK Network / Hunter Skoczylas": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Dimers / Jason Bevilacqua (model)": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "SportsBettingDime / Chris Amberley": {
+   "w": 2,
+   "l": 0,
+   "p": 0
+  },
+  "Predictem / Joe Jensen": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Pickswise / Robby Nardini": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Pickswise / Jason Fragomeni": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "WagerTalk / GoldSheet": {
+   "w": 3,
+   "l": 5,
+   "p": 0
+  },
+  "SI / Iain MacMillan": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "ClutchPoints (via Yahoo) / Garrett Kerman": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "SportsbookReview / Liam Fox": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Sam Farley": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "SportsBettingDime / Michael Harrison": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "BettorsInsider / Earnest Horn": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Pickswise / Chad Hartsock": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "SI / Ryan Gilbert": {
+   "w": 1,
+   "l": 1,
    "p": 0
   }
  }
