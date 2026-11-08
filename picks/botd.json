@@ -1,277 +1,304 @@
 {
- "at": "2026-11-07T16:01:34Z",
- "date": "2026-11-07",
- "method": "From the Kalshi legs priced 30–85¢ with edge ≥ −2.5¢ and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders positioned on its side (not heavily against), a published expert pick or model on its side read today, and concrete matchup/injury reasoning. Dropped as conflicts: Syracuse (≈$19k of top-trader money, but Dimers' model makes Clemson a 59% favourite), Broncos–Panthers (SI's Dewey on Denver, Covers' Vasile on Carolina), Nuggets–Pacers under (≈$13k of top-trader money on the other side), 49ers ML (Covers split: Vasile 49ers −9.5, Parker Raiders +9.5), Oregon–Ohio State over (the source page gives two different numbers). Coin flips lead; short favourites close the ladder; the N-leg bet is the first N legs not yet started.",
- "honest": "Every leg costs a little more than its fair chance (Kalshi's fee), so the expected return is slightly negative and gets worse with each leg you add. These are the best-supported legs today, not sure things.",
+ "at": "2026-11-08T16:06:51Z",
+ "date": "2026-11-08",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty (the engine has no pick matching), so experts were matched by hand against picks/latest.json. Dropped as conflicts: Browns +3.5 (≈$39k of top-trader money, but Covers/CBS/AP on the Saints), Packers +3.5 (experts on Green Bay, ≈$26k of top-trader money on the Patriots moneyline), Giants −3.5 (≈$33.5k and four experts, but AP's 23-22 score doesn't cover), Broncos ML (Covers' Krest and AP on Denver, CBS's Kannon and Sullivan on Carolina's side), Pistons ML (Action Network, Dimers and Sports Mole on Detroit, Covers' Metler on the Lakers), Bruins ML (Covers on Boston, top traders on Florida), Chiefs −3.5 (ESPN's Walder predicts a Jets win), Celtics/Bucks and 76ers/Bulls spreads (Dimers and Sports Mole opposite). No top-trader or expert pair found for the NCAAB and NHL legs, so none made the ladder. Coin flips lead; short favourites and the Sunday-night and Monday games close it.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
  "ladder": [
   {
-   "id": "KXNFLSPREAD-26NOV08LARWAS-LAR6:no",
-   "league": "NFL",
-   "game": "Los Angeles Rams @ Washington Commanders",
-   "start": "2026-11-08T18:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Washington Commanders +5.5",
-   "ask": 53,
-   "cost": 54.74,
-   "fair": 53.5,
+   "id": "KXNBATOTAL-26NOV08BOSMIL-223:yes",
+   "league": "NBA",
+   "game": "Boston Celtics @ Milwaukee Bucks",
+   "start": "2026-11-09T01:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 222.5",
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 49.5,
    "sharp": {
-    "for": 13508,
-    "against": 0,
+    "for": 16845,
+    "against": 3420,
     "who": [
+     "HomeRunHazard",
      "monkeymashingkeyboard",
-     "ic4cream"
+     "ferrariChampions2026"
     ]
    },
-   "why": "Biggest one-sided top-trader position among legs with expert support (≈$13.5k for vs $0 against). Covers' Chris Vasile takes Washington +5.5, citing Stafford's arm, no Davante Adams and Rams defensive absences after Washington held Philadelphia to 10; the free SportsLine model has Washington covering ~60%.",
+   "why": "Top traders lean over (≈$16.8k for, ≈$3.4k against). Dimers' model backs the over at 220.5 (53.7%), and Sports Mole notes Milwaukee concede 122.1 points a game.",
    "sources": [
     {
-     "name": "Covers / Chris Vasile (Commanders +5.5)",
-     "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026"
+     "name": "Dimers / Damien Souness (Over 220.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac"
     },
     {
-     "name": "CBS Sports / SportsLine model (Commanders +5.5)",
-     "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-predictions-best-bets-today-week-9-2026/"
+     "name": "Sports Mole (Milwaukee concede 122.1)",
+     "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html"
     }
    ]
   },
   {
-   "id": "KXNFLSPREAD-26NOV08GBNE-NE4:no",
+   "id": "KXNFLGAME-26NOV08HOULAC-HOU:yes",
    "league": "NFL",
-   "game": "Green Bay Packers @ New England Patriots",
-   "start": "2026-11-08T21:25:00.000Z",
-   "mk": "SPREAD",
-   "label": "Green Bay Packers +3.5",
-   "ask": 53,
-   "cost": 54.74,
-   "fair": 52.5,
+   "game": "Houston Texans @ Los Angeles Chargers",
+   "start": "2026-11-08T21:05:00.000Z",
+   "mk": "ML",
+   "label": "Houston Texans",
+   "ask": 68,
+   "cost": 69.5232,
+   "fair": 67.2,
    "sharp": {
-    "for": 10500,
-    "against": 3024,
+    "for": 33750,
+    "against": 76,
     "who": [
      "monkeymashingkeyboard"
     ]
    },
-   "why": "Both teams are 5-3 and allow almost identical points (20.5 vs 20.3); Green Bay has extra rest after a Thursday game and New England has injuries at receiver. Covers takes Packers +3.5 and SI's Iain MacMillan Packers +2.5; top traders ≈$10.5k for vs $3k against.",
+   "why": "Heaviest one-way money on the slate (≈$33.8k for, $76 against). Covers cites the Chargers' league-worst 14.1 ppg and Herbert sacked 23 times; AP projects Texans 20-17. No expert read today picks the Chargers to win outright.",
    "sources": [
     {
-     "name": "Covers / Chris Vasile (Packers +3.5)",
-     "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026"
+     "name": "Covers / Quinn Allen (Texans −5.5)",
+     "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026"
     },
     {
-     "name": "Sports Illustrated / Iain MacMillan (Packers +2.5)",
-     "url": "https://www.si.com/betting/packers-vs-patriots-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
+     "name": "AP / Rob Maaddi (Texans 20-17)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
     }
    ]
   },
   {
-   "id": "KXNHLGAME-26NOV07FLAWSH-FLA:yes",
-   "league": "NHL",
-   "game": "Florida Panthers @ Washington Capitals",
-   "start": "2026-11-07T17:30:00.000Z",
-   "mk": "ML",
-   "label": "Florida Panthers",
-   "ask": 47,
-   "cost": 48.74,
-   "fair": 46.9,
+   "id": "KXNBATOTAL-26NOV08MIASAC-239:no",
+   "league": "NBA",
+   "game": "Miami Heat @ Sacramento Kings",
+   "start": "2026-11-09T02:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 238.5",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 51.8,
    "sharp": {
-    "for": 13678,
-    "against": 0,
-    "who": [
-     "ferrariChampions2026",
-     "omnibus-076daa"
-    ]
-   },
-   "why": "TheSpread's Alex Becker takes Florida (+105): the Panthers' 23.9% power play meets a 76.1% Washington penalty kill, and Florida is 5-3-2 on the road. Top traders ≈$13.7k on Florida, nobody against. Near coin flip.",
-   "sources": [
-    {
-     "name": "TheSpread / Alex Becker (Panthers ML)",
-     "url": "https://www.thespread.com/nhl-articles/panthers-vs-capitals-prediction-november-7-2026/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV07TLSATULN-TLSA4:no",
-   "league": "College football",
-   "game": "Tulsa Golden Hurricane @ Tulane Green Wave",
-   "start": "2026-11-07T17:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Tulane Green Wave +3.5",
-   "ask": 54,
-   "cost": 55.74,
-   "fair": 54.5,
-   "sharp": {
-    "for": 5295,
-    "against": 812,
+    "for": 15193,
+    "against": 9500,
     "who": [
      "HomeRunHazard",
-     "Multicoloured-Serf"
-    ]
-   },
-   "why": "Dimers' model calls Tulane +2.5 its top college edge today (54.3% to cover) and gives Tulane 47.7% to win outright; this is the safer +3.5. Top traders ≈$5.3k for vs $0.8k against.",
-   "sources": [
-    {
-     "name": "Dimers model (Tulane +2.5)",
-     "url": "https://www.dimers.com/cfb/news/college-football-best-bets-11-07-2026-ac"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV07BYUUTAH-UTAH4:yes",
-   "league": "College football",
-   "game": "BYU Cougars @ Utah Utes",
-   "start": "2026-11-07T17:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Utah Utes −3.5",
-   "ask": 53,
-   "cost": 54.74,
-   "fair": 53.5,
-   "sharp": {
-    "for": 1021,
-    "against": 101,
-    "who": [
-     "HomeRunHazard",
+     "Multicoloured-Serf",
+     "ic4cream",
      "ferrariChampions2026"
     ]
    },
-   "why": "Covers' Rob Paul (Utah −4.5) notes Utah's top-20 defense and 7-1 ATS record with BYU's LJ Martin limited; Pickswise (Utah −4) says several BYU players are doubtful. Small but one-way top-trader money (≈$1k vs $0.1k).",
+   "why": "Top traders lean under (≈$15.2k for, ≈$9.5k against). Sports Mole takes the under at this number, citing Sacramento scoring 111.0 at home.",
    "sources": [
     {
-     "name": "Covers / Rob Paul (Utah −4.5)",
-     "url": "https://www.covers.com/ncaaf/week-10-top-picks-saturday-nov-7-2026"
-    },
-    {
-     "name": "Pickswise / Sam Avellone (Utah −4)",
-     "url": "https://www.pickswise.com/college-football/news/college-football-best-bets-saturday-november-7-2026/"
+     "name": "Sports Mole / Adepoju Marvellous (Under 238.5)",
+     "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html"
     }
    ]
   },
   {
-   "id": "KXNFLSPREAD-26NOV08CLENO-NO3:yes",
+   "id": "KXNFLGAME-26NOV08DALIND-DAL:yes",
    "league": "NFL",
-   "game": "Cleveland Browns @ New Orleans Saints",
+   "game": "Dallas Cowboys @ Indianapolis Colts",
+   "start": "2026-11-08T18:00:00.000Z",
+   "mk": "ML",
+   "label": "Dallas Cowboys",
+   "ask": 68,
+   "cost": 69.5232,
+   "fair": 67.2,
+   "sharp": {
+    "for": 5240,
+    "against": 0,
+    "who": [
+     "takeormake",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Top-trader money only on Dallas (≈$5.2k, $0 against). Covers has Indy 27th in defensive DVOA and giving up 30+ in four games; CBS has the Colts 31st in EPA per rush; AP projects Cowboys 27-23.",
+   "sources": [
+    {
+     "name": "AP / Rob Maaddi (Cowboys 27-23)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
+    },
+    {
+     "name": "CBS Sports / Tyler Sullivan (Cowboys −4.5)",
+     "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/"
+    },
+    {
+     "name": "Covers / Jason Logan (Colts defense)",
+     "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLGAME-26NOV08DETMIA-DET:yes",
+   "league": "NFL",
+   "game": "Detroit Lions @ Miami Dolphins",
+   "start": "2026-11-08T18:00:00.000Z",
+   "mk": "ML",
+   "label": "Detroit Lions",
+   "ask": 74,
+   "cost": 75.3468,
+   "fair": 72.9,
+   "sharp": {
+    "for": 50495,
+    "against": 4883,
+    "who": [
+     "primm",
+     "Herdonia",
+     "darkumbreon88",
+     "ferrariChampions2026"
+    ]
+   },
+   "why": "Top traders ≈$50.5k for, ≈$4.9k against. Covers: Detroit 29.0 ppg (3rd), 8th in offensive DVOA; Miami allows 25.9. AP projects Lions 26-20; the only Miami pick read is on the spread, not to win.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Lions −6.5)",
+     "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026"
+    },
+    {
+     "name": "AP / Rob Maaddi (Lions 26-20)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
+    },
+    {
+     "name": "CBS Sports / Tyler Sullivan (Lions −6.5)",
+     "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLSPREAD-26NOV08LARWAS-WAS4:no",
+   "league": "NFL",
+   "game": "Los Angeles Rams @ Washington Commanders",
    "start": "2026-11-08T18:00:00.000Z",
    "mk": "SPREAD",
-   "label": "New Orleans Saints −2.5",
-   "ask": 57,
-   "cost": 58.72,
-   "fair": 56.5,
+   "label": "Los Angeles Rams +3.5",
+   "ask": 79,
+   "cost": 80.1613,
+   "fair": 78.5,
    "sharp": {
-    "for": 614,
-    "against": 0,
+    "for": 21862,
+    "against": 3186,
     "who": [
-     "Herdonia"
+     "HomeRunHazard"
     ]
    },
-   "why": "Saints come off a bye with extra rest; they average 23.1 points to Cleveland's 17.4. Covers and SI both take New Orleans −2.5, and top traders are only on this side (≈$0.6k vs $0).",
+   "why": "Alt line that only loses to a Commanders win by 4+. Top traders ≈$21.9k for, ≈$3.2k against. Covers: Rams 41% pressure rate (3rd), Washington 26th in completion pct; Oldfield, CBS and AP all side with the Rams.",
    "sources": [
     {
-     "name": "Covers / Chris Vasile (Saints −2.5)",
-     "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026"
+     "name": "Covers / Tom Oldfield (Rams −4.5)",
+     "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026"
     },
     {
-     "name": "Sports Illustrated / Ryan Gilbert (Saints −2.5)",
-     "url": "https://www.si.com/betting/browns-vs-saints-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLSPREAD-26NOV07VANEDM-EDM2:yes",
-   "league": "NHL",
-   "game": "Vancouver Canucks @ Edmonton Oilers",
-   "start": "2026-11-08T03:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Edmonton Oilers −1.5",
-   "ask": 56,
-   "cost": 57.72,
-   "fair": 56.4,
-   "sharp": {
-    "for": 983,
-    "against": 0,
-    "who": [
-     "HomeRunHazard"
-    ]
-   },
-   "why": "SportsBettingDime projects Edmonton 5-2 and takes the −1.5 puck line: strong Oilers home offense vs a Vancouver team 1-8 on the road. Top traders ≈$1k for, $0 against.",
-   "sources": [
+     "name": "CBS Sports / Adam Thompson (Rams −4.5)",
+     "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/"
+    },
     {
-     "name": "SportsBettingDime / Chris Amberley (Oilers −1.5)",
-     "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-saturday-predictions-best-bets-nov-7/"
+     "name": "AP / Rob Maaddi (Rams 26-17)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
     }
    ]
   },
   {
-   "id": "KXNCAAFTOTAL-26NOV07UKTENN-52:no",
-   "league": "College football",
-   "game": "Kentucky Wildcats @ Tennessee Volunteers",
-   "start": "2026-11-07T23:15:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 51.5",
-   "ask": 57,
-   "cost": 58.72,
-   "fair": 57,
+   "id": "KXNFLGAME-26NOV08LVSF-SF:yes",
+   "league": "NFL",
+   "game": "Las Vegas Raiders @ San Francisco 49ers",
+   "start": "2026-11-08T21:25:00.000Z",
+   "mk": "ML",
+   "label": "San Francisco 49ers",
+   "ask": 80,
+   "cost": 81.12,
+   "fair": 79.1,
    "sharp": {
-    "for": 1235,
-    "against": 0,
-    "who": [
-     "HomeRunHazard"
-    ]
-   },
-   "why": "CBS's model hits the under (49.5) in 62% of simulations, with Tennessee's defense (2nd in sack rate per Covers) keeping it in the 40s; this leg uses the safer 51.5. Top traders ≈$1.2k on the under, nobody on the over.",
-   "sources": [
-    {
-     "name": "CBS Sports / Daniel Lewis model (Under 49.5)",
-     "url": "https://www.cbssports.com/betting/news/college-football-picks-score-predictions-game-best-bets-for-week-10-2026/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLSPREAD-26NOV07TBMIN-TB2:no",
-   "league": "NHL",
-   "game": "Tampa Bay Lightning @ Minnesota Wild",
-   "start": "2026-11-08T01:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Minnesota Wild +1.5",
-   "ask": 65,
-   "cost": 66.59,
-   "fair": 64.5,
-   "sharp": {
-    "for": 34610,
-    "against": 0,
+    "for": 77855,
+    "against": 7321,
     "who": [
      "HomeRunHazard",
-     "ferrariChampions2026"
+     "primm",
+     "Herdonia",
+     "darkumbreon88"
     ]
    },
-   "why": "Dimers' best bet in this game is the Wild moneyline (model 47.9% vs 42.5% implied) and its model gives Minnesota +1.5 a 69.1% cover chance. Largest unopposed top-trader position in tonight's NHL (≈$34.6k vs $0).",
+   "why": "Top traders ≈$77.9k for, ≈$7.3k against. AP and CBS both project 49ers 27-20. Raiders-side picks read are on the +9.5 spread, not to win.",
    "sources": [
     {
-     "name": "Dimers model (Wild ML; +1.5 covers 69.1%)",
-     "url": "https://www.dimers.com/nhl/news/tampa-bay-lightning-vs-minnesota-wild-prediction-11-07-2026-ac"
+     "name": "AP / Rob Maaddi (49ers 27-20)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
+    },
+    {
+     "name": "CBS Sports / Tyler Sullivan (49ers 27-20)",
+     "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/"
     }
    ]
   },
   {
-   "id": "KXNCAAFGAME-26NOV07CINHOU-HOU:yes",
-   "league": "College football",
-   "game": "Cincinnati Bearcats @ Houston Cougars",
-   "start": "2026-11-07T20:30:00.000Z",
-   "mk": "ML",
-   "label": "Houston Cougars",
+   "id": "KXNFLSPREAD-26NOV08TBCHI-CHI15:no",
+   "league": "NFL",
+   "game": "Tampa Bay Buccaneers @ Chicago Bears",
+   "start": "2026-11-09T01:20:00.000Z",
+   "mk": "SPREAD",
+   "label": "Tampa Bay Buccaneers +14.5",
    "ask": 78,
-   "cost": 79.2,
-   "fair": 77.8,
+   "cost": 79.2012,
+   "fair": 77.5,
    "sharp": {
-    "for": 40621,
-    "against": 326,
+    "for": 28731,
+    "against": 852,
     "who": [
-     "primm"
+     "HomeRunHazard",
+     "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
     ]
    },
-   "why": "Short home favourite. Covers' Colby Marchio takes Houston −10.5 (Cincinnati 133rd in yards allowed); top traders ≈$40.6k on Houston vs $0.3k against.",
+   "why": "Wide alt line for the night game. Top traders ≈$28.7k for, ≈$0.9k against. Covers notes Chicago's short turnaround after Monday at Seattle; AP projects Bears 27-22, and SI takes Tampa outright; even the Bears −6 backers read don't project a 15-point win.",
    "sources": [
     {
-     "name": "Covers / Colby Marchio (Houston −10.5)",
-     "url": "https://www.covers.com/ncaaf/week-10-top-picks-saturday-nov-7-2026"
+     "name": "Covers / Jason Logan (Bucs +6.5)",
+     "url": "https://www.covers.com/nfl/buccaneers-vs-bears-prediction-picks-odds-early-leans-week-9-2026"
+    },
+    {
+     "name": "Sports Illustrated / Iain MacMillan (Bucs ML)",
+     "url": "https://www.si.com/betting/buccaneers-vs-bears-prediction-odds-spread-injuries-trends-for-nfl-week-9-01m6hsqswvbd"
+    },
+    {
+     "name": "AP / Rob Maaddi (Bears 27-22)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLSPREAD-26NOV09BUFMIN-MIN4:no",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Minnesota Vikings",
+   "start": "2026-11-10T01:15:00.000Z",
+   "mk": "SPREAD",
+   "label": "Buffalo Bills +3.5",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 75,
+   "sharp": {
+    "for": 375,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Monday leg. Carson Wentz starts for Minnesota with Kyler Murray out (hamstring). Covers, AP and NBC all back Buffalo to win, and Dimers' model has Bills 62.3%. Top-trader money on this leg is tiny ($375, $0 against), but on the moneyline it is ≈$20.6k Bills vs ≈$9.1k Vikings.",
+   "sources": [
+    {
+     "name": "Covers / Jason Logan (Bills ML)",
+     "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-odds-early-leans-week-9-2026"
+    },
+    {
+     "name": "AP / Rob Maaddi (Bills 23-17)",
+     "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
+    },
+    {
+     "name": "NBC Sports / Vaughn Dalzell (Bills −3)",
+     "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings"
+    },
+    {
+     "name": "Dimers model (Bills 62.3%)",
+     "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf"
+    },
+    {
+     "name": "KTTC / AP (Wentz starting)",
+     "url": "https://www.kttc.com/2026/11/05/vikings-sit-murray-with-hamstring-strain-will-start-wentz-qb-against-bills-monday-night/"
     }
    ]
   }
