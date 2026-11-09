@@ -32,7 +32,9 @@
      "name": "CBS Sports / SportsLine model (Commanders +5.5)",
      "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-predictions-best-bets-today-week-9-2026/"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Rams 20 @ Commanders 13"
   },
   {
    "id": "KXNFLSPREAD-26NOV08GBNE-NE4:no",
@@ -61,7 +63,9 @@
      "name": "Sports Illustrated / Iain MacMillan (Packers +2.5)",
      "url": "https://www.si.com/betting/packers-vs-patriots-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Packers 45 @ Patriots 27"
   },
   {
    "id": "KXNHLGAME-26NOV07FLAWSH-FLA:yes",
@@ -113,7 +117,9 @@
      "name": "Dimers model (Tulane +2.5)",
      "url": "https://www.dimers.com/cfb/news/college-football-best-bets-11-07-2026-ac"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Tulsa 60 @ Tulane 10"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV07BYUUTAH-UTAH4:yes",
@@ -143,7 +149,9 @@
      "name": "Pickswise / Sam Avellone (Utah −4)",
      "url": "https://www.pickswise.com/college-football/news/college-football-best-bets-saturday-november-7-2026/"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "BYU 20 @ Utah 28"
   },
   {
    "id": "KXNFLSPREAD-26NOV08CLENO-NO3:yes",
@@ -172,7 +180,9 @@
      "name": "Sports Illustrated / Ryan Gilbert (Saints −2.5)",
      "url": "https://www.si.com/betting/browns-vs-saints-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Browns 22 @ Saints 23 (OT)"
   },
   {
    "id": "KXNHLSPREAD-26NOV07VANEDM-EDM2:yes",

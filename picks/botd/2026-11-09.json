@@ -1,7 +1,7 @@
 {
- "at": "2026-11-09T15:57:00Z",
+ "at": "2026-11-09T16:03:14Z",
  "date": "2026-11-09",
- "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Two legs (Oilers, Cincinnati) sit at about −2.8, slightly past the usual limit, kept because the evidence was clean; Duke and Kansas rest on one expert (Seth Davis) plus his reasoning. Dropped as conflicts: Bills Under 44.5 and Over 44.5 (Covers/Pickswise under, CBS's model over, top traders on the over), Cavaliers/Hornets spreads and moneyline (Predictem on Cleveland -8.5, Covers on Charlotte, top traders on the Hornets +8.5), Lakers/Hawks spread and moneyline (Dimers and Bleacher Nation on the Lakers, Covers and top traders on Atlanta), Grizzlies/Raptors moneyline (TheLines vs Covers), Pacers/Mavericks moneyline and totals (Covers and Dimers on Indiana, top traders on Dallas; TheLines over vs fair value), Warriors spread (Covers on Golden State, top traders on New Orleans +6.5), Flyers/Canucks moneyline (Dimers vs Bleacher Nation), Ohio/Miami (TheRX on Ohio, Dimers on Miami), Illinois/Texas Tech (Davis on Illinois, priced at −5.5 edge). The ladder is shorter than usual at 8 because few legs cleared the bar, and it fills in Tuesday's games late.",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Two legs (Oilers, Cincinnati) sit at about −2.8, slightly past the usual limit, kept because the evidence was clean; Duke and Kansas rest on one expert (Seth Davis) plus his reasoning. Dropped as conflicts: Bills Under 44.5 and Over 44.5 (Covers/Pickswise under, CBS's model over, top traders on the over), Cavaliers/Hornets spreads and moneyline (Predictem on Cleveland -8.5, Covers on Charlotte, top traders on the Hornets +8.5), Lakers/Hawks spread and moneyline (Dimers and Bleacher Nation on the Lakers, Covers and top traders on Atlanta), Grizzlies/Raptors moneyline (TheLines vs Covers), Pacers/Mavericks moneyline (Covers on Indiana, top traders and Dimers' model on Dallas) and total (TheLines and Dimers' model on the over, the only positive edge on the under), Warriors spread (Covers on Golden State, top traders on New Orleans +6.5), Flyers/Canucks moneyline (Dimers vs Bleacher Nation), Ohio/Miami (TheRX on Ohio, Dimers on Miami), Illinois/Texas Tech (Davis on Illinois, priced at −5.5 edge). The ladder is shorter than usual at 8 because few legs cleared the bar, and it fills in Tuesday's games late.",
  "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
  "ladder": [
   {
@@ -24,7 +24,7 @@
      "Flaznorp"
     ]
    },
-   "why": "Best edge on the board and biggest money: top traders ≈$41.1k for, ≈$22.0k against. FOX's Schwartz and Pickswise's Farley back Buffalo, citing the Bills' No. 1 scoring offense (33.3 ppg) against a Vikings attack starting Carson Wentz for injured Kyler Murray. Caution: Buffalo's offensive line is hurt, and Yahoo and ClutchPoints take the Vikings on the spread (neither has them winning outright).",
+   "why": "Biggest money among the legs that cleared the bar: top traders ≈$41.1k for, ≈$22.0k against. FOX's Schwartz and Pickswise's Farley back Buffalo, citing the Bills' No. 1 scoring offense (33.3 ppg) against a Vikings attack starting Carson Wentz for injured Kyler Murray. Caution: Buffalo's offensive line is hurt, and Yahoo and ClutchPoints take the Vikings on the spread (neither has them winning outright).",
    "sources": [
     {
      "name": "FOX Sports / Geoff Schwartz (Bills -3.5)",
@@ -39,7 +39,7 @@
      "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf"
     },
     {
-     "name": "Covers / Josh Inglis",
+     "name": "Covers / Josh Inglis (Bills O-line injuries)",
      "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026"
     }
    ]
