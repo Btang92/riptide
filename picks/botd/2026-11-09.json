@@ -1,0 +1,232 @@
+{
+ "at": "2026-11-09T15:57:00Z",
+ "date": "2026-11-09",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Two legs (Oilers, Cincinnati) sit at about −2.8, slightly past the usual limit, kept because the evidence was clean; Duke and Kansas rest on one expert (Seth Davis) plus his reasoning. Dropped as conflicts: Bills Under 44.5 and Over 44.5 (Covers/Pickswise under, CBS's model over, top traders on the over), Cavaliers/Hornets spreads and moneyline (Predictem on Cleveland -8.5, Covers on Charlotte, top traders on the Hornets +8.5), Lakers/Hawks spread and moneyline (Dimers and Bleacher Nation on the Lakers, Covers and top traders on Atlanta), Grizzlies/Raptors moneyline (TheLines vs Covers), Pacers/Mavericks moneyline and totals (Covers and Dimers on Indiana, top traders on Dallas; TheLines over vs fair value), Warriors spread (Covers on Golden State, top traders on New Orleans +6.5), Flyers/Canucks moneyline (Dimers vs Bleacher Nation), Ohio/Miami (TheRX on Ohio, Dimers on Miami), Illinois/Texas Tech (Davis on Illinois, priced at −5.5 edge). The ladder is shorter than usual at 8 because few legs cleared the bar, and it fills in Tuesday's games late.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
+ "ladder": [
+  {
+   "id": "KXNFLGAME-26NOV09BUFMIN-BUF:yes",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Minnesota Vikings",
+   "start": "2026-11-10T01:15:00.000Z",
+   "mk": "ML",
+   "label": "Buffalo Bills",
+   "ask": 62,
+   "cost": 63.6492,
+   "fair": 62.4,
+   "sharp": {
+    "for": 41136,
+    "against": 22020,
+    "who": [
+     "BreakTheBank",
+     "HomeRunHazard",
+     "monkeymashingkeyboard",
+     "Flaznorp"
+    ]
+   },
+   "why": "Best edge on the board and biggest money: top traders ≈$41.1k for, ≈$22.0k against. FOX's Schwartz and Pickswise's Farley back Buffalo, citing the Bills' No. 1 scoring offense (33.3 ppg) against a Vikings attack starting Carson Wentz for injured Kyler Murray. Caution: Buffalo's offensive line is hurt, and Yahoo and ClutchPoints take the Vikings on the spread (neither has them winning outright).",
+   "sources": [
+    {
+     "name": "FOX Sports / Geoff Schwartz (Bills -3.5)",
+     "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-best-bets-expert-picks-vikings-bills-league"
+    },
+    {
+     "name": "Pickswise / Chris Farley (Bills -3)",
+     "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/"
+    },
+    {
+     "name": "Dimers / model (Bills to win)",
+     "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf"
+    },
+    {
+     "name": "Covers / Josh Inglis",
+     "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV09WASDET-DET11:yes",
+   "league": "NBA",
+   "game": "Washington Wizards @ Detroit Pistons",
+   "start": "2026-11-10T00:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Detroit Pistons −10.5",
+   "ask": 50,
+   "cost": 51.75,
+   "fair": 50,
+   "sharp": {
+    "for": 2155,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "Flaznorp"
+    ]
+   },
+   "why": "Top traders ≈$2.2k for, nothing against. Predictem's Jensen projects Pistons 113-100 and cites Detroit's league-best defense (103.6 per 100); Covers' Metler has Detroit the biggest favorite on the slate, with Anthony Davis questionable. Risk: Detroit is on a back-to-back without Jalen Duren.",
+   "sources": [
+    {
+     "name": "Predictem / Joe Jensen (Pistons 113-100, Under 218.5)",
+     "url": "https://www.predictem.com/nba/wizards-at-pistons-best-bet-nba-picks-odds-for-monday/"
+    },
+    {
+     "name": "Covers / Jon Metler",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFTOTAL-26NOV10WMUAKR-48:no",
+   "league": "College football",
+   "game": "Western Michigan Broncos @ Akron Zips",
+   "start": "2026-11-11T00:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 47.5",
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 48.7,
+   "sharp": null,
+   "why": "TheRX's Callahan and Bleacher Nation's computer both take Under 47.5; Callahan cites Akron's Under in three of four home games and two run-first teams. Bleacher Nation's own numbers do put Akron games at 50.6 points on average, so it isn't one-way. No top-trader position either way.",
+   "sources": [
+    {
+     "name": "TheRX / Ryan Callahan (Under 47.5)",
+     "url": "https://www.therx.com/college-football/western-michigan-vs-akron-prediction-november-10-2026-week-11-college-football-picks/54983/"
+    },
+    {
+     "name": "Bleacher Nation / DataSkrive (Under 47.5)",
+     "url": "https://www.bleachernation.com/picks/2026/11/08/western-michigan-vs-akron-football-best-bets-computer-predictions-nov-10/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV09DENHOU-HOU:yes",
+   "league": "NBA",
+   "game": "Denver Nuggets @ Houston Rockets",
+   "start": "2026-11-10T01:30:00.000Z",
+   "mk": "ML",
+   "label": "Houston Rockets",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 74.5,
+   "sharp": {
+    "for": 19090,
+    "against": 967,
+    "who": [
+     "HomeRunHazard",
+     "Multicoloured-Serf",
+     "Flaznorp",
+     "takeormake"
+    ]
+   },
+   "why": "Top traders ≈$19.1k for, under $1k against, and the line has moved 14.6 points Houston's way. Covers and TheLines both like Houston with several Denver starters questionable; Dimers' model has Houston winning 112-105 at 74.4% (it takes Denver only on the +8.5 spread).",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026"
+    },
+    {
+     "name": "TheLines / Nick Crain",
+     "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/"
+    },
+    {
+     "name": "Dimers (Rockets 112-105, 74.4%)",
+     "url": "https://www.dimers.com/nba/news/denver-nuggets-vs-houston-rockets-prediction-11-09-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV09NYREDM-EDM:yes",
+   "league": "NHL",
+   "game": "New York Rangers @ Edmonton Oilers",
+   "start": "2026-11-10T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Edmonton Oilers",
+   "ask": 60,
+   "cost": 61.68,
+   "fair": 58.9,
+   "sharp": {
+    "for": 13691,
+    "against": 7450,
+    "who": [
+     "keeptheblueflagflyinghigh",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Top traders ≈$13.7k for, ≈$7.5k against. numberFire gives Edmonton 63.6% and Bleacher Nation's computer has Edmonton winning 4-3; Edmonton is 8-4 as a moneyline favorite. Priced just outside the usual edge limit (−2.78).",
+   "sources": [
+    {
+     "name": "FanDuel Research / numberFire (Oilers 63.6%)",
+     "url": "https://www.fanduel.com/research/oilers-vs-rangers-prediction-nhl-odds-11-9-2026"
+    },
+    {
+     "name": "Bleacher Nation (Edmonton 4-3)",
+     "url": "https://www.bleachernation.com/picks/2026/11/09/oilers-vs-rangers-nhl-best-bets-odds-prediction-and-pick-nov-9/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV10MSUDUKE-DUKE:yes",
+   "league": "College basketball",
+   "game": "Michigan State Spartans @ Duke Blue Devils",
+   "start": "2026-11-11T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Duke Blue Devils",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.5,
+   "sharp": null,
+   "why": "Hoops HQ's Seth Davis takes Duke -6.5, arguing Michigan State is smaller and thinner up front than usual under Izzo and that \"Duke is just too big and too deep.\" Single expert with no top-trader position, so a late leg.",
+   "sources": [
+    {
+     "name": "Hoops HQ / Seth Davis",
+     "url": "https://www.hoopshq.com/betting-picks/picks-against-spread-duke-debut-nov-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV10KUUK-KU:yes",
+   "league": "College basketball",
+   "game": "Kansas Jayhawks @ Kentucky Wildcats",
+   "start": "2026-11-11T02:30:00.000Z",
+   "mk": "ML",
+   "label": "Kansas Jayhawks",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.5,
+   "sharp": null,
+   "why": "Davis also takes Kansas -5.5 against Kentucky, citing the Jayhawks' fifth-year transfers including Trey Kaufman-Renn and Kentucky's narrow early struggles against James Madison. Single expert with no top-trader position, so a late leg.",
+   "sources": [
+    {
+     "name": "Hoops HQ / Seth Davis",
+     "url": "https://www.hoopshq.com/betting-picks/picks-against-spread-duke-debut-nov-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV09MINNCIN-CIN:yes",
+   "league": "College basketball",
+   "game": "Minnesota Golden Gophers @ Cincinnati Bearcats",
+   "start": "2026-11-10T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Cincinnati Bearcats",
+   "ask": 74,
+   "cost": 75.3468,
+   "fair": 72.6,
+   "sharp": null,
+   "why": "Dimers' Bevilacqua (79.6% to win, -6.5), Action Network's staff (-6.5 best bet, Bad Expectation Favorites system) and Bleacher Nation's computer (75-62) all land on Cincinnati, and the line moved 2.6 points its way. Priced just outside the usual edge limit (−2.77); no top-trader position.",
+   "sources": [
+    {
+     "name": "Dimers / Jason Bevilacqua (Cincinnati ML 79.6%, -6.5)",
+     "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac"
+    },
+    {
+     "name": "Action Network staff (via Yahoo) (Cincinnati -6.5)",
+     "url": "https://sports.yahoo.com/articles/minnesota-vs-cincinnati-prediction-pick-120546994.html"
+    },
+    {
+     "name": "Bleacher Nation / DataSkrive (Cincinnati 75-62)",
+     "url": "https://www.bleachernation.com/picks/2026/11/09/big-ten-basketball-predictions-computer-picks-and-best-bets-november-9-3/"
+    }
+   ]
+  }
+ ]
+}
