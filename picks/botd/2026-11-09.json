@@ -1,5 +1,5 @@
 {
- "at": "2026-11-09T16:03:14Z",
+ "at": "2026-11-09T16:03:30Z",
  "date": "2026-11-09",
  "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Two legs (Oilers, Cincinnati) sit at about −2.8, slightly past the usual limit, kept because the evidence was clean; Duke and Kansas rest on one expert (Seth Davis) plus his reasoning. Dropped as conflicts: Bills Under 44.5 and Over 44.5 (Covers/Pickswise under, CBS's model over, top traders on the over), Cavaliers/Hornets spreads and moneyline (Predictem on Cleveland -8.5, Covers on Charlotte, top traders on the Hornets +8.5), Lakers/Hawks spread and moneyline (Dimers and Bleacher Nation on the Lakers, Covers and top traders on Atlanta), Grizzlies/Raptors moneyline (TheLines vs Covers), Pacers/Mavericks moneyline (Covers on Indiana, top traders and Dimers' model on Dallas) and total (TheLines and Dimers' model on the over, the only positive edge on the under), Warriors spread (Covers on Golden State, top traders on New Orleans +6.5), Flyers/Canucks moneyline (Dimers vs Bleacher Nation), Ohio/Miami (TheRX on Ohio, Dimers on Miami), Illinois/Texas Tech (Davis on Illinois, priced at −5.5 edge). The ladder is shorter than usual at 8 because few legs cleared the bar, and it fills in Tuesday's games late.",
  "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
@@ -33,10 +33,6 @@
     {
      "name": "Pickswise / Chris Farley (Bills -3)",
      "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/"
-    },
-    {
-     "name": "Dimers / model (Bills to win)",
-     "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf"
     },
     {
      "name": "Covers / Josh Inglis (Bills O-line injuries)",
