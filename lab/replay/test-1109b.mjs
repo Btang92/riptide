@@ -1,0 +1,9 @@
+// Nov 9 morning follow-up: the live-rule "read<.4" exit. What are the exits, and does the market bid overpay vs the outcome across wider samples?
+import {R,feeP,stat} from './sim.mjs';import {et} from './lib.mjs';const J=JSON.stringify;
+const EX=[300,360,420,480,600],side=(a,c)=>c?a.ya:a.na;
+const entry=(o,mode)=>{const a=o.at[240];if(!a||a.ya==null||a.na==null||a.pu==null||!a.f)return null;if(mode==='fav'){const c=a.ya>=a.na?1:0,ask=side(a,c);return ask<75||ask>90?null:{c,ask};}if(mode==='live'&&et(o.t).h<12)return null;const c=a.pu>=.5?1:0,ask=side(a,c);if(ask<75||ask>90)return null;if(Math.max(a.pu,1-a.pu)*100-ask-feeP(ask)<3)return null;return{c,ask};};
+const scan=(mode,thr,slip,show)=>{const out=[];let bets=0,D=0,D2=[];for(const o of R){const e=entry(o,mode);if(!e)continue;bets++;const won=o.up===e.c;const hold=(won?100-e.ask:-e.ask)-feeP(e.ask);let dx=0;
+  for(const s of EX){const a=o.at[s];if(!a||a.ya==null||a.na==null||a.pu==null)continue;const bid=100-side(a,1-e.c)-slip;if(bid<1)continue;const ps=e.c?a.pu:1-a.pu;if(ps<thr){const ex=bid-e.ask-feeP(e.ask)-feeP(bid);dx=ex-hold;out.push({t:new Date(o.t).toISOString().slice(5,16),s:s/60,ask:e.ask,bid,ps:+ps.toFixed(2),won,dx:+dx.toFixed(0)});break;}}D2.push(dx);D+=dx;}
+  const m=D/bets,se=Math.sqrt(D2.reduce((s,v)=>s+(v-m)**2,0)/(bets-1)/bets),w=out.filter(x=>x.won).length,ab=out.reduce((s,x)=>s+x.bid,0)/Math.max(1,out.length);
+  console.log(`${mode} thr ${thr} slip ${slip}: bets ${bets}, exits ${out.length}, held side then won ${w} (${(w/Math.max(1,out.length)*100).toFixed(0)}%) vs avg bid ${ab.toFixed(0)}¢; Δ ${m.toFixed(2)}±${se.toFixed(2)} ¢/bet`);if(show)for(const x of out)console.log('   ',J(x));return out;};
+scan('live',.4,1,true);for(const[m,t,s]of[['live',.45,1],['live',.35,1],['live',.4,2],['live',.4,3],['liveAll',.4,1],['liveAll',.45,1],['liveAll',.35,1],['fav',.4,1],['fav',.5,1],['fav',.3,1]])scan(m,t,s,false);
