@@ -1,0 +1,246 @@
+{
+ "at": "2026-11-10T15:58:19Z",
+ "date": "2026-11-10",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when the published experts read today agreed on its side with none against, backed by concrete news or matchup reasoning. Today's dump returned no Polymarket top-trader data and its expert matching came back empty again, so experts were matched by hand against picks/latest.json and the top-trader check could not be used — every leg here rests on experts plus reasoning only. Senators ML (−2.9) is slightly past the usual edge limit. Dropped as conflicts: Bucks/Knicks (SI on Knicks -15.5; Dimers, TheSpread and Bleacher Nation on Bucks +15.5/+16), Celtics/76ers (Covers on Philadelphia, four others on Boston), Thunder/Blazers (Covers on Portland, four on OKC), Kent State/Bowling Green total and side, Western Michigan/Akron, Ohio/Miami side (Ohio vs Miami picks split), Illinois/Texas Tech (SI and Dimers on Illinois, three CBS writers on Tech), Kansas/Kentucky and Florida/FSU (both split), and Kings +6.5 (three experts on Sacramento, but the market has moved 4 points toward Orlando and the Kings moneyline is flagged). Avalanche/Leafs Over and Predators ML were skipped for edges near −3.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
+ "ladder": [
+  {
+   "id": "KXNBASPREAD-26NOV10LACPHX-PHX4:no",
+   "league": "NBA",
+   "game": "LA Clippers @ Phoenix Suns",
+   "start": "2026-11-11T02:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "LA Clippers +3.5",
+   "ask": 50,
+   "cost": 51.75,
+   "fair": 50,
+   "sharp": null,
+   "why": "Every expert read today is on Los Angeles: SI's Dewey and PredictEm's Jensen take Clippers +3.5 and Covers' Metler takes the Clippers moneyline. Phoenix is on the second night of a back-to-back after a 122-96 home loss to the Spurs, ranks 29th in defensive rating and is without Mark Williams; the line has already dropped from -4.5 to -3.5. Caution: the Clippers are without Ingram and Beal.",
+   "sources": [
+    {
+     "name": "SI / Peter Dewey (Clippers +3.5)",
+     "url": "https://www.si.com/betting/clippers-vs-suns-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026"
+    },
+    {
+     "name": "PredictEm / Joe Jensen (Clippers +3.5)",
+     "url": "https://www.predictem.com/nba/clippers-at-suns-best-bet-nba-prediction-for-nov-10/"
+    },
+    {
+     "name": "Covers / Jon Metler (Clippers ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFTOTAL-26NOV10OHIOMOH-50:no",
+   "league": "College football",
+   "game": "Ohio Bobcats @ Miami (OH) RedHawks",
+   "start": "2026-11-11T01:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 49.5",
+   "ask": 57,
+   "cost": 58.7157,
+   "fair": 56.5,
+   "sharp": null,
+   "why": "Three outlets take the Under at lower numbers than this (Covers and Sportsbook Review at 48.5, TheSpread at 46.5), so 49.5 gives a cushion. Miami (OH) lost QB McComb for the season and starts Caleb Heavner (4 TD, 4 INT); Covers notes Ohio runs about 60% of the time into a Miami run defense allowing 3.4 yards per carry, and the Under is 5-1 in Ohio's last six. The total has already fallen from 48.5 to 46.5 at books.",
+   "sources": [
+    {
+     "name": "Covers / Colby Marchio (Under 48.5)",
+     "url": "https://www.covers.com/ncaaf/ohio-vs-miami-oh-prediction-picks-odds-nov-10-2026"
+    },
+    {
+     "name": "Sportsbook Review / Mike Spector (Under 48.5)",
+     "url": "https://www.sportsbookreview.com/picks/college-football/ohio-vs-miami-ohio-prediction-odds-picks-week-11-2026/"
+    },
+    {
+     "name": "TheSpread / Anthony Rome (Under 46.5)",
+     "url": "https://www.thespread.com/ncaaf-articles/ohio-vs-miami-ohio-prediction-november-10-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFTOTAL-26NOV11BUFFBALL-52:yes",
+   "league": "College football",
+   "game": "Buffalo Bulls @ Ball State Cardinals",
+   "start": "2026-11-12T00:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 51.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 48,
+   "sharp": null,
+   "why": "VSiN's Adam Burke and Bleacher Nation's model both take the Over. Burke notes both offenses play better in MAC games, Buffalo gains 5.08 yards per play in conference play and RB Jalen Bonds ran for 132 yards against UMass; Ball State games average 51.6 points. Nobody we read took the Under.",
+   "sources": [
+    {
+     "name": "VSiN / Adam Burke (Over 51)",
+     "url": "https://vsin.com/college-football/college-football-week-11-picks-buffalo-vs-ball-state/"
+    },
+    {
+     "name": "Bleacher Nation / Data Skrive model (Over 51.5)",
+     "url": "https://www.bleachernation.com/picks/2026/11/09/buffalo-vs-ball-state-football-best-bets-computer-predictions-nov-11/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV10DETSTL-STL:yes",
+   "league": "NHL",
+   "game": "Detroit Red Wings @ St. Louis Blues",
+   "start": "2026-11-11T01:00:00.000Z",
+   "mk": "ML",
+   "label": "St. Louis Blues",
+   "ask": 57,
+   "cost": 58.7157,
+   "fair": 56.4,
+   "sharp": null,
+   "why": "Detroit is without Dylan Larkin, suspended after refusing to play amid a trade request, and has a 25th-ranked offense and a bottom-five penalty kill (69%) against St. Louis's 22.45% power play. Lineups.com and Dimers' model take Blues -1.5 and BetMGM's model has St. Louis winning 56.9% (it prefers Detroit +1.5 on the puck line, so this takes the plain moneyline everyone agrees on).",
+   "sources": [
+    {
+     "name": "Lineups.com / Thom Cunningham (Blues -1.5)",
+     "url": "https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/"
+    },
+    {
+     "name": "Dimers model (Blues -1.5, 57.5% to win)",
+     "url": "https://www.dimers.com/nhl/news/detroit-red-wings-vs-st-louis-blues-prediction-11-10-2026-ac"
+    },
+    {
+     "name": "BetMGM model (Blues 56.9% to win)",
+     "url": "https://sports.betmgm.com/en/blog/nhl/red-wings-blues-prediction-odds-picks-nov-10-2026-jaa/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV10MINMTL-MTL:yes",
+   "league": "NHL",
+   "game": "Minnesota Wild @ Montreal Canadiens",
+   "start": "2026-11-11T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Montreal Canadiens",
+   "ask": 47,
+   "cost": 48.7437,
+   "fair": 46.6,
+   "sharp": null,
+   "why": "Last Word On Hockey's Lori Bennett predicts a 4-3 Canadiens win (pick: Montreal +1.5) and Dimers' model lists the Canadiens moneyline as its best value bet. Minnesota's Brock Faber (fractured skull) is uncertain and Spurgeon is day-to-day; Montreal is without Matheson and Demidov. Close to a coin flip.",
+   "sources": [
+    {
+     "name": "Last Word On Hockey / Lori Bennett (Canadiens +1.5, 4-3 MTL)",
+     "url": "https://lastwordonsports.com/hockey/2026/11/10/nhl-predictions-wild-vs-canadiens-nov-10"
+    },
+    {
+     "name": "Dimers model (Canadiens ML)",
+     "url": "https://www.dimers.com/nhl/news/minnesota-wild-vs-montreal-canadiens-prediction-11-10-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFTOTAL-26NOV11MASSTOL-53:no",
+   "league": "College football",
+   "game": "Massachusetts Minutemen @ Toledo Rockets",
+   "start": "2026-11-12T00:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 52.5",
+   "ask": 52,
+   "cost": 53.7472,
+   "fair": 51.1,
+   "sharp": null,
+   "why": "PredictEm's Joe Jensen takes Under 52.5 and projects Toledo 30-16: Toledo's run defense has allowed 2.0 yards per carry over its last three games and it should be about 49°F. One expert only, so it sits mid-ladder.",
+   "sources": [
+    {
+     "name": "PredictEm / Joe Jensen (Under 52.5)",
+     "url": "https://www.predictem.com/college-football/umass-at-toledo-picks-prediction-week-11-maction-odds/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV10WSHOTT-OTT:yes",
+   "league": "NHL",
+   "game": "Washington Capitals @ Ottawa Senators",
+   "start": "2026-11-11T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Ottawa Senators",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 52.9,
+   "sharp": null,
+   "why": "SI's Ryan Gilbert takes Ottawa, numberFire gives the Senators 52.2% and Dimers' model 54.4%. Ottawa is 6-2-0 at home and Washington is without Sandin, Desharnais and Thomas. Caution: SI expects Ullmark back in goal but that return isn't confirmed, and this leg is priced a little past the usual edge limit (−2.9).",
+   "sources": [
+    {
+     "name": "SI / Ryan Gilbert (Senators ML)",
+     "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-avalanche-maple-leafs-capitals-senators-predators-kings"
+    },
+    {
+     "name": "FanDuel Research / numberFire model (Senators 52.2%)",
+     "url": "https://www.fanduel.com/research/senators-vs-capitals-prediction-nhl-odds-11-10-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV11GSWHOU-HOU:yes",
+   "league": "NBA",
+   "game": "Golden State Warriors @ Houston Rockets",
+   "start": "2026-11-12T02:30:00.000Z",
+   "mk": "ML",
+   "label": "Houston Rockets",
+   "ask": 63,
+   "cost": 64.6317,
+   "fair": 63.5,
+   "sharp": null,
+   "why": "Golden State is expected to be without Butler, Moody and Porzingis (Houston is missing Adams and Capela). Sports Mole picks Houston 116-111, noting the Rockets are 5-1 at home and allow 104.7 points per game there.",
+   "sources": [
+    {
+     "name": "Sports Mole / Adepoju Marvellous (Rockets ML)",
+     "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview/golden-state-warriors-vs-houston-rockets-player-props-injury-report-and-prediction--nba_608821.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV10MIAUTA-MIA:yes",
+   "league": "NBA",
+   "game": "Miami Heat @ Utah Jazz",
+   "start": "2026-11-11T02:00:00.000Z",
+   "mk": "ML",
+   "label": "Miami Heat",
+   "ask": 76,
+   "cost": 77.2768,
+   "fair": 75.3,
+   "sharp": null,
+   "why": "Utah is 1-9 on an eight-game losing streak with the second-worst offensive rating (104.4) and is without Keyonte George, Jaren Jackson Jr. and Nurkic (Markkanen questionable). Covers' Metler takes the Heat moneyline and SI's Dewey Heat -8.5; Dimers' model likes Utah +9 but still has Miami winning.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Heat ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026"
+    },
+    {
+     "name": "SI / Peter Dewey (Heat -8.5)",
+     "url": "https://www.si.com/betting/heat-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026"
+    },
+    {
+     "name": "PredictEm / Joe Jensen (injury notes)",
+     "url": "https://www.predictem.com/nba/heat-at-jazz-best-bet-nba-picks-and-odds-for-tuesday-night/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV10MSUDUKE-DUKE:yes",
+   "league": "College basketball",
+   "game": "Michigan State Spartans @ Duke Blue Devils",
+   "start": "2026-11-11T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Duke Blue Devils",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 74.1,
+   "sharp": null,
+   "why": "All five CBS Sports writers pick Duke to win (three also lay -6.5), citing Duke's frontcourt (Ngongba, Boumtje Boumtje) and bench depth. Duke is KenPom's No. 2 defense, allowing 51.0 points per game, and has won 4 of the last 5 meetings; Michigan State has lost five straight to AP top-5 teams at neutral sites.",
+   "sources": [
+    {
+     "name": "CBS Sports / Norlander, Cobb, Salerno (Duke -6.5)",
+     "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/"
+    },
+    {
+     "name": "FanDuel Research (Duke defensive numbers)",
+     "url": "https://www.fanduel.com/research/duke-vs-michigan-state-prediction-college-basketball-picks-and-best-bets-nov-10"
+    }
+   ]
+  }
+ ]
+}

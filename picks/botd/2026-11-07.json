@@ -91,7 +91,8 @@
      "name": "TheSpread / Alex Becker (Panthers ML)",
      "url": "https://www.thespread.com/nhl-articles/panthers-vs-capitals-prediction-november-7-2026/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV07TLSATULN-TLSA4:no",
@@ -207,7 +208,8 @@
      "name": "SportsBettingDime / Chris Amberley (Oilers −1.5)",
      "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-saturday-predictions-best-bets-nov-7/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFTOTAL-26NOV07UKTENN-52:no",
@@ -232,7 +234,8 @@
      "name": "CBS Sports / Daniel Lewis model (Under 49.5)",
      "url": "https://www.cbssports.com/betting/news/college-football-picks-score-predictions-game-best-bets-for-week-10-2026/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLSPREAD-26NOV07TBMIN-TB2:no",
@@ -258,7 +261,8 @@
      "name": "Dimers model (Wild ML; +1.5 covers 69.1%)",
      "url": "https://www.dimers.com/nhl/news/tampa-bay-lightning-vs-minnesota-wild-prediction-11-07-2026-ac"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFGAME-26NOV07CINHOU-HOU:yes",
@@ -283,7 +287,8 @@
      "name": "Covers / Colby Marchio (Houston −10.5)",
      "url": "https://www.covers.com/ncaaf/week-10-top-picks-saturday-nov-7-2026"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }

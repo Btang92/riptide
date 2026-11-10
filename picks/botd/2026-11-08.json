@@ -33,7 +33,8 @@
      "name": "Sports Mole (Milwaukee concede 122.1)",
      "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNFLGAME-26NOV08HOULAC-HOU:yes",
@@ -62,7 +63,8 @@
      "name": "AP / Rob Maaddi (Texans 20-17)",
      "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBATOTAL-26NOV08MIASAC-239:no",
@@ -90,7 +92,8 @@
      "name": "Sports Mole / Adepoju Marvellous (Under 238.5)",
      "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLGAME-26NOV08DALIND-DAL:yes",
@@ -124,7 +127,8 @@
      "name": "Covers / Jason Logan (Colts defense)",
      "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLGAME-26NOV08DETMIA-DET:yes",
@@ -160,7 +164,8 @@
      "name": "CBS Sports / Tyler Sullivan (Lions −6.5)",
      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLSPREAD-26NOV08LARWAS-WAS4:no",
@@ -193,7 +198,8 @@
      "name": "AP / Rob Maaddi (Rams 26-17)",
      "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLGAME-26NOV08LVSF-SF:yes",
@@ -225,7 +231,8 @@
      "name": "CBS Sports / Tyler Sullivan (49ers 27-20)",
      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLSPREAD-26NOV08TBCHI-CHI15:no",
@@ -259,7 +266,8 @@
      "name": "AP / Rob Maaddi (Bears 27-22)",
      "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNFLSPREAD-26NOV09BUFMIN-MIN4:no",
@@ -300,7 +308,8 @@
      "name": "KTTC / AP (Wentz starting)",
      "url": "https://www.kttc.com/2026/11/05/vikings-sit-murray-with-hamstring-strain-will-start-wentz-qb-against-bills-monday-night/"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }

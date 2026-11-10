@@ -11,7 +11,9 @@
    "line": -2.5,
    "source": "Covers / Shawn Krest",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Denver 2-0 SU/ATS on road; Carolina D-line and midseason coaching changes"
+   "note": "Denver 2-0 SU/ATS on road; Carolina D-line and midseason coaching changes",
+   "result": "win",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -22,7 +24,9 @@
    "team": "New Orleans Saints",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Saints off bye; Cleveland on third straight road game"
+   "note": "Saints off bye; Cleveland on third straight road game",
+   "result": "win",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -34,7 +38,9 @@
    "side": "over",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Dallas fast pace; Indy 27th defensive DVOA, 30+ allowed in four games"
+   "note": "Dallas fast pace; Indy 27th defensive DVOA, 30+ allowed in four games",
+   "result": "loss",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -46,7 +52,9 @@
    "line": -6.5,
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Detroit 29.0 ppg (3rd), 8th offensive DVOA; Miami allows 25.9"
+   "note": "Detroit 29.0 ppg (3rd), 8th offensive DVOA; Miami allows 25.9",
+   "result": "win",
+   "final": "Detroit Lions 19 @ Miami Dolphins 9"
   },
   {
    "league": "NFL",
@@ -58,7 +66,9 @@
    "line": -4.5,
    "source": "Covers / Tom Oldfield",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "LA 41% pressure rate (3rd); Washington 26th in completion pct"
+   "note": "LA 41% pressure rate (3rd); Washington 26th in completion pct",
+   "result": "win",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -70,7 +80,9 @@
    "side": "over",
    "source": "Covers / Ed Scimia",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Jets allowed 30.7 ppg last 3 weeks; KC 6.4 yards per play"
+   "note": "Jets allowed 30.7 ppg last 3 weeks; KC 6.4 yards per play",
+   "result": "loss",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -82,7 +94,9 @@
    "line": -3.5,
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Philly 26th defensive DVOA, 14.8 ppg in six-game skid"
+   "note": "Philly 26th defensive DVOA, 14.8 ppg in six-game skid",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -94,7 +108,9 @@
    "line": -5.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Chargers league-worst 14.1 ppg; Herbert sacked 23 times"
+   "note": "Chargers league-worst 14.1 ppg; Herbert sacked 23 times",
+   "result": "win",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -106,7 +122,9 @@
    "line": 3.5,
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Green Bay net early-down efficiency, pass-rush matchup edge"
+   "note": "Green Bay net early-down efficiency, pass-rush matchup edge",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -118,7 +136,9 @@
    "line": 9.5,
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Favourites of 7+ are 6-20-3 ATS; Raiders 27.6 ppg (6th)"
+   "note": "Favourites of 7+ are 6-20-3 ATS; Raiders 27.6 ppg (6th)",
+   "result": "loss",
+   "final": "Las Vegas Raiders 17 @ San Francisco 49ers 38"
   },
   {
    "league": "NFL",
@@ -130,7 +150,9 @@
    "side": "over",
    "source": "Covers / Sam Farley",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Lock threw 3 TDs in Week 2 meeting; Minshew threw 3 last week"
+   "note": "Lock threw 3 TDs in Week 2 meeting; Minshew threw 3 last week",
+   "result": "loss",
+   "final": "Arizona Cardinals 3 @ Seattle Seahawks 17"
   },
   {
    "league": "NFL",
@@ -144,7 +166,9 @@
    "stat": "passing yards",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Bucs run on 53.5% of snaps, NFL-low 6.6 aDOT; projection 237"
+   "note": "Bucs run on 53.5% of snaps, NFL-low 6.6 aDOT; projection 237",
+   "result": "loss",
+   "final": "Caleb Williams 279 passing yards"
   },
   {
    "league": "NFL",
@@ -156,7 +180,9 @@
    "side": "under",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/week-9-top-picks-sunday-nov-8-2026",
-   "note": "Minnesota under in 16 of last 19; Buffalo missing OL and receivers"
+   "note": "Minnesota under in 16 of last 19; Buffalo missing OL and receivers",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -170,7 +196,9 @@
    "stat": "receiving yards",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Bigger pass-catching role; Cowboys allow large TE totals; projection 52"
+   "note": "Bigger pass-catching role; Cowboys allow large TE totals; projection 52",
+   "result": "win",
+   "final": "Tyler Warren 44 receiving yards"
   },
   {
    "league": "NFL",
@@ -184,7 +212,9 @@
    "stat": "receiving yards",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Browns have allowed multiple 30+ yard TE games"
+   "note": "Browns have allowed multiple 30+ yard TE games",
+   "result": "win",
+   "final": "Juwan Johnson 34 receiving yards"
   },
   {
    "league": "NFL",
@@ -198,7 +228,9 @@
    "stat": "rushing yards",
    "source": "Covers / Tom Oldfield",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Averages about 47 rushing yards; RB injuries may add designed runs"
+   "note": "Averages about 47 rushing yards; RB injuries may add designed runs",
+   "result": "loss",
+   "final": "Jayden Daniels 16 rushing yards"
   },
   {
    "league": "NFL",
@@ -212,7 +244,9 @@
    "stat": "rushing + receiving yards",
    "source": "Covers / Ed Scimia",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Averages ~110 rushing yards; game script favours workload"
+   "note": "Averages ~110 rushing yards; game script favours workload",
+   "result": "win",
+   "final": "Kenneth Walker III 143 rushing + receiving yards"
   },
   {
    "league": "NFL",
@@ -226,7 +260,9 @@
    "stat": "completions",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Miami weak coverage grades and high dropback success allowed"
+   "note": "Miami weak coverage grades and high dropback success allowed",
+   "result": "loss",
+   "final": "Jared Goff 17 completions"
   },
   {
    "league": "NFL",
@@ -240,7 +276,9 @@
    "stat": "receiving yards",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Strong Week 7 and yards after catch; Eagles pass D declined"
+   "note": "Strong Week 7 and yards after catch; Eagles pass D declined",
+   "result": "win",
+   "final": "Malachi Fields 40 receiving yards"
   },
   {
    "league": "NFL",
@@ -254,7 +292,9 @@
    "stat": "rushing yards",
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "RB1 with Montgomery injured; 15+ carries each game since"
+   "note": "RB1 with Montgomery injured; 15+ carries each game since",
+   "result": "win",
+   "final": "Woody Marks 70 rushing yards"
   },
   {
    "league": "NFL",
@@ -268,7 +308,9 @@
    "stat": "receiving yards",
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Henderson out, Patriots WRs injured; more targets expected"
+   "note": "Henderson out, Patriots WRs injured; more targets expected",
+   "result": "win",
+   "final": "Rhamondre Stevenson 46 receiving yards"
   },
   {
    "league": "NFL",
@@ -282,7 +324,9 @@
    "stat": "rushing yards",
    "source": "Covers / Sam Farley",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "147 yards recently; Jeremiyah Love injury opens carries"
+   "note": "147 yards recently; Jeremiyah Love injury opens carries",
+   "result": "loss",
+   "final": "Tyler Allgeier 46 rushing yards"
   },
   {
    "league": "NFL",
@@ -296,7 +340,9 @@
    "stat": "receiving yards",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Projected 48.8; Buffalo allows many yards to TEs"
+   "note": "Projected 48.8; Buffalo allows many yards to TEs",
+   "result": "loss",
+   "final": "T.J. Hockenson 33 receiving yards"
   },
   {
    "league": "NFL",
@@ -308,7 +354,9 @@
    "line": 2.5,
    "source": "CBS Sports / Brady Kannon",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Line moved 3 to 2.5 toward the underdog"
+   "note": "Line moved 3 to 2.5 toward the underdog",
+   "result": "loss",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -322,7 +370,9 @@
    "stat": "rushing yards",
    "source": "CBS Sports / Alex Selesnick",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Colts 31st in EPA allowed per rush; high usage"
+   "note": "Colts 31st in EPA allowed per rush; high usage",
+   "result": "win",
+   "final": "Javonte Williams 101 rushing yards"
   },
   {
    "league": "NFL",
@@ -336,7 +386,9 @@
    "stat": "rushing yards",
    "source": "CBS Sports / David Bearman",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Jets allow heavy rushing totals; game script"
+   "note": "Jets allow heavy rushing totals; game script",
+   "result": "win",
+   "final": "Kenneth Walker III 102 rushing yards"
   },
   {
    "league": "NFL",
@@ -350,7 +402,9 @@
    "stat": "receiving yards",
    "source": "CBS Sports / Prop Bet Guy Doug",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Miami allows high target rate to in-line TEs"
+   "note": "Miami allows high target rate to in-line TEs",
+   "result": "loss",
+   "final": "Sam LaPorta 32 receiving yards"
   },
   {
    "league": "NFL",
@@ -362,7 +416,9 @@
    "line": 3,
    "source": "CBS Sports / Emory Hunt",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Browns pressure on Shough; Saints secondary vulnerable downfield"
+   "note": "Browns pressure on Shough; Saints secondary vulnerable downfield",
+   "result": "win",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -374,7 +430,9 @@
    "line": -3,
    "source": "CBS Sports / Micah Roberts",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Philadelphia losing streak and without Jalen Hurts"
+   "note": "Philadelphia losing streak and without Jalen Hurts",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -386,7 +444,9 @@
    "line": -4.5,
    "source": "CBS Sports / Adam Thompson",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Washington among weakest pass defenses"
+   "note": "Washington among weakest pass defenses",
+   "result": "win",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -398,7 +458,9 @@
    "side": "under",
    "source": "CBS Sports / R.J. White",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Winless Chargers struggle to score; Houston run game not working"
+   "note": "Winless Chargers struggle to score; Houston run game not working",
+   "result": "loss",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -412,7 +474,9 @@
    "stat": "receiving yards",
    "source": "CBS Sports / R.J. White",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Topped 36 receiving yards in six straight"
+   "note": "Topped 36 receiving yards in six straight",
+   "result": "loss",
+   "final": "Ashton Jeanty -5 receiving yards"
   },
   {
    "league": "NFL",
@@ -424,7 +488,9 @@
    "line": 3.5,
    "source": "CBS Sports / Emory Hunt",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Josh Jacobs has balanced the offense; close game expected"
+   "note": "Josh Jacobs has balanced the offense; close game expected",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -438,7 +504,9 @@
    "stat": "longest reception",
    "source": "CBS Sports / Prop Bet Guy Doug",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Under this line in six of eight games"
+   "note": "Under this line in six of eight games",
+   "result": "loss",
+   "final": "Michael Wilson 23 longest reception"
   },
   {
    "league": "NFL",
@@ -450,7 +518,9 @@
    "line": -6,
    "source": "CBS Sports / R.J. White",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Chicago elite with stabilized defense; Bucs wins came without much passing"
+   "note": "Chicago elite with stabilized defense; Bucs wins came without much passing",
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -464,7 +534,9 @@
    "stat": "receiving yards",
    "source": "CBS Sports / Alex Selesnick",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Chemistry with Carson Wentz"
+   "note": "Chemistry with Carson Wentz",
+   "result": "loss",
+   "final": "Justin Jefferson 58 receiving yards"
   },
   {
    "league": "NFL",
@@ -476,7 +548,9 @@
    "line": -6,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Bucs passing struggles; Chicago strong at home"
+   "note": "Bucs passing struggles; Chicago strong at home",
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -488,7 +562,9 @@
    "line": 3,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Maye may struggle vs Green Bay defense; Love productive"
+   "note": "Maye may struggle vs Green Bay defense; Love productive",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -500,7 +576,9 @@
    "line": -4.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Daniels erratic; Rams defense strong"
+   "note": "Daniels erratic; Rams defense strong",
+   "result": "win",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -512,7 +590,9 @@
    "line": -4.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Indianapolis struggling; Daniel Jones poor passer rating"
+   "note": "Indianapolis struggling; Daniel Jones poor passer rating",
+   "result": "loss",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -524,7 +604,9 @@
    "line": -3,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Kyler Murray out; Buffalo efficient in red zone"
+   "note": "Kyler Murray out; Buffalo efficient in red zone",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -536,7 +618,9 @@
    "line": -8.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Chiefs 30-20"
+   "note": "Projected Chiefs 30-20",
+   "result": "win",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -548,7 +632,9 @@
    "line": -6.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Lions 34-23"
+   "note": "Projected Lions 34-23",
+   "result": "win",
+   "final": "Detroit Lions 19 @ Miami Dolphins 9"
   },
   {
    "league": "NFL",
@@ -560,7 +646,9 @@
    "line": -3.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Saints 24-20"
+   "note": "Projected Saints 24-20",
+   "result": "loss",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -572,7 +660,9 @@
    "line": -3,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Giants 24-17"
+   "note": "Projected Giants 24-17",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -584,7 +674,9 @@
    "line": 3,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Broncos 21-20"
+   "note": "Projected Broncos 21-20",
+   "result": "loss",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -596,7 +688,9 @@
    "line": 6,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Texans 24-20"
+   "note": "Projected Texans 24-20",
+   "result": "loss",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -608,7 +702,9 @@
    "line": 9.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected 49ers 27-20"
+   "note": "Projected 49ers 27-20",
+   "result": "loss",
+   "final": "Las Vegas Raiders 17 @ San Francisco 49ers 38"
   },
   {
    "league": "NFL",
@@ -620,7 +716,9 @@
    "line": -8.5,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Projected Seahawks 33-20"
+   "note": "Projected Seahawks 33-20",
+   "result": "win",
+   "final": "Arizona Cardinals 3 @ Seattle Seahawks 17"
   },
   {
    "league": "NFL",
@@ -632,7 +730,9 @@
    "line": -3,
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Giants rolling; Philadelphia injured and struggling"
+   "note": "Giants rolling; Philadelphia injured and struggling",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -646,7 +746,9 @@
    "stat": "pass attempts",
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Sells high on Green Bay's heavy passing"
+   "note": "Sells high on Green Bay's heavy passing",
+   "result": "win",
+   "final": "Jordan Love 29 pass attempts"
   },
   {
    "league": "NFL",
@@ -660,7 +762,9 @@
    "stat": "receiving yards",
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Tough man coverage; Watson back"
+   "note": "Tough man coverage; Watson back",
+   "result": "loss",
+   "final": "Matthew Golden 164 receiving yards"
   },
   {
    "league": "NFL",
@@ -674,7 +778,9 @@
    "stat": "receiving yards",
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Seattle likely to run more with Drew Lock"
+   "note": "Seattle likely to run more with Drew Lock",
+   "result": "win",
+   "final": "Jaxon Smith-Njigba 51 receiving yards"
   },
   {
    "league": "NFL",
@@ -688,7 +794,9 @@
    "stat": "pass attempts",
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Chicago time-of-possession edge forces volume"
+   "note": "Chicago time-of-possession edge forces volume",
+   "result": "win",
+   "final": "Baker Mayfield 32 pass attempts"
   },
   {
    "league": "NFL",
@@ -700,7 +808,9 @@
    "line": -3,
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Vikings backup QBs; Allen far better"
+   "note": "Vikings backup QBs; Allen far better",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -712,7 +822,9 @@
    "line": -3,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Bills 23-17"
+   "note": "AP score pick Bills 23-17",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -724,7 +836,9 @@
    "line": -2.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Saints 20-17; Watson in concussion protocol"
+   "note": "AP score pick Saints 20-17; Watson in concussion protocol",
+   "result": "loss",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -736,7 +850,9 @@
    "line": 5.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Cowboys 27-23 (Colts cover)"
+   "note": "AP score pick Cowboys 27-23 (Colts cover)",
+   "result": "win",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -748,7 +864,9 @@
    "line": -2.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Broncos 23-19"
+   "note": "AP score pick Broncos 23-19",
+   "result": "win",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -760,7 +878,9 @@
    "line": 7,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Lions 26-20 (Dolphins cover)"
+   "note": "AP score pick Lions 26-20 (Dolphins cover)",
+   "result": "loss",
+   "final": "Detroit Lions 19 @ Miami Dolphins 9"
   },
   {
    "league": "NFL",
@@ -772,7 +892,9 @@
    "line": -4.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Rams 26-17"
+   "note": "AP score pick Rams 26-17",
+   "result": "win",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -784,7 +906,9 @@
    "line": 3.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Giants 23-22 (Eagles cover)"
+   "note": "AP score pick Giants 23-22 (Eagles cover)",
+   "result": "loss",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -796,7 +920,9 @@
    "line": -9.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP best bet: Chiefs 27-13"
+   "note": "AP best bet: Chiefs 27-13",
+   "result": "win",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -808,7 +934,9 @@
    "line": 5.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Texans 20-17 (Chargers cover)"
+   "note": "AP score pick Texans 20-17 (Chargers cover)",
+   "result": "loss",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -820,7 +948,9 @@
    "line": 10,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick 49ers 27-20 (Raiders cover)"
+   "note": "AP score pick 49ers 27-20 (Raiders cover)",
+   "result": "loss",
+   "final": "Las Vegas Raiders 17 @ San Francisco 49ers 38"
   },
   {
    "league": "NFL",
@@ -832,7 +962,9 @@
    "line": -8.5,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Seahawks 23-14"
+   "note": "AP score pick Seahawks 23-14",
+   "result": "win",
+   "final": "Arizona Cardinals 3 @ Seattle Seahawks 17"
   },
   {
    "league": "NFL",
@@ -844,7 +976,9 @@
    "line": 3,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP upset special: Packers 24-23"
+   "note": "AP upset special: Packers 24-23",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -856,7 +990,9 @@
    "line": 6,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Bears 27-22 (Bucs cover)"
+   "note": "AP score pick Bears 27-22 (Bucs cover)",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -867,7 +1003,9 @@
    "team": "Chicago Bears",
    "source": "Chicago Sun-Times / Patrick Finley",
    "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-buccaneers-sunday-night-football-picks-predictions-odds-point-spread-nfl",
-   "note": "Bears 23-20"
+   "note": "Bears 23-20",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -878,7 +1016,9 @@
    "team": "Chicago Bears",
    "source": "Chicago Sun-Times / Jason Lieser",
    "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-buccaneers-sunday-night-football-picks-predictions-odds-point-spread-nfl",
-   "note": "Bears 27-21"
+   "note": "Bears 27-21",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -889,7 +1029,9 @@
    "team": "Chicago Bears",
    "source": "Chicago Sun-Times / Scoop Jackson",
    "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-buccaneers-sunday-night-football-picks-predictions-odds-point-spread-nfl",
-   "note": "Bears 42-20"
+   "note": "Bears 42-20",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -900,7 +1042,9 @@
    "team": "Chicago Bears",
    "source": "Chicago Sun-Times / Steve Greenberg",
    "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-buccaneers-sunday-night-football-picks-predictions-odds-point-spread-nfl",
-   "note": "Bears 27-16"
+   "note": "Bears 27-16",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -911,7 +1055,9 @@
    "team": "Chicago Bears",
    "source": "Chicago Sun-Times / Jeff Agrest",
    "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-buccaneers-sunday-night-football-picks-predictions-odds-point-spread-nfl",
-   "note": "Bears 26-0"
+   "note": "Bears 26-0",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -922,7 +1068,9 @@
    "team": "Buffalo Bills",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Allen handles Minnesota blitz; few scrambling QBs faced"
+   "note": "Allen handles Minnesota blitz; few scrambling QBs faced",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -934,7 +1082,9 @@
    "side": "under",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Both pressure passers; Minnesota lacks big plays"
+   "note": "Both pressure passers; Minnesota lacks big plays",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -946,7 +1096,9 @@
    "line": 6.5,
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/buccaneers-vs-bears-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Chicago short turnaround; Tampa Bay run game"
+   "note": "Chicago short turnaround; Tampa Bay run game",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -958,7 +1110,9 @@
    "side": "under",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/buccaneers-vs-bears-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Bucs stingiest D since Week 5; possible rain/wind"
+   "note": "Bucs stingiest D since Week 5; possible rain/wind",
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -969,7 +1123,9 @@
    "team": "Tampa Bay Buccaneers",
    "source": "Sports Illustrated / Iain MacMillan",
    "url": "https://www.si.com/betting/buccaneers-vs-bears-prediction-odds-spread-injuries-trends-for-nfl-week-9-01m6hsqswvbd",
-   "note": "Bucs run game and D; Bears sell-high on short week"
+   "note": "Bucs run game and D; Bears sell-high on short week",
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -980,7 +1136,9 @@
    "team": "Chicago Bears",
    "source": "FanDuel Research / numberFire model",
    "url": "https://www.fanduel.com/research/bears-vs-buccaneers-predictions-odds-picks-best-bets-for-nfl-week-9-2026",
-   "note": "Model 62.7% Bears"
+   "note": "Model 62.7% Bears",
+   "result": "win",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -991,7 +1149,9 @@
    "team": "Buffalo Bills",
    "source": "FanDuel Research / numberFire model",
    "url": "https://fanduel.com/research/bills-vs-vikings-predictions-odds-picks-best-bets-for-nfl-week-9-monday-night-football-2026",
-   "note": "Model 53.3% Bills"
+   "note": "Model 53.3% Bills",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1003,7 +1163,9 @@
    "line": 3.5,
    "source": "ClutchPoints / Garrett Kerman",
    "url": "https://clutchpoints.com/betting/bills-vs-vikings-prediction-odds-pick-for-week-9-monday-night-football",
-   "note": "One-possession game expected; Minnesota defense"
+   "note": "One-possession game expected; Minnesota defense",
+   "result": "loss",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1014,7 +1176,9 @@
    "team": "Buffalo Bills",
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf",
-   "note": "Model 62.3% Bills, projects 24-21"
+   "note": "Model 62.3% Bills, projects 24-21",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NBA",
@@ -1026,7 +1190,9 @@
    "line": 8.5,
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 56.2%, 8.1% edge"
+   "note": "Model 56.2%, 8.1% edge",
+   "result": "win",
+   "final": "Philadelphia 76ers 127 @ Chicago Bulls 121"
   },
   {
    "league": "NBA",
@@ -1038,7 +1204,9 @@
    "line": 12.5,
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 54.4%, 5.4% edge"
+   "note": "Model 54.4%, 5.4% edge",
+   "result": "loss",
+   "final": "Boston Celtics 117 @ Milwaukee Bucks 97"
   },
   {
    "league": "NBA",
@@ -1049,7 +1217,9 @@
    "team": "Detroit Pistons",
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 65.7%, 3.7% edge"
+   "note": "Model 65.7%, 3.7% edge",
+   "result": "loss",
+   "final": "Los Angeles Lakers 121 @ Detroit Pistons 116"
   },
   {
    "league": "NBA",
@@ -1061,7 +1231,9 @@
    "line": 10.5,
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 56.1%, 3.7% edge"
+   "note": "Model 56.1%, 3.7% edge",
+   "result": "loss",
+   "final": "Utah Jazz 100 @ Minnesota Timberwolves 115"
   },
   {
    "league": "NBA",
@@ -1073,7 +1245,9 @@
    "line": 9.5,
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 53.2%, 3.7% edge"
+   "note": "Model 53.2%, 3.7% edge",
+   "result": "win",
+   "final": "Miami Heat 114 @ Sacramento Kings 108"
   },
   {
    "league": "NBA",
@@ -1084,7 +1258,9 @@
    "team": "New Orleans Pelicans",
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 56.1%, 3.5% edge"
+   "note": "Model 56.1%, 3.5% edge",
+   "result": "loss",
+   "final": "New Orleans Pelicans 123 @ LA Clippers 139"
   },
   {
    "league": "NBA",
@@ -1096,7 +1272,9 @@
    "line": 7.5,
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 52.6%, 3.1% edge"
+   "note": "Model 52.6%, 3.1% edge",
+   "result": "loss",
+   "final": "Brooklyn Nets 93 @ Dallas Mavericks 130"
   },
   {
    "league": "NBA",
@@ -1107,7 +1285,9 @@
    "team": "Milwaukee Bucks",
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Long shot: model 17%"
+   "note": "Long shot: model 17%",
+   "result": "loss",
+   "final": "Boston Celtics 117 @ Milwaukee Bucks 97"
   },
   {
    "league": "NBA",
@@ -1119,7 +1299,9 @@
    "side": "over",
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 53.7%, 3.2% edge"
+   "note": "Model 53.7%, 3.2% edge",
+   "result": "loss",
+   "final": "Boston Celtics 117 @ Milwaukee Bucks 97"
   },
   {
    "league": "NBA",
@@ -1131,7 +1313,9 @@
    "side": "under",
    "source": "Dimers / Damien Souness",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-08-2026-ac",
-   "note": "Model 53.1%, 3.1% edge"
+   "note": "Model 53.1%, 3.1% edge",
+   "result": "loss",
+   "final": "Philadelphia 76ers 127 @ Chicago Bulls 121"
   },
   {
    "league": "NBA",
@@ -1143,7 +1327,9 @@
    "line": -9.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Chicago lost five straight by ~20.8; allow 129.6"
+   "note": "Chicago lost five straight by ~20.8; allow 129.6",
+   "result": "loss",
+   "final": "Philadelphia 76ers 127 @ Chicago Bulls 121"
   },
   {
    "league": "NBA",
@@ -1155,7 +1341,9 @@
    "line": -4.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Detroit defense/net rating; Doncic questionable (back)"
+   "note": "Detroit defense/net rating; Doncic questionable (back)",
+   "result": "loss",
+   "final": "Los Angeles Lakers 121 @ Detroit Pistons 116"
   },
   {
    "league": "NBA",
@@ -1167,7 +1355,9 @@
    "line": -11.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Home vs road margin gap; Utah poor net rating"
+   "note": "Home vs road margin gap; Utah poor net rating",
+   "result": "win",
+   "final": "Utah Jazz 100 @ Minnesota Timberwolves 115"
   },
   {
    "league": "NBA",
@@ -1179,7 +1369,9 @@
    "line": 9.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Dallas wins at home by ~2; Brooklyn keep road games close"
+   "note": "Dallas wins at home by ~2; Brooklyn keep road games close",
+   "result": "loss",
+   "final": "Brooklyn Nets 93 @ Dallas Mavericks 130"
   },
   {
    "league": "NBA",
@@ -1191,7 +1383,9 @@
    "line": -12.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Boston net rating; Milwaukee concede 122.1"
+   "note": "Boston net rating; Milwaukee concede 122.1",
+   "result": "win",
+   "final": "Boston Celtics 117 @ Milwaukee Bucks 97"
   },
   {
    "league": "NBA",
@@ -1203,7 +1397,9 @@
    "side": "over",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Pelicans road games averaged 261.3 combined"
+   "note": "Pelicans road games averaged 261.3 combined",
+   "result": "win",
+   "final": "New Orleans Pelicans 123 @ LA Clippers 139"
   },
   {
    "league": "NBA",
@@ -1215,7 +1411,9 @@
    "side": "under",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--november-8_608709.html",
-   "note": "Sacramento score 111.0 at home"
+   "note": "Sacramento score 111.0 at home",
+   "result": "win",
+   "final": "Miami Heat 114 @ Sacramento Kings 108"
   },
   {
    "league": "NBA",
@@ -1227,7 +1425,9 @@
    "line": -4.5,
    "source": "Action Network (via Yahoo) / Matt Moore",
    "url": "https://sports.yahoo.com/articles/lakers-vs-pistons-prediction-pick-123857789.html",
-   "note": "Detroit 1st in PnR D; 3 days rest; model -5.8; Duren out"
+   "note": "Detroit 1st in PnR D; 3 days rest; model -5.8; Duren out",
+   "result": "loss",
+   "final": "Los Angeles Lakers 121 @ Detroit Pistons 116"
   },
   {
    "league": "NBA",
@@ -1239,7 +1439,9 @@
    "line": -4.5,
    "source": "PredictEm / Joe Jensen",
    "url": "https://www.predictem.com/nba/lakers-at-pistons-odds-prediction-nba-best-bet-sunday/",
-   "note": "Lean: Doncic back tightness, Lakers short rest vs Detroit 3 days rest; Duren out"
+   "note": "Lean: Doncic back tightness, Lakers short rest vs Detroit 3 days rest; Duren out",
+   "result": "loss",
+   "final": "Los Angeles Lakers 121 @ Detroit Pistons 116"
   },
   {
    "league": "NBA",
@@ -1250,7 +1452,9 @@
    "team": "Los Angeles Lakers",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/sport/basketball/nba/matchup/388683/picks",
-   "note": "Prices Lakers ~45% vs 39% market; Duren absence underpriced"
+   "note": "Prices Lakers ~45% vs 39% market; Duren absence underpriced",
+   "result": "win",
+   "final": "Los Angeles Lakers 121 @ Detroit Pistons 116"
   },
   {
    "league": "NBA",
@@ -1262,7 +1466,9 @@
    "line": -4,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/nuggets-vs-rockets-prediction-november-9-2026-nba-picks/54943/",
-   "note": "Rockets home after two road losses; 4-1 at home; Capela, Adams out"
+   "note": "Rockets home after two road losses; 4-1 at home; Capela, Adams out",
+   "result": "win",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -1274,7 +1480,9 @@
    "side": "over",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/nuggets-vs-rockets-prediction-november-9-2026-nba-picks/54943/",
-   "note": "Thin Houston frontcourt pushes quicker lineups"
+   "note": "Thin Houston frontcourt pushes quicker lineups",
+   "result": "loss",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -1286,7 +1494,9 @@
    "line": 2.5,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/lakers-vs-hawks-prediction-november-9-2026-nba-picks/54936/",
-   "note": "Lakers road form; depends on Doncic (questionable)"
+   "note": "Lakers road form; depends on Doncic (questionable)",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -1298,7 +1508,9 @@
    "side": "over",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/lakers-vs-hawks-prediction-november-9-2026-nba-picks/54936/",
-   "note": "Hawks transition and three-point volume"
+   "note": "Hawks transition and three-point volume",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -1310,7 +1522,9 @@
    "line": -4.5,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/cavaliers-vs-hornets-prediction-november-9-2026-nba-picks/54939/",
-   "note": "Charlotte injuries (Miller, Schroder); Hornets 96.3 ppg"
+   "note": "Charlotte injuries (Miller, Schroder); Hornets 96.3 ppg",
+   "result": "loss",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NBA",
@@ -1322,7 +1536,9 @@
    "side": "under",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/cavaliers-vs-hornets-prediction-november-9-2026-nba-picks/54939/",
-   "note": "Charlotte offense 96.3 ppg, 39% FG"
+   "note": "Charlotte offense 96.3 ppg, 39% FG",
+   "result": "loss",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NHL",
@@ -1333,7 +1549,9 @@
    "team": "Boston Bruins",
    "source": "Covers / Chris Faria",
    "url": "https://www.covers.com/nhl/panthers-vs-bruins-prediction-picks-nov-8-2026",
-   "note": "Boston 4th GA, 1st save pct; Florida without Barkov, Marchand, Lundell"
+   "note": "Boston 4th GA, 1st save pct; Florida without Barkov, Marchand, Lundell",
+   "result": "win",
+   "final": "Florida Panthers 1 @ Boston Bruins 4"
   },
   {
    "league": "NHL",
@@ -1347,7 +1565,9 @@
    "stat": "shots on goal",
    "source": "Covers / Chris Faria",
    "url": "https://www.covers.com/nhl/panthers-vs-bruins-prediction-picks-nov-8-2026",
-   "note": "4+ shots in three straight; Hagens out adds role"
+   "note": "4+ shots in three straight; Hagens out adds role",
+   "result": "loss",
+   "final": "David Pastrnak 3 shots on goal"
   },
   {
    "league": "NHL",
@@ -1361,7 +1581,9 @@
    "stat": "goals",
    "source": "Covers / Chris Faria",
    "url": "https://www.covers.com/nhl/panthers-vs-bruins-prediction-picks-nov-8-2026",
-   "note": "8 goals in 17, six at home; Markstrom .885"
+   "note": "8 goals in 17, six at home; Markstrom .885",
+   "result": "loss",
+   "final": "David Pastrnak 0 goals"
   },
   {
    "league": "NHL",
@@ -1375,7 +1597,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 80.7%, 34.2% edge"
+   "note": "Model 80.7%, 34.2% edge",
+   "result": "loss",
+   "final": "Trevor Connelly 1 shots on goal"
   },
   {
    "league": "NHL",
@@ -1389,7 +1613,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 75.1%, 10.2% edge"
+   "note": "Model 75.1%, 10.2% edge",
+   "result": "win",
+   "final": "Luke Evangelista 3 shots on goal"
   },
   {
    "league": "NHL",
@@ -1403,7 +1629,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 67.6%"
+   "note": "Model 67.6%",
+   "result": "win",
+   "final": "Evgeni Malkin 5 shots on goal"
   },
   {
    "league": "NHL",
@@ -1417,7 +1645,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 67.1%, 8.8% edge"
+   "note": "Model 67.1%, 8.8% edge",
+   "result": "win",
+   "final": "Porter Martone 2 shots on goal"
   },
   {
    "league": "NHL",
@@ -1431,7 +1661,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 65.1%, 5.9% edge"
+   "note": "Model 65.1%, 5.9% edge",
+   "result": "win",
+   "final": "Mark Stone 2 shots on goal"
   },
   {
    "league": "NHL",
@@ -1445,7 +1677,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 65.0%, 9.4% edge"
+   "note": "Model 65.0%, 9.4% edge",
+   "result": "win",
+   "final": "William Karlsson 5 shots on goal"
   },
   {
    "league": "NHL",
@@ -1459,7 +1693,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 63.1%, 11.9% edge"
+   "note": "Model 63.1%, 11.9% edge",
+   "result": "win",
+   "final": "Jack Eichel 5 shots on goal"
   },
   {
    "league": "NHL",
@@ -1473,7 +1709,9 @@
    "stat": "points",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 58.2%, 4.7% edge"
+   "note": "Model 58.2%, 4.7% edge",
+   "result": "win",
+   "final": "Evgeni Malkin 2 points"
   },
   {
    "league": "NHL",
@@ -1487,7 +1725,9 @@
    "stat": "shots on goal",
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-08-2026-ac",
-   "note": "Model 56.3%, 6.3% edge"
+   "note": "Model 56.3%, 6.3% edge",
+   "result": "win",
+   "final": "Matthew Tkachuk 5 shots on goal"
   },
   {
    "league": "NCAAB",
@@ -1499,7 +1739,9 @@
    "line": 1.5,
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 54.8%, 5.3% edge"
+   "note": "Model 54.8%, 5.3% edge",
+   "result": "win",
+   "final": "Saint Mary's Gaels 95 @ Nevada Wolf Pack 96"
   },
   {
    "league": "NCAAB",
@@ -1510,7 +1752,9 @@
    "team": "Tennessee Tech Golden Eagles",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 46.4% at +135, 3.8% edge"
+   "note": "Model 46.4% at +135, 3.8% edge",
+   "result": "win",
+   "final": "Western Kentucky Hilltoppers 94 @ Tennessee Tech Golden Eagles 97"
   },
   {
    "league": "NCAAB",
@@ -1522,7 +1766,9 @@
    "side": "over",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 54.7%, 3.4% edge"
+   "note": "Model 54.7%, 3.4% edge",
+   "result": "loss",
+   "final": "Green Bay Phoenix 76 @ St. Thomas Tommies 67"
   },
   {
    "league": "NCAAB",
@@ -1534,7 +1780,9 @@
    "side": "under",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 53.2%, 3.2% edge"
+   "note": "Model 53.2%, 3.2% edge",
+   "result": "loss",
+   "final": "Butler Bulldogs 81 @ Boise State Broncos 100"
   },
   {
    "league": "NCAAB",
@@ -1545,7 +1793,9 @@
    "team": "Virginia Cavaliers",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 63.5%, 3.2% edge"
+   "note": "Model 63.5%, 3.2% edge",
+   "result": "win",
+   "final": "Arkansas Razorbacks 72 @ Virginia Cavaliers 91"
   },
   {
    "league": "NCAAB",
@@ -1556,7 +1806,9 @@
    "team": "North Dakota State Bison",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-08-2026-ac",
-   "note": "Model 60.6%, 2.8% edge"
+   "note": "Model 60.6%, 2.8% edge",
+   "result": "loss",
+   "final": "North Dakota State Bison 80 @ Cal State Bakersfield Roadrunners 91"
   },
   {
    "league": "NCAAB",
@@ -1568,7 +1820,9 @@
    "line": 3.5,
    "source": "RotoWire / Eric Timm",
    "url": "https://www.rotowire.com/cbasketball/article/college-basketball-best-bets-today-picks-odds-predictions-for-sunday-november-8-145737",
-   "note": "Deep Arkansas roster hard to prepare for this early"
+   "note": "Deep Arkansas roster hard to prepare for this early",
+   "result": "loss",
+   "final": "Arkansas Razorbacks 72 @ Virginia Cavaliers 91"
   },
   {
    "league": "NCAAB",
@@ -1580,7 +1834,9 @@
    "line": -1.5,
    "source": "RotoWire / Eric Timm",
    "url": "https://www.rotowire.com/cbasketball/article/college-basketball-best-bets-today-picks-odds-predictions-for-sunday-november-8-145737",
-   "note": "Princeton returns experience; Siena lost to No. 312 Bryant"
+   "note": "Princeton returns experience; Siena lost to No. 312 Bryant",
+   "result": "loss",
+   "final": "Princeton Tigers 68 @ Siena Saints 82"
   },
   {
    "league": "NCAAB",
@@ -1592,7 +1848,9 @@
    "line": -1.5,
    "source": "RotoWire / Eric Timm",
    "url": "https://www.rotowire.com/cbasketball/article/college-basketball-best-bets-today-picks-odds-predictions-for-sunday-november-8-145737",
-   "note": "Penn State allowed 93 to Chattanooga"
+   "note": "Penn State allowed 93 to Chattanooga",
+   "result": "win",
+   "final": "Pittsburgh Panthers 82 @ Penn State Nittany Lions 76"
   },
   {
    "league": "NCAAB",
@@ -1604,7 +1862,9 @@
    "line": -17.5,
    "source": "Action Network (via Yahoo) / Sean Paul",
    "url": "https://sports.yahoo.com/articles/houston-vs-cal-prediction-pick-133002274.html",
-   "note": "Houston interior D; Cal's Lee Dort status uncertain"
+   "note": "Houston interior D; Cal's Lee Dort status uncertain",
+   "result": "win",
+   "final": "Houston Cougars 86 @ California Golden Bears 68"
   },
   {
    "league": "NFL",
@@ -1617,7 +1877,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Saints avg 23.1 ppg vs Browns' 17.4; a field-goal win gets there",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -1630,7 +1892,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Eagles 0-3 with Tanner McKee under center, scoring 17.1 ppg",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -1643,7 +1907,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Carolina has extra rest and a more productive offense; home underdog",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -1656,7 +1922,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Chiefs defense (18.7 ppg allowed) a major advantage vs Jets",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -1669,7 +1937,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Colts allow 27.8 ppg; Dallas averages 27.4",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -1682,7 +1952,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Detroit's injury list makes a near-TD spread uncomfortable",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Detroit Lions 19 @ Miami Dolphins 9"
   },
   {
    "league": "NFL",
@@ -1695,7 +1967,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Rams have significant injury concerns; nearly a TD in hand",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -1708,7 +1982,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Houston is 2-5; Chargers only need to stay within one score",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -1721,7 +1997,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Both 5-3 with similar defenses, Green Bay has extra rest; take more than a FG",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -1734,7 +2012,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "49ers avg 28.1 ppg off a bye; Raiders allow 28.8",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Las Vegas Raiders 17 @ San Francisco 49ers 38"
   },
   {
    "league": "NFL",
@@ -1747,7 +2027,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Minshew earned the job; Seattle on short week with backup QB",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Arizona Cardinals 3 @ Seattle Seahawks 17"
   },
   {
    "league": "NFL",
@@ -1760,7 +2042,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Back Chicago's balance to deliver a TD win at home after beating Seattle 34-17",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 24 @ Chicago Bears 27"
   },
   {
    "league": "NFL",
@@ -1773,7 +2057,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Bills avg 33.3 ppg; Vikings must start Carson Wentz",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1786,7 +2072,9 @@
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/over-under-predictions-picks-combo-week-9-2026",
    "note": "Both teams trending Over; Washington defense ranks poorly",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -1799,7 +2087,9 @@
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/over-under-predictions-picks-combo-week-9-2026",
    "note": "Both defenses bottom six in points and yards per play allowed",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -1812,7 +2102,9 @@
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/over-under-predictions-picks-combo-week-9-2026",
    "note": "Raiders have gone Over in last six; 49ers lead NFL in yards per play",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Las Vegas Raiders 17 @ San Francisco 49ers 38"
   },
   {
    "league": "NFL",
@@ -1827,7 +2119,9 @@
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/nfl/raiders-vs-49ers-prediction-picks-nov-8-2026",
    "note": "Should see more work as McCaffrey returns from hamstring injury; scored in Week 7",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Kaelon Black 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1842,7 +2136,9 @@
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-9-2026",
    "note": "Has scored or topped 80 yards in all four games this year",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Rashee Rice 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1857,7 +2153,9 @@
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-9-2026",
    "note": "Montgomery out, Marks played 89% of snaps; Chargers allow rushing TDs to backs",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Woody Marks 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1872,7 +2170,9 @@
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-9-2026",
    "note": "Watson injured; Golden has 4 TDs in last six; weak Patriots pass D",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Matthew Golden 1 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1887,7 +2187,9 @@
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-9-2026",
    "note": "Chicago's top option with TDs in back-to-back weeks, 11 red-zone targets",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Luther Burden III 1 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1902,7 +2204,9 @@
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-9-2026",
    "note": "Buffalo allows most receiving TDs to WRs; Vikings may need to throw downfield",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Jordan Addison 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1915,7 +2219,9 @@
    "source": "Yahoo Sports / Matt Russell",
    "url": "https://sports.yahoo.com/nfl/betting/article/week-9-nfl-odds-picks-predictions-our-5-best-bets-for-this-weeks-games-163632427.html",
    "note": "Chiefs struggle to cover big spreads; Jets offense improving, Sneed out",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -1928,7 +2234,9 @@
    "source": "Yahoo Sports / Matt Jacob",
    "url": "https://sports.yahoo.com/nfl/betting/article/week-9-nfl-odds-picks-predictions-our-5-best-bets-for-this-weeks-games-163632427.html",
    "note": "Dallas games frequently go Over; Colts defense has allowed a lot of points",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Dallas Cowboys 27 @ Indianapolis Colts 23"
   },
   {
    "league": "NFL",
@@ -1943,7 +2251,9 @@
    "source": "Yahoo Sports / Matt Jacob",
    "url": "https://sports.yahoo.com/nfl/betting/article/week-9-nfl-odds-picks-predictions-our-5-best-bets-for-this-weeks-games-163632427.html",
    "note": "Has beaten his rushing prop every game; Carolina struggles vs the run",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Jonah Coleman 57 rushing yards"
   },
   {
    "league": "NFL",
@@ -1958,7 +2268,9 @@
    "source": "Yahoo Sports / Jeremy Pond",
    "url": "https://sports.yahoo.com/nfl/betting/article/week-9-nfl-odds-picks-predictions-our-5-best-bets-for-this-weeks-games-163632427.html",
    "note": "Larger role in offense; scored in each of last two games",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "T.J. Hockenson 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -1971,7 +2283,9 @@
    "source": "Sports Illustrated / Iain MacMillan",
    "url": "https://www.si.com/betting/packers-vs-patriots-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Near toss-up; values Patriots home field at about 2 points",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Green Bay Packers 45 @ New England Patriots 27"
   },
   {
    "league": "NFL",
@@ -1984,7 +2298,9 @@
    "source": "Sports Illustrated / Iain MacMillan",
    "url": "https://www.si.com/betting/texans-vs-chargers-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Fading the Chargers, 'the worst offense in football'; Texans better with Nico Collins healthy",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Houston Texans 44 @ Los Angeles Chargers 22"
   },
   {
    "league": "NFL",
@@ -1997,7 +2313,9 @@
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/lions-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Comfortable laying a touchdown with Detroit after blowout win at Arizona",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Detroit Lions 19 @ Miami Dolphins 9"
   },
   {
    "league": "NFL",
@@ -2010,7 +2328,9 @@
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/browns-vs-saints-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Saints off bye with extra rest after Paris trip; slight home favorite",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Cleveland Browns 22 @ New Orleans Saints 23"
   },
   {
    "league": "NFL",
@@ -2023,7 +2343,9 @@
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/giants-vs-eagles-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Lost season for Eagles (lost by 11, 17, 17 without Hurts); Giants off bye",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "New York Giants 19 @ Philadelphia Eagles 11"
   },
   {
    "league": "NFL",
@@ -2035,7 +2357,9 @@
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/broncos-vs-panthers-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026",
    "note": "Panthers injuries and 20th-ranked defense by EPA/play",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Denver Broncos 26 @ Carolina Panthers 21"
   },
   {
    "league": "NFL",
@@ -2048,7 +2372,9 @@
    "source": "CBS Sports / Ross Kelly (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-predictions-best-bets-today-week-9-2026/",
    "note": "Model has Washington covering ~60%; Commanders +7 turnover differential",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Los Angeles Rams 20 @ Washington Commanders 13"
   },
   {
    "league": "NFL",
@@ -2061,7 +2387,9 @@
    "source": "CBS Sports / Ross Kelly (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-predictions-best-bets-today-week-9-2026/",
    "note": "KC 4-1 ATS last five as 7+ pt favorite; No. 5 scoring D vs Jets' No. 25 offense",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "NFL",
@@ -2073,7 +2401,9 @@
    "source": "ESPN / Seth Walder",
    "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026",
    "note": "Bold prediction: 'The Jets will win' - young core playing well despite losses",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "New York Jets 12 @ Kansas City Chiefs 35"
   },
   {
    "league": "EPL",
@@ -2088,7 +2418,8 @@
    "source": "Sky Sports / Lewis Jones",
    "url": "https://www.skysports.com/football/news/13607998/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
    "note": "Manzambi high G+A rate; United no clean sheet in nine league games (13/8)",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss"
   },
   {
    "league": "EPL",
@@ -2100,7 +2431,9 @@
    "source": "Dimers / Nick Slade",
    "url": "https://www.dimers.com/epl/news/manchester-united-vs-aston-villa-prediction-11-08-2026-ac",
    "note": "Top play: model gives United 46.3% win chance (+123)",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "Aston Villa 4 @ Manchester United 4"
   }
  ]
 }
