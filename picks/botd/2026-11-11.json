@@ -1,0 +1,230 @@
+{
+ "at": "2026-11-11T16:09:00Z",
+ "date": "2026-11-11",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of top-trader money, published expert/model picks and concrete news agreed and none disagreed. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Orlando ML (−2.79 at the latest price), Pelicans ML (−2.63) and Vegas ML (−2.86) are slightly past the usual edge limit. Dropped as conflicts: Nuggets/Grizzlies (four experts on Denver, top traders on Memphis), Lakers/Bucks spread (SI, Covers, Sports Mole on LA; Dimers on Milwaukee; top traders split at -13.5), Knicks/Cavs (experts on New York, top traders on Cleveland), Celtics/Raptors and Wizards/Pacers (experts split), Thunder/Blazers (Covers and TheLines on Portland, Dimers on OKC), Spurs/Bulls total, Commanders/Giants (experts split; top traders on the Under against Covers' Over), Marquette/Michigan (split), and Memphis/USF (Predictem on Memphis, Action Network and BetMGM's model on USF). Toledo -14.5 was dropped: only Dimers' model backs it and FanDuel notes Toledo is 1-3 ATS as a 14.5+ favourite. Thursday NHL and NBA had almost no published picks yet, so only Carolina and Louisiana fill the later rungs.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
+ "ladder": [
+  {
+   "id": "KXNBAGAME-26NOV11ORLUTA-ORL:yes",
+   "league": "NBA",
+   "game": "Orlando Magic @ Utah Jazz",
+   "start": "2026-11-12T02:00:00.000Z",
+   "mk": "ML",
+   "label": "Orlando Magic",
+   "ask": 60,
+   "cost": 61.68,
+   "fair": 58.9,
+   "sharp": {
+    "for": 16003,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Top traders hold about $16k on Orlando and nothing on Utah. Covers' Jon Metler takes the Magic moneyline and expects Orlando to play everyone despite the back-to-back; Quinn Allen (Covers) and BetMGM's model also back Orlando on the spread, with Utah without Lauri Markkanen.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Magic ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-11-2026"
+    },
+    {
+     "name": "Covers / Quinn Allen (Magic -4.5)",
+     "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-11-2026"
+    },
+    {
+     "name": "BetMGM model (Magic -3.5)",
+     "url": "https://sports.betmgm.com/en/blog/nba/magic-jazz-prediction-odds-lines-picks-nba-nov-11-jaa/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV11PITSJ-SJ:yes",
+   "league": "NHL",
+   "game": "Pittsburgh Penguins @ San Jose Sharks",
+   "start": "2026-11-12T03:00:00.000Z",
+   "mk": "ML",
+   "label": "San Jose Sharks",
+   "ask": 44,
+   "cost": 45.7248,
+   "fair": 44.2,
+   "sharp": {
+    "for": 1188,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Top-trader money is on San Jose (about $1.2k, none against). Pickswise's Connor Grootenhuis and Covers' Josh Inglis both take the Sharks: Pittsburgh is 2-7-1 on the road, on its third straight road game and allowing 3.56 goals a game (28th).",
+   "sources": [
+    {
+     "name": "Pickswise / Connor Grootenhuis (Sharks ML)",
+     "url": "https://www.pickswise.com/nhl/games/san-jose-sharks-pittsburgh-penguins-nhl-2026-11-11-2200/picks/"
+    },
+    {
+     "name": "Covers / Josh Inglis (Sharks ML)",
+     "url": "https://www.covers.com/sport/hockey/nhl/matchup/382572/picks"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV11GSWHOU-HOU:yes",
+   "league": "NBA",
+   "game": "Golden State Warriors @ Houston Rockets",
+   "start": "2026-11-12T02:30:00.000Z",
+   "mk": "ML",
+   "label": "Houston Rockets",
+   "ask": 69,
+   "cost": 70.4973,
+   "fair": 69,
+   "sharp": {
+    "for": 5758,
+    "against": 1129,
+    "who": [
+     "HomeRunHazard",
+     "monkeymashingkeyboard",
+     "Flaznorp",
+     "6512395314597884"
+    ]
+   },
+   "why": "Top traders lean Houston (about $5.8k for, $1.1k against). Covers' Jon Metler calls the Rockets moneyline his favourite trade (rates them ~71%: Amen Thompson on Curry, Sengun against an undersized frontcourt), and Sports Mole also picks Houston. Golden State is without Jimmy Butler, Kristaps Porzingis and Moses Moody per Sports Mole; Covers' ATS pick and Dimers take Warriors +6.5, which still fits a Houston win.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Rockets ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-11-2026"
+    },
+    {
+     "name": "Sports Mole / Adepoju Marvellous (Rockets ML)",
+     "url": "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--thursday-12-november-2026_608893.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV11BUFFBALL-BUFF2:no",
+   "league": "NCAAF",
+   "game": "Buffalo Bulls @ Ball State Cardinals",
+   "start": "2026-11-12T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Ball State Cardinals +1.5",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 51.6,
+   "sharp": {
+    "for": 511,
+    "against": 0,
+    "who": [
+     "keeptheblueflagflyinghigh"
+    ]
+   },
+   "why": "Dimers' model projects a near coin flip (Buffalo 26-25) and has Ball State +1.5 covering; top-trader money is on Ball State (about $0.5k on +1.5 and $0.8k on the moneyline, none against), and Buffalo's price has drifted 3.7 points since open.",
+   "sources": [
+    {
+     "name": "Dimers model (Ball State +1.5)",
+     "url": "https://www.dimers.com/cfb/news/buffalo-vs-ball-state-prediction-week-11-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV11BKNNOP-NOP:yes",
+   "league": "NBA",
+   "game": "Brooklyn Nets @ New Orleans Pelicans",
+   "start": "2026-11-12T01:00:00.000Z",
+   "mk": "ML",
+   "label": "New Orleans Pelicans",
+   "ask": 64,
+   "cost": 65.61280000000001,
+   "fair": 63,
+   "sharp": {
+    "for": 2970,
+    "against": 156,
+    "who": [
+     "darkumbreon88"
+    ]
+   },
+   "why": "Top traders favour New Orleans (about $3.0k for, $0.2k against). Covers' Jon Metler and numberFire (66.5%) take the Pelicans moneyline, with Trey Murphy upgraded to probable; Covers' Quinn Allen has Pelicans -4.5. Sports Mole's Nets +4.5 is a spread view, not a Brooklyn win. Edge −2.63 is just past the usual limit.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Pelicans ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-11-2026"
+    },
+    {
+     "name": "FanDuel Research / numberFire (Pelicans ML)",
+     "url": "https://www.fanduel.com/research/pelicans-vs-nets-prediction-nba-odds-spread-best-bets-for-11-11-2026"
+    },
+    {
+     "name": "Covers / Quinn Allen (Pelicans -4.5)",
+     "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-11-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV11UTAVGK-VGK:yes",
+   "league": "NHL",
+   "game": "Utah Mammoth @ Vegas Golden Knights",
+   "start": "2026-11-12T02:30:00.000Z",
+   "mk": "ML",
+   "label": "Vegas Golden Knights",
+   "ask": 55,
+   "cost": 56.7325,
+   "fair": 53.9,
+   "sharp": null,
+   "why": "Covers' Neil Parker and Lineups.com both take Vegas on the moneyline (about -125), citing Vegas's home form and Utah's blue-line injuries (Nate Schmidt out, John Marino week-to-week). No top-trader data; edge −2.86 is past the usual limit, so it sits late in the ladder.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Vegas ML)",
+     "url": "https://www.covers.com/sport/hockey/nhl/matchup/382573/picks"
+    },
+    {
+     "name": "Lineups.com / Thom Cunningham (Vegas ML)",
+     "url": "https://www.lineups.com/articles/mammoth-golden-knights-nhl-picks-predictions-odds-for-wednesday-november-11-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV12CARSEA-CAR:yes",
+   "league": "NHL",
+   "game": "Carolina Hurricanes @ Seattle Kraken",
+   "start": "2026-11-12T17:00:00.000Z",
+   "mk": "ML",
+   "label": "Carolina Hurricanes",
+   "ask": 72,
+   "cost": 73.4112,
+   "fair": 71.5,
+   "sharp": null,
+   "why": "Thursday's Helsinki game. A Data Skrive computer model (via iHeart) picks Carolina, which ranks first in goals and shots while Seattle is 28th in goals allowed and 30th on the penalty kill. AP lists Seattle without Jared McCann, Ryan Lindgren and three others; Carolina (14-3-2) is missing Jordan Staal.",
+   "sources": [
+    {
+     "name": "iHeart / Data Skrive model (Hurricanes ML)",
+     "url": "https://ripcityradio.iheart.com/content/2026-11-10-hurricanes-vs-kraken-prediction-picks-nov-12/"
+    },
+    {
+     "name": "AP via Yahoo (injuries)",
+     "url": "https://sports.yahoo.com/articles/hurricanes-play-kraken-martinooks-2-091117884.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV12ULLULM-ULL:yes",
+   "league": "NCAAF",
+   "game": "Louisiana Ragin' Cajuns @ UL Monroe Warhawks",
+   "start": "2026-11-13T02:00:00.000Z",
+   "mk": "ML",
+   "label": "Louisiana Ragin' Cajuns",
+   "ask": 79,
+   "cost": 80.1613,
+   "fair": 77.8,
+   "sharp": null,
+   "why": "Thursday night. Bleacher Nation's computer picks take Louisiana on the moneyline (6-1 as a moneyline favourite), and Predictem's Joe Jensen projects Louisiana 26-17 despite RB Anthony Reagan being out for the season; ULM is 2-7. No top-trader data.",
+   "sources": [
+    {
+     "name": "Bleacher Nation / Data Skrive (Louisiana ML)",
+     "url": "https://www.bleachernation.com/picks/2026/11/10/louisiana-vs-ul-monroe-football-best-bets-computer-predictions-nov-12/"
+    },
+    {
+     "name": "Predictem / Joe Jensen (projects Louisiana 26-17)",
+     "url": "https://www.predictem.com/college-football/louisiana-vs-ul-monroe-prediction-thursday-cfb-odds-pick/"
+    }
+   ]
+  }
+ ]
+}

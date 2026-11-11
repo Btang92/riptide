@@ -11,7 +11,9 @@
    "side": "under",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026",
-   "note": "Minnesota Under in 16 of last 19; Buffalo O-line banged up vs blitz-heavy D"
+   "note": "Minnesota Under in 16 of last 19; Buffalo O-line banged up vs blitz-heavy D",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -25,7 +27,9 @@
    "stat": "receptions",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026",
-   "note": "More looks with Wentz at QB; projected 4.94 catches"
+   "note": "More looks with Wentz at QB; projected 4.94 catches",
+   "result": "loss",
+   "final": "T.J. Hockenson 4 receptions"
   },
   {
    "league": "NFL",
@@ -39,7 +43,9 @@
    "stat": "receptions",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026",
-   "note": "Back to a 6-8 target range; projected 4.14"
+   "note": "Back to a 6-8 target range; projected 4.14",
+   "result": "loss",
+   "final": "Dalton Kincaid 3 receptions"
   },
   {
    "league": "NFL",
@@ -53,7 +59,9 @@
    "stat": "interceptions",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026",
-   "note": "Value interception price on Wentz"
+   "note": "Value interception price on Wentz",
+   "result": "win",
+   "final": "Carson Wentz 2 interceptions"
   },
   {
    "league": "NFL",
@@ -67,7 +75,9 @@
    "stat": "anytime touchdown",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026",
-   "note": "8 targets and 52% of air yards in Week 8; Bills allow most WR TDs"
+   "note": "8 targets and 52% of air yards in Week 8; Bills allow most WR TDs",
+   "result": "loss",
+   "final": "Jordan Addison 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -79,7 +89,9 @@
    "side": "over",
    "source": "CBS Sports / Daniel Kohn (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/bills-vikings-prediction-odds-time-nfl-week-9-monday-night-football-picks-bets/",
-   "note": "Model projects 45 points, Over in 52% of sims; Wentz to boost Minnesota offense"
+   "note": "Model projects 45 points, Over in 52% of sims; Wentz to boost Minnesota offense",
+   "result": "loss",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -91,7 +103,9 @@
    "line": 3,
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Bills D bottom-five in key metrics; Murray's hamstring moved line from -3.5 to -3"
+   "note": "Bills D bottom-five in key metrics; Murray's hamstring moved line from -3.5 to -3",
+   "result": "loss",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -105,7 +119,9 @@
    "stat": "pass completions",
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Allen can hit big plays vs the blitz without many completions"
+   "note": "Allen can hit big plays vs the blitz without many completions",
+   "result": "loss",
+   "final": "Josh Allen 21 pass completions"
   },
   {
    "league": "NFL",
@@ -119,7 +135,9 @@
    "stat": "receiving yards",
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Caught all 15 targets from Allen this season; third-down outlet"
+   "note": "Caught all 15 targets from Allen this season; third-down outlet",
+   "result": "win",
+   "final": "Ty Johnson 36 receiving yards"
   },
   {
    "league": "NFL",
@@ -133,7 +151,9 @@
    "stat": "passing yards",
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Wentz should keep throwing deep and late"
+   "note": "Wentz should keep throwing deep and late",
+   "result": "loss",
+   "final": "Carson Wentz 81 passing yards"
   },
   {
    "league": "NFL",
@@ -147,7 +167,9 @@
    "stat": "anytime touchdown",
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Nine end-zone trips in seven games; primary goal-line option"
+   "note": "Nine end-zone trips in seven games; primary goal-line option",
+   "result": "loss",
+   "final": "Josh Allen 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -161,7 +183,9 @@
    "stat": "anytime touchdown",
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/betting/article/bills-at-vikings-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-143321626.html",
-   "note": "Favourable matchup vs Bills secondary at +160"
+   "note": "Favourable matchup vs Bills secondary at +160",
+   "result": "loss",
+   "final": "Justin Jefferson 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -173,7 +197,9 @@
    "line": -3,
    "source": "Pickswise / Chris Farley",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Bills #1 in PPG (33.3), Vikings 26th or worse offensively"
+   "note": "Bills #1 in PPG (33.3), Vikings 26th or worse offensively",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -185,7 +211,9 @@
    "side": "under",
    "source": "Pickswise / Chris Farley",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Bills averaging 59-point games expected to regress vs elite Vikings D; Minnesota 4.7 yards per play"
+   "note": "Bills averaging 59-point games expected to regress vs elite Vikings D; Minnesota 4.7 yards per play",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -199,7 +227,9 @@
    "stat": "receiving yards",
    "source": "Pickswise / Andrew Wilsher",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Higher target share when Allen is blitzed; Vikings blitz most"
+   "note": "Higher target share when Allen is blitzed; Vikings blitz most",
+   "result": "win",
+   "final": "Khalil Shakir 58 receiving yards"
   },
   {
    "league": "NFL",
@@ -213,7 +243,9 @@
    "stat": "anytime touchdown",
    "source": "Pickswise / Andrew Wilsher",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Wentz role should help pass catchers"
+   "note": "Wentz role should help pass catchers",
+   "result": "loss",
+   "final": "Jordan Addison 0 anytime touchdown"
   },
   {
    "league": "NFL",
@@ -225,7 +257,9 @@
    "line": -3,
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Backs Bills offense; part of a +650 SGP"
+   "note": "Backs Bills offense; part of a +650 SGP",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -239,7 +273,9 @@
    "stat": "rushing yards",
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Vikings allow 116.7 rush YPG; 707 yards through seven games"
+   "note": "Vikings allow 116.7 rush YPG; 707 yards through seven games",
+   "result": "win",
+   "final": "James Cook 107 rushing yards"
   },
   {
    "league": "NFL",
@@ -253,7 +289,9 @@
    "stat": "passing yards",
    "source": "Pickswise / Ricky Dimon",
    "url": "https://www.pickswise.com/nfl/news/bills-vs-vikings-predictions-picks-odds-betting-guide/",
-   "note": "Expected to play from behind; Bills allow 254.7 pass YPG"
+   "note": "Expected to play from behind; Bills allow 254.7 pass YPG",
+   "result": "loss",
+   "final": "Carson Wentz 81 passing yards"
   },
   {
    "league": "NFL",
@@ -265,7 +303,9 @@
    "line": -3.5,
    "source": "FOX Sports / Geoff Schwartz",
    "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-best-bets-expert-picks-vikings-bills-league",
-   "note": "Vikings 30th in offensive EPA, 11 offensive TDs; blitzing helps Allen scramble"
+   "note": "Vikings 30th in offensive EPA, 11 offensive TDs; blitzing helps Allen scramble",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NBA",
@@ -276,7 +316,9 @@
    "team": "Detroit Pistons",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Biggest favourite on the slate; edge grows if Anthony Davis sits"
+   "note": "Biggest favourite on the slate; edge grows if Anthony Davis sits",
+   "result": "win",
+   "final": "Washington Wizards 111 @ Detroit Pistons 122"
   },
   {
    "league": "NBA",
@@ -287,7 +329,9 @@
    "team": "Charlotte Hornets",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Prices Hornets near 27% vs 20% market"
+   "note": "Prices Hornets near 27% vs 20% market",
+   "result": "win",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NBA",
@@ -298,7 +342,9 @@
    "team": "Atlanta Hawks",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Prices Hawks near 48%; wing defenders vs Doncic and Reaves"
+   "note": "Prices Hawks near 48%; wing defenders vs Doncic and Reaves",
+   "result": "loss",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -309,7 +355,9 @@
    "team": "Toronto Raptors",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Up-tempo Toronto exposes Edey; assumes Quickley and Barnes play"
+   "note": "Up-tempo Toronto exposes Edey; assumes Quickley and Barnes play",
+   "result": "loss",
+   "final": "Memphis Grizzlies 118 @ Toronto Raptors 102"
   },
   {
    "league": "NBA",
@@ -320,7 +368,9 @@
    "team": "Indiana Pacers",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Prices Pacers near 46%; Gafford on minutes restriction"
+   "note": "Prices Pacers near 46%; Gafford on minutes restriction",
+   "result": "loss",
+   "final": "Indiana Pacers 122 @ Dallas Mavericks 125"
   },
   {
    "league": "NBA",
@@ -331,7 +381,9 @@
    "team": "Houston Rockets",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Conditional on Denver sitting its questionable starters"
+   "note": "Conditional on Denver sitting its questionable starters",
+   "result": "win",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -342,7 +394,9 @@
    "team": "San Antonio Spurs",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Spurs guards exploit Phoenix perimeter; Mark Williams out"
+   "note": "Spurs guards exploit Phoenix perimeter; Mark Williams out",
+   "result": "win",
+   "final": "San Antonio Spurs 122 @ Phoenix Suns 96"
   },
   {
    "league": "NBA",
@@ -353,7 +407,9 @@
    "team": "Golden State Warriors",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-9-2026",
-   "note": "Green at center suits Pelicans frontcourt matchup"
+   "note": "Green at center suits Pelicans frontcourt matchup",
+   "result": "win",
+   "final": "New Orleans Pelicans 87 @ Golden State Warriors 138"
   },
   {
    "league": "NBA",
@@ -364,7 +420,9 @@
    "team": "Los Angeles Lakers",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 59.4% win probability (6.3% edge)"
+   "note": "Model 59.4% win probability (6.3% edge)",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -376,7 +434,9 @@
    "line": -3.5,
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 52.4% to cover"
+   "note": "Model 52.4% to cover",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -388,7 +448,9 @@
    "line": 8.5,
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 53.2% to cover, predicts Rockets 112-105"
+   "note": "Model 53.2% to cover, predicts Rockets 112-105",
+   "result": "loss",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -400,7 +462,9 @@
    "side": "over",
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nba/news/cleveland-cavaliers-vs-charlotte-hornets-prediction-11-09-2026-ac",
-   "note": "Model 51.6% over; predicts Cavaliers 112-103"
+   "note": "Model 51.6% over; predicts Cavaliers 112-103",
+   "result": "win",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NBA",
@@ -412,7 +476,9 @@
    "line": 2.5,
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nba/news/indiana-pacers-vs-dallas-mavericks-prediction-11-09-2026-ac",
-   "note": "Model 52.2% to cover; predicts Mavericks 112-110"
+   "note": "Model 52.2% to cover; predicts Mavericks 112-110",
+   "result": "loss",
+   "final": "Indiana Pacers 122 @ Dallas Mavericks 125"
   },
   {
    "league": "NBA",
@@ -423,7 +489,9 @@
    "team": "Memphis Grizzlies",
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Bounce-back spot; Toronto without Kawhi Leonard (knee)"
+   "note": "Bounce-back spot; Toronto without Kawhi Leonard (knee)",
+   "result": "win",
+   "final": "Memphis Grizzlies 118 @ Toronto Raptors 102"
   },
   {
    "league": "NBA",
@@ -435,7 +503,9 @@
    "line": -8.5,
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Rockets among league best; several Nuggets starters questionable"
+   "note": "Rockets among league best; several Nuggets starters questionable",
+   "result": "win",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -447,7 +517,9 @@
    "side": "over",
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Both teams better than their records; Dallas just scored 130"
+   "note": "Both teams better than their records; Dallas just scored 130",
+   "result": "win",
+   "final": "Indiana Pacers 122 @ Dallas Mavericks 125"
   },
   {
    "league": "NBA",
@@ -461,7 +533,9 @@
    "stat": "points",
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Averaging 40.1 points; 45.0 over his last four"
+   "note": "Averaging 40.1 points; 45.0 over his last four",
+   "result": "loss",
+   "final": "Luka Doncic 32 points"
   },
   {
    "league": "NBA",
@@ -475,7 +549,9 @@
    "stat": "three-pointers made",
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Expected to keep getting perimeter looks vs Detroit"
+   "note": "Expected to keep getting perimeter looks vs Detroit",
+   "result": "loss",
+   "final": "Alex Sarr 0 three-pointers made"
   },
   {
    "league": "NBA",
@@ -489,7 +565,9 @@
    "stat": "assists",
    "source": "TheLines / Nick Crain",
    "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-9/",
-   "note": "Five-plus assists in six of first 10 games"
+   "note": "Five-plus assists in six of first 10 games",
+   "result": "loss",
+   "final": "Yaxel Lendeborg 4 assists"
   },
   {
    "league": "NBA",
@@ -501,7 +579,9 @@
    "side": "over",
    "source": "CBS Sports / Daniel Kohn (SportsLine model)",
    "url": "https://www.cbssports.com/betting/news/lakers-hawks-prediction-odds-time-2026-nba-picks-for-monday-november-9/",
-   "note": "Over hit in 8 of last 10 H2H; model projects 237 points"
+   "note": "Over hit in 8 of last 10 H2H; model projects 237 points",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -513,7 +593,9 @@
    "line": -2.5,
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/lakers-vs-hawks-predictions-best-bets-and-odds-monday-november-9-2026/",
-   "note": "Lakers 8-3 ATS"
+   "note": "Lakers 8-3 ATS",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -525,7 +607,9 @@
    "side": "under",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/lakers-vs-hawks-predictions-best-bets-and-odds-monday-november-9-2026/",
-   "note": "Page picks the Under; its own trends lean over"
+   "note": "Page picks the Under; its own trends lean over",
+   "result": "loss",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -536,7 +620,9 @@
    "team": "Los Angeles Lakers",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/lakers-vs-hawks-predictions-best-bets-and-odds-monday-november-9-2026/",
-   "note": "Lakers 7 of 9 as favourites"
+   "note": "Lakers 7 of 9 as favourites",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -550,7 +636,9 @@
    "stat": "three-pointers made",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-donovan-mitchell-luka-doncic-ausar-thompson-and-cameron-boozer",
-   "note": "Four-plus threes in 3 of last 4; Charlotte last in opponent 3P%"
+   "note": "Four-plus threes in 3 of last 4; Charlotte last in opponent 3P%",
+   "result": "loss",
+   "final": "Donovan Mitchell 1 three-pointers made"
   },
   {
    "league": "NBA",
@@ -564,7 +652,9 @@
    "stat": "rebounds",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-donovan-mitchell-luka-doncic-ausar-thompson-and-cameron-boozer",
-   "note": "Duren out; averages 8.9 boards; Washington 27th in rebound %"
+   "note": "Duren out; averages 8.9 boards; Washington 27th in rebound %",
+   "result": "loss",
+   "final": "Ausar Thompson 5 rebounds"
   },
   {
    "league": "NBA",
@@ -578,7 +668,9 @@
    "stat": "points",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-donovan-mitchell-luka-doncic-ausar-thompson-and-cameron-boozer",
-   "note": "37-plus in seven straight; back injury is the risk"
+   "note": "37-plus in seven straight; back injury is the risk",
+   "result": "loss",
+   "final": "Luka Doncic 32 points"
   },
   {
    "league": "NBA",
@@ -592,7 +684,9 @@
    "stat": "three-pointers made",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-donovan-mitchell-luka-doncic-ausar-thompson-and-cameron-boozer",
-   "note": "Made two-plus in six of nine; about 6.3 attempts a game"
+   "note": "Made two-plus in six of nine; about 6.3 attempts a game",
+   "result": "loss",
+   "final": "Cameron Boozer 0 three-pointers made"
   },
   {
    "league": "NBA",
@@ -603,7 +697,9 @@
    "team": "San Antonio Spurs",
    "source": "FanDuel Research / numberFire model",
    "url": "https://www.fanduel.com/research/suns-vs-spurs-prediction-nba-odds-spread-best-bets-for-11-9-2026",
-   "note": "numberFire 60.7% Spurs"
+   "note": "numberFire 60.7% Spurs",
+   "result": "win",
+   "final": "San Antonio Spurs 122 @ Phoenix Suns 96"
   },
   {
    "league": "NBA",
@@ -615,7 +711,9 @@
    "side": "under",
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/wizards-at-pistons-best-bet-nba-picks-odds-for-monday/",
-   "note": "Detroit 103.6 defensive rating, low pace; projects 113-100"
+   "note": "Detroit 103.6 defensive rating, low pace; projects 113-100",
+   "result": "loss",
+   "final": "Washington Wizards 111 @ Detroit Pistons 122"
   },
   {
    "league": "NBA",
@@ -627,7 +725,9 @@
    "line": -8.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/cavaliers-vs-hornets-prediction-nba-odds-nov-9-2026/",
-   "note": "Charlotte last in offensive rating (101.0); projects 116-101"
+   "note": "Charlotte last in offensive rating (101.0); projects 116-101",
+   "result": "loss",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NHL",
@@ -639,7 +739,9 @@
    "side": "under",
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nhl/news/ny-rangers-vs-edmonton-oilers-prediction-11-09-2026-ac",
-   "note": "Model 51.8% under"
+   "note": "Model 51.8% under",
+   "result": "win",
+   "final": "New York Rangers 1 @ Edmonton Oilers 3"
   },
   {
    "league": "NHL",
@@ -650,7 +752,9 @@
    "team": "Philadelphia Flyers",
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nhl/news/philadelphia-flyers-vs-vancouver-canucks-prediction-11-09-2026-ac",
-   "note": "Model 55.8% Flyers"
+   "note": "Model 55.8% Flyers",
+   "result": "win",
+   "final": "Philadelphia Flyers 3 @ Vancouver Canucks 1"
   },
   {
    "league": "NHL",
@@ -661,7 +765,9 @@
    "team": "Edmonton Oilers",
    "source": "FanDuel Research / numberFire model",
    "url": "https://www.fanduel.com/research/oilers-vs-rangers-prediction-nhl-odds-11-9-2026",
-   "note": "numberFire 63.6% Oilers"
+   "note": "numberFire 63.6% Oilers",
+   "result": "win",
+   "final": "New York Rangers 1 @ Edmonton Oilers 3"
   },
   {
    "league": "NHL",
@@ -672,7 +778,9 @@
    "team": "New York Islanders",
    "source": "FanDuel Research / numberFire model",
    "url": "https://www.fanduel.com/research/islanders-vs-sharks-prediction-nhl-odds-11-9-2026",
-   "note": "numberFire 62.3% Islanders"
+   "note": "numberFire 62.3% Islanders",
+   "result": "loss",
+   "final": "New York Islanders 2 @ San Jose Sharks 3"
   },
   {
    "league": "NHL",
@@ -684,7 +792,9 @@
    "side": "over",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/oilers-vs-rangers-nhl-best-bets-odds-prediction-and-pick-nov-9/",
-   "note": "Computer projects 6.6 goals"
+   "note": "Computer projects 6.6 goals",
+   "result": "loss",
+   "final": "New York Rangers 1 @ Edmonton Oilers 3"
   },
   {
    "league": "NHL",
@@ -695,7 +805,9 @@
    "team": "Edmonton Oilers",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/oilers-vs-rangers-nhl-best-bets-odds-prediction-and-pick-nov-9/",
-   "note": "Predicts Edmonton 4-3; Oilers 8-4 as favourites"
+   "note": "Predicts Edmonton 4-3; Oilers 8-4 as favourites",
+   "result": "win",
+   "final": "New York Rangers 1 @ Edmonton Oilers 3"
   },
   {
    "league": "NHL",
@@ -707,7 +819,9 @@
    "side": "over",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/flyers-vs-canucks-nhl-best-bets-odds-prediction-and-pick-nov-9/",
-   "note": "Computer projects 6.5 goals; Vancouver nine overs"
+   "note": "Computer projects 6.5 goals; Vancouver nine overs",
+   "result": "loss",
+   "final": "Philadelphia Flyers 3 @ Vancouver Canucks 1"
   },
   {
    "league": "NHL",
@@ -718,7 +832,9 @@
    "team": "Vancouver Canucks",
    "source": "Bleacher Nation (computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/flyers-vs-canucks-nhl-best-bets-odds-prediction-and-pick-nov-9/",
-   "note": "Predicts Vancouver 4-3"
+   "note": "Predicts Vancouver 4-3",
+   "result": "loss",
+   "final": "Philadelphia Flyers 3 @ Vancouver Canucks 1"
   },
   {
    "league": "NCAAB",
@@ -730,7 +846,9 @@
    "side": "over",
    "source": "Dimers / Jason Bevilacqua",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac",
-   "note": "Model 55.7% over"
+   "note": "Model 55.7% over",
+   "result": "loss",
+   "final": "App State Mountaineers 53 @ Auburn Tigers 75"
   },
   {
    "league": "NCAAB",
@@ -742,7 +860,9 @@
    "side": "over",
    "source": "Dimers / Jason Bevilacqua",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac",
-   "note": "Model 55.9% over"
+   "note": "Model 55.9% over",
+   "result": "loss",
+   "final": "Illinois State Redbirds 59 @ Purdue Boilermakers 76"
   },
   {
    "league": "NCAAB",
@@ -754,7 +874,9 @@
    "line": -6.5,
    "source": "Dimers / Jason Bevilacqua",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac",
-   "note": "Model 59.5% to cover"
+   "note": "Model 59.5% to cover",
+   "result": "loss",
+   "final": "Minnesota Golden Gophers 63 @ Cincinnati Bearcats 61"
   },
   {
    "league": "NCAAB",
@@ -765,7 +887,9 @@
    "team": "Cincinnati Bearcats",
    "source": "Dimers / Jason Bevilacqua",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac",
-   "note": "Model 79.6% Cincinnati"
+   "note": "Model 79.6% Cincinnati",
+   "result": "loss",
+   "final": "Minnesota Golden Gophers 63 @ Cincinnati Bearcats 61"
   },
   {
    "league": "NCAAB",
@@ -777,7 +901,9 @@
    "side": "under",
    "source": "Dimers / Jason Bevilacqua",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac",
-   "note": "Model 55.8% under; predicts Ohio State 90-65"
+   "note": "Model 55.8% under; predicts Ohio State 90-65",
+   "result": "win",
+   "final": "Marshall Thundering Herd 74 @ Ohio State Buckeyes 84"
   },
   {
    "league": "NCAAB",
@@ -789,7 +915,9 @@
    "line": 5.5,
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 58% to cover"
+   "note": "Model 58% to cover",
+   "result": "win",
+   "final": "Syracuse Orange 80 @ Indiana Hoosiers 83"
   },
   {
    "league": "NCAAB",
@@ -801,7 +929,9 @@
    "side": "over",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 56.5% over"
+   "note": "Model 56.5% over",
+   "result": "loss",
+   "final": "South Carolina Upstate Spartans 56 @ Coastal Carolina Chanticleers 65"
   },
   {
    "league": "NCAAB",
@@ -813,7 +943,9 @@
    "line": 5.5,
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 55.2% to cover"
+   "note": "Model 55.2% to cover",
+   "result": "loss",
+   "final": "Howard Bison 65 @ Pennsylvania Quakers 78"
   },
   {
    "league": "NCAAB",
@@ -825,7 +957,9 @@
    "side": "over",
    "source": "Dimers / Ryan Leaver",
    "url": "https://www.dimers.com/news/best-bets-11-09-2026-ac",
-   "note": "Model 56.9% over"
+   "note": "Model 56.9% over",
+   "result": "loss",
+   "final": "Illinois State Redbirds 59 @ Purdue Boilermakers 76"
   },
   {
    "league": "NCAAB",
@@ -837,7 +971,9 @@
    "side": "over",
    "source": "Action Network / Tanner McGrath (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/syracuse-vs-indiana-prediction-pick-113023296.html",
-   "note": "Power ratings put the total at 153; sharps on the over"
+   "note": "Power ratings put the total at 153; sharps on the over",
+   "result": "win",
+   "final": "Syracuse Orange 80 @ Indiana Hoosiers 83"
   },
   {
    "league": "NCAAB",
@@ -849,7 +985,9 @@
    "line": -6.5,
    "source": "Action Network staff (via Yahoo)",
    "url": "https://sports.yahoo.com/articles/minnesota-vs-cincinnati-prediction-pick-120546994.html",
-   "note": "Bad Expectation Favorites system on Cincinnati"
+   "note": "Bad Expectation Favorites system on Cincinnati",
+   "result": "loss",
+   "final": "Minnesota Golden Gophers 63 @ Cincinnati Bearcats 61"
   },
   {
    "league": "NCAAB",
@@ -861,7 +999,9 @@
    "line": 15.5,
    "source": "Bleacher Nation / DataSkrive",
    "url": "https://www.bleachernation.com/picks/2026/11/09/big-ten-basketball-predictions-computer-picks-and-best-bets-november-9-3/",
-   "note": "Computer model has Illinois State winning outright"
+   "note": "Computer model has Illinois State winning outright",
+   "result": "loss",
+   "final": "Illinois State Redbirds 59 @ Purdue Boilermakers 76"
   },
   {
    "league": "NCAAB",
@@ -873,7 +1013,9 @@
    "side": "over",
    "source": "Bleacher Nation / DataSkrive",
    "url": "https://www.bleachernation.com/picks/2026/11/09/big-ten-basketball-predictions-computer-picks-and-best-bets-november-9-3/",
-   "note": "Computer projects 165.8 total points"
+   "note": "Computer projects 165.8 total points",
+   "result": "loss",
+   "final": "Illinois State Redbirds 59 @ Purdue Boilermakers 76"
   },
   {
    "league": "NCAAF",
@@ -885,7 +1027,9 @@
    "line": 14.5,
    "source": "TheRX / Ryan Callahan",
    "url": "https://www.therx.com/college-football/western-michigan-vs-akron-prediction-november-10-2026-week-11-college-football-picks/54983/",
-   "note": "Akron 3-1 home ATS; Western Michigan 1-4 road ATS"
+   "note": "Akron 3-1 home ATS; Western Michigan 1-4 road ATS",
+   "result": "loss",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -897,7 +1041,9 @@
    "side": "under",
    "source": "TheRX / Ryan Callahan",
    "url": "https://www.therx.com/college-football/western-michigan-vs-akron-prediction-november-10-2026-week-11-college-football-picks/54983/",
-   "note": "Akron Under in 3 of 4 at home; both want to run the ball"
+   "note": "Akron Under in 3 of 4 at home; both want to run the ball",
+   "result": "loss",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -909,7 +1055,9 @@
    "line": -1,
    "source": "TheRX / Ryan Callahan",
    "url": "https://www.therx.com/college-football/ohio-vs-miami-oh-prediction-november-10-2026-week-11-college-football-picks/54984/",
-   "note": "Ohio steadier defense; Miami 1-4 ATS in MAC games"
+   "note": "Ohio steadier defense; Miami 1-4 ATS in MAC games",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -921,7 +1069,9 @@
    "side": "over",
    "source": "TheRX / Ryan Callahan",
    "url": "https://www.therx.com/college-football/ohio-vs-miami-oh-prediction-november-10-2026-week-11-college-football-picks/54984/",
-   "note": "Miami 7-2 to the Over in 2026"
+   "note": "Miami 7-2 to the Over in 2026",
+   "result": "win",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -933,7 +1083,9 @@
    "line": -15.5,
    "source": "Bleacher Nation / DataSkrive",
    "url": "https://www.bleachernation.com/picks/2026/11/08/western-michigan-vs-akron-football-best-bets-computer-predictions-nov-10/",
-   "note": "Computer pick; Broncos only 3-6 ATS"
+   "note": "Computer pick; Broncos only 3-6 ATS",
+   "result": "win",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -945,7 +1097,9 @@
    "side": "under",
    "source": "Bleacher Nation / DataSkrive",
    "url": "https://www.bleachernation.com/picks/2026/11/08/western-michigan-vs-akron-football-best-bets-computer-predictions-nov-10/",
-   "note": "Broncos games average 46.9 points"
+   "note": "Broncos games average 46.9 points",
+   "result": "loss",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -956,7 +1110,9 @@
    "team": "Western Michigan Broncos",
    "source": "Bleacher Nation / DataSkrive",
    "url": "https://www.bleachernation.com/picks/2026/11/08/western-michigan-vs-akron-football-best-bets-computer-predictions-nov-10/",
-   "note": "Broncos 6-0 as favourites"
+   "note": "Broncos 6-0 as favourites",
+   "result": "win",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -968,7 +1124,9 @@
    "side": "over",
    "source": "Pickswise / Joe Williams",
    "url": "https://www.pickswise.com/college-football/games/bowling-green-kent-state-college-football-2026-11-10-1800/picks/",
-   "note": "Kent State D allowed 29+ in 3 of last 4; BGSU Over 4-1 in last five"
+   "note": "Kent State D allowed 29+ in 3 of last 4; BGSU Over 4-1 in last five",
+   "result": "win",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAB",
@@ -980,7 +1138,9 @@
    "line": -6.5,
    "source": "Hoops HQ / Seth Davis",
    "url": "https://www.hoopshq.com/betting-picks/picks-against-spread-duke-debut-nov-2026",
-   "note": "Michigan State smaller and thinner up front; Duke among the tallest in the country"
+   "note": "Michigan State smaller and thinner up front; Duke among the tallest in the country",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -992,7 +1152,9 @@
    "line": -5.5,
    "source": "Hoops HQ / Seth Davis",
    "url": "https://www.hoopshq.com/betting-picks/picks-against-spread-duke-debut-nov-2026",
-   "note": "Kansas added fifth-year transfers incl. Trey Kaufman-Renn; Kentucky struggled vs James Madison"
+   "note": "Kansas added fifth-year transfers incl. Trey Kaufman-Renn; Kentucky struggled vs James Madison",
+   "result": "win",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1004,7 +1166,9 @@
    "line": -1.5,
    "source": "Hoops HQ / Seth Davis",
    "url": "https://www.hoopshq.com/betting-picks/picks-against-spread-duke-debut-nov-2026",
-   "note": "Believer in the Illini after early wins despite David Mirkovic out"
+   "note": "Believer in the Illini after early wins despite David Mirkovic out",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAF",
@@ -1016,7 +1180,9 @@
    "line": 1.5,
    "source": "Dimers / model",
    "url": "https://www.dimers.com/cfb/predictions/2026_11_m-oh_ohio",
-   "note": "Model 53.3% Miami win"
+   "note": "Model 53.3% Miami win",
+   "result": "win",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NFL",
@@ -1030,7 +1196,9 @@
    "stat": "receiving yards",
    "source": "Covers / Josh Inglis",
    "url": "https://www.covers.com/nfl/expert-prop-picks-week-9-2026",
-   "note": "Projected 48.8; Buffalo allows many yards to TEs"
+   "note": "Projected 48.8; Buffalo allows many yards to TEs",
+   "result": "loss",
+   "final": "T.J. Hockenson 33 receiving yards"
   },
   {
    "league": "NFL",
@@ -1044,7 +1212,9 @@
    "stat": "receiving yards",
    "source": "CBS Sports / Alex Selesnick",
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-9-2026-expert-ats-picks-predictions-player-props-sunday-november-8/",
-   "note": "Chemistry with Carson Wentz"
+   "note": "Chemistry with Carson Wentz",
+   "result": "loss",
+   "final": "Justin Jefferson 58 receiving yards"
   },
   {
    "league": "NFL",
@@ -1056,7 +1226,9 @@
    "line": -3,
    "source": "CBS Sports / Tyler Sullivan",
    "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-   "note": "Kyler Murray out; Buffalo efficient in red zone"
+   "note": "Kyler Murray out; Buffalo efficient in red zone",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1068,7 +1240,9 @@
    "line": -3,
    "source": "NBC Sports / Vaughn Dalzell",
    "url": "https://www.nbcsports.com/betting/nfl/news/2026-nfl-week-9-best-bets-picks-predictions-player-props-odds-bears-vs-buccaneers-bills-vs-vikings",
-   "note": "Vikings backup QBs; Allen far better"
+   "note": "Vikings backup QBs; Allen far better",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1080,7 +1254,9 @@
    "line": -3,
    "source": "AP / Rob Maaddi",
    "url": "https://www.ajc.com/news/2026/11/pro-picks-bills-will-beat-the-vikings-in-monday-night-showdown-between-6-1-teams/",
-   "note": "AP score pick Bills 23-17"
+   "note": "AP score pick Bills 23-17",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1091,7 +1267,9 @@
    "team": "Buffalo Bills",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Allen handles Minnesota blitz; few scrambling QBs faced"
+   "note": "Allen handles Minnesota blitz; few scrambling QBs faced",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1103,7 +1281,9 @@
    "side": "under",
    "source": "Covers / Jason Logan",
    "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-odds-early-leans-week-9-2026",
-   "note": "Both pressure passers; Minnesota lacks big plays"
+   "note": "Both pressure passers; Minnesota lacks big plays",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1114,7 +1294,9 @@
    "team": "Buffalo Bills",
    "source": "FanDuel Research / numberFire model",
    "url": "https://fanduel.com/research/bills-vs-vikings-predictions-odds-picks-best-bets-for-nfl-week-9-monday-night-football-2026",
-   "note": "Model 53.3% Bills"
+   "note": "Model 53.3% Bills",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1126,7 +1308,9 @@
    "line": 3.5,
    "source": "ClutchPoints / Garrett Kerman",
    "url": "https://clutchpoints.com/betting/bills-vs-vikings-prediction-odds-pick-for-week-9-monday-night-football",
-   "note": "One-possession game expected; Minnesota defense"
+   "note": "One-possession game expected; Minnesota defense",
+   "result": "loss",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1137,7 +1321,9 @@
    "team": "Buffalo Bills",
    "source": "Dimers / model",
    "url": "https://www.dimers.com/nfl/predictions/2026_9_min_buf",
-   "note": "Model 62.3% Bills, projects 24-21"
+   "note": "Model 62.3% Bills, projects 24-21",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NBA",
@@ -1149,7 +1335,9 @@
    "line": -4,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/nuggets-vs-rockets-prediction-november-9-2026-nba-picks/54943/",
-   "note": "Rockets home after two road losses; 4-1 at home; Capela, Adams out"
+   "note": "Rockets home after two road losses; 4-1 at home; Capela, Adams out",
+   "result": "win",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -1161,7 +1349,9 @@
    "side": "over",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/nuggets-vs-rockets-prediction-november-9-2026-nba-picks/54943/",
-   "note": "Thin Houston frontcourt pushes quicker lineups"
+   "note": "Thin Houston frontcourt pushes quicker lineups",
+   "result": "loss",
+   "final": "Denver Nuggets 100 @ Houston Rockets 110"
   },
   {
    "league": "NBA",
@@ -1173,7 +1363,9 @@
    "line": 2.5,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/lakers-vs-hawks-prediction-november-9-2026-nba-picks/54936/",
-   "note": "Lakers road form; depends on Doncic (questionable)"
+   "note": "Lakers road form; depends on Doncic (questionable)",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -1185,7 +1377,9 @@
    "side": "over",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/lakers-vs-hawks-prediction-november-9-2026-nba-picks/54936/",
-   "note": "Hawks transition and three-point volume"
+   "note": "Hawks transition and three-point volume",
+   "result": "win",
+   "final": "Los Angeles Lakers 124 @ Atlanta Hawks 114"
   },
   {
    "league": "NBA",
@@ -1197,7 +1391,9 @@
    "line": -4.5,
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/cavaliers-vs-hornets-prediction-november-9-2026-nba-picks/54939/",
-   "note": "Charlotte injuries (Miller, Schroder); Hornets 96.3 ppg"
+   "note": "Charlotte injuries (Miller, Schroder); Hornets 96.3 ppg",
+   "result": "loss",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NBA",
@@ -1209,7 +1405,9 @@
    "side": "under",
    "source": "TheRX / Jordan Harlow",
    "url": "https://www.therx.com/nba/cavaliers-vs-hornets-prediction-november-9-2026-nba-picks/54939/",
-   "note": "Charlotte offense 96.3 ppg, 39% FG"
+   "note": "Charlotte offense 96.3 ppg, 39% FG",
+   "result": "loss",
+   "final": "Cleveland Cavaliers 112 @ Charlotte Hornets 124"
   },
   {
    "league": "NFL",
@@ -1222,7 +1420,9 @@
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/nfl/picks-against-the-spread-week-9-2026",
    "note": "Bills avg 33.3 ppg; Vikings must start Carson Wentz",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "win",
+   "final": "Buffalo Bills 23 @ Minnesota Vikings 6"
   },
   {
    "league": "NFL",
@@ -1237,7 +1437,9 @@
    "source": "Yahoo Sports / Jeremy Pond",
    "url": "https://sports.yahoo.com/nfl/betting/article/week-9-nfl-odds-picks-predictions-our-5-best-bets-for-this-weeks-games-163632427.html",
    "note": "Larger role in offense; scored in each of last two games",
-   "carried": "2026-11-07"
+   "carried": "2026-11-07",
+   "result": "loss",
+   "final": "T.J. Hockenson 0 anytime touchdown"
   }
  ]
 }

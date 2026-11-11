@@ -10,7 +10,9 @@
    "team": "New York Knicks",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "Towns' shooting pulls Milwaukee's rim protection; less help on Brunson"
+   "note": "Towns' shooting pulls Milwaukee's rim protection; less help on Brunson",
+   "result": "win",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -21,7 +23,9 @@
    "team": "Philadelphia 76ers",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "Makes Philly 53% vs 49% market; Boston on 2nd night of back-to-back"
+   "note": "Makes Philly 53% vs 49% market; Boston on 2nd night of back-to-back",
+   "result": "loss",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -32,7 +36,9 @@
    "team": "Miami Heat",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "Value only if Markkanen/George sit; George doubtful"
+   "note": "Value only if Markkanen/George sit; George doubtful",
+   "result": "win",
+   "final": "Miami Heat 115 @ Utah Jazz 109"
   },
   {
    "league": "NBA",
@@ -43,7 +49,9 @@
    "team": "Los Angeles Clippers",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "Prices LA at 43% vs 38%; Phoenix on a back-to-back"
+   "note": "Prices LA at 43% vs 38%; Phoenix on a back-to-back",
+   "result": "loss",
+   "final": "Los Angeles Clippers 110 @ Phoenix Suns 133"
   },
   {
    "league": "NBA",
@@ -54,7 +62,9 @@
    "team": "Sacramento Kings",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "Keegan Murray back to guard Franz Wagner; Banchero out"
+   "note": "Keegan Murray back to guard Franz Wagner; Banchero out",
+   "result": "loss",
+   "final": "Orlando Magic 107 @ Sacramento Kings 100"
   },
   {
    "league": "NBA",
@@ -65,7 +75,9 @@
    "team": "Portland Trail Blazers",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026",
-   "note": "No Holmgren leaves Hartenstein vs Clingan; fair value near 51%"
+   "note": "No Holmgren leaves Hartenstein vs Clingan; fair value near 51%",
+   "result": "win",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -77,7 +89,9 @@
    "line": -15.5,
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/bucks-vs-knicks-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Bucks 1-9, six straight losses, -13.1 net rating; Knicks won 5 of 6"
+   "note": "Bucks 1-9, six straight losses, -13.1 net rating; Knicks won 5 of 6",
+   "result": "win",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -91,7 +105,9 @@
    "stat": "3-pointers made",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/bucks-vs-knicks-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "3+ threes in each of last five games; averages 32.2 pts in 13 career games vs MIL"
+   "note": "3+ threes in each of last five games; averages 32.2 pts in 13 career games vs MIL",
+   "result": "loss",
+   "final": "Jalen Brunson 1 3-pointers made"
   },
   {
    "league": "NBA",
@@ -103,7 +119,9 @@
    "line": 6.5,
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/magic-vs-kings-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Too many points to lay with Orlando's offense without Banchero"
+   "note": "Too many points to lay with Orlando's offense without Banchero",
+   "result": "loss",
+   "final": "Orlando Magic 107 @ Sacramento Kings 100"
   },
   {
    "league": "NBA",
@@ -115,7 +133,9 @@
    "line": 3.5,
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/clippers-vs-suns-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Suns 29th in defensive rating, on a back-to-back after blowout loss to Spurs"
+   "note": "Suns 29th in defensive rating, on a back-to-back after blowout loss to Spurs",
+   "result": "loss",
+   "final": "Los Angeles Clippers 110 @ Phoenix Suns 133"
   },
   {
    "league": "NBA",
@@ -129,7 +149,9 @@
    "stat": "3-pointers made",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/clippers-vs-suns-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Suns 24th in opp. threes made; Garland carries offense with Ingram and Beal out"
+   "note": "Suns 24th in opp. threes made; Garland carries offense with Ingram and Beal out",
+   "result": "loss",
+   "final": "Darius Garland 1 3-pointers made"
   },
   {
    "league": "NBA",
@@ -141,7 +163,9 @@
    "line": -8.5,
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/heat-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Utah 1-9 and shorthanded; opponents' 39.4% from three vs Miami should regress"
+   "note": "Utah 1-9 and shorthanded; opponents' 39.4% from three vs Miami should regress",
+   "result": "loss",
+   "final": "Miami Heat 115 @ Utah Jazz 109"
   },
   {
    "league": "NBA",
@@ -155,7 +179,9 @@
    "stat": "rebounds",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/heat-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-10-2026",
-   "note": "Listed as 12+ rebounds; cleared it seven straight; Utah 24th in opp. rebounds"
+   "note": "Listed as 12+ rebounds; cleared it seven straight; Utah 24th in opp. rebounds",
+   "result": "loss",
+   "final": "Giannis Antetokounmpo 11 rebounds"
   },
   {
    "league": "NBA",
@@ -169,7 +195,9 @@
    "stat": "rebounds",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-jayson-tatum-darius-acuff-jr-giannis-antetokounmpo-darius-garland",
-   "note": "Philly 27th in opp. rebounds with thin frontcourt behind Embiid"
+   "note": "Philly 27th in opp. rebounds with thin frontcourt behind Embiid",
+   "result": "loss",
+   "final": "Jayson Tatum 6 rebounds"
   },
   {
    "league": "NBA",
@@ -181,7 +209,9 @@
    "line": 15.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Top edge on the slate: 56.6% cover probability"
+   "note": "Top edge on the slate: 56.6% cover probability",
+   "result": "loss",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -192,7 +222,9 @@
    "team": "Boston Celtics",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Model gives Boston 56.4% win probability"
+   "note": "Model gives Boston 56.4% win probability",
+   "result": "win",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -204,7 +236,9 @@
    "line": 5.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Model gives 52.6% cover probability"
+   "note": "Model gives 52.6% cover probability",
+   "result": "loss",
+   "final": "Orlando Magic 107 @ Sacramento Kings 100"
   },
   {
    "league": "NBA",
@@ -216,7 +250,9 @@
    "line": 9,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Model gives 55.5% cover probability"
+   "note": "Model gives 55.5% cover probability",
+   "result": "win",
+   "final": "Miami Heat 115 @ Utah Jazz 109"
   },
   {
    "league": "NBA",
@@ -228,7 +264,9 @@
    "line": -2.5,
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Model gives 53.5% cover probability"
+   "note": "Model gives 53.5% cover probability",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -239,7 +277,9 @@
    "team": "Milwaukee Bucks",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Long shot: model 12.7% vs ~10% price"
+   "note": "Long shot: model 12.7% vs ~10% price",
+   "result": "loss",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -250,7 +290,9 @@
    "team": "Oklahoma City Thunder",
    "source": "Dimers / Ryan Leaver (model)",
    "url": "https://www.dimers.com/nba/news/nba-best-bets-11-10-2026-ac",
-   "note": "Model gives OKC 57.1% win probability"
+   "note": "Model gives OKC 57.1% win probability",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -262,7 +304,9 @@
    "side": "under",
    "source": "Lineups.com / Thom Cunningham",
    "url": "https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/",
-   "note": "Under hit in 8 of last 10 meetings; Boston 2-8 to the over"
+   "note": "Under hit in 8 of last 10 meetings; Boston 2-8 to the over",
+   "result": "loss",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -274,7 +318,9 @@
    "line": -1.5,
    "source": "Lineups.com / Thom Cunningham",
    "url": "https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/",
-   "note": "OKC 4-game ATS streak; won 19 of 20 vs Portland"
+   "note": "OKC 4-game ATS streak; won 19 of 20 vs Portland",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -286,7 +332,9 @@
    "line": 3.5,
    "source": "PredictEm / Joe Jensen",
    "url": "https://www.predictem.com/nba/clippers-at-suns-best-bet-nba-prediction-for-nov-10/",
-   "note": "Suns on back-to-back after 122-96 loss; line moved from -4.5 to -3.5"
+   "note": "Suns on back-to-back after 122-96 loss; line moved from -4.5 to -3.5",
+   "result": "loss",
+   "final": "Los Angeles Clippers 110 @ Phoenix Suns 133"
   },
   {
    "league": "NBA",
@@ -298,7 +346,9 @@
    "side": "under",
    "source": "PredictEm / Joe Jensen",
    "url": "https://www.predictem.com/nba/heat-at-jazz-best-bet-nba-picks-and-odds-for-tuesday-night/",
-   "note": "Utah's 104.4 offensive rating 2nd-worst and George out; Miami ends 5-game trip"
+   "note": "Utah's 104.4 offensive rating 2nd-worst and George out; Miami ends 5-game trip",
+   "result": "win",
+   "final": "Miami Heat 115 @ Utah Jazz 109"
   },
   {
    "league": "NBA",
@@ -310,7 +360,9 @@
    "line": 15.5,
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/knicks-vs-bucks-predictions-best-bets-and-odds-tuesday-november-10-2026/",
-   "note": "Knicks 3-6 ATS this season"
+   "note": "Knicks 3-6 ATS this season",
+   "result": "loss",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -322,7 +374,9 @@
    "side": "over",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/knicks-vs-bucks-predictions-best-bets-and-odds-tuesday-november-10-2026/",
-   "note": "Six of Bucks' ten games have gone over"
+   "note": "Six of Bucks' ten games have gone over",
+   "result": "loss",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -334,7 +388,9 @@
    "side": "under",
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/nba-articles/bucks-vs-knicks-prediction-november-10-2026/",
-   "note": "Knicks slow pace and 2-7 to the total; blowout can slow late scoring"
+   "note": "Knicks slow pace and 2-7 to the total; blowout can slow late scoring",
+   "result": "win",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -346,7 +402,9 @@
    "line": 16,
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/nba-articles/bucks-vs-knicks-prediction-november-10-2026/",
-   "note": "Knicks 3-6 ATS, won by 16+ only once in nine games"
+   "note": "Knicks 3-6 ATS, won by 16+ only once in nine games",
+   "result": "loss",
+   "final": "Milwaukee Bucks 85 @ New York Knicks 117"
   },
   {
    "league": "NBA",
@@ -357,7 +415,9 @@
    "team": "Boston Celtics",
    "source": "FanDuel Research / Data Skrive (numberFire model)",
    "url": "https://www.fanduel.com/research/76ers-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-10-2026",
-   "note": "numberFire gives Celtics 63.5% win probability"
+   "note": "numberFire gives Celtics 63.5% win probability",
+   "result": "win",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -368,7 +428,9 @@
    "team": "Oklahoma City Thunder",
    "source": "Yahoo Sports / Brian Hamilton (model)",
    "url": "https://sports.yahoo.com/articles/thunder-vs-trail-blazers-predictions-142407354.html",
-   "note": "OKC's elite defense vs Portland's jump-shot-reliant offense"
+   "note": "OKC's elite defense vs Portland's jump-shot-reliant offense",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -380,7 +442,9 @@
    "line": -1.5,
    "source": "Yahoo Sports / Brian Hamilton (model)",
    "url": "https://sports.yahoo.com/articles/thunder-vs-trail-blazers-predictions-142407354.html",
-   "note": "Model leans Thunder at the short number"
+   "note": "Model leans Thunder at the short number",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -394,7 +458,9 @@
    "stat": "points",
    "source": "Yahoo Sports / Brian Hamilton (model)",
    "url": "https://sports.yahoo.com/articles/thunder-vs-trail-blazers-predictions-142407354.html",
-   "note": "Heavy workload with Thunder injuries; model projects 28.8"
+   "note": "Heavy workload with Thunder injuries; model projects 28.8",
+   "result": "loss",
+   "final": "Shai Gilgeous-Alexander 26 points"
   },
   {
    "league": "NBA",
@@ -406,7 +472,9 @@
    "line": -1.5,
    "source": "Pickswise / Filip Tomic",
    "url": "https://www.pickswise.com/nba/news/nba-best-bets-today-november-10-picks-predictions/",
-   "note": "Boston hits ~4 more threes per game and shoots more efficiently"
+   "note": "Boston hits ~4 more threes per game and shoots more efficiently",
+   "result": "win",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -420,7 +488,9 @@
    "stat": "points",
    "source": "Pickswise / Filip Tomic",
    "url": "https://www.pickswise.com/nba/news/nba-best-bets-today-november-10-picks-predictions/",
-   "note": "Listed as 20+ points; top option with George out, 20+ in back-to-back games"
+   "note": "Listed as 20+ points; top option with George out, 20+ in back-to-back games",
+   "result": "win",
+   "final": "Darryn Peterson 25 points"
   },
   {
    "league": "NBA",
@@ -432,7 +502,9 @@
    "line": -2.5,
    "source": "Pickswise / Filip Tomic",
    "url": "https://www.pickswise.com/nba/news/nba-best-bets-today-november-10-picks-predictions/",
-   "note": "SGA averaging 35.8 in November; Portland allowing 122.7 over last three"
+   "note": "SGA averaging 35.8 in November; Portland allowing 122.7 over last three",
+   "result": "loss",
+   "final": "Oklahoma City Thunder 103 @ Portland Trail Blazers 123"
   },
   {
    "league": "NBA",
@@ -443,7 +515,9 @@
    "team": "Boston Celtics",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/philadelphia-76ers/preview/boston-celtics-vs-philadelphia-76ers-player-props-injury-report-and-prediction--nba_608769.html",
-   "note": "Boston net rating +11.6 vs Philly +2.7; predicts 109-105"
+   "note": "Boston net rating +11.6 vs Philly +2.7; predicts 109-105",
+   "result": "win",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -455,7 +529,9 @@
    "side": "under",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/philadelphia-76ers/preview/boston-celtics-vs-philadelphia-76ers-player-props-injury-report-and-prediction--nba_608769.html",
-   "note": "Boston's slower pace supports the under"
+   "note": "Boston's slower pace supports the under",
+   "result": "loss",
+   "final": "Boston Celtics 123 @ Philadelphia 76ers 101"
   },
   {
    "league": "NBA",
@@ -469,7 +545,9 @@
    "stat": "points",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/philadelphia-76ers/preview/boston-celtics-vs-philadelphia-76ers-player-props-injury-report-and-prediction--nba_608769.html",
-   "note": "Part of their Tatum/Embiid same-game parlay"
+   "note": "Part of their Tatum/Embiid same-game parlay",
+   "result": "loss",
+   "final": "Jayson Tatum 21 points"
   },
   {
    "league": "NBA",
@@ -598,7 +676,9 @@
    "side": "over",
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-avalanche-maple-leafs-capitals-senators-predators-kings",
-   "note": "COL 72 goals in 18 GP, 12-6 to the over; TOR won 6-3 in Denver earlier"
+   "note": "COL 72 goals in 18 GP, 12-6 to the over; TOR won 6-3 in Denver earlier",
+   "result": "win",
+   "final": "Colorado Avalanche 6 @ Toronto Maple Leafs 3"
   },
   {
    "league": "NHL",
@@ -609,7 +689,9 @@
    "team": "Ottawa Senators",
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-avalanche-maple-leafs-capitals-senators-predators-kings",
-   "note": "Ullmark expected back; OTT 6-2-0 at home, won two straight"
+   "note": "Ullmark expected back; OTT 6-2-0 at home, won two straight",
+   "result": "loss",
+   "final": "Washington Capitals 3 @ Ottawa Senators 2"
   },
   {
    "league": "NHL",
@@ -620,7 +702,9 @@
    "team": "Nashville Predators",
    "source": "Sports Illustrated / Ryan Gilbert",
    "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-avalanche-maple-leafs-capitals-senators-predators-kings",
-   "note": "NSH won four straight; Kings 2-5-0 at home; value on road dog near pick'em"
+   "note": "NSH won four straight; Kings 2-5-0 at home; value on road dog near pick'em",
+   "result": "win",
+   "final": "Nashville Predators 3 @ Los Angeles Kings 0"
   },
   {
    "league": "NHL",
@@ -632,7 +716,9 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/devils-vs-jets-prediction-november-10-2026/",
-   "note": "Jake Allen (.881) in net for NJ, Skinner projected for WPG; both PKs under 72%"
+   "note": "Jake Allen (.881) in net for NJ, Skinner projected for WPG; both PKs under 72%",
+   "result": "push",
+   "final": "New Jersey Devils 2 @ Winnipeg Jets 4"
   },
   {
    "league": "NHL",
@@ -646,7 +732,9 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/devils-vs-jets-prediction-november-10-2026/",
-   "note": "Connor 6 PPG of 13 goals; NJ PK has allowed 12 on 37 chances (last in NHL)"
+   "note": "Connor 6 PPG of 13 goals; NJ PK has allowed 12 on 37 chances (last in NHL)",
+   "result": "win",
+   "final": "Kyle Connor 1 power-play points"
   },
   {
    "league": "NHL",
@@ -657,7 +745,9 @@
    "team": "Winnipeg Jets",
    "source": "Dimers (model)",
    "url": "https://dimers.com/nhl/news/new-jersey-devils-vs-winnipeg-jets-prediction-11-10-2026-ac",
-   "note": "Best value bet: model 45.7% vs 42% implied, though model favors NJ to win"
+   "note": "Best value bet: model 45.7% vs 42% implied, though model favors NJ to win",
+   "result": "win",
+   "final": "New Jersey Devils 2 @ Winnipeg Jets 4"
   },
   {
    "league": "NHL",
@@ -668,7 +758,9 @@
    "team": "St. Louis Blues",
    "source": "BetMGM (model)",
    "url": "https://sports.betmgm.com/en/blog/nhl/red-wings-blues-prediction-odds-picks-nov-10-2026-jaa/",
-   "note": "Model 56.9% Blues win"
+   "note": "Model 56.9% Blues win",
+   "result": "win",
+   "final": "Detroit Red Wings 2 @ St. Louis Blues 3"
   },
   {
    "league": "NHL",
@@ -680,7 +772,9 @@
    "line": 1.5,
    "source": "BetMGM (model)",
    "url": "https://sports.betmgm.com/en/blog/nhl/red-wings-blues-prediction-odds-picks-nov-10-2026-jaa/",
-   "note": "Model 64.8% cover; DET covered PL in 15 of last 25 road games"
+   "note": "Model 64.8% cover; DET covered PL in 15 of last 25 road games",
+   "result": "win",
+   "final": "Detroit Red Wings 2 @ St. Louis Blues 3"
   },
   {
    "league": "NHL",
@@ -692,7 +786,9 @@
    "line": -1.5,
    "source": "Lineups.com / Thom Cunningham",
    "url": "https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/",
-   "note": "STL PP 22.45% vs DET PK 69% (bottom five); Larkin suspended amid trade request"
+   "note": "STL PP 22.45% vs DET PK 69% (bottom five); Larkin suspended amid trade request",
+   "result": "loss",
+   "final": "Detroit Red Wings 2 @ St. Louis Blues 3"
   },
   {
    "league": "NHL",
@@ -704,7 +800,9 @@
    "side": "under",
    "source": "Lineups.com / Thom Cunningham",
    "url": "https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/",
-   "note": "STL under in 5 of 7 home games; DET under in 5 straight road games vs Central; predicts 3-1"
+   "note": "STL under in 5 of 7 home games; DET under in 5 straight road games vs Central; predicts 3-1",
+   "result": "win",
+   "final": "Detroit Red Wings 2 @ St. Louis Blues 3"
   },
   {
    "league": "NHL",
@@ -716,7 +814,9 @@
    "line": -1.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/nhl/news/detroit-red-wings-vs-st-louis-blues-prediction-11-10-2026-ac",
-   "note": "Best value bet (thin edge); model Blues 57.5% to win"
+   "note": "Best value bet (thin edge); model Blues 57.5% to win",
+   "result": "loss",
+   "final": "Detroit Red Wings 2 @ St. Louis Blues 3"
   },
   {
    "league": "NHL",
@@ -728,7 +828,9 @@
    "side": "over",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/panthers-vs-blue-jackets-nhl-best-bets-odds-prediction-and-pick-nov-10/",
-   "note": "Computer projects 6 goals; teams allow 6.2 combined per game"
+   "note": "Computer projects 6 goals; teams allow 6.2 combined per game",
+   "result": "loss",
+   "final": "Florida Panthers 4 @ Columbus Blue Jackets 1"
   },
   {
    "league": "NHL",
@@ -739,7 +841,9 @@
    "team": "Columbus Blue Jackets",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/nhl/news/florida-panthers-vs-columbus-blue-jackets-prediction-11-10-2026-ac",
-   "note": "Best value bet at 49c vs model 49.7% (model has FLA 50.3%)"
+   "note": "Best value bet at 49c vs model 49.7% (model has FLA 50.3%)",
+   "result": "loss",
+   "final": "Florida Panthers 4 @ Columbus Blue Jackets 1"
   },
   {
    "league": "NHL",
@@ -751,7 +855,9 @@
    "line": 1.5,
    "source": "Last Word On Hockey / Lori Bennett",
    "url": "https://lastwordonsports.com/hockey/2026/11/10/nhl-predictions-wild-vs-canadiens-nov-10",
-   "note": "Predicts Canadiens 4-3; Fowler vs Wallstedt; Faber (skull fracture) uncertain for MIN"
+   "note": "Predicts Canadiens 4-3; Fowler vs Wallstedt; Faber (skull fracture) uncertain for MIN",
+   "result": "win",
+   "final": "Minnesota Wild 2 @ Montreal Canadiens 1"
   },
   {
    "league": "NHL",
@@ -762,7 +868,9 @@
    "team": "Montreal Canadiens",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/nhl/news/minnesota-wild-vs-montreal-canadiens-prediction-11-10-2026-ac",
-   "note": "Best value bet: model 48.2% vs 46c"
+   "note": "Best value bet: model 48.2% vs 46c",
+   "result": "loss",
+   "final": "Minnesota Wild 2 @ Montreal Canadiens 1"
   },
   {
    "league": "NHL",
@@ -774,7 +882,9 @@
    "side": "under",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/wild-vs-canadiens-nhl-best-bets-odds-prediction-and-pick-nov-10/",
-   "note": "Computer projects 6.1 goals; teams allow 5.4 combined per game"
+   "note": "Computer projects 6.1 goals; teams allow 5.4 combined per game",
+   "result": "win",
+   "final": "Minnesota Wild 2 @ Montreal Canadiens 1"
   },
   {
    "league": "NHL",
@@ -785,7 +895,9 @@
    "team": "Colorado Avalanche",
    "source": "Last Word On Hockey / Braden Morrison",
    "url": "https://lastwordonsports.com/hockey/2026/11/10/nhl-predictions-toronto-maple-leafs-colorado-avalanche-november-10/",
-   "note": "Predicts Avs 5-2; Blackwood vs Bobrovsky; TOR missing Marchenko, Domi, Rielly DTD"
+   "note": "Predicts Avs 5-2; Blackwood vs Bobrovsky; TOR missing Marchenko, Domi, Rielly DTD",
+   "result": "win",
+   "final": "Colorado Avalanche 6 @ Toronto Maple Leafs 3"
   },
   {
    "league": "NHL",
@@ -797,7 +909,9 @@
    "line": -1.5,
    "source": "Last Word On Hockey / Braden Morrison",
    "url": "https://lastwordonsports.com/hockey/2026/11/10/nhl-predictions-toronto-maple-leafs-colorado-avalanche-november-10/",
-   "note": "Expects Avs to cover; predicts 5-2"
+   "note": "Expects Avs to cover; predicts 5-2",
+   "result": "win",
+   "final": "Colorado Avalanche 6 @ Toronto Maple Leafs 3"
   },
   {
    "league": "NHL",
@@ -809,7 +923,9 @@
    "side": "over",
    "source": "Last Word On Hockey / Braden Morrison",
    "url": "https://lastwordonsports.com/hockey/2026/11/10/nhl-predictions-toronto-maple-leafs-colorado-avalanche-november-10/",
-   "note": "Two high-scoring offenses"
+   "note": "Two high-scoring offenses",
+   "result": "win",
+   "final": "Colorado Avalanche 6 @ Toronto Maple Leafs 3"
   },
   {
    "league": "NHL",
@@ -820,7 +936,9 @@
    "team": "Ottawa Senators",
    "source": "FanDuel Research / Data Skrive (model)",
    "url": "https://www.fanduel.com/research/senators-vs-capitals-prediction-nhl-odds-11-10-2026",
-   "note": "numberFire gives Ottawa 52.2%"
+   "note": "numberFire gives Ottawa 52.2%",
+   "result": "loss",
+   "final": "Washington Capitals 3 @ Ottawa Senators 2"
   },
   {
    "league": "NHL",
@@ -832,7 +950,9 @@
    "side": "under",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/nhl/news/washington-capitals-vs-ottawa-senators-prediction-11-10-2026-ac",
-   "note": "Best value bet: model 55.3% under vs 55c; model Senators 54.4% to win"
+   "note": "Best value bet: model 55.3% under vs 55c; model Senators 54.4% to win",
+   "result": "win",
+   "final": "Washington Capitals 3 @ Ottawa Senators 2"
   },
   {
    "league": "NHL",
@@ -844,7 +964,9 @@
    "side": "under",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/kings-vs-predators-nhl-best-bets-odds-prediction-and-pick-nov-10/",
-   "note": "Computer projects 6.3 goals"
+   "note": "Computer projects 6.3 goals",
+   "result": "win",
+   "final": "Nashville Predators 3 @ Los Angeles Kings 0"
   },
   {
    "league": "NHL",
@@ -855,7 +977,9 @@
    "team": "Nashville Predators",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/kings-vs-predators-nhl-best-bets-odds-prediction-and-pick-nov-10/",
-   "note": "Predicts Nashville 4-3; NSH 6-4 at +114 or longer"
+   "note": "Predicts Nashville 4-3; NSH 6-4 at +114 or longer",
+   "result": "win",
+   "final": "Nashville Predators 3 @ Los Angeles Kings 0"
   },
   {
    "league": "NCAAF",
@@ -867,7 +991,9 @@
    "line": 5.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/news/kent-state-vs-bowling-green-prediction-week-11-2026-ac",
-   "note": "Model 51.5% cover; projects BG 25-20"
+   "note": "Model 51.5% cover; projects BG 25-20",
+   "result": "win",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -879,7 +1005,9 @@
    "side": "over",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/news/kent-state-vs-bowling-green-prediction-week-11-2026-ac",
-   "note": "Top best bet: model 53.9% over"
+   "note": "Top best bet: model 53.9% over",
+   "result": "win",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -891,7 +1019,9 @@
    "line": -6,
    "source": "Pro Football Network / Cam Mellor & Oliver Hodgkinson",
    "url": "https://www.profootballnetwork.com/cfb/maction-week-11-predictions-2026/",
-   "note": "BG defense (Myles Bradley 9 sacks) vs KSU offense at 14.3 ppg"
+   "note": "BG defense (Myles Bradley 9 sacks) vs KSU offense at 14.3 ppg",
+   "result": "loss",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -903,7 +1033,9 @@
    "side": "under",
    "source": "Pro Football Network / Cam Mellor & Oliver Hodgkinson",
    "url": "https://www.profootballnetwork.com/cfb/maction-week-11-predictions-2026/",
-   "note": "Lean: neither offense scores (17.8 and 14.3 ppg)"
+   "note": "Lean: neither offense scores (17.8 and 14.3 ppg)",
+   "result": "loss",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -915,7 +1047,9 @@
    "side": "over",
    "source": "Pickswise / Joe Williams",
    "url": "https://www.pickswise.com/college-football/games/bowling-green-kent-state-college-football-2026-11-10-1800/picks/",
-   "note": "Clear weather; BG over 4-1 last five; KSU allowed 29+ in 3 of last 4"
+   "note": "Clear weather; BG over 4-1 last five; KSU allowed 29+ in 3 of last 4",
+   "result": "win",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -927,7 +1061,9 @@
    "line": -5.5,
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/08/bowling-green-vs-kent-state-football-best-bets-computer-predictions-nov-10/",
-   "note": "KSU 0-4 ATS as 5.5+ point dog"
+   "note": "KSU 0-4 ATS as 5.5+ point dog",
+   "result": "loss",
+   "final": "Kent State Golden Flashes 28 @ Bowling Green Falcons 33"
   },
   {
    "league": "NCAAF",
@@ -939,7 +1075,9 @@
    "line": -14,
    "source": "Pro Football Network / Cam Mellor & Oliver Hodgkinson",
    "url": "https://www.profootballnetwork.com/cfb/maction-week-11-predictions-2026/",
-   "note": "WMU 6-3 vs Akron 1-8; Buckley run game, 23 sacks; PFN 86.6% win chance"
+   "note": "WMU 6-3 vs Akron 1-8; Buckley run game, 23 sacks; PFN 86.6% win chance",
+   "result": "win",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -951,7 +1089,9 @@
    "line": 13.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/news/western-michigan-vs-akron-prediction-week-11-2026-ac",
-   "note": "Top best bet: model 50% cover at 48c; WMU 84.3% to win"
+   "note": "Top best bet: model 50% cover at 48c; WMU 84.3% to win",
+   "result": "loss",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -963,7 +1103,9 @@
    "side": "under",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/08/western-michigan-vs-akron-football-best-bets-computer-predictions-nov-10/",
-   "note": "WMU games average 46.9 points; only 3 overs of 48.5"
+   "note": "WMU games average 46.9 points; only 3 overs of 48.5",
+   "result": "loss",
+   "final": "Western Michigan Broncos 42 @ Akron Zips 14"
   },
   {
    "league": "NCAAF",
@@ -974,7 +1116,9 @@
    "team": "Ohio Bobcats",
    "source": "Pro Football Network / Cam Mellor & Oliver Hodgkinson",
    "url": "https://www.profootballnetwork.com/cfb/maction-week-11-predictions-2026/",
-   "note": "Ohio 5-0 MAC, six straight wins; Miami QB Heavner (4 TD/4 INT) after McComb season-ending injury"
+   "note": "Ohio 5-0 MAC, six straight wins; Miami QB Heavner (4 TD/4 INT) after McComb season-ending injury",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -986,7 +1130,9 @@
    "line": 1.5,
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/ohio-vs-miami-oh-prediction-picks-odds-nov-10-2026",
-   "note": "Letdown spot for Ohio; Miami blew 31-16 4Q lead vs Buffalo, get-right spot"
+   "note": "Letdown spot for Ohio; Miami blew 31-16 4Q lead vs Buffalo, get-right spot",
+   "result": "win",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -998,7 +1144,9 @@
    "side": "under",
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/ohio-vs-miami-oh-prediction-picks-odds-nov-10-2026",
-   "note": "Ohio runs ~60% vs Miami rush D (3.4 ypc); under 5-1 in Ohio's last six"
+   "note": "Ohio runs ~60% vs Miami rush D (3.4 ypc); under 5-1 in Ohio's last six",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1009,7 +1157,9 @@
    "team": "Miami (OH) RedHawks",
    "source": "Sportsbook Review / Mike Spector",
    "url": "https://www.sportsbookreview.com/picks/college-football/ohio-vs-miami-ohio-prediction-odds-picks-week-11-2026/",
-   "note": "Best bet; Miami run D 16th; Ohio D faced season-high 79 plays vs Akron; predicts 24-21"
+   "note": "Best bet; Miami run D 16th; Ohio D faced season-high 79 plays vs Akron; predicts 24-21",
+   "result": "win",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1021,7 +1171,9 @@
    "side": "under",
    "source": "Sportsbook Review / Mike Spector",
    "url": "https://www.sportsbookreview.com/picks/college-football/ohio-vs-miami-ohio-prediction-odds-picks-week-11-2026/",
-   "note": "Projects 24-21"
+   "note": "Projects 24-21",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1032,7 +1184,9 @@
    "team": "Ohio Bobcats",
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/ncaaf-articles/ohio-vs-miami-ohio-prediction-november-10-2026/",
-   "note": "Lean: Poulos 0 INT vs Heavner 4 INT; Miami pass D last in MAC"
+   "note": "Lean: Poulos 0 INT vs Heavner 4 INT; Miami pass D last in MAC",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1044,7 +1198,9 @@
    "side": "under",
    "source": "TheSpread / Anthony Rome",
    "url": "https://www.thespread.com/ncaaf-articles/ohio-vs-miami-ohio-prediction-november-10-2026/",
-   "note": "Total fell 48.5 to 46.5; Miami run D 2.6 ypc recently"
+   "note": "Total fell 48.5 to 46.5; Miami run D 2.6 ypc recently",
+   "result": "loss",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1056,7 +1212,9 @@
    "line": 1.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/news/ohio-vs-miami-ohio-prediction-week-11-2026-ac",
-   "note": "Best bet: model 54.8% cover; projects Miami 24-23"
+   "note": "Best bet: model 54.8% cover; projects Miami 24-23",
+   "result": "win",
+   "final": "Ohio Bobcats 17 @ Miami (OH) RedHawks 34"
   },
   {
    "league": "NCAAF",
@@ -1140,7 +1298,9 @@
    "side": "under",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/michigan-state-vs-duke-prediction-and-odds-for-cbb-champions-classic-on-tuesday-nov-10-2026",
-   "note": "Both elite defenses (KenPom No. 2 Duke, No. 4 MSU), both outside top 180 in tempo; neither has allowed 70."
+   "note": "Both elite defenses (KenPom No. 2 Duke, No. 4 MSU), both outside top 180 in tempo; neither has allowed 70.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1152,7 +1312,9 @@
    "side": "under",
    "source": "Action Network / Mike Calabrese",
    "url": "https://sports.yahoo.com/articles/champions-classic-best-bets-5-025822242.html",
-   "note": "Fears Jr. should limit Duke transition; MSU elite defensive rebounding; Duke half-court offense still developing without Boozer."
+   "note": "Fears Jr. should limit Duke transition; MSU elite defensive rebounding; Duke half-court offense still developing without Boozer.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1164,7 +1326,9 @@
    "side": "under",
    "source": "Action Network / Colby Marchio",
    "url": "https://sports.yahoo.com/articles/champions-classic-best-bets-5-025822242.html",
-   "note": "Both teams rank in the 200s in tempo; MSU struggles at the line and mid-range."
+   "note": "Both teams rank in the 200s in tempo; MSU struggles at the line and mid-range.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1176,7 +1340,9 @@
    "side": "under",
    "source": "Action Network / Jonathan Jorcin",
    "url": "https://sports.yahoo.com/articles/champions-classic-best-bets-5-025822242.html",
-   "note": "Neutral court; MSU should control tempo and both defenses should dominate."
+   "note": "Neutral court; MSU should control tempo and both defenses should dominate.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1188,7 +1354,9 @@
    "side": "under",
    "source": "FanDuel Research / FanDuel Staff",
    "url": "https://www.fanduel.com/research/duke-vs-michigan-state-prediction-college-basketball-picks-and-best-bets-nov-10",
-   "note": "Duke allowing 51.0 ppg, MSU 60.0; MSU 59.4% FT; last two meetings totaled 126 and 139."
+   "note": "Duke allowing 51.0 ppg, MSU 60.0; MSU 59.4% FT; last two meetings totaled 126 and 139.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1200,7 +1368,9 @@
    "line": 6.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/duke-vs-michigan-state-prediction-11-10-2026-ac",
-   "note": "Model gives MSU +6.5 a 55.0% cover chance (3.1% edge); projects Duke 77-71."
+   "note": "Model gives MSU +6.5 a 55.0% cover chance (3.1% edge); projects Duke 77-71.",
+   "result": "win",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1212,7 +1382,9 @@
    "line": -6.5,
    "source": "CBS Sports / Matt Norlander",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges."
+   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1224,7 +1396,9 @@
    "line": -6.5,
    "source": "CBS Sports / David Cobb",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges."
+   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1236,7 +1410,9 @@
    "line": -6.5,
    "source": "CBS Sports / Cameron Salerno",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges."
+   "note": "Duke frontcourt (Ngongba, Boumtje Boumtje) and bench depth are clear edges.",
+   "result": "loss",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1248,7 +1424,9 @@
    "line": 6.5,
    "source": "CBS Sports / Gary Parrish",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Takes MSU to cover though picks Duke straight up."
+   "note": "Takes MSU to cover though picks Duke straight up.",
+   "result": "win",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1260,7 +1438,9 @@
    "line": 6.5,
    "source": "CBS Sports / Isaac Trotter",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Takes MSU to cover though picks Duke straight up."
+   "note": "Takes MSU to cover though picks Duke straight up.",
+   "result": "win",
+   "final": "Michigan State Spartans 79 @ Duke Blue Devils 73"
   },
   {
    "league": "NCAAB",
@@ -1272,7 +1452,9 @@
    "line": -5.5,
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/kansas-vs-kentucky-prediction-and-odds-for-cbb-champions-classic-on-tuesday-nov-10-2026",
-   "note": "KenPom No. 5 Kansas (No. 3 defense) vs Kentucky No. 29 with 72nd-ranked defense; Tyran Stokes."
+   "note": "KenPom No. 5 Kansas (No. 3 defense) vs Kentucky No. 29 with 72nd-ranked defense; Tyran Stokes.",
+   "result": "win",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1283,7 +1465,9 @@
    "team": "Kansas Jayhawks",
    "source": "Action Network / Mike Calabrese",
    "url": "https://sports.yahoo.com/articles/champions-classic-best-bets-5-025822242.html",
-   "note": "Kentucky nearly lost to James Madison; Kansas should win the offensive glass vs a soft UK front line (taken at -218)."
+   "note": "Kentucky nearly lost to James Madison; Kansas should win the offensive glass vs a soft UK front line (taken at -218).",
+   "result": "win",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1297,7 +1481,9 @@
    "stat": "three-pointers made",
    "source": "Action Network / Charlie DiSturco",
    "url": "https://sports.yahoo.com/articles/champions-classic-best-bets-5-025822242.html",
-   "note": "Momcilovic shot 48.6% from 3 last season, 17 attempts in 2 games; Kansas allows 3PA on 43.8% of shots."
+   "note": "Momcilovic shot 48.6% from 3 last season, 17 attempts in 2 games; Kansas allows 3PA on 43.8% of shots.",
+   "result": "loss",
+   "final": "Milan Momcilovic 1 three-pointers made"
   },
   {
    "league": "NCAAB",
@@ -1309,7 +1495,9 @@
    "line": 5.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-10-2026-ac",
-   "note": "Top-edge play on the slate: model gives Kentucky +5.5 a 61% cover chance (8.6% edge)."
+   "note": "Top-edge play on the slate: model gives Kentucky +5.5 a 61% cover chance (8.6% edge).",
+   "result": "loss",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1321,7 +1509,9 @@
    "line": -4.5,
    "source": "CBS Sports / Gary Parrish",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Kansas to cover and win."
+   "note": "Picks Kansas to cover and win.",
+   "result": "win",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1333,7 +1523,9 @@
    "line": -4.5,
    "source": "CBS Sports / Cameron Salerno",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Kansas to cover and win."
+   "note": "Picks Kansas to cover and win.",
+   "result": "win",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1345,7 +1537,9 @@
    "line": 4.5,
    "source": "CBS Sports / Matt Norlander",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot)."
+   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot).",
+   "result": "loss",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1357,7 +1551,9 @@
    "line": 4.5,
    "source": "CBS Sports / David Cobb",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot)."
+   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot).",
+   "result": "loss",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1369,7 +1565,9 @@
    "line": 4.5,
    "source": "CBS Sports / Isaac Trotter",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot)."
+   "note": "Kentucky's shooting and length a path to upset; Kansas without G Melvin Council Jr. (broken foot).",
+   "result": "loss",
+   "final": "Kansas Jayhawks 89 @ Kentucky Wildcats 69"
   },
   {
    "league": "NCAAB",
@@ -1380,7 +1578,9 @@
    "team": "Illinois Fighting Illini",
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/illinois-vs-texas-tech-prediction-and-odds-for-college-basketball-on-tuesday-nov-10-2026",
-   "note": "Illinois has KenPom No. 1 offense; Texas Tech without JT Toppin (ACL) until conference play (taken at -135)."
+   "note": "Illinois has KenPom No. 1 offense; Texas Tech without JT Toppin (ACL) until conference play (taken at -135).",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1391,7 +1591,9 @@
    "team": "Illinois Fighting Illini",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/illinois-vs-texas-tech-prediction-11-10-2026-ac",
-   "note": "Model gives Illinois 59.3% win chance vs 55% implied at -122 (4.4% edge)."
+   "note": "Model gives Illinois 59.3% win chance vs 55% implied at -122 (4.4% edge).",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1403,7 +1605,9 @@
    "side": "under",
    "source": "Lineups.com / Thom Cunningham",
    "url": "https://www.lineups.com/articles/illinois-texas-tech-picks-predictions-odds-college-basketball/",
-   "note": "Venue averages ~126 total; Tech under 157 in 15 straight night home games vs AP-ranked; Illinois under in 12 of 15 non-con."
+   "note": "Venue averages ~126 total; Tech under 157 in 15 straight night home games vs AP-ranked; Illinois under in 12 of 15 non-con.",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1415,7 +1619,9 @@
    "line": -1.5,
    "source": "CBS Sports / Matt Norlander",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Illinois to cover and win on the road."
+   "note": "Picks Illinois to cover and win on the road.",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1427,7 +1633,9 @@
    "line": -1.5,
    "source": "CBS Sports / David Cobb",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Illinois to cover and win on the road."
+   "note": "Picks Illinois to cover and win on the road.",
+   "result": "loss",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1439,7 +1647,9 @@
    "line": 1.5,
    "source": "CBS Sports / Gary Parrish",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting."
+   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting.",
+   "result": "win",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1451,7 +1661,9 @@
    "line": 1.5,
    "source": "CBS Sports / Cameron Salerno",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting."
+   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting.",
+   "result": "win",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1463,7 +1675,9 @@
    "line": 1.5,
    "source": "CBS Sports / Isaac Trotter",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting."
+   "note": "Texas Tech veterans vs freshman-reliant Illinois (missing Mirkovic, Davis) in hostile road setting.",
+   "result": "win",
+   "final": "Illinois Fighting Illini 78 @ Texas Tech Red Raiders 84"
   },
   {
    "league": "NCAAB",
@@ -1475,7 +1689,9 @@
    "line": -9.5,
    "source": "Sports Illustrated / Peter Dewey",
    "url": "https://www.si.com/betting/florida-vs-florida-state-prediction-and-odds-for-college-basketball-on-tuesday-nov-10-2026",
-   "note": "AP No. 1 Florida (KenPom No. 2) hasn't allowed 70; FSU is KenPom No. 56."
+   "note": "AP No. 1 Florida (KenPom No. 2) hasn't allowed 70; FSU is KenPom No. 56.",
+   "result": "loss",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1486,7 +1702,9 @@
    "team": "Florida State Seminoles",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-10-2026-ac",
-   "note": "Model gives FSU a 22.6% win chance at +450 (4.4% edge)."
+   "note": "Model gives FSU a 22.6% win chance at +450 (4.4% edge).",
+   "result": "loss",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1498,7 +1716,9 @@
    "line": 10,
    "source": "CBS Sports / Cameron Salerno",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Expects FSU to keep it close at home; Florida picked straight up."
+   "note": "Expects FSU to keep it close at home; Florida picked straight up.",
+   "result": "win",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1510,7 +1730,9 @@
    "line": 10,
    "source": "CBS Sports / Gary Parrish",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Expects FSU to keep it close at home; Florida picked straight up."
+   "note": "Expects FSU to keep it close at home; Florida picked straight up.",
+   "result": "win",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1522,7 +1744,9 @@
    "line": 10,
    "source": "CBS Sports / Matt Norlander",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Expects FSU to keep it close at home; Florida picked straight up."
+   "note": "Expects FSU to keep it close at home; Florida picked straight up.",
+   "result": "win",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1534,7 +1758,9 @@
    "line": -10,
    "source": "CBS Sports / David Cobb",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Florida to cover on the road."
+   "note": "Picks Florida to cover on the road.",
+   "result": "loss",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1546,7 +1772,9 @@
    "line": -10,
    "source": "CBS Sports / Isaac Trotter",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Picks Florida to cover on the road."
+   "note": "Picks Florida to cover on the road.",
+   "result": "loss",
+   "final": "Florida Gators 81 @ Florida State Seminoles 72"
   },
   {
    "league": "NCAAB",
@@ -1558,7 +1786,9 @@
    "line": 15,
    "source": "CBS Sports / Gary Parrish",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Takes Memphis with the points; Vanderbilt picked straight up."
+   "note": "Takes Memphis with the points; Vanderbilt picked straight up.",
+   "result": "loss",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1570,7 +1800,9 @@
    "line": 15,
    "source": "CBS Sports / Matt Norlander",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Takes Memphis with the points; Vanderbilt picked straight up."
+   "note": "Takes Memphis with the points; Vanderbilt picked straight up.",
+   "result": "loss",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1582,7 +1814,9 @@
    "line": 15,
    "source": "CBS Sports / David Cobb",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Takes Memphis with the points; Vanderbilt picked straight up."
+   "note": "Takes Memphis with the points; Vanderbilt picked straight up.",
+   "result": "loss",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1594,7 +1828,9 @@
    "line": -15,
    "source": "CBS Sports / Cameron Salerno",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Vanderbilt (KenPom No. 7) defense can contain Jayden Reid; Memphis without Nemanja Popovic."
+   "note": "Vanderbilt (KenPom No. 7) defense can contain Jayden Reid; Memphis without Nemanja Popovic.",
+   "result": "win",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1606,7 +1842,9 @@
    "line": -15,
    "source": "CBS Sports / Isaac Trotter",
    "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-   "note": "Vanderbilt (KenPom No. 7) defense can contain Jayden Reid; Memphis without Nemanja Popovic."
+   "note": "Vanderbilt (KenPom No. 7) defense can contain Jayden Reid; Memphis without Nemanja Popovic.",
+   "result": "win",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1618,7 +1856,9 @@
    "line": -14.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/memphis-vs-vanderbilt-prediction-11-10-2026-ac",
-   "note": "Model: Vanderbilt -14.5 covers 53.2% (2.0% edge); projects 86-70."
+   "note": "Model: Vanderbilt -14.5 covers 53.2% (2.0% edge); projects 86-70.",
+   "result": "win",
+   "final": "Memphis Tigers 81 @ Vanderbilt Commodores 105"
   },
   {
    "league": "NCAAB",
@@ -1630,7 +1870,9 @@
    "line": -11.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-10-2026-ac",
-   "note": "Model gives San Francisco -11.5 a 55.9% cover chance (4.7% edge)."
+   "note": "Model gives San Francisco -11.5 a 55.9% cover chance (4.7% edge).",
+   "result": "loss",
+   "final": "Montana Grizzlies 58 @ San Francisco Dons 63"
   }
  ]
 }

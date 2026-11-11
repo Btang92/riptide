@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:47:48Z",
+ "updated": "2026-11-11T15:45:34Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -9,7 +9,8 @@
   "2026-11-05",
   "2026-11-06",
   "2026-11-07",
-  "2026-11-08"
+  "2026-11-08",
+  "2026-11-09"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -74,7 +75,7 @@
   },
   "Action Network staff (via Yahoo)": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "Before You Bet / Jake Smit": {
@@ -88,8 +89,8 @@
    "p": 0
   },
   "CBS Sports / Cameron Salerno": {
-   "w": 1,
-   "l": 1,
+   "w": 5,
+   "l": 2,
    "p": 0
   },
   "CBS Sports / Daniel Kohn": {
@@ -98,13 +99,13 @@
    "p": 0
   },
   "CBS Sports / Daniel Kohn (SportsLine model)": {
-   "w": 3,
-   "l": 1,
+   "w": 4,
+   "l": 2,
    "p": 0
   },
   "CBS Sports / Isaac Trotter": {
-   "w": 3,
-   "l": 1,
+   "w": 6,
+   "l": 3,
    "p": 0
   },
   "ClutchPoints (via Yahoo Sports) / Garrett Kerman": {
@@ -118,8 +119,8 @@
    "p": 0
   },
   "Covers / Colby Marchio": {
-   "w": 4,
-   "l": 2,
+   "w": 5,
+   "l": 3,
    "p": 0
   },
   "Covers / Dustin Saracini": {
@@ -148,7 +149,7 @@
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 12,
+   "w": 14,
    "l": 9,
    "p": 0
   },
@@ -158,13 +159,13 @@
    "p": 0
   },
   "Covers / Jon Metler": {
-   "w": 12,
-   "l": 12,
+   "w": 20,
+   "l": 18,
    "p": 0
   },
   "Covers / Josh Inglis": {
-   "w": 3,
-   "l": 5,
+   "w": 5,
+   "l": 9,
    "p": 0
   },
   "Covers / Neil Parker": {
@@ -208,8 +209,8 @@
    "p": 0
   },
   "Dimers (model)": {
-   "w": 4,
-   "l": 8,
+   "w": 11,
+   "l": 16,
    "p": 1
   },
   "Dimers / Best Bets": {
@@ -243,8 +244,8 @@
    "p": 0
   },
   "Dimers / Jason Bevilacqua": {
-   "w": 3,
-   "l": 4,
+   "w": 4,
+   "l": 8,
    "p": 0
   },
   "Dimers / Mac Douglass": {
@@ -258,17 +259,17 @@
    "p": 0
   },
   "Dimers / Ryan Leaver": {
-   "w": 11,
-   "l": 12,
+   "w": 14,
+   "l": 16,
    "p": 0
   },
   "Dimers / Ryan Leaver (model)": {
-   "w": 7,
-   "l": 5,
+   "w": 9,
+   "l": 10,
    "p": 0
   },
   "FanDuel Research / Data Skrive (numberFire model)": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -279,7 +280,7 @@
   },
   "FanDuel Research / FanDuel Staff": {
    "w": 9,
-   "l": 8,
+   "l": 9,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
@@ -308,8 +309,8 @@
    "p": 0
   },
   "Pickswise / Andrew Wilsher": {
-   "w": 2,
-   "l": 0,
+   "w": 3,
+   "l": 1,
    "p": 0
   },
   "Pickswise / Ben Dezell": {
@@ -328,7 +329,7 @@
    "p": 0
   },
   "Pickswise / Chris Farley": {
-   "w": 4,
+   "w": 6,
    "l": 4,
    "p": 0
   },
@@ -338,12 +339,12 @@
    "p": 0
   },
   "Pickswise / Filip Tomic": {
-   "w": 3,
-   "l": 8,
+   "w": 5,
+   "l": 9,
    "p": 0
   },
   "Pickswise / Joe Williams": {
-   "w": 0,
+   "w": 2,
    "l": 2,
    "p": 0
   },
@@ -378,8 +379,8 @@
    "p": 0
   },
   "Pickswise / Ricky Dimon": {
-   "w": 6,
-   "l": 4,
+   "w": 8,
+   "l": 5,
    "p": 0
   },
   "Pickswise / Ryan Hodges": {
@@ -398,8 +399,8 @@
    "p": 0
   },
   "PredictEm / Joe Jensen": {
-   "w": 0,
-   "l": 2,
+   "w": 1,
+   "l": 3,
    "p": 0
   },
   "Pro Football Network / Jason Katz": {
@@ -413,8 +414,8 @@
    "p": 0
   },
   "SI / Peter Dewey": {
-   "w": 7,
-   "l": 3,
+   "w": 8,
+   "l": 10,
    "p": 0
   },
   "SI Betting / Peter Dewey": {
@@ -453,8 +454,8 @@
    "p": 0
   },
   "TheLines / Nick Crain": {
-   "w": 3,
-   "l": 3,
+   "w": 6,
+   "l": 6,
    "p": 0
   },
   "TheSpread / Alex Becker": {
@@ -463,14 +464,14 @@
    "p": 0
   },
   "TheSpread / Anthony Rome": {
-   "w": 4,
-   "l": 7,
+   "w": 5,
+   "l": 10,
    "p": 0
   },
   "TheSpread / Paul Elliot": {
-   "w": 4,
+   "w": 5,
    "l": 7,
-   "p": 1
+   "p": 2
   },
   "VSiN / Adam Burke": {
    "w": 6,
@@ -519,7 +520,7 @@
   },
   "Predictem / Joe Jensen": {
    "w": 1,
-   "l": 2,
+   "l": 4,
    "p": 0
   },
   "Pickswise / Robby Nardini": {
@@ -578,7 +579,7 @@
    "p": 1
   },
   "Covers / Chris Vasile": {
-   "w": 6,
+   "w": 7,
    "l": 8,
    "p": 0
   },
@@ -593,13 +594,13 @@
    "p": 0
   },
   "Sports Illustrated / Ryan Gilbert": {
-   "w": 2,
-   "l": 1,
+   "w": 4,
+   "l": 2,
    "p": 0
   },
   "Sports Illustrated / Peter Dewey": {
-   "w": 1,
-   "l": 0,
+   "w": 2,
+   "l": 7,
    "p": 0
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
@@ -708,8 +709,8 @@
    "p": 0
   },
   "Dimers / model": {
-   "w": 3,
-   "l": 4,
+   "w": 8,
+   "l": 5,
    "p": 0
   },
   "CBS Sports / Ross Kelly": {
@@ -729,7 +730,7 @@
   },
   "Yahoo Sports / Jeremy Pond": {
    "w": 0,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "Action Network (Yahoo Sports) / Bryan Fonseca": {
@@ -824,7 +825,7 @@
   },
   "CBS Sports / Alex Selesnick": {
    "w": 1,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "CBS Sports / David Bearman": {
@@ -858,17 +859,17 @@
    "p": 0
   },
   "CBS Sports / Tyler Sullivan": {
-   "w": 7,
+   "w": 8,
    "l": 6,
    "p": 0
   },
   "NBC Sports / Vaughn Dalzell": {
-   "w": 5,
+   "w": 6,
    "l": 1,
    "p": 0
   },
   "AP / Rob Maaddi": {
-   "w": 8,
+   "w": 9,
    "l": 5,
    "p": 0
   },
@@ -898,18 +899,18 @@
    "p": 0
   },
   "FanDuel Research / numberFire model": {
-   "w": 2,
-   "l": 0,
+   "w": 5,
+   "l": 1,
    "p": 0
   },
   "ClutchPoints / Garrett Kerman": {
    "w": 0,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "Sports Mole / Adepoju Marvellous": {
-   "w": 4,
-   "l": 3,
+   "w": 5,
+   "l": 5,
    "p": 0
   },
   "Action Network (via Yahoo) / Matt Moore": {
@@ -918,8 +919,8 @@
    "p": 0
   },
   "TheRX / Jordan Harlow": {
-   "w": 3,
-   "l": 3,
+   "w": 6,
+   "l": 6,
    "p": 0
   },
   "Covers / Chris Faria": {
@@ -931,40 +932,155 @@
    "w": 1,
    "l": 2,
    "p": 0
+  },
+  "Yahoo Sports": {
+   "w": 1,
+   "l": 5,
+   "p": 0
+  },
+  "FOX Sports / Geoff Schwartz": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Bleacher Nation (computer picks)": {
+   "w": 3,
+   "l": 4,
+   "p": 0
+  },
+  "Action Network / Tanner McGrath (via Yahoo)": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Bleacher Nation / DataSkrive": {
+   "w": 2,
+   "l": 3,
+   "p": 0
+  },
+  "TheRX / Ryan Callahan": {
+   "w": 1,
+   "l": 3,
+   "p": 0
+  },
+  "Hoops HQ / Seth Davis": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Lineups.com / Thom Cunningham": {
+   "w": 1,
+   "l": 4,
+   "p": 0
+  },
+  "Bleacher Nation / Data Skrive (model)": {
+   "w": 3,
+   "l": 5,
+   "p": 0
+  },
+  "Yahoo Sports / Brian Hamilton (model)": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "BetMGM (model)": {
+   "w": 2,
+   "l": 0,
+   "p": 0
+  },
+  "Last Word On Hockey / Lori Bennett": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Last Word On Hockey / Braden Morrison": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "FanDuel Research / Data Skrive (model)": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Pro Football Network / Cam Mellor & Oliver Hodgkinson": {
+   "w": 1,
+   "l": 3,
+   "p": 0
+  },
+  "Sportsbook Review / Mike Spector": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Mike Calabrese": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Colby Marchio": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Jonathan Jorcin": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Matt Norlander": {
+   "w": 1,
+   "l": 4,
+   "p": 0
+  },
+  "CBS Sports / David Cobb": {
+   "w": 0,
+   "l": 5,
+   "p": 0
+  },
+  "CBS Sports / Gary Parrish": {
+   "w": 4,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Charlie DiSturco": {
+   "w": 0,
+   "l": 1,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 0,
-   "l": 2
+   "w": 1,
+   "l": 3
   },
   "2": {
-   "w": 0,
-   "l": 2
+   "w": 1,
+   "l": 3
   },
   "3": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "4": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "5": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "6": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "7": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "8": {
    "w": 0,
-   "l": 2
+   "l": 3
   },
   "9": {
    "w": 0,
@@ -975,5 +1091,13 @@
    "l": 1
   }
  },
- "partial_files": {}
+ "partial_files": {
+  "2026-11-10": 121
+ },
+ "botd_partial": {
+  "2026-11-10": [
+   1,
+   2
+  ]
+ }
 }

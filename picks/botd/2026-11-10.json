@@ -29,7 +29,8 @@
      "name": "Covers / Jon Metler (Clippers ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-10-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFTOTAL-26NOV10OHIOMOH-50:no",
@@ -56,7 +57,8 @@
      "name": "TheSpread / Anthony Rome (Under 46.5)",
      "url": "https://www.thespread.com/ncaaf-articles/ohio-vs-miami-ohio-prediction-november-10-2026/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFTOTAL-26NOV11BUFFBALL-52:yes",
@@ -106,7 +108,8 @@
      "name": "BetMGM model (Blues 56.9% to win)",
      "url": "https://sports.betmgm.com/en/blog/nhl/red-wings-blues-prediction-odds-picks-nov-10-2026-jaa/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLGAME-26NOV10MINMTL-MTL:yes",
@@ -129,7 +132,8 @@
      "name": "Dimers model (Canadiens ML)",
      "url": "https://www.dimers.com/nhl/news/minnesota-wild-vs-montreal-canadiens-prediction-11-10-2026-ac"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFTOTAL-26NOV11MASSTOL-53:no",
@@ -171,7 +175,8 @@
      "name": "FanDuel Research / numberFire model (Senators 52.2%)",
      "url": "https://www.fanduel.com/research/senators-vs-capitals-prediction-nhl-odds-11-10-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBAGAME-26NOV11GSWHOU-HOU:yes",
@@ -217,7 +222,8 @@
      "name": "PredictEm / Joe Jensen (injury notes)",
      "url": "https://www.predictem.com/nba/heat-at-jazz-best-bet-nba-picks-and-odds-for-tuesday-night/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAMBGAME-26NOV10MSUDUKE-DUKE:yes",
@@ -240,7 +246,8 @@
      "name": "FanDuel Research (Duke defensive numbers)",
      "url": "https://www.fanduel.com/research/duke-vs-michigan-state-prediction-college-basketball-picks-and-best-bets-nov-10"
     }
-   ]
+   ],
+   "result": "loss"
   }
  ]
 }
