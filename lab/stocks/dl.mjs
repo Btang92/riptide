@@ -8,7 +8,7 @@ const D = "https://data.alpaca.markets/v2/stocks", sleep = s => execFileSync("sl
 const get = u => { for (let a = 0; a < 6; a++) { try { const j = JSON.parse(execFileSync("curl", ["-sS", "-m", "60", ...H, u], { maxBuffer: 256 << 20 }).toString()); if (j.message) throw new Error(j.message); sleep(0.35); return j; } catch (e) { if (a === 5) throw e; if (/forbidden|unauthorized/i.test(e.message)) throw e; sleep(3 * (a + 1)); } } };
 mkdirSync(OUT + "/min", { recursive: true });
 const sp = readFileSync(new URL("universe.txt", import.meta.url), "utf8").split(/\s+/).filter(Boolean);
-const end = new Date(Date.now() - 86400e3).toISOString().slice(0, 10), start = new Date(Date.now() - (MONTHS * 31 + 40) * 86400e3).toISOString().slice(0, 10);
+const end = new Date(Date.now() - 2 * 86400e3).toISOString().slice(0, 10) + "T00:00:00Z", start = new Date(Date.now() - (MONTHS * 31 + 40) * 86400e3).toISOString().slice(0, 10);
 let daily = existsSync(OUT + "/daily.json") ? JSON.parse(readFileSync(OUT + "/daily.json")) : null;
 if (!daily) { daily = {};
   for (let i = 0; i < sp.length; i += 100) { const syms = sp.slice(i, i + 100).join(","); let tok = "";
