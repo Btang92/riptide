@@ -22,14 +22,22 @@ const setups = {
       if (m < 600) continue; if (m >= 690) return null; // 10:00–11:30 window
       if (dir > 0 ? l <= vw : h >= vw) { touched = true; lo = lo == null ? (dir > 0 ? l : h) : (dir > 0 ? Math.min(lo, l) : Math.max(lo, h)); }
       if (touched && (dir > 0 ? c > vw : c < vw) && (dir > 0 ? c > o : c < o)) return sim(b, i + 1, dir, lo - dir * 0.01, 2, 720); } return null; },
+  // Gap reversals: trade AGAINST the gap once price proves it (e.g. NVDA Nov 12: gapped −13%, reclaimed VWAP, broke the opening-range high)
+  "Reversal: ORB 5 against gap, stop OR": (b, dir) => orb(b, -dir, 5),
+  "Reversal: ORB 15 against gap, stop OR": (b, dir) => orb(b, -dir, 15),
+  "Reversal: ORB 5 against gap + above VWAP, stop VWAP": (b, dir) => rev(b, -dir, 5),
+  "Reversal: ORB 15 against gap + above VWAP, stop VWAP": (b, dir) => rev(b, -dir, 15),
   "Gap fade (counter-trend control)": (b, dir) => { const i = b.findIndex(x => minute(x[0]) >= 575); if (i < 0) return null; const r = b.slice(0, i), hi = Math.max(...r.map(x => x[2])), lo = Math.min(...r.map(x => x[3])); return sim(b, i, -dir, dir > 0 ? hi + 0.01 : lo - 0.01, 2, 720); } };
+function rev(b, dir, n) { const r = b.filter(x => minute(x[0]) < 570 + n); if (r.length < n * 0.6) return null; const hi = Math.max(...r.map(x => x[2])), lo = Math.min(...r.map(x => x[3])); let pv = 0, vv = 0;
+  for (let i = 0; i < b.length - 1; i++) { const [t, o, h, l, c, v] = b[i], m = minute(t); pv += (h + l + c) / 3 * v; vv += v; const vw = pv / vv; if (i < r.length) continue; if (m >= 660) return null;
+    if ((dir > 0 ? c > hi : c < lo) && (dir > 0 ? c > vw : c < vw)) return sim(b, i + 1, dir, vw - dir * 0.01, 2, 690); } return null; }
 function orb(b, dir, n) { const r = b.filter(x => minute(x[0]) < 570 + n); if (r.length < n * 0.6) return null; const hi = Math.max(...r.map(x => x[2])), lo = Math.min(...r.map(x => x[3]));
   for (let i = r.length; i < b.length - 1; i++) { const m = minute(b[i][0]); if (m >= 660) return null; const c = b[i][4]; if (dir > 0 ? c > hi : c < lo) return sim(b, i + 1, dir, dir > 0 ? lo : hi, 2, 690); } return null; }
 const res = {}; const meta = [];
 for (const f of files) { const [s, d] = f.replace(".json", "").split("_"), b = JSON.parse(readFileSync(DIR + "/min/" + f)); if (b.length < 60) continue;
   const db = daily[s], k = db.findIndex(x => x[0] === d); if (k < 21) continue; const gap = db[k][1] / db[k - 1][4] - 1, dir = gap > 0 ? 1 : -1;
   const avgV = db.slice(k - 20, k).reduce((a, x) => a + x[5], 0) / 20, v15 = b.filter(x => minute(x[0]) < 585).reduce((a, x) => a + x[5], 0), rvol = v15 / (avgV / 26);
-  for (const [name, fn] of Object.entries(setups)) { const r = fn(b, dir); if (!r) continue; for (const key of [name, name + (rvol >= 2 ? " | rel vol ≥2" : " | rel vol <2")]) (res[key] ??= []).push({ ...r, d, s, gap }); } }
+  for (const [name, fn] of Object.entries(setups)) { const r = fn(b, dir); if (!r) continue; for (const key of [name, name + (rvol >= 2 ? " | rel vol ≥2" : " | rel vol <2"), ...(name.startsWith("Reversal") ? [name + (Math.abs(gap) >= 0.08 ? " | gap ≥8%" : Math.abs(gap) >= 0.05 ? " | gap 5–8%" : " | gap 3–5%"), name + (gap < 0 ? " | gap DOWN (long)" : " | gap UP (short)")] : [])]) (res[key] ??= []).push({ ...r, d, s, gap }); } }
 const rep = (name, v) => { const n = v.length, m = v.reduce((a, x) => a + x.R, 0) / n, sd = Math.sqrt(v.reduce((a, x) => a + (x.R - m) ** 2, 0) / n) / Math.sqrt(n), w = v.filter(x => x.R > 0).length / n;
   const half = v.slice().sort((a, b) => a.d < b.d ? -1 : 1), h1 = half.slice(0, n >> 1), h2 = half.slice(n >> 1), mm = a => (a.reduce((s, x) => s + x.R, 0) / a.length).toFixed(2);
   console.log(`${name.padEnd(46)} ${String(n).padStart(5)} trades  win ${(w * 100).toFixed(0)}%  avg ${m >= 0 ? "+" : ""}${m.toFixed(3)}R ±${sd.toFixed(3)}  older ${mm(h1)}R newer ${mm(h2)}R  $ on $2k/1% risk: ${v.reduce((a, x) => a + x.usd, 0).toFixed(0)}`); };
