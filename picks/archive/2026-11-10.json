@@ -559,7 +559,9 @@
    "line": -9.5,
    "source": "Sports Mole / Vladimir Kovacevic",
    "url": "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview/san-antonio-spurs-vs-chicago-bulls-player-props-injury-report-and-prediction--nba_608830.html",
-   "note": "Spurs 9-2 on nine-game win streak; Bulls 1-8 and allowed 124+ in every game"
+   "note": "Spurs 9-2 on nine-game win streak; Bulls 1-8 and allowed 124+ in every game",
+   "result": "loss",
+   "final": "San Antonio Spurs 124 @ Chicago Bulls 119"
   },
   {
    "league": "NBA",
@@ -571,7 +573,9 @@
    "side": "over",
    "source": "Sports Mole / Vladimir Kovacevic",
    "url": "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview/san-antonio-spurs-vs-chicago-bulls-player-props-injury-report-and-prediction--nba_608830.html",
-   "note": "Chicago has conceded at least 124 in all nine games"
+   "note": "Chicago has conceded at least 124 in all nine games",
+   "result": "win",
+   "final": "San Antonio Spurs 124 @ Chicago Bulls 119"
   },
   {
    "league": "NBA",
@@ -585,7 +589,9 @@
    "stat": "points",
    "source": "Sports Mole / Vladimir Kovacevic",
    "url": "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview/san-antonio-spurs-vs-chicago-bulls-player-props-injury-report-and-prediction--nba_608830.html",
-   "note": "Averages 30.1 pts; scored 41 in last meeting"
+   "note": "Averages 30.1 pts; scored 41 in last meeting",
+   "result": "win",
+   "final": "San Antonio Spurs 124 @ Chicago Bulls 119"
   },
   {
    "league": "NBA",
@@ -613,7 +619,9 @@
    "stat": "points",
    "source": "Sports Mole / Vladimir Kovacevic",
    "url": "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview/san-antonio-spurs-vs-chicago-bulls-player-props-injury-report-and-prediction--nba_608830.html",
-   "note": "Leads Chicago at 19.3 PPG; more shots if Norman Powell limited"
+   "note": "Leads Chicago at 19.3 PPG; more shots if Norman Powell limited",
+   "result": "loss",
+   "final": "San Antonio Spurs 124 @ Chicago Bulls 119"
   },
   {
    "league": "NBA",
@@ -624,7 +632,9 @@
    "team": "Houston Rockets",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview/golden-state-warriors-vs-houston-rockets-player-props-injury-report-and-prediction--nba_608821.html",
-   "note": "Rockets 5-1 at home allowing 104.7 ppg there; predicts 116-111"
+   "note": "Rockets 5-1 at home allowing 104.7 ppg there; predicts 116-111",
+   "result": "win",
+   "final": "Golden State Warriors 108 @ Houston Rockets 115"
   },
   {
    "league": "NBA",
@@ -636,7 +646,9 @@
    "side": "over",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview/golden-state-warriors-vs-houston-rockets-player-props-injury-report-and-prediction--nba_608821.html",
-   "note": "All four Warriors road games topped 230"
+   "note": "All four Warriors road games topped 230",
+   "result": "win",
+   "final": "Golden State Warriors 108 @ Houston Rockets 115"
   },
   {
    "league": "NBA",
@@ -650,7 +662,9 @@
    "stat": "points",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview/golden-state-warriors-vs-houston-rockets-player-props-injury-report-and-prediction--nba_608821.html",
-   "note": "Curry averaging 32.3 over last five"
+   "note": "Curry averaging 32.3 over last five",
+   "result": "loss",
+   "final": "Golden State Warriors 108 @ Houston Rockets 115"
   },
   {
    "league": "NBA",
@@ -664,7 +678,9 @@
    "stat": "assists",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview/golden-state-warriors-vs-houston-rockets-player-props-injury-report-and-prediction--nba_608821.html",
-   "note": "Sengun averaging 8.4 assists over last five"
+   "note": "Sengun averaging 8.4 assists over last five",
+   "result": "win",
+   "final": "Golden State Warriors 108 @ Houston Rockets 115"
   },
   {
    "league": "NHL",
@@ -1226,7 +1242,9 @@
    "side": "over",
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-11-picks-buffalo-vs-ball-state/",
-   "note": "Both offenses better vs MAC; Buffalo 5.08 yds/play in MAC; Jalen Bonds 132 yds vs UMass"
+   "note": "Both offenses better vs MAC; Buffalo 5.08 yds/play in MAC; Jalen Bonds 132 yds vs UMass",
+   "result": "loss",
+   "final": "Buffalo Bulls 28 @ Ball State Cardinals 7"
   },
   {
    "league": "NCAAF",
@@ -1238,7 +1256,9 @@
    "side": "over",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/buffalo-vs-ball-state-football-best-bets-computer-predictions-nov-11/",
-   "note": "Ball State games average 51.6; 7 overs of 51.5"
+   "note": "Ball State games average 51.6; 7 overs of 51.5",
+   "result": "loss",
+   "final": "Buffalo Bulls 28 @ Ball State Cardinals 7"
   },
   {
    "league": "NCAAF",
@@ -1250,7 +1270,9 @@
    "line": -2.5,
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/buffalo-vs-ball-state-football-best-bets-computer-predictions-nov-11/",
-   "note": "Buffalo 4-0 SU as favorite"
+   "note": "Buffalo 4-0 SU as favorite",
+   "result": "win",
+   "final": "Buffalo Bulls 28 @ Ball State Cardinals 7"
   },
   {
    "league": "NCAAF",
@@ -1262,7 +1284,9 @@
    "side": "under",
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/college-football/umass-at-toledo-picks-prediction-week-11-maction-odds/",
-   "note": "Toledo run D 2.0 ypc last three; ~49 degrees; projects Toledo 30-16"
+   "note": "Toledo run D 2.0 ypc last three; ~49 degrees; projects Toledo 30-16",
+   "result": "win",
+   "final": "Massachusetts Minutemen 0 @ Toledo Rockets 24"
   },
   {
    "league": "NCAAF",
@@ -1274,7 +1298,9 @@
    "line": -17.5,
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/central-michigan-vs-sacramento-state-football-best-bets-computer-predictions-nov-11/",
-   "note": "Sac State 4-6 ATS; CMU 3-0 as ML favorite"
+   "note": "Sac State 4-6 ATS; CMU 3-0 as ML favorite",
+   "result": "win",
+   "final": "Sacramento State Hornets 7 @ Central Michigan Chippewas 28"
   },
   {
    "league": "NCAAF",
@@ -1286,7 +1312,9 @@
    "side": "over",
    "source": "Bleacher Nation / Data Skrive (model)",
    "url": "https://www.bleachernation.com/picks/2026/11/09/central-michigan-vs-sacramento-state-football-best-bets-computer-predictions-nov-11/",
-   "note": "Sac State games average 49.7 combined"
+   "note": "Sac State games average 49.7 combined",
+   "result": "loss",
+   "final": "Sacramento State Hornets 7 @ Central Michigan Chippewas 28"
   },
   {
    "league": "NCAAB",
