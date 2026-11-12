@@ -23,7 +23,7 @@ function trade(b, i, dir, level, stopFn, exitMin, tgtR, cost) { // b: [m,o,h,l,c
     if (m >= exitMin) return out(entry, C, dir, risk, cost); }
   return out(entry, b[b.length - 1][4], dir, risk, cost); }
 const out = (entry, px, dir, risk, cost) => { const x = px * (1 - dir * cost.s) - dir * cost.c; return dir * (x - entry) / risk; };
-const TK = (() => { try { return JSON.parse(readFileSync(DIR + "/ticksA.json")); } catch (e) { return null; } })();
+const TK = (() => { try { return JSON.parse(readFileSync(DIR + "/ticksA2.json")); } catch (e) { return null; } })();
 // tick-resolved version of study A: real fill price from trades; stop judged on the trades after the fill inside the entry minute, then on later 1-min bars
 function tradeTick(x, dir, i, t, stopFrac, cost) { const fill0 = t.fill, entry = fill0 * (1 + dir * cost.s) + dir * cost.c, stop = fill0 - dir * stopFrac * x.atr, risk = dir * (entry - stop); if (!(risk > 0)) return null;
   if (stopFrac === 0.1 ? t.hit10 : t.hit25) return out(entry, stop, dir, risk, cost);
