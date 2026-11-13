@@ -1,0 +1,104 @@
+{
+  "at": "2026-11-13T15:01:16Z",
+  "date": "2026-11-13",
+  "picks": [
+    {
+      "sym": "MOD",
+      "gap": 38.4,
+      "price": 146.8,
+      "catalyst": "Acquisition talks (Samsung)",
+      "why": "Bloomberg reported Samsung is in talks to buy Modine, a data-center cooling maker; no price is set yet, so the stock can keep moving on deal headlines, but it can also drop hard if talks fall apart.",
+      "quality": "strong",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+        },
+        {
+          "name": "Gotrade News",
+          "url": "https://www.heygotrade.com/en/news/modine-stock-samsung-acquisition-talks/"
+        },
+        {
+          "name": "Yahoo Finance / Investing.com",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-modine-surges-cerebras-122705039.html"
+        }
+      ]
+    },
+    {
+      "sym": "CBRS",
+      "gap": 11.4,
+      "price": 108.9,
+      "catalyst": "Earnings beat + raised guidance + Microsoft deal",
+      "why": "Cerebras beat revenue estimates, swung to an adjusted profit, raised its 2026 sales forecast to $940-960M and signed Microsoft as a cloud customer, which is the classic 'beat and raise' setup buyers chase.",
+      "quality": "strong",
+      "sources": [
+        {
+          "name": "MarketScreener (Reuters)",
+          "url": "https://www.marketscreener.com/news/cerebras-shares-jump-17-on-upbeat-annual-forecast-easing-ai-jitters-ce785ed9d98df025"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+        }
+      ]
+    },
+    {
+      "sym": "CSCO",
+      "gap": -3.5,
+      "price": 99.29,
+      "catalyst": "Gap down on margin worries despite record quarter",
+      "why": "Cisco posted record revenue but its gross margin shrank (65.6% vs 68.1%) and analysts trimmed targets; the business is fine, so this kind of sentiment drop can bounce if buyers step in.",
+      "quality": "ok",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+        },
+        {
+          "name": "Quackonomist",
+          "url": "https://quackonomist.substack.com/p/quackonomist-pre-market-13-nov-2026"
+        }
+      ]
+    },
+    {
+      "sym": "NU",
+      "gap": 3.1,
+      "price": 12.2,
+      "catalyst": "Record quarterly profit",
+      "why": "Nu Holdings earned a record $1.1B in Q3; EPS and revenue were a hair below estimates, so the move is smaller and less certain than a clean beat.",
+      "quality": "ok",
+      "sources": [
+        {
+          "name": "Yahoo Finance / Investing.com",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-modine-surges-cerebras-122705039.html"
+        }
+      ]
+    }
+  ],
+  "avoid": [
+    {
+      "sym": "NMAX",
+      "why": "Earnings beat was helped by a one-time $14M payment, and the stock trades near the $10 line"
+    },
+    {
+      "sym": "FCUV",
+      "why": "Small-cap premarket runner (+40%) with no verified news or price"
+    },
+    {
+      "sym": "MRLN",
+      "why": "Small-cap premarket runner (+35%) with no verified news or price"
+    },
+    {
+      "sym": "STAK",
+      "why": "Small-cap premarket runner (+29%) with no verified news or price"
+    },
+    {
+      "sym": "SNAL",
+      "why": "Small-cap premarket runner (+17%) with no verified news or price"
+    },
+    {
+      "sym": "NVDA",
+      "why": "Only +2% after CEO Jensen Huang resigned; headline risk is high and earnings land Tuesday"
+    }
+  ]
+}
