@@ -1,0 +1,221 @@
+{
+ "at": "2026-11-13T16:06:09Z",
+ "date": "2026-11-13",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Dropped as conflicts: Rangers/Canucks (seven outlets on New York, top traders about $6.7k on Vancouver), Grizzlies/Pelicans (three outlets on Memphis, top traders $8k on the Pelicans moneyline), Clippers (three outlets on LA, $33k of top-trader money on OKC), Cavaliers/Heat and Knicks/Pacers (outlets split), Bulls +7.5 (top traders, but Covers and Predictem on Atlanta), Houston/Colorado, FSU/Pitt, Ole Miss/Oklahoma, Washington/Michigan State, Texas/LSU, Wake Forest/SMU, Michigan/Oregon, Louisville/UNC, and Harrison/Nunes, Borralho/Belgaroui and Gane/Hokit at UFC 334 (experts one way, top traders the other or split). Auburn (NCAAB) carried a line-move flag. No free picks were published yet for Saturday's NBA or NHL games, so Saturday is covered by college football and UFC. Donte Johnson is priced about −3.1, past the usual limit, and was kept as the last leg because top traders and VSiN agree.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
+ "ladder": [
+  {
+   "id": "KXNCAAFSPREAD-26NOV14USCIND-IND8:yes",
+   "league": "College football",
+   "game": "USC Trojans @ Indiana Hoosiers",
+   "start": "2026-11-14T20:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Indiana Hoosiers −7.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 52.5,
+   "sharp": {
+    "for": 5281,
+    "against": 995,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Top Polymarket traders have about $5.3k on Indiana −7.5 against $1.0k, and two outlets lay the points: Covers' Rob Paul (Indiana's top-10 havoc defense vs a poor USC defense) and VSiN's Steve Makinen (Indiana −10; notes the line moved from −7.5 to −10 and USC struggles on East Coast trips). Kalshi still offers the opening number.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Indiana −7.5)",
+     "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026"
+    },
+    {
+     "name": "VSiN / Steve Makinen (Indiana −10)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFTOTAL-26NOV14JMUCONN-56:yes",
+   "league": "College football",
+   "game": "James Madison Dukes @ UConn Huskies",
+   "start": "2026-11-14T17:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 55.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 53.5,
+   "sharp": {
+    "for": 7829,
+    "against": 67,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Top traders have about $7.8k on the Over against under $100. Covers' Chris Vasile picks Over 57.5, saying both offenses score heavily and both defenses are leaky; Kalshi's 55.5 is two points lower than his number.",
+   "sources": [
+    {
+     "name": "Covers / Chris Vasile (Over 57.5)",
+     "url": "https://www.covers.com/ncaaf/over-under-picks-week-11-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV13ATLCHI-ATL:yes",
+   "league": "NBA",
+   "game": "Atlanta Hawks @ Chicago Bulls",
+   "start": "2026-11-14T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Atlanta Hawks",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.6,
+   "sharp": {
+    "for": 3509,
+    "against": 1466,
+    "who": [
+     "HomeRunHazard",
+     "purplegatto"
+    ]
+   },
+   "why": "Top traders have about $3.5k on Atlanta against $1.5k. Covers' Jon Metler picks the Hawks moneyline (switchable defenders disrupt Giddey; Chicago is without Caleb Wilson), and Predictem's Joe Jensen takes Atlanta −7.5, noting the Bulls rank last in net and defensive rating; Dimers' model projects 124-119 Hawks.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Hawks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-13-2026"
+    },
+    {
+     "name": "Predictem / Joe Jensen (Hawks −7.5)",
+     "url": "https://www.predictem.com/nba/hawks-vs-bulls-odds-prediction-and-nba-pick-for-friday/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLTOTAL-26NOV13NSHVGK-7:no",
+   "league": "NHL",
+   "game": "Nashville Predators @ Vegas Golden Knights",
+   "start": "2026-11-14T03:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 6.5",
+   "ask": 55,
+   "cost": 56.7325,
+   "fair": 54.8,
+   "sharp": null,
+   "why": "Two outlets have the Under 6.5 and none the Over at that number: Pickswise's Jon Yaremko makes it his 5-star best bet (both teams allow about 2.6 goals per game; under 4-1 in Vegas's last five at this total), and Bleacher Nation's Data Skrive model projects 6 goals. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Pickswise / Jon Yaremko (Under 6.5)",
+     "url": "https://www.pickswise.com/nhl/picks/"
+    },
+    {
+     "name": "Bleacher Nation / Data Skrive model (Under 6.5)",
+     "url": "https://www.bleachernation.com/picks/2026/11/13/golden-knights-vs-predators-nhl-best-bets-odds-prediction-and-pick-nov-13/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14SCARARK-SCAR7:yes",
+   "league": "College football",
+   "game": "South Carolina Gamecocks @ Arkansas Razorbacks",
+   "start": "2026-11-15T00:45:00.000Z",
+   "mk": "SPREAD",
+   "label": "South Carolina Gamecocks −6.5",
+   "ask": 59,
+   "cost": 60.6933,
+   "fair": 58.5,
+   "sharp": {
+    "for": 585,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Top traders have about $600 on South Carolina and nothing against. VSiN's Steve Makinen (4-game ATS surge; Arkansas has one SEC win) and Athlon's Steven Lassan both lay −7.5, a point more than this leg. Caution: Lassan's pick depends on QB LaNorris Sellers (ankle, questionable) being close to full go.",
+   "sources": [
+    {
+     "name": "VSiN / Steve Makinen (South Carolina −7.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    },
+    {
+     "name": "Athlon via Yahoo / Steven Lassan (South Carolina −7.5)",
+     "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14ALAVAN-ALA11:yes",
+   "league": "College football",
+   "game": "Alabama Crimson Tide @ Vanderbilt Commodores",
+   "start": "2026-11-14T17:45:00.000Z",
+   "mk": "SPREAD",
+   "label": "Alabama Crimson Tide −10.5",
+   "ask": 66,
+   "cost": 67.5708,
+   "fair": 67,
+   "sharp": null,
+   "why": "Covers' Chris Hatfield (Alabama −16.5: far better adjusted efficiency; Vandy's defense allows success on about 46% of snaps; QB Keelon Russell probable) and Athlon's Kyle Wood (Alabama −17.5) both expect a big Alabama win; this leg only needs 11+. Only about $130 of top-trader money sits on Vanderbilt +17.5.",
+   "sources": [
+    {
+     "name": "Covers / Chris Hatfield (Alabama −16.5)",
+     "url": "https://www.covers.com/ncaaf/alabama-vs-vanderbilt-prediction-picks-odds-nov-14-2026"
+    },
+    {
+     "name": "Athlon via Yahoo / Kyle Wood (Alabama −17.5)",
+     "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV14NWOSU-OSU:yes",
+   "league": "College football",
+   "game": "Northwestern Wildcats @ Ohio State Buckeyes",
+   "start": "2026-11-14T17:00:00.000Z",
+   "mk": "ML",
+   "label": "Ohio State Buckeyes",
+   "ask": 83,
+   "cost": 83.9877,
+   "fair": 81.8,
+   "sharp": {
+    "for": 149,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "A short favourite to fill the ladder: Covers' Rob Paul (−11.5) and VSiN's Steve Makinen (−12.5) both lay double digits with Ohio State, and Northwestern is without QB Aidan Chiles. Top-trader money is small but all on Ohio State.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Ohio State −11.5)",
+     "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026"
+    },
+    {
+     "name": "VSiN / Steve Makinen (Ohio State −12.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    }
+   ]
+  },
+  {
+   "id": "KXUFCFIGHT-26NOV14JOHALM-JOH:yes",
+   "league": "UFC",
+   "game": "Cesar Almeida vs Donte Johnson",
+   "start": "2026-11-15T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Donte Johnson",
+   "ask": 64,
+   "cost": 65.61280000000001,
+   "fair": 62.5,
+   "sharp": {
+    "for": 4130,
+    "against": 164,
+    "who": [
+     "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+    ]
+   },
+   "why": "Top traders have about $4.1k on Johnson against $160, and VSiN's Lou Finocchiaro makes him his best bet: Johnson's pressure should break Almeida, who has 44% striking defence and was knocked out last time. Almeida is a late replacement for Baisangur Susurkaev. Priced about 3 points over fair, past the usual limit, so it's the last leg.",
+   "sources": [
+    {
+     "name": "VSiN / Lou Finocchiaro (Johnson ML)",
+     "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/"
+    }
+   ]
+  }
+ ]
+}

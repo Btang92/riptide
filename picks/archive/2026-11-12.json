@@ -11,7 +11,8 @@
    "side": "under",
    "source": "Sports Betting Dime / Michael Schwartz",
    "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/",
-   "note": "Best bet: Carolina 45 GA in 19 GP, 22.4 shots against/gm; under 5 straight CAR games and last 5 H2H"
+   "note": "Best bet: Carolina 45 GA in 19 GP, 22.4 shots against/gm; under 5 straight CAR games and last 5 H2H",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -23,7 +24,8 @@
    "line": 1.5,
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/carolina-hurricanes-vs-seattle-kraken-prediction-11-12-2026-ac",
-   "note": "Model 53.3% cover vs 48c price (5.3% edge); still has CAR winning 67.8%"
+   "note": "Model 53.3% cover vs 48c price (5.3% edge); still has CAR winning 67.8%",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -37,7 +39,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-12-2026-ac",
-   "note": "Kraken D to record a point +145 DK, model 44.3% (3.5% edge)"
+   "note": "Kraken D to record a point +145 DK, model 44.3% (3.5% edge)",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -51,7 +54,8 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/hurricanes-vs-kraken-prediction-november-12-2026/",
-   "note": "-173; 19 pts in 19 GP, point in 15 incl. last 9; implied 63% vs 79% season hit rate"
+   "note": "-173; 19 pts in 19 GP, point in 15 incl. last 9; implied 63% vs 79% season hit rate",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -63,7 +67,8 @@
    "side": "over",
    "source": "TheSpread / Paul Elliot",
    "url": "https://www.thespread.com/nhl-articles/hurricanes-vs-kraken-prediction-november-12-2026/",
-   "note": "-112; 12 of 16 SEA games had 7+ goals, both starters sub-.870 last 5; leans on SEA weak PK"
+   "note": "-112; 12 of 16 SEA games had 7+ goals, both starters sub-.870 last 5; leans on SEA weak PK",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -75,7 +80,8 @@
    "line": -1.5,
    "source": "Action Network (via Yahoo) / Greg Liodice",
    "url": "https://sports.yahoo.com/articles/hurricanes-vs-kraken-global-series-051207316.html",
-   "note": "-111 FD; SEA bad xG numbers, long Helsinki travel; CAR best xG offense, won 14 of 17"
+   "note": "-111 FD; SEA bad xG numbers, long Helsinki travel; CAR best xG offense, won 14 of 17",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -89,7 +95,8 @@
    "side": "over",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-12-picks-predictions/",
-   "note": "-120 FD; 4 assists last 2 games, 16 in 19, runs top PP"
+   "note": "-120 FD; 4 assists last 2 games, 16 in 19, runs top PP",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -103,7 +110,8 @@
    "side": "over",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "-120 BetMGM; leads CAR in points/60"
+   "note": "-120 BetMGM; leads CAR in points/60",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -117,7 +125,8 @@
    "side": "over",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "+230; 6 games without goal despite strong xG, shooting% due to rebound"
+   "note": "+230; 6 games without goal despite strong xG, shooting% due to rebound",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -128,7 +137,8 @@
    "team": "Bradley Braves",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-12-2026-ac",
-   "note": "-485 DK; model 87.7% (4.8% edge)"
+   "note": "-485 DK; model 87.7% (4.8% edge)",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -140,7 +150,8 @@
    "line": 25,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-12-from-adam-burke/",
-   "note": "Efficient TTU offense; IU sandwich spot before Arkansas/Kentucky, early bench"
+   "note": "Efficient TTU offense; IU sandwich spot before Arkansas/Kentucky, early bench",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -152,7 +163,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/tennessee-tech-vs-indiana-prediction-11-12-2026-ac",
-   "note": "-110 Caesars; model 58.2% (5.9% edge)"
+   "note": "-110 Caesars; model 58.2% (5.9% edge)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -163,7 +175,8 @@
    "team": "Toronto Raptors",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026",
-   "note": "Philly's ~80% price too high; value on Toronto even if Quickley/Barnes sit"
+   "note": "Philly's ~80% price too high; value on Toronto even if Quickley/Barnes sit",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -175,7 +188,8 @@
    "line": 10.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html",
-   "note": "Philly home differential only +6.0; three of last four wins by 6 or fewer"
+   "note": "Philly home differential only +6.0; three of last four wins by 6 or fewer",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -187,7 +201,8 @@
    "line": 10.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/raptors-vs-76ers-prediction-odds-nba-pick-nov-12-2026/",
-   "note": "Philly 9-3 masks ordinary +1.0 net rating; Toronto rebounding/turnover edge; projects 112-106"
+   "note": "Philly 9-3 masks ordinary +1.0 net rating; Toronto rebounding/turnover edge; projects 112-106",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -198,7 +213,8 @@
    "team": "Philadelphia 76ers",
    "source": "FanDuel Research / Data Skrive",
    "url": "https://www.fanduel.com/research/76ers-vs-raptors-prediction-nba-odds-spread-best-bets-for-11-12-2026",
-   "note": "numberFire gives 76ers 56.2% win probability (line -500)"
+   "note": "numberFire gives 76ers 56.2% win probability (line -500)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -212,7 +228,8 @@
    "line": 33.5,
    "source": "Lineups / Juan Carlos Blanco",
    "url": "https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/",
-   "note": "Averaged 40.8 PRA vs Toronto last season; 34.8 PRA over last six games"
+   "note": "Averaged 40.8 PRA vs Toronto last season; 34.8 PRA over last six games",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -226,7 +243,8 @@
    "line": 24.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.rawchili.com/5149388/",
-   "note": "Embiid and LeBron questionable could boost usage; 25+ in nine of 12 games; Toronto on back-to-back"
+   "note": "Embiid and LeBron questionable could boost usage; 25+ in nine of 12 games; Toronto on back-to-back",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -240,7 +258,8 @@
    "line": 14.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 15.0 points (51.2% probability)"
+   "note": "Model projects 15.0 points (51.2% probability)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -251,7 +270,8 @@
    "team": "Washington Wizards",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026",
-   "note": "Value on Washington at home vs Detroit team missing Jalen Duren"
+   "note": "Value on Washington at home vs Detroit team missing Jalen Duren",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -263,7 +283,8 @@
    "line": -9.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html",
-   "note": "Detroit road differential +13.0 vs Washington home +0.8"
+   "note": "Detroit road differential +13.0 vs Washington home +0.8",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -275,7 +296,8 @@
    "line": -10.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/pistons-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-12-2026",
-   "note": "Rest edge, top-3 defense, beat Washington by 11 Monday; Wizards lost five straight"
+   "note": "Rest edge, top-3 defense, beat Washington by 11 Monday; Wizards lost five straight",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -289,7 +311,8 @@
    "line": 6.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/pistons-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-12-2026",
-   "note": "Averages 8.4 boards; Washington bottom-tier on rebounds allowed; Duren out"
+   "note": "Averages 8.4 boards; Washington bottom-tier on rebounds allowed; Duren out",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -301,7 +324,8 @@
    "line": -10.5,
    "source": "TheSpread / Alex Becker",
    "url": "https://www.thespread.com/nba-articles/pistons-vs-wizards-prediction-november-12-2026/",
-   "note": "Detroit rested; Washington on back-to-back, third game in four nights"
+   "note": "Detroit rested; Washington on back-to-back, third game in four nights",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -313,7 +337,8 @@
    "line": 221.0,
    "source": "TheSpread / Alex Becker",
    "url": "https://www.thespread.com/nba-articles/pistons-vs-wizards-prediction-november-12-2026/",
-   "note": "Detroit's No. 2 defense vs fatigued Washington offense in slow-paced matchup"
+   "note": "Detroit's No. 2 defense vs fatigued Washington offense in slow-paced matchup",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -325,7 +350,8 @@
    "line": -10.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/pistons-vs-wizards-best-bet-nba-odds-and-prediction-tonight/",
-   "note": "Washington on back-to-back after fifth straight loss; Detroit rested with elite defense"
+   "note": "Washington on back-to-back after fifth straight loss; Detroit rested with elite defense",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -337,7 +363,8 @@
    "line": 10.5,
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nba/news/detroit-pistons-vs-washington-wizards-prediction-11-12-2026-ac",
-   "note": "Model: Wizards cover 54.1% vs 50% implied; projects Pistons 115-105"
+   "note": "Model: Wizards cover 54.1% vs 50% implied; projects Pistons 115-105",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -351,7 +378,8 @@
    "line": 9.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/picks/nba",
-   "note": "Cleared 9.5 boards three straight games; Detroit missing Duren inside"
+   "note": "Cleared 9.5 boards three straight games; Detroit missing Duren inside",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -365,7 +393,8 @@
    "line": 3.5,
    "source": "Covers / Quinn Allen",
    "url": "https://www.covers.com/picks/nba",
-   "note": "Shooting 45.7% from three; cleared line in three of last four"
+   "note": "Shooting 45.7% from three; cleared line in three of last four",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -379,7 +408,8 @@
    "line": 10.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 16.3 points (61.4%)"
+   "note": "Model projects 16.3 points (61.4%)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -393,7 +423,8 @@
    "line": 7.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 8.8 rebounds"
+   "note": "Model projects 8.8 rebounds",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -407,7 +438,8 @@
    "line": 5.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 7.1 rebounds (59.1%)"
+   "note": "Model projects 7.1 rebounds (59.1%)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -421,7 +453,8 @@
    "line": 9.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 12.5 points (56.3%)"
+   "note": "Model projects 12.5 points (56.3%)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -435,7 +468,8 @@
    "line": 4.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 4.8 assists (51.6%)"
+   "note": "Model projects 4.8 assists (51.6%)",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -447,7 +481,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-12-2026-ac",
-   "note": "-108 DK; model 55.9% (4.0% edge)"
+   "note": "-108 DK; model 55.9% (4.0% edge)",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -459,7 +494,8 @@
    "line": 10,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-12-from-adam-burke/",
-   "note": "Stetson steps down in class, better size inside; Howard offense struggling"
+   "note": "Stetson steps down in class, better size inside; Howard offense struggling",
+   "result": "loss"
   },
   {
    "league": "NCAAB",
@@ -471,7 +507,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-12-2026-ac",
-   "note": "+100 BetRivers; model 53% (3.0% edge)"
+   "note": "+100 BetRivers; model 53% (3.0% edge)",
+   "result": "loss"
   },
   {
    "league": "NCAAB",
@@ -483,7 +520,8 @@
    "line": -14,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-12-from-adam-burke/",
-   "note": "Towson offensive glass + turnover edge; Loyola reliant on long jumpers"
+   "note": "Towson offensive glass + turnover edge; Loyola reliant on long jumpers",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -495,7 +533,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-12-2026-ac",
-   "note": "+105 BetRivers; model 52% (3.2% edge)"
+   "note": "+105 BetRivers; model 52% (3.2% edge)",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -507,7 +546,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/montreal-canadiens-vs-boston-bruins-prediction-11-12-2026-ac",
-   "note": "Under 6 at +101 (Caesars), model 51.3% (1.6% edge); BOS 53.2% to win"
+   "note": "Under 6 at +101 (Caesars), model 51.3% (1.6% edge); BOS 53.2% to win",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -519,7 +559,8 @@
    "side": "under",
    "source": "Last Word On Sports / Lori Bennett",
    "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-habs-bruins-nov-12/",
-   "note": "Expects goaltending-driven low-scoring game; predicts Canadiens 3-2"
+   "note": "Expects goaltending-driven low-scoring game; predicts Canadiens 3-2",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -530,7 +571,8 @@
    "team": "Montreal Canadiens",
    "source": "Last Word On Sports / Lori Bennett",
    "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-habs-bruins-nov-12/",
-   "note": "Predicted Canadiens 3-2 (BOS -125); MTL unbeaten vs division, slight goalie edge"
+   "note": "Predicted Canadiens 3-2 (BOS -125); MTL unbeaten vs division, slight goalie edge",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -542,7 +584,8 @@
    "side": "under",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-12-picks-predictions/",
-   "note": "-125 FD; BOS allows 2.28 GA/gm (2nd), elite goalies both sides"
+   "note": "-125 FD; BOS allows 2.28 GA/gm (2nd), elite goalies both sides",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -556,7 +599,8 @@
    "side": "over",
    "source": "Covers / Luc LeBlanc",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "+220; scored in 7 of 12, 4 of last 6"
+   "note": "+220; scored in 7 of 12, 4 of last 6",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -570,7 +614,8 @@
    "side": "over",
    "source": "Covers / Luc LeBlanc",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "-165; 2+ SOG in 12 of last 16"
+   "note": "-165; 2+ SOG in 12 of last 16",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -584,7 +629,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-anytime-goal-scorer-picks-kaprizov-reinhart-hagel-november-12/",
-   "note": "Anytime goal +165; team-high 11 G, 1st in 5v5 shots/60"
+   "note": "Anytime goal +165; team-high 11 G, 1st in 5v5 shots/60",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -595,7 +641,8 @@
    "team": "Tampa Bay Lightning",
    "source": "Covers / Robert Criscola",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "-114; better recent xG differential and strong power play"
+   "note": "-114; better recent xG differential and strong power play",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -606,7 +653,8 @@
    "team": "Washington Capitals",
    "source": "Sports Betting Dime / Michael Schwartz",
    "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/",
-   "note": "Slate pick (no write-up): Capitals 3-2 score prediction as underdog, Kalshi 42c"
+   "note": "Slate pick (no write-up): Capitals 3-2 score prediction as underdog, Kalshi 42c",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -620,7 +668,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-player-props-hughes-johnston-benson-november-12/",
-   "note": "2+ points +140; multi-point in 7 of last 10, WSH allows high xGA/60"
+   "note": "2+ points +140; multi-point in 7 of last 10, WSH allows high xGA/60",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -632,7 +681,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/colorado-avalanche-vs-ottawa-senators-prediction-11-12-2026-ac",
-   "note": "Model 54.3% under vs 51c (2.8% edge); COL 52.5% to win"
+   "note": "Model 54.3% under vs 51c (2.8% edge); COL 52.5% to win",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -643,7 +693,8 @@
    "team": "Ottawa Senators",
    "source": "Last Word On Sports / Levi Pike",
    "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-sens-avs/",
-   "note": "Predicts Senators 3-2 with Ullmark expected back; no odds given"
+   "note": "Predicts Senators 3-2 with Ullmark expected back; no odds given",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -655,7 +706,8 @@
    "line": -1.5,
    "source": "Sports Betting Dime / Michael Schwartz",
    "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/",
-   "note": "Best bet: Wild won 6 straight road games, 44 GA in 20 GP; Toronto 1-6 last 7, 70 GA"
+   "note": "Best bet: Wild won 6 straight road games, 44 GA in 20 GP; Toronto 1-6 last 7, 70 GA",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -666,7 +718,8 @@
    "team": "Minnesota Wild",
    "source": "Last Word On Sports / Braden Morrison",
    "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-toronto-maple-leafs-minnesota-wild/",
-   "note": "-167; MIN 13-3-4 fewest GA/gm, TOR 4-game skid; predicts Wild 3-1"
+   "note": "-167; MIN 13-3-4 fewest GA/gm, TOR 4-game skid; predicts Wild 3-1",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -678,7 +731,8 @@
    "side": "under",
    "source": "Last Word On Sports / Braden Morrison",
    "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-toronto-maple-leafs-minnesota-wild/",
-   "note": "Under contingent on Wallstedt and Stolarz starting"
+   "note": "Under contingent on Wallstedt and Stolarz starting",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -692,7 +746,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-anytime-goal-scorer-picks-kaprizov-reinhart-hagel-november-12/",
-   "note": "Anytime goal +100; scored in 9 of 13 road games, 6 PPG"
+   "note": "Anytime goal +100; scored in 9 of 13 road games, 6 PPG",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -703,7 +758,8 @@
    "team": "Detroit Red Wings",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/detroit-red-wings-vs-florida-panthers-prediction-11-12-2026-ac",
-   "note": "Red Wings 39c, model 41.1% (2.1% edge); model still favors FLA 58.9%"
+   "note": "Red Wings 39c, model 41.1% (2.1% edge); model still favors FLA 58.9%",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -717,7 +773,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-12-2026-ac",
-   "note": "Anytime goal +200 FD, model 38.8% (5.5% edge)"
+   "note": "Anytime goal +200 FD, model 38.8% (5.5% edge)",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -731,7 +788,8 @@
    "side": "over",
    "source": "Pickswise / Jon Yaremko",
    "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-12-picks-predictions/",
-   "note": "-128 FD; assist in 6 of last 7, 23 in 19; DET PK 69.5%"
+   "note": "-128 FD; assist in 6 of last 7, 23 in 19; DET PK 69.5%",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -745,7 +803,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-anytime-goal-scorer-picks-kaprizov-reinhart-hagel-november-12/",
-   "note": "Anytime goal +155; 10 G on 11.8 xG, DET PK 27th"
+   "note": "Anytime goal +155; 10 G on 11.8 xG, DET PK 27th",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -756,7 +815,8 @@
    "team": "Dallas Mavericks",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026",
-   "note": "Prices Dallas ~41%; Irving/Flagg mid-range beats Gobert's drop coverage"
+   "note": "Prices Dallas ~41%; Irving/Flagg mid-range beats Gobert's drop coverage",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -767,7 +827,8 @@
    "team": "Dallas Mavericks",
    "source": "Covers / Zak Hanshew",
    "url": "https://www.covers.com/picks/nba",
-   "note": "Dallas ~45% to win vs 35% implied; Flagg/Irving edge with Edwards out"
+   "note": "Dallas ~45% to win vs 35% implied; Flagg/Irving edge with Edwards out",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -779,7 +840,8 @@
    "line": -5.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html",
-   "note": "Minnesota better defensive efficiency and much stronger home differential"
+   "note": "Minnesota better defensive efficiency and much stronger home differential",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -791,7 +853,8 @@
    "line": 226.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/mavericks-vs-timberwolves-prediction-pick-nov-12-2026/",
-   "note": "Minnesota's league-best defense and average pace; projects 114-108"
+   "note": "Minnesota's league-best defense and average pace; projects 114-108",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -803,7 +866,8 @@
    "line": 5.5,
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nba/news/dallas-mavericks-vs-minnesota-timberwolves-prediction-11-12-2026-ac",
-   "note": "Model: Dallas covers 52.3% vs 49% implied"
+   "note": "Model: Dallas covers 52.3% vs 49% implied",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -814,7 +878,8 @@
    "team": "Minnesota Timberwolves",
    "source": "Bang The Book",
    "url": "https://bangthebook.com/dallas-mavericks-vs-minnesota-timberwolves-prediction-2026-11-12/",
-   "note": "Steady defense through four straight wins; Dallas's three straight wins all at home"
+   "note": "Steady defense through four straight wins; Dallas's three straight wins all at home",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -828,7 +893,8 @@
    "line": 36.5,
    "source": "Lineups / Juan Carlos Blanco",
    "url": "https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/",
-   "note": "Career highs 25.9/6.9/6.9; 46.3 PRA over last three games"
+   "note": "Career highs 25.9/6.9/6.9; 46.3 PRA over last three games",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -842,7 +908,8 @@
    "line": 36.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.rawchili.com/5149388/",
-   "note": "Averages 39.7 PRA, cleared 37 in six of 10; Minnesota top-five defense the risk"
+   "note": "Averages 39.7 PRA, cleared 37 in six of 10; Minnesota top-five defense the risk",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -856,7 +923,8 @@
    "line": 3.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 4.2 rebounds (54.0%)"
+   "note": "Model projects 4.2 rebounds (54.0%)",
+   "result": "loss"
   },
   {
    "league": "NCAAB",
@@ -868,7 +936,8 @@
    "line": 3.5,
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/richmond-vs-southern-illinois-prediction-11-12-2026-ac",
-   "note": "-110 Caesars; model 58.4% cover (6.0% edge)"
+   "note": "-110 Caesars; model 58.4% cover (6.0% edge)",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -880,7 +949,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/oklahoma-state-vs-texas-am-prediction-11-12-2026-ac",
-   "note": "-105 BetMGM; model 54% (2.8% edge); spread TAMU -7.5"
+   "note": "-105 BetMGM; model 54% (2.8% edge); spread TAMU -7.5",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -892,7 +962,8 @@
    "line": 6,
    "source": "Action Network / Collin Wilson",
    "url": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-early-bet-memphis-vs-usf-week-11-thursday-nov-12",
-   "note": "Memphis run D bottom-20 in rush EPA; USF outside-zone game; power ratings make USF <3-pt dog"
+   "note": "Memphis run D bottom-20 in rush EPA; USF outside-zone game; power ratings make USF <3-pt dog",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -904,7 +975,8 @@
    "line": -3.5,
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/memphis-vs-south-florida-prediction-picks-odds-nov-12-2026",
-   "note": "Memphis offense top-5 in yards/game and yards/play; line dropped from -6.5"
+   "note": "Memphis offense top-5 in yards/game and yards/play; line dropped from -6.5",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -916,7 +988,8 @@
    "side": "over",
    "source": "Covers / Colby Marchio",
    "url": "https://www.covers.com/ncaaf/memphis-vs-south-florida-prediction-picks-odds-nov-12-2026",
-   "note": "Memphis allows 5.0 YPC and plays fast (top-25 seconds per play)"
+   "note": "Memphis allows 5.0 YPC and plays fast (top-25 seconds per play)",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -928,7 +1001,8 @@
    "line": -4,
    "source": "SI Betting / Ryan Gilbert",
    "url": "https://www.si.com/betting/memphis-vs-south-florida-prediction-odds-and-key-players-to-watch-for-college-football-week-11-2026",
-   "note": "Memphis won last 5 meetings and is off a bye; USF's only dog cover was at Army"
+   "note": "Memphis won last 5 meetings and is off a bye; USF's only dog cover was at Army",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -940,7 +1014,8 @@
    "line": -3.5,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-11-picks-memphis-vs-south-florida/",
-   "note": "Memphis 7.2 yards per play; USF has just 7 TD passes on 217 attempts"
+   "note": "Memphis 7.2 yards per play; USF has just 7 TD passes on 217 attempts",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -952,7 +1027,8 @@
    "line": 3.5,
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/news/memphis-vs-south-florida-prediction-week-11-2026-ac",
-   "note": "Best bet; model projects Memphis 26-24, USF covers 52.2%"
+   "note": "Best bet; model projects Memphis 26-24, USF covers 52.2%",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -963,7 +1039,8 @@
    "team": "Memphis Tigers",
    "source": "Covers / Chris Vasile",
    "url": "https://covers.com/ncaaf/moneyline-picks-for-week-11-2026",
-   "note": "Memphis averages 514 yds and 37.6 ppg; USF 123rd in total offense"
+   "note": "Memphis averages 514 yds and 37.6 ppg; USF 123rd in total offense",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -974,7 +1051,8 @@
    "team": "Buffalo Sabres",
    "source": "Sports Betting Dime / Michael Schwartz",
    "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/",
-   "note": "Best bet: Buffalo won 7 straight vs CHI, 8-1 last 9 as road fav; Chicago 1-8-1 last 10"
+   "note": "Best bet: Buffalo won 7 straight vs CHI, 8-1 last 9 as road fav; Chicago 1-8-1 last 10",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -986,7 +1064,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/buffalo-sabres-vs-chicago-blackhawks-prediction-11-12-2026-ac",
-   "note": "Model 53.3% under vs 50c (3.3% edge); BUF 60.2% to win, no ML value"
+   "note": "Model 53.3% under vs 50c (3.3% edge); BUF 60.2% to win, no ML value",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -1000,7 +1079,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-12-2026-ac",
-   "note": "Anytime goal +140, model 45% (3.4% edge)"
+   "note": "Anytime goal +140, model 45% (3.4% edge)",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -1014,7 +1094,8 @@
    "side": "over",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/nhl-player-props-11-12-2026-ac",
-   "note": "Blackhawks anytime goal +240 FD, model 38.4% (9.0% edge, largest on list)"
+   "note": "Blackhawks anytime goal +240 FD, model 38.4% (9.0% edge, largest on list)",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1028,7 +1109,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-player-props-hughes-johnston-benson-november-12/",
-   "note": "3+ SOG +105; 3+ in each of last 6, CHI allows most shots/gm"
+   "note": "3+ SOG +105; 3+ in each of last 6, CHI allows most shots/gm",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1039,7 +1121,8 @@
    "team": "Winnipeg Jets",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/winnipeg-jets-vs-dallas-stars-prediction-11-12-2026-ac",
-   "note": "Value on Jets at 39c (model 39.6%, thin 0.6% edge); model favors DAL 60.4%"
+   "note": "Value on Jets at 39c (model 39.6%, thin 0.6% edge); model favors DAL 60.4%",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -1053,7 +1136,8 @@
    "side": "over",
    "source": "DraftKings Network / Hunter Skoczylas",
    "url": "https://dknetwork.draftkings.com/2026/11/12/nhl-player-props-hughes-johnston-benson-november-12/",
-   "note": "+100; assist in 5 straight, top PP; faces Skinner (.883)"
+   "note": "+100; assist in 5 straight, top PP; faces Skinner (.883)",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1065,7 +1149,8 @@
    "line": 2.5,
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-odds-early-leans-week-10-2026",
-   "note": "WAS better than 2-5-1; won YPP battle in Week 5 tie; NYG QB uncertainty (McCarthy hip) on short week"
+   "note": "WAS better than 2-5-1; won YPP battle in Week 5 tie; NYG QB uncertainty (McCarthy hip) on short week",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1077,7 +1162,8 @@
    "side": "over",
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-odds-early-leans-week-10-2026",
-   "note": "Both teams bottom-4 in opp red-zone TD rate; teams combined 54 pts in Week 5"
+   "note": "Both teams bottom-4 in opp red-zone TD rate; teams combined 54 pts in Week 5",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1088,7 +1174,8 @@
    "team": "New York Giants",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/commanders-vs-giants-prediction-odds-spread-injuries-trends-for-nfl-week-10-2026",
-   "note": "NYG top-10 defensive EPA, 6-2 ATS; WAS banged up on O-line and at WR vs elite NYG pass rush"
+   "note": "NYG top-10 defensive EPA, 6-2 ATS; WAS banged up on O-line and at WR vs elite NYG pass rush",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1099,7 +1186,8 @@
    "team": "New York Giants",
    "source": "BetMGM / Nick Hennion",
    "url": "https://sports.betmgm.com/en/blog/nfl/commanders-vs-giants-prediction-odds-picks-week-10-tnf-2026-bm16/",
-   "note": "Doesn't trust WAS as underdog; WAS defense poor on short week; wind/rain risk noted"
+   "note": "Doesn't trust WAS as underdog; WAS defense poor on short week; wind/rain risk noted",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1110,7 +1198,8 @@
    "team": "Washington Commanders",
    "source": "Sports Betting Dime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/commanders-vs-giants-early-picks-predictions-for-tnf-week-10/",
-   "note": "Projects WAS by 3.4; WAS +7 turnover differential vs NYG -2"
+   "note": "Projects WAS by 3.4; WAS +7 turnover differential vs NYG -2",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1122,7 +1211,8 @@
    "side": "under",
    "source": "Sports Betting Dime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/commanders-vs-giants-early-picks-predictions-for-tnf-week-10/",
-   "note": "Model projects ~41.6 pts; Under hit in 4 of WAS's last 5"
+   "note": "Model projects ~41.6 pts; Under hit in 4 of WAS's last 5",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1136,7 +1226,8 @@
    "side": "over",
    "source": "Sports Betting Dime / Michael Harrison",
    "url": "https://www.sportsbettingdime.com/news/nfl/commanders-vs-giants-early-picks-predictions-for-tnf-week-10/",
-   "note": "WAS allows 240 passing yards per game"
+   "note": "WAS allows 240 passing yards per game",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1150,7 +1241,8 @@
    "side": "over",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/commanders-vs-giants-best-anytime-touchdown-scorer-picks-for-thursday-night-football-in-nfl-week-10-2026",
-   "note": "8+ targets in four straight; scored on 20 targets in Week 5 meeting (+150)"
+   "note": "8+ targets in four straight; scored on 20 targets in Week 5 meeting (+150)",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1164,7 +1256,8 @@
    "side": "over",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/commanders-vs-giants-best-anytime-touchdown-scorer-picks-for-thursday-night-football-in-nfl-week-10-2026",
-   "note": "5 TDs in 7 games; clear top WR with thin WAS depth (+230)"
+   "note": "5 TDs in 7 games; clear top WR with thin WAS depth (+230)",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1178,7 +1271,8 @@
    "side": "over",
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.si.com/betting/commanders-vs-giants-best-anytime-touchdown-scorer-picks-for-thursday-night-football-in-nfl-week-10-2026",
-   "note": "6 TDs, 5 in red zone; WAS allowed 8 TE TD passes, 2nd-most (+190)"
+   "note": "6 TDs, 5 in red zone; WAS allowed 8 TE TD passes, 2nd-most (+190)",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1192,7 +1286,8 @@
    "side": "over",
    "source": "Covers / Kyle LaRusic",
    "url": "https://www.covers.com/nfl/commanders-vs-giants-anytime-touchdown-props-week-10-2026",
-   "note": "Leads WAS in targets and TDs; McLaurin out for season boosts role"
+   "note": "Leads WAS in targets and TDs; McLaurin out for season boosts role",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1220,7 +1315,8 @@
    "side": "over",
    "source": "CBS Sports / Brandon Gustafson",
    "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-isaiah-likely-among-top-anytime-touchdown-scorer-picks-for-thursday-night-football/",
-   "note": "5+ targets in each of last 3 games, 2 receiving TDs (+500)"
+   "note": "5+ targets in each of last 3 games, 2 receiving TDs (+500)",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1234,7 +1330,8 @@
    "side": "over",
    "source": "CBS Sports / Brandon Gustafson",
    "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-isaiah-likely-among-top-anytime-touchdown-scorer-picks-for-thursday-night-football/",
-   "note": "NYG keep targeting him in red zone; 2 TDs and 11 catches in last meeting (+190)"
+   "note": "NYG keep targeting him in red zone; 2 TDs and 11 catches in last meeting (+190)",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1248,7 +1345,8 @@
    "side": "over",
    "source": "Lineups / Frank Ammirante",
    "url": "https://www.lineups.com/articles/commanders-giants-touchdown-picks-jayden-daniels-isaiah-likely-anytime-td-bets-nfl-week-10/",
-   "note": "Buy-low: ran for 103 yds and 2 TDs vs NYG in Week 5 (+260)"
+   "note": "Buy-low: ran for 103 yds and 2 TDs vs NYG in Week 5 (+260)",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1262,7 +1360,8 @@
    "side": "over",
    "source": "Lineups / Frank Ammirante",
    "url": "https://www.lineups.com/articles/commanders-giants-touchdown-picks-jayden-daniels-isaiah-likely-anytime-td-bets-nfl-week-10/",
-   "note": "WAS plays lots of two-high, leaving middle open; 3 TDs in last 4 games (+200)"
+   "note": "WAS plays lots of two-high, leaving middle open; 3 TDs in last 4 games (+200)",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1276,7 +1375,8 @@
    "side": "over",
    "source": "Yardbarker / Zach Parkes",
    "url": "https://www.yardbarker.com/sports_betting/articles/commanders_vs_giants_prediction_nfl_player_props_first_anytime_td_scorer_tnf/s1_17347_44551589",
-   "note": "Polymarket 200+ Yes; ~9.1 yards per attempt with NYG, no injury designation"
+   "note": "Polymarket 200+ Yes; ~9.1 yards per attempt with NYG, no injury designation",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1290,7 +1390,8 @@
    "side": "over",
    "source": "Yardbarker / Zach Parkes",
    "url": "https://www.yardbarker.com/sports_betting/articles/commanders_vs_giants_prediction_nfl_player_props_first_anytime_td_scorer_tnf/s1_17347_44551589",
-   "note": "Polymarket 40+ Yes; ran for 103 in first meeting, WAS backfield thin"
+   "note": "Polymarket 40+ Yes; ran for 103 in first meeting, WAS backfield thin",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1301,7 +1402,8 @@
    "team": "Phoenix Suns",
    "source": "Covers / Jon Metler",
    "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026",
-   "note": "Prices Phoenix ~73%; Booker and Jalen Green exploit Charlotte's point-of-attack defense"
+   "note": "Prices Phoenix ~73%; Booker and Jalen Green exploit Charlotte's point-of-attack defense",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -1313,7 +1415,8 @@
    "line": -6.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html",
-   "note": "Charlotte net rating -11.8 vs Phoenix -4.7; Hornets offense 101.9 per 100"
+   "note": "Charlotte net rating -11.8 vs Phoenix -4.7; Hornets offense 101.9 per 100",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1325,7 +1428,8 @@
    "line": -6.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/nba/hornets-vs-suns-picks-best-bet-for-thursday-nba-action/",
-   "note": "Charlotte worst offensive rating and missing key scorers; Phoenix beats weak teams at home"
+   "note": "Charlotte worst offensive rating and missing key scorers; Phoenix beats weak teams at home",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1336,7 +1440,8 @@
    "team": "Phoenix Suns",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nba/news/charlotte-hornets-vs-phoenix-suns-prediction-11-12-2026-ac",
-   "note": "Model 69.4% Suns vs 67% implied; projects 110-104"
+   "note": "Model 69.4% Suns vs 67% implied; projects 110-104",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -1350,7 +1455,8 @@
    "line": 27.5,
    "source": "Lineups / Juan Carlos Blanco",
    "url": "https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/",
-   "note": "Averaging 17.4/8.5; Phoenix allows third-most rebounds; 31.6 P+R last three"
+   "note": "Averaging 17.4/8.5; Phoenix allows third-most rebounds; 31.6 P+R last three",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1364,7 +1470,8 @@
    "line": 19.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 17.2 points (54.9%)"
+   "note": "Model projects 17.2 points (54.9%)",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -1378,7 +1485,8 @@
    "line": 8.5,
    "source": "SI Betting / Peter Dewey",
    "url": "https://www.rawchili.com/5149388/",
-   "note": "Phoenix without Mark Williams and last in rebound percentage; 8+ boards in seven games"
+   "note": "Phoenix without Mark Williams and last in rebound percentage; 8+ boards in seven games",
+   "result": "win"
   },
   {
    "league": "NBA",
@@ -1392,7 +1500,8 @@
    "line": 13.5,
    "source": "Dimers / Dave Garofolo",
    "url": "https://www.dimers.com/nba/news/nba-player-props-11-12-2026-ac",
-   "note": "Model projects 17.0 points (57.3%)"
+   "note": "Model projects 17.0 points (57.3%)",
+   "result": "loss"
   },
   {
    "league": "NCAAB",
@@ -1404,7 +1513,8 @@
    "side": "under",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-12-2026-ac",
-   "note": "+102 BetRivers; model 52.5% (3.0% edge), billed top play"
+   "note": "+102 BetRivers; model 52.5% (3.0% edge), billed top play",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1416,7 +1526,8 @@
    "line": -10.5,
    "source": "Sports Betting Dime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/college-football/thursday-picks-predictions-week-11-best-bets-nov-12/",
-   "note": "ULM 0-4 at home, 20.1 ppg; Louisiana rushes for 203.6/game, +6 turnovers"
+   "note": "ULM 0-4 at home, 20.1 ppg; Louisiana rushes for 203.6/game, +6 turnovers",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1427,7 +1538,8 @@
    "team": "Louisiana Ragin' Cajuns",
    "source": "Sports Betting Dime / Chris Amberley",
    "url": "https://www.sportsbettingdime.com/news/college-football/thursday-picks-predictions-week-11-best-bets-nov-12/",
-   "note": "Smaller play at steep price; Louisiana better on ground and third down"
+   "note": "Smaller play at steep price; Louisiana better on ground and third down",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1439,7 +1551,8 @@
    "line": -10.5,
    "source": "College Football News (Yahoo) / Pete Fiutak",
    "url": "https://sports.yahoo.com/articles/louisiana-vs-ulm-prediction-ragin-093312408.html",
-   "note": "Predicts Louisiana 31-20 (ATS confidence 2/5); ULM allows 35 ppg"
+   "note": "Predicts Louisiana 31-20 (ATS confidence 2/5); ULM allows 35 ppg",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1450,7 +1563,8 @@
    "team": "Louisiana Ragin' Cajuns",
    "source": "BetMGM (model)",
    "url": "https://sports.betmgm.com/en/blog/college-football/louisiana-ul-monroe-prediction-odds-player-prop-bets-picks-ncaaf-week-11-jaa/",
-   "note": "Model picks Louisiana to win at 67.5% confidence"
+   "note": "Model picks Louisiana to win at 67.5% confidence",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -1461,7 +1575,8 @@
    "team": "Utah Mammoth",
    "source": "Dimers / Dimers Data",
    "url": "https://www.dimers.com/nhl/news/st-louis-blues-vs-utah-mammoth-prediction-11-12-2026-ac",
-   "note": "Mammoth 51c, model 51.9% (0.9% edge)"
+   "note": "Mammoth 51c, model 51.9% (0.9% edge)",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1473,7 +1588,8 @@
    "side": "over",
    "source": "Covers / Robert Criscola",
    "url": "https://www.covers.com/picks/nhl",
-   "note": "+104 (o6 -108 FD); both teams top-10 PP, over trending"
+   "note": "+104 (o6 -108 FD); both teams top-10 PP, over trending",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1484,7 +1600,8 @@
    "team": "New York Islanders",
    "source": "Sports Betting Dime / Michael Schwartz",
    "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/",
-   "note": "Slate pick (no best-bet write-up): Islanders 3-2 score prediction, Kalshi 47c"
+   "note": "Slate pick (no best-bet write-up): Islanders 3-2 score prediction, Kalshi 47c",
+   "result": "win"
   },
   {
    "league": "NCAAF",

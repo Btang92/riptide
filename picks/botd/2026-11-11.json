@@ -207,7 +207,8 @@
      "name": "AP via Yahoo (injuries)",
      "url": "https://sports.yahoo.com/articles/hurricanes-play-kraken-martinooks-2-091117884.html"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFGAME-26NOV12ULLULM-ULL:yes",
@@ -230,7 +231,8 @@
      "name": "Predictem / Joe Jensen (projects Louisiana 26-17)",
      "url": "https://www.predictem.com/college-football/louisiana-vs-ul-monroe-prediction-thursday-cfb-odds-pick/"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }

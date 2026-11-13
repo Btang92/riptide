@@ -1,224 +1,219 @@
 {
- "at": "2026-11-12T15:58:23Z",
- "date": "2026-11-12",
- "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Only two legs (Raptors, Suns) had meaningful top-trader money; the rest rest on two or more outlets plus their reasoning. Colorado +10.5 sits at −2.73, slightly past the usual limit, kept because three outlets and the line move agree. Dropped as conflicts: Commanders/Giants (SI and BetMGM on New York, Covers and Sports Betting Dime on Washington, top traders on the Giants), Memphis/USF (four outlets on Memphis, top traders on USF and the line down 3 points), Pistons/Wizards spread (four outlets on Detroit, Covers, Dimers and top traders on Washington), Mavericks/Timberwolves (Covers and Dimers on Dallas, top traders on Minnesota), FSU/Pitt (VSiN and iHeart on FSU, Covers and Predictem on Pitt). Wild and Sabres moneylines and Louisiana's moneyline were priced worse than −3. No Friday NBA picks were published yet, so Friday is covered only by two college football legs.",
+ "at": "2026-11-13T16:06:09Z",
+ "date": "2026-11-13",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model read today, and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json. Dropped as conflicts: Rangers/Canucks (seven outlets on New York, top traders about $6.7k on Vancouver), Grizzlies/Pelicans (three outlets on Memphis, top traders $8k on the Pelicans moneyline), Clippers (three outlets on LA, $33k of top-trader money on OKC), Cavaliers/Heat and Knicks/Pacers (outlets split), Bulls +7.5 (top traders, but Covers and Predictem on Atlanta), Houston/Colorado, FSU/Pitt, Ole Miss/Oklahoma, Washington/Michigan State, Texas/LSU, Wake Forest/SMU, Michigan/Oregon, Louisville/UNC, and Harrison/Nunes, Borralho/Belgaroui and Gane/Hokit at UFC 334 (experts one way, top traders the other or split). Auburn (NCAAB) carried a line-move flag. No free picks were published yet for Saturday's NBA or NHL games, so Saturday is covered by college football and UFC. Donte Johnson is priced about −3.1, past the usual limit, and was kept as the last leg because top traders and VSiN agree.",
  "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg added.",
  "ladder": [
   {
-   "id": "KXNBASPREAD-26NOV12TORPHI-PHI11:no",
-   "league": "NBA",
-   "game": "Toronto Raptors @ Philadelphia 76ers",
-   "start": "2026-11-13T00:00:00.000Z",
+   "id": "KXNCAAFSPREAD-26NOV14USCIND-IND8:yes",
+   "league": "College football",
+   "game": "USC Trojans @ Indiana Hoosiers",
+   "start": "2026-11-14T20:30:00.000Z",
    "mk": "SPREAD",
-   "label": "Toronto Raptors +10.5",
-   "ask": 57,
-   "cost": 58.7157,
-   "fair": 56.5,
+   "label": "Indiana Hoosiers −7.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 52.5,
    "sharp": {
-    "for": 9847,
-    "against": 4659,
+    "for": 5281,
+    "against": 995,
     "who": [
-     "HomeRunHazard",
-     "monkeymashingkeyboard"
+     "HomeRunHazard"
     ]
    },
-   "why": "Three outlets back Toronto and top traders have about $9.8k on it against $4.7k. Sports Mole notes Philadelphia's home margin is only +6.0 and three of its last four wins came by 6 or fewer; Predictem says the 76ers' 9-3 record hides a +1.0 net rating and projects 112-106. Caution: Scottie Barnes is out, Toronto is on a back-to-back, and Embiid and LeBron James are questionable.",
+   "why": "Top Polymarket traders have about $5.3k on Indiana −7.5 against $1.0k, and two outlets lay the points: Covers' Rob Paul (Indiana's top-10 havoc defense vs a poor USC defense) and VSiN's Steve Makinen (Indiana −10; notes the line moved from −7.5 to −10 and USC struggles on East Coast trips). Kalshi still offers the opening number.",
    "sources": [
     {
-     "name": "Sports Mole / Adepoju Marvellous (Raptors +10.5)",
-     "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html"
+     "name": "Covers / Rob Paul (Indiana −7.5)",
+     "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026"
     },
     {
-     "name": "Predictem / Joe Jensen (Raptors +10.5)",
-     "url": "https://www.predictem.com/nba/raptors-vs-76ers-prediction-odds-nba-pick-nov-12-2026/"
-    },
-    {
-     "name": "Covers / Jon Metler (Raptors ML)",
-     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026"
+     "name": "VSiN / Steve Makinen (Indiana −10)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
     }
    ]
   },
   {
-   "id": "KXNHLTOTAL-26NOV12MTLBOS-7:no",
+   "id": "KXNCAAFTOTAL-26NOV14JMUCONN-56:yes",
+   "league": "College football",
+   "game": "James Madison Dukes @ UConn Huskies",
+   "start": "2026-11-14T17:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 55.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 53.5,
+   "sharp": {
+    "for": 7829,
+    "against": 67,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Top traders have about $7.8k on the Over against under $100. Covers' Chris Vasile picks Over 57.5, saying both offenses score heavily and both defenses are leaky; Kalshi's 55.5 is two points lower than his number.",
+   "sources": [
+    {
+     "name": "Covers / Chris Vasile (Over 57.5)",
+     "url": "https://www.covers.com/ncaaf/over-under-picks-week-11-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV13ATLCHI-ATL:yes",
+   "league": "NBA",
+   "game": "Atlanta Hawks @ Chicago Bulls",
+   "start": "2026-11-14T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Atlanta Hawks",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.6,
+   "sharp": {
+    "for": 3509,
+    "against": 1466,
+    "who": [
+     "HomeRunHazard",
+     "purplegatto"
+    ]
+   },
+   "why": "Top traders have about $3.5k on Atlanta against $1.5k. Covers' Jon Metler picks the Hawks moneyline (switchable defenders disrupt Giddey; Chicago is without Caleb Wilson), and Predictem's Joe Jensen takes Atlanta −7.5, noting the Bulls rank last in net and defensive rating; Dimers' model projects 124-119 Hawks.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Hawks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-13-2026"
+    },
+    {
+     "name": "Predictem / Joe Jensen (Hawks −7.5)",
+     "url": "https://www.predictem.com/nba/hawks-vs-bulls-odds-prediction-and-nba-pick-for-friday/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLTOTAL-26NOV13NSHVGK-7:no",
    "league": "NHL",
-   "game": "Montreal Canadiens @ Boston Bruins",
-   "start": "2026-11-13T00:00:00.000Z",
+   "game": "Nashville Predators @ Vegas Golden Knights",
+   "start": "2026-11-14T03:00:00.000Z",
    "mk": "TOTAL",
    "label": "Under 6.5",
    "ask": 55,
    "cost": 56.7325,
-   "fair": 54.4,
+   "fair": 54.8,
    "sharp": null,
-   "why": "Three outlets take the under. Pickswise notes Boston allows 2.28 goals a game (2nd in the NHL) with good goalies on both sides; Last Word On Sports expects a goaltending game and predicts Montreal 3-2; Dimers' model leans under 6. Starting goalies were not confirmed when these were written.",
+   "why": "Two outlets have the Under 6.5 and none the Over at that number: Pickswise's Jon Yaremko makes it his 5-star best bet (both teams allow about 2.6 goals per game; under 4-1 in Vegas's last five at this total), and Bleacher Nation's Data Skrive model projects 6 goals. No top-trader money either way.",
    "sources": [
     {
      "name": "Pickswise / Jon Yaremko (Under 6.5)",
-     "url": "https://www.pickswise.com/nhl/news/nhl-best-bets-today-november-12-picks-predictions/"
+     "url": "https://www.pickswise.com/nhl/picks/"
     },
     {
-     "name": "Last Word On Sports / Lori Bennett (Under 6.5)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-habs-bruins-nov-12/"
-    },
-    {
-     "name": "Dimers model (Under 6)",
-     "url": "https://www.dimers.com/nhl/news/montreal-canadiens-vs-boston-bruins-prediction-11-12-2026-ac"
+     "name": "Bleacher Nation / Data Skrive model (Under 6.5)",
+     "url": "https://www.bleachernation.com/picks/2026/11/13/golden-knights-vs-predators-nhl-best-bets-odds-prediction-and-pick-nov-13/"
     }
    ]
   },
   {
-   "id": "KXNCAAFSPREAD-26NOV13HOUCOLO-HOU11:no",
+   "id": "KXNCAAFSPREAD-26NOV14SCARARK-SCAR7:yes",
    "league": "College football",
-   "game": "Houston Cougars @ Colorado Buffaloes",
-   "start": "2026-11-14T03:15:00.000Z",
+   "game": "South Carolina Gamecocks @ Arkansas Razorbacks",
+   "start": "2026-11-15T00:45:00.000Z",
    "mk": "SPREAD",
-   "label": "Colorado Buffaloes +10.5",
-   "ask": 55,
-   "cost": 56.7325,
-   "fair": 54,
-   "sharp": null,
-   "why": "Covers, VSiN and BetMGM's model all take Colorado with the points, and the line has already moved from Houston -10.5 toward -9. Covers notes Houston is 108th in yards per play allowed and 1-5 against the spread as a favourite; VSiN points to three straight one-score Houston games. Even College Football News' Houston pick projects a 10-point win (31-21), inside this line.",
-   "sources": [
-    {
-     "name": "Covers / Geoff Clark (Colorado +9.5)",
-     "url": "https://www.covers.com/ncaaf/houston-vs-colorado-prediction-picks-odds-nov-13-2026"
-    },
-    {
-     "name": "VSiN / Adam Burke (Colorado +9)",
-     "url": "https://vsin.com/college-football/college-football-week-11-picks-florida-state-vs-pitt/"
-    },
-    {
-     "name": "BetMGM model (Colorado +10.5)",
-     "url": "https://sports.betmgm.com/en/blog/college-football/houston-colorado-prediction-odds-player-prop-bets-picks-ncaaf-week-11-jaa/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFTOTAL-26NOV13ILLUCLA-50:no",
-   "league": "College football",
-   "game": "Illinois Fighting Illini @ UCLA Bruins",
-   "start": "2026-11-14T02:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 49.5",
-   "ask": 54,
-   "cost": 55.7388,
-   "fair": 54.5,
-   "sharp": null,
-   "why": "Covers takes Under 48.5: rain is expected, UCLA's defense leads the nation in EPA since Week 6, and both teams play slowly. UCLA lost two starting offensive linemen against Minnesota. Dimers' model projects UCLA 29-19, which is 48 total, under this line.",
-   "sources": [
-    {
-     "name": "Covers / JD Yonke (Under 48.5)",
-     "url": "https://www.covers.com/ncaaf/illinois-vs-ucla-prediction-picks-odds-nov-13-2026"
-    },
-    {
-     "name": "Dimers model (projects 29-19)",
-     "url": "https://www.dimers.com/cfb/predictions/2026_11_ucla_ill"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV12ULLULM-ULL11:yes",
-   "league": "College football",
-   "game": "Louisiana Ragin' Cajuns @ UL Monroe Warhawks",
-   "start": "2026-11-13T02:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Louisiana Ragin' Cajuns −10.5",
-   "ask": 49,
-   "cost": 50.7493,
-   "fair": 49,
-   "sharp": null,
-   "why": "Sports Betting Dime takes Louisiana -10.5: ULM is 0-4 at home scoring 20.1 a game, while Louisiana runs for 203.6 yards a game and is +6 in turnovers. College Football News predicts Louisiana 31-20 and BetMGM's model has Louisiana winning. Caution: Louisiana RB Anthony Reagan Jr. is out for the season, and 31-20 covers by only half a point.",
-   "sources": [
-    {
-     "name": "Sports Betting Dime / Chris Amberley (Louisiana -10.5)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/thursday-picks-predictions-week-11-best-bets-nov-12/"
-    },
-    {
-     "name": "College Football News (Yahoo) / Pete Fiutak (Louisiana 31-20)",
-     "url": "https://sports.yahoo.com/articles/louisiana-vs-ulm-prediction-ragin-093312408.html"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLTOTAL-26NOV12COLOTT-7:no",
-   "league": "NHL",
-   "game": "Colorado Avalanche @ Ottawa Senators",
-   "start": "2026-11-13T00:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 6.5",
-   "ask": 52,
-   "cost": 53.7472,
-   "fair": 52.1,
-   "sharp": null,
-   "why": "Dimers' model makes the under 54.3% against a 51-52¢ price. Last Word On Sports expects Linus Ullmark back in Ottawa's net and predicts a 3-2 Senators win, which is 5 goals. Neither goalie was confirmed when these were written.",
-   "sources": [
-    {
-     "name": "Dimers model (Under 6.5)",
-     "url": "https://www.dimers.com/nhl/news/colorado-avalanche-vs-ottawa-senators-prediction-11-12-2026-ac"
-    },
-    {
-     "name": "Last Word On Sports / Levi Pike (Senators 3-2)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-sens-avs/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLSPREAD-26NOV12MINTOR-MIN2:yes",
-   "league": "NHL",
-   "game": "Minnesota Wild @ Toronto Maple Leafs",
-   "start": "2026-11-13T00:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Minnesota Wild −1.5",
-   "ask": 40,
-   "cost": 41.68,
-   "fair": 39.3,
-   "sharp": null,
-   "why": "Sports Betting Dime's best bet is Minnesota -1.5: the Wild have won six straight road games and allowed 44 goals in 20 games, while Toronto is 1-6 in its last 7 with 70 goals against. Last Word On Sports predicts Wild 3-1 with Wallstedt (.925) in net and Gustavsson on IR. This is a 40¢ price, so it loses often even when Minnesota wins.",
-   "sources": [
-    {
-     "name": "Sports Betting Dime / Michael Schwartz (Wild -1.5)",
-     "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-thursday-best-bets-predictions-nov-12/"
-    },
-    {
-     "name": "Last Word On Sports / Braden Morrison (Wild 3-1)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-toronto-maple-leafs-minnesota-wild/"
-    }
-   ]
-  },
-  {
-   "id": "KXNBAGAME-26NOV12CHAPHX-PHX:yes",
-   "league": "NBA",
-   "game": "Charlotte Hornets @ Phoenix Suns",
-   "start": "2026-11-13T02:00:00.000Z",
-   "mk": "ML",
-   "label": "Phoenix Suns",
-   "ask": 68,
-   "cost": 69.5232,
-   "fair": 67.3,
+   "label": "South Carolina Gamecocks −6.5",
+   "ask": 59,
+   "cost": 60.6933,
+   "fair": 58.5,
    "sharp": {
-    "for": 2562,
-    "against": 1103,
+    "for": 585,
+    "against": 0,
     "who": [
-     "HomeRunHazard",
-     "darkumbreon88"
+     "HomeRunHazard"
     ]
    },
-   "why": "Four outlets back Phoenix, and top traders have about $2.6k on the Suns against $1.1k. Charlotte is without Brandon Miller, Kon Knueppel and Dennis Schroder, and Sports Mole notes the Hornets' net rating is -11.8 against Phoenix's -4.7. Dimers' model gives the Suns 69.4% and projects 110-104.",
+   "why": "Top traders have about $600 on South Carolina and nothing against. VSiN's Steve Makinen (4-game ATS surge; Arkansas has one SEC win) and Athlon's Steven Lassan both lay −7.5, a point more than this leg. Caution: Lassan's pick depends on QB LaNorris Sellers (ankle, questionable) being close to full go.",
    "sources": [
     {
-     "name": "Covers / Jon Metler (Suns ML)",
-     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026"
+     "name": "VSiN / Steve Makinen (South Carolina −7.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
     },
     {
-     "name": "Sports Mole / Adepoju Marvellous (Suns -6.5)",
-     "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview-index/best-bets-and-predictions-for-every-game--12-november-2026_608962.html"
+     "name": "Athlon via Yahoo / Steven Lassan (South Carolina −7.5)",
+     "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14ALAVAN-ALA11:yes",
+   "league": "College football",
+   "game": "Alabama Crimson Tide @ Vanderbilt Commodores",
+   "start": "2026-11-14T17:45:00.000Z",
+   "mk": "SPREAD",
+   "label": "Alabama Crimson Tide −10.5",
+   "ask": 66,
+   "cost": 67.5708,
+   "fair": 67,
+   "sharp": null,
+   "why": "Covers' Chris Hatfield (Alabama −16.5: far better adjusted efficiency; Vandy's defense allows success on about 46% of snaps; QB Keelon Russell probable) and Athlon's Kyle Wood (Alabama −17.5) both expect a big Alabama win; this leg only needs 11+. Only about $130 of top-trader money sits on Vanderbilt +17.5.",
+   "sources": [
+    {
+     "name": "Covers / Chris Hatfield (Alabama −16.5)",
+     "url": "https://www.covers.com/ncaaf/alabama-vs-vanderbilt-prediction-picks-odds-nov-14-2026"
     },
     {
-     "name": "Predictem / Joe Jensen (Suns -6.5)",
-     "url": "https://www.predictem.com/nba/hornets-vs-suns-picks-best-bet-for-thursday-nba-action/"
+     "name": "Athlon via Yahoo / Kyle Wood (Alabama −17.5)",
+     "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV14NWOSU-OSU:yes",
+   "league": "College football",
+   "game": "Northwestern Wildcats @ Ohio State Buckeyes",
+   "start": "2026-11-14T17:00:00.000Z",
+   "mk": "ML",
+   "label": "Ohio State Buckeyes",
+   "ask": 83,
+   "cost": 83.9877,
+   "fair": 81.8,
+   "sharp": {
+    "for": 149,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "A short favourite to fill the ladder: Covers' Rob Paul (−11.5) and VSiN's Steve Makinen (−12.5) both lay double digits with Ohio State, and Northwestern is without QB Aidan Chiles. Top-trader money is small but all on Ohio State.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Ohio State −11.5)",
+     "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026"
     },
     {
-     "name": "Dimers model (Suns 69.4%)",
-     "url": "https://www.dimers.com/nba/news/charlotte-hornets-vs-phoenix-suns-prediction-11-12-2026-ac"
+     "name": "VSiN / Steve Makinen (Ohio State −12.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    }
+   ]
+  },
+  {
+   "id": "KXUFCFIGHT-26NOV14JOHALM-JOH:yes",
+   "league": "UFC",
+   "game": "Cesar Almeida vs Donte Johnson",
+   "start": "2026-11-15T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Donte Johnson",
+   "ask": 64,
+   "cost": 65.61280000000001,
+   "fair": 62.5,
+   "sharp": {
+    "for": 4130,
+    "against": 164,
+    "who": [
+     "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+    ]
+   },
+   "why": "Top traders have about $4.1k on Johnson against $160, and VSiN's Lou Finocchiaro makes him his best bet: Johnson's pressure should break Almeida, who has 44% striking defence and was knocked out last time. Almeida is a late replacement for Baisangur Susurkaev. Priced about 3 points over fair, past the usual limit, so it's the last leg.",
+   "sources": [
+    {
+     "name": "VSiN / Lou Finocchiaro (Johnson ML)",
+     "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/"
     }
    ]
   }

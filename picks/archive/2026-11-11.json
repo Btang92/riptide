@@ -922,7 +922,8 @@
    "line": 2.5,
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-odds-early-leans-week-10-2026",
-   "note": "2-5-1 record overstates how bad WAS is; stayed close vs Rams and 49ers"
+   "note": "2-5-1 record overstates how bad WAS is; stayed close vs Rams and 49ers",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -934,7 +935,8 @@
    "side": "over",
    "source": "Covers / Joe Osborne",
    "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-odds-early-leans-week-10-2026",
-   "note": "Both teams have poor red-zone defenses; WAS should run on NYG's 27th-ranked yards-per-rush D"
+   "note": "Both teams have poor red-zone defenses; WAS should run on NYG's 27th-ranked yards-per-rush D",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -945,7 +947,8 @@
    "team": "New York Giants",
    "source": "SI / Peter Dewey",
    "url": "https://www.si.com/betting/commanders-vs-giants-prediction-odds-spread-injuries-trends-for-nfl-week-10-2026",
-   "note": "NYG -125 (DK): WAS ranks poorly on both sides and is banged up at OL and WR"
+   "note": "NYG -125 (DK): WAS ranks poorly on both sides and is banged up at OL and WR",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -956,7 +959,8 @@
    "team": "Washington Commanders",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/nfl/commanders-vs-giants-predictions-week-10-thursday-night-football-odds-picks-and-player-props/",
-   "note": "WAS +118: defenses comparable, so Jayden Daniels' playmaking is the difference"
+   "note": "WAS +118: defenses comparable, so Jayden Daniels' playmaking is the difference",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -970,7 +974,8 @@
    "side": "under",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/nfl/commanders-vs-giants-predictions-week-10-thursday-night-football-odds-picks-and-player-props/",
-   "note": "Lean; OptaAI projects ~189 yds, McCarthy had 127 vs PHI last week, rough weather expected"
+   "note": "Lean; OptaAI projects ~189 yds, McCarthy had 127 vs PHI last week, rough weather expected",
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -981,7 +986,8 @@
    "team": "New York Giants",
    "source": "BetMGM / Nick Hennion",
    "url": "https://sports.betmgm.com/en/blog/nfl/commanders-vs-giants-prediction-odds-picks-week-10-tnf-2026-bm16/",
-   "note": "NYG -125: doesn't trust WAS defense on a short week; WAS lacks receiving weapons"
+   "note": "NYG -125: doesn't trust WAS defense on a short week; WAS lacks receiving weapons",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1081,7 +1087,8 @@
    "line": 6,
    "source": "Action Network / Collin Wilson",
    "url": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-early-bet-memphis-vs-usf-week-11-thursday-nov-12",
-   "note": "Early bet; Memphis run D poor (98th Line Yards, 117th Stuff Rate); power ratings make USF <3-pt dog (page odds now +5.5)"
+   "note": "Early bet; Memphis run D poor (98th Line Yards, 117th Stuff Rate); power ratings make USF <3-pt dog (page odds now +5.5)",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1210,7 +1217,8 @@
    "side": "over",
    "source": "Covers / Neil Parker",
    "url": "https://www.covers.com/sport/hockey/nhl/matchup/382573/picks",
-   "note": "+120; on line with strong-possession veterans, Utah allowing lots of goals"
+   "note": "+120; on line with strong-possession veterans, Utah allowing lots of goals",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1739,7 +1747,8 @@
    "team": "Carolina Hurricanes",
    "source": "iHeart Sports (Data Skrive computer model, syndicated)",
    "url": "https://ripcityradio.iheart.com/content/2026-11-10-hurricanes-vs-kraken-prediction-picks-nov-12/",
-   "note": "Model projects CAR 4-3; Carolina 1st in goals/shots, Seattle 28th in GA, 30th PK"
+   "note": "Model projects CAR 4-3; Carolina 1st in goals/shots, Seattle 28th in GA, 30th PK",
+   "result": "win"
   },
   {
    "league": "NHL",
@@ -1751,7 +1760,8 @@
    "side": "over",
    "source": "iHeart Sports (Data Skrive computer model, syndicated)",
    "url": "https://ripcityradio.iheart.com/content/2026-11-10-hurricanes-vs-kraken-prediction-picks-nov-12/",
-   "note": "Model projects ~6.8 total goals"
+   "note": "Model projects ~6.8 total goals",
+   "result": "loss"
   },
   {
    "league": "NHL",
@@ -1763,7 +1773,8 @@
    "line": 1.5,
    "source": "iHeart Sports (Data Skrive computer model, syndicated)",
    "url": "https://ripcityradio.iheart.com/content/2026-11-10-hurricanes-vs-kraken-prediction-picks-nov-12/",
-   "note": "Model projects one-goal CAR win (4-3)"
+   "note": "Model projects one-goal CAR win (4-3)",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1775,7 +1786,8 @@
    "line": -5.5,
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview/charlotte-hornets-vs-phoenix-suns-player-props-injury-report-and-prediction--nba_608888.html",
-   "note": "Tip: Suns to win by 6+ (margin market); CHA without Knueppel, Schroder; predicts 114-105"
+   "note": "Tip: Suns to win by 6+ (margin market); CHA without Knueppel, Schroder; predicts 114-105",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1787,7 +1799,8 @@
    "side": "over",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview/charlotte-hornets-vs-phoenix-suns-player-props-injury-report-and-prediction--nba_608888.html",
-   "note": "4 of 6 PHX home games went over 220; projects 219"
+   "note": "4 of 6 PHX home games went over 220; projects 219",
+   "result": "loss"
   },
   {
    "league": "NBA",
@@ -1801,7 +1814,8 @@
    "side": "over",
    "source": "Sports Mole / Adepoju Marvellous",
    "url": "https://www.sportsmole.co.uk/basketball/charlotte-hornets/preview/charlotte-hornets-vs-phoenix-suns-player-props-injury-report-and-prediction--nba_608888.html",
-   "note": "Averaging 25.1 (27.2 last 5) vs short-handed CHA backcourt"
+   "note": "Averaging 25.1 (27.2 last 5) vs short-handed CHA backcourt",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1813,7 +1827,8 @@
    "line": -4,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/college-football/memphis-vs-south-florida-picks-odds-thursday-night-cfb/",
-   "note": "Memphis 37.6 ppg, 12 days rest; USF QB Van Buren uncertain; projects 27-20"
+   "note": "Memphis 37.6 ppg, 12 days rest; USF QB Van Buren uncertain; projects 27-20",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1825,7 +1840,8 @@
    "line": 6.5,
    "source": "BetMGM blog (model)",
    "url": "https://sports.betmgm.com/en/blog/college-football/memphis-south-florida-prediction-odds-player-prop-bets-picks-ncaaf-week-11-jaa/",
-   "note": "Model lean only: USF covers at 53.2%; Memphis wins 65.2%"
+   "note": "Model lean only: USF covers at 53.2%; Memphis wins 65.2%",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1837,7 +1853,8 @@
    "side": "under",
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/college-football/louisiana-vs-ul-monroe-prediction-thursday-cfb-odds-pick/",
-   "note": "Short week, run-heavy Louisiana; ULM 20.1 ppg; projects 26-17"
+   "note": "Short week, run-heavy Louisiana; ULM 20.1 ppg; projects 26-17",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1849,7 +1866,8 @@
    "line": -10.5,
    "source": "Bleacher Nation (Data Skrive computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/louisiana-vs-ul-monroe-football-best-bets-computer-predictions-nov-12/",
-   "note": "Louisiana 5-3-1 ATS; ULM 3-6 ATS"
+   "note": "Louisiana 5-3-1 ATS; ULM 3-6 ATS",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1861,7 +1879,8 @@
    "side": "over",
    "source": "Bleacher Nation (Data Skrive computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/louisiana-vs-ul-monroe-football-best-bets-computer-predictions-nov-12/",
-   "note": "Combined game averages 52.3/54.2 points"
+   "note": "Combined game averages 52.3/54.2 points",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1872,7 +1891,8 @@
    "team": "Louisiana Ragin' Cajuns",
    "source": "Bleacher Nation (Data Skrive computer picks)",
    "url": "https://www.bleachernation.com/picks/2026/11/10/louisiana-vs-ul-monroe-football-best-bets-computer-predictions-nov-12/",
-   "note": "Louisiana 6-1 as ML favorite; listed -410"
+   "note": "Louisiana 6-1 as ML favorite; listed -410",
+   "result": "win"
   }
  ]
 }

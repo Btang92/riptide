@@ -36,7 +36,8 @@
      "name": "Covers / Jon Metler (Raptors ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNHLTOTAL-26NOV12MTLBOS-7:no",
@@ -63,7 +64,8 @@
      "name": "Dimers model (Under 6)",
      "url": "https://www.dimers.com/nhl/news/montreal-canadiens-vs-boston-bruins-prediction-11-12-2026-ac"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV13HOUCOLO-HOU11:no",
@@ -136,7 +138,8 @@
      "name": "College Football News (Yahoo) / Pete Fiutak (Louisiana 31-20)",
      "url": "https://sports.yahoo.com/articles/louisiana-vs-ulm-prediction-ragin-093312408.html"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLTOTAL-26NOV12COLOTT-7:no",
@@ -159,7 +162,8 @@
      "name": "Last Word On Sports / Levi Pike (Senators 3-2)",
      "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-sens-avs/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNHLSPREAD-26NOV12MINTOR-MIN2:yes",
@@ -182,7 +186,8 @@
      "name": "Last Word On Sports / Braden Morrison (Wild 3-1)",
      "url": "https://lastwordonsports.com/hockey/2026/11/12/nhl-predictions-toronto-maple-leafs-minnesota-wild/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBAGAME-26NOV12CHAPHX-PHX:yes",
@@ -220,7 +225,8 @@
      "name": "Dimers model (Suns 69.4%)",
      "url": "https://www.dimers.com/nba/news/charlotte-hornets-vs-phoenix-suns-prediction-11-12-2026-ac"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }
