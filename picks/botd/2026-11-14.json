@@ -1,0 +1,282 @@
+{
+ "at": "2026-11-14T16:01:08Z",
+ "date": "2026-11-14",
+ "method": "From Kalshi legs priced 30–85¢ with edge ≥ about −2.5 and no flags (one per game), a leg was kept only when at least two of these agreed and none disagreed: Polymarket's top sports traders on its side, a published expert pick or model (read today or in yesterday's run), and concrete news/matchup reasoning. The dump's expert matching came back empty again, so experts were matched by hand against picks/latest.json and yesterday's archive. Dropped as conflicts: Steelers/Bengals (about $15k of top-trader money on Cincinnati −3.5, but outlets split three to two), Bills/Jets (outlets split), Kraken/Hurricanes (two outlets and $40k on Carolina, one outlet on Seattle), Wake Forest +10.5 (four outlets for, NBC Sports on SMU), Colts and Chiefs (outlets on them but both moneylines flagged for moving 5+ points against since open), and Nets/Grizzlies (outlets on Memphis −5.5 but Kalshi now prices it near a pick'em, so their numbers look stale). Saturday is covered by college football, UFC 334 and NHL; Sunday by two NFL legs. Sunday NBA and NHL had no free published picks yet.",
+ "honest": "Every leg costs slightly more than fair, so expected return is slightly negative and gets worse with every leg you add.",
+ "ladder": [
+  {
+   "id": "KXNCAAFTOTAL-26NOV14MICHORE-40:no",
+   "league": "College football",
+   "game": "Michigan Wolverines @ Oregon Ducks",
+   "start": "2026-11-14T20:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 39.5",
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 48.7,
+   "sharp": {
+    "for": 5675,
+    "against": 1776,
+    "who": [
+     "HomeRunHazard",
+     "keeptheblueflagflyinghigh",
+     "omnibus-076daa"
+    ]
+   },
+   "why": "Three outlets take the under 38.5: Action Network's Greg Liodice (Michigan has gone under this number in 5 of 9), FanDuel Research (two strong defenses against weak offenses) and VSiN's Steve Makinen (both offenses struggling, Michigan turnover problems). Top traders hold about $5.7k on the under vs $1.8k on the over.",
+   "sources": [
+    {
+     "name": "Action Network via Yahoo / Greg Liodice (under 38.5)",
+     "url": "https://sports.yahoo.com/articles/michigan-vs-oregon-prediction-pick-104758374.html"
+    },
+    {
+     "name": "FanDuel Research (under 38.5)",
+     "url": "https://www.fanduel.com/research/college-football-picks-today-4-predictions-and-best-bets-for-saturday-nov-14"
+    },
+    {
+     "name": "VSiN / Steve Makinen (under 38.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14SCARARK-SCAR8:yes",
+   "league": "College football",
+   "game": "South Carolina Gamecocks @ Arkansas Razorbacks",
+   "start": "2026-11-15T00:45:00.000Z",
+   "mk": "SPREAD",
+   "label": "South Carolina Gamecocks −7.5",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 50.5,
+   "sharp": {
+    "for": 6467,
+    "against": 347,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "VSiN's Steve Makinen and Athlon's Steven Lassan both take South Carolina −7.5: the Gamecocks are on a four-game ATS run and Arkansas has one SEC win. Top traders hold about $6.5k on this side vs $347 against. Risk: Athlon flags LaNorris Sellers (ankle) as questionable.",
+   "sources": [
+    {
+     "name": "VSiN / Steve Makinen (South Carolina −7.5)",
+     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/"
+    },
+    {
+     "name": "Athlon via Yahoo / Steven Lassan (South Carolina −7.5)",
+     "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLGAME-26NOV15CARNO-CAR:yes",
+   "league": "NFL",
+   "game": "Carolina Panthers @ New Orleans Saints",
+   "start": "2026-11-15T18:00:00.000Z",
+   "mk": "ML",
+   "label": "Carolina Panthers",
+   "ask": 46,
+   "cost": 47.7388,
+   "fair": 45.2,
+   "sharp": {
+    "for": 3265,
+    "against": 0,
+    "who": [
+     "Flaznorp",
+     "takeormake",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Yahoo's Matt De Lima takes Carolina +2.5, rating the Panthers slightly better on both sides of the ball (projects 27-24). Top traders hold about $3.3k on the Panthers moneyline with nothing against. Priced near a coin flip.",
+   "sources": [
+    {
+     "name": "Yahoo Sports (The Big Lead) / Matt De Lima (Panthers +2.5)",
+     "url": "https://sports.yahoo.com/articles/nfl-week-10-best-bets-152927047.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14AUBMSST-AUB4:yes",
+   "league": "College football",
+   "game": "Auburn Tigers @ Mississippi State Bulldogs",
+   "start": "2026-11-14T21:15:00.000Z",
+   "mk": "SPREAD",
+   "label": "Auburn Tigers −3.5",
+   "ask": 45,
+   "cost": 46.7325,
+   "fair": 44.5,
+   "sharp": {
+    "for": 3536,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "primm"
+    ]
+   },
+   "why": "Action Network's Doug Ziefel takes Auburn (−2.5 when published), citing Auburn's late-game resilience and Byrum Brown against a Mississippi State team on a five-game skid with injuries. Top traders hold about $3.5k on Auburn −3.5 with nothing against; the extra point vs his number is the risk.",
+   "sources": [
+    {
+     "name": "Action Network via Yahoo / Doug Ziefel (Auburn −2.5)",
+     "url": "https://sports.yahoo.com/articles/auburn-vs-mississippi-state-prediction-100718991.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14FLAUK-UK3:yes",
+   "league": "College football",
+   "game": "Florida Gators @ Kentucky Wildcats",
+   "start": "2026-11-14T23:15:00.000Z",
+   "mk": "SPREAD",
+   "label": "Kentucky Wildcats −2.5",
+   "ask": 55,
+   "cost": 56.7325,
+   "fair": 54.5,
+   "sharp": {
+    "for": 1175,
+    "against": 0,
+    "who": [
+     "keeptheblueflagflyinghigh"
+    ]
+   },
+   "why": "DraftKings Network's Julian Edlow takes Kentucky −3: Florida is 1-4 since a 4-0 start and scored 15 points in its last two games, and Kentucky has been strong at home. Top traders hold about $1.2k on this line (and about $7.2k on the Kentucky moneyline).",
+   "sources": [
+    {
+     "name": "DraftKings Network / Julian Edlow (Kentucky −3)",
+     "url": "https://dknetwork.draftkings.com/2026/11/11/college-football-predictions-picks-week-11-best-bets-cheat-sheet/"
+    }
+   ]
+  },
+  {
+   "id": "KXUFCFIGHT-26NOV14MEDHOL-MED:yes",
+   "league": "UFC",
+   "game": "Kevin Holland vs Uroš Medić",
+   "start": "2026-11-15T02:00:00.000Z",
+   "mk": "ML",
+   "label": "Uroš Medić",
+   "ask": 61,
+   "cost": 62.6653,
+   "fair": 60.5,
+   "sharp": {
+    "for": 4996,
+    "against": 834,
+    "who": [
+     "BreakTheBank",
+     "darkumbreon88",
+     "omnibus-076daa"
+    ]
+   },
+   "why": "Covers' Joe Osborne picks Medić: four straight first-round knockouts (all inside 79 seconds), better striking numbers, and Holland 3-4 in his last seven. Top traders hold about $5k on Medić vs $834 on Holland. Counterpoint: Holland has a 10-inch reach edge and has never been knocked out in the UFC.",
+   "sources": [
+    {
+     "name": "Covers / Joe Osborne (Medić)",
+     "url": "https://www.covers.com/ufc/334-predictions-picks-best-bets"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14KSUTCU-TCU11:no",
+   "league": "College football",
+   "game": "Kansas State Wildcats @ TCU Horned Frogs",
+   "start": "2026-11-14T19:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Kansas State Wildcats +10.5",
+   "ask": 45,
+   "cost": 46.7325,
+   "fair": 44.5,
+   "sharp": {
+    "for": 1216,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Action Network's Tanner McGrath takes Kansas State +10.5 on a 'road dog with wind' system: strong wind should limit passing and help a big road underdog stay close. Top traders hold about $1.2k on this side with nothing against.",
+   "sources": [
+    {
+     "name": "Action Network via Yahoo / Tanner McGrath (Kansas State +10.5)",
+     "url": "https://sports.yahoo.com/articles/kansas-state-vs-tcu-prediction-102745818.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV14UNLVUNM-UNM15:yes",
+   "league": "College football",
+   "game": "UNLV Rebels @ New Mexico Lobos",
+   "start": "2026-11-15T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "New Mexico Lobos −14.5",
+   "ask": 57,
+   "cost": 58.7157,
+   "fair": 57,
+   "sharp": {
+    "for": 1423,
+    "against": 361,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Covers' Rob Paul takes New Mexico −14.5, arguing UNLV doesn't have the quarterback play to keep it close. Top traders hold about $1.4k on New Mexico vs $361 against.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (New Mexico −14.5)",
+     "url": "https://www.covers.com/picks/ncaaf"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV14CGYLA-CGY:yes",
+   "league": "NHL",
+   "game": "Calgary Flames @ Los Angeles Kings",
+   "start": "2026-11-15T03:00:00.000Z",
+   "mk": "ML",
+   "label": "Calgary Flames",
+   "ask": 38,
+   "cost": 39.6492,
+   "fair": 38.3,
+   "sharp": {
+    "for": 14798,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "Multicoloured-Serf"
+    ]
+   },
+   "why": "Dimers' model gives Calgary a 41.2% win chance vs about 37.5% implied, its best value bet in this game. Top traders hold about $14.8k on the Flames with nothing on LA. A longshot, so it sits late in the ladder.",
+   "sources": [
+    {
+     "name": "Dimers (model) (Flames ML)",
+     "url": "https://www.dimers.com/nhl/news/calgary-flames-vs-los-angeles-kings-prediction-11-14-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLGAME-26NOV15JACTEN-JAC:yes",
+   "league": "NFL",
+   "game": "Jacksonville Jaguars @ Tennessee Titans",
+   "start": "2026-11-15T18:00:00.000Z",
+   "mk": "ML",
+   "label": "Jacksonville Jaguars",
+   "ask": 84,
+   "cost": 84.9408,
+   "fair": 83.7,
+   "sharp": {
+    "for": 10585,
+    "against": 2074,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Sports Illustrated's Iain MacMillan (Jaguars −9.5) and Yahoo's Matt De Lima (Jaguars −10.5, projects 30-13) both expect a lopsided win: Jacksonville tops DVOA and Tennessee is badly outmatched. Top traders hold about $10.6k on the Jaguars vs $2.1k against. A short favourite, so it sits last.",
+   "sources": [
+    {
+     "name": "Sports Illustrated / Iain MacMillan (Jaguars −9.5)",
+     "url": "https://www.si.com/betting/road-to-272-bets-nfl-week-10-picks-for-every-game-01m70qgrdya8"
+    },
+    {
+     "name": "Yahoo Sports (The Big Lead) / Matt De Lima (Jaguars −10.5)",
+     "url": "https://sports.yahoo.com/articles/nfl-week-10-best-bets-152927047.html"
+    }
+   ]
+  }
+ ]
+}

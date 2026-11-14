@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:07:51Z",
+ "updated": "2026-11-14T16:02:46Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -12,7 +12,8 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -121,8 +122,8 @@
    "p": 0
   },
   "Covers / Colby Marchio": {
-   "w": 7,
-   "l": 3,
+   "w": 8,
+   "l": 4,
    "p": 0
   },
   "Covers / Dustin Saracini": {
@@ -131,12 +132,12 @@
    "p": 0
   },
   "Covers / Geoff Clark": {
-   "w": 5,
-   "l": 7,
+   "w": 7,
+   "l": 9,
    "p": 0
   },
   "Covers / JD Yonke": {
-   "w": 1,
+   "w": 5,
    "l": 4,
    "p": 0
   },
@@ -161,8 +162,8 @@
    "p": 0
   },
   "Covers / Jon Metler": {
-   "w": 28,
-   "l": 24,
+   "w": 34,
+   "l": 27,
    "p": 0
   },
   "Covers / Josh Inglis": {
@@ -171,8 +172,8 @@
    "p": 0
   },
   "Covers / Neil Parker": {
-   "w": 13,
-   "l": 10,
+   "w": 14,
+   "l": 11,
    "p": 0
   },
   "Covers / Nick Galaida": {
@@ -187,11 +188,11 @@
   },
   "Covers / Rob Paul": {
    "w": 8,
-   "l": 10,
+   "l": 13,
    "p": 0
   },
   "Covers / Robert Criscola": {
-   "w": 1,
+   "w": 3,
    "l": 2,
    "p": 0
   },
@@ -211,8 +212,8 @@
    "p": 0
   },
   "Dimers (model)": {
-   "w": 11,
-   "l": 17,
+   "w": 31,
+   "l": 26,
    "p": 1
   },
   "Dimers / Best Bets": {
@@ -281,8 +282,8 @@
    "p": 0
   },
   "FanDuel Research / FanDuel Staff": {
-   "w": 9,
-   "l": 9,
+   "w": 10,
+   "l": 13,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
@@ -351,7 +352,7 @@
    "p": 0
   },
   "Pickswise / Jon Yaremko": {
-   "w": 7,
+   "w": 8,
    "l": 4,
    "p": 0
   },
@@ -396,7 +397,7 @@
    "p": 0
   },
   "Pickswise / Tyler Mortimer": {
-   "w": 1,
+   "w": 2,
    "l": 2,
    "p": 0
   },
@@ -446,8 +447,8 @@
    "p": 0
   },
   "TheLines / Jason Green": {
-   "w": 3,
-   "l": 0,
+   "w": 4,
+   "l": 2,
    "p": 0
   },
   "TheLines / Justin Bales": {
@@ -461,28 +462,28 @@
    "p": 0
   },
   "TheSpread / Alex Becker": {
-   "w": 9,
-   "l": 8,
+   "w": 10,
+   "l": 9,
    "p": 0
   },
   "TheSpread / Anthony Rome": {
-   "w": 6,
-   "l": 10,
+   "w": 12,
+   "l": 12,
    "p": 0
   },
   "TheSpread / Paul Elliot": {
-   "w": 7,
+   "w": 8,
    "l": 8,
    "p": 2
   },
   "VSiN / Adam Burke": {
-   "w": 9,
-   "l": 7,
+   "w": 11,
+   "l": 8,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
    "w": 2,
-   "l": 6,
+   "l": 7,
    "p": 0
   },
   "WagerTalk / Kyle Kargel": {
@@ -521,8 +522,8 @@
    "p": 0
   },
   "Predictem / Joe Jensen": {
-   "w": 3,
-   "l": 12,
+   "w": 7,
+   "l": 16,
    "p": 0
   },
   "Pickswise / Robby Nardini": {
@@ -577,12 +578,12 @@
   },
   "SI / Ryan Gilbert": {
    "w": 2,
-   "l": 4,
+   "l": 5,
    "p": 1
   },
   "Covers / Chris Vasile": {
    "w": 9,
-   "l": 9,
+   "l": 10,
    "p": 0
   },
   "Yahoo Sports / Matt Jacob": {
@@ -636,7 +637,7 @@
    "p": 0
   },
   "Pickswise / Justin Martin": {
-   "w": 2,
+   "w": 3,
    "l": 0,
    "p": 0
   },
@@ -652,7 +653,7 @@
   },
   "VSiN / Steve Makinen": {
    "w": 8,
-   "l": 4,
+   "l": 5,
    "p": 0
   },
   "Covers / Zak Hanshew": {
@@ -696,8 +697,8 @@
    "p": 0
   },
   "Covers / Ed Scimia": {
-   "w": 1,
-   "l": 2,
+   "w": 3,
+   "l": 3,
    "p": 0
   },
   "Yahoo Sports (NBC Sports) / Vaughn Dalzell": {
@@ -751,8 +752,8 @@
    "p": 0
   },
   "RotoWire / Steve Peralta": {
-   "w": 1,
-   "l": 2,
+   "w": 2,
+   "l": 4,
    "p": 0
   },
   "Action Network (via Yahoo Sports) / Sean Paul": {
@@ -921,7 +922,7 @@
    "p": 0
   },
   "TheRX / Jordan Harlow": {
-   "w": 6,
+   "w": 8,
    "l": 6,
    "p": 0
   },
@@ -976,8 +977,8 @@
    "p": 0
   },
   "Bleacher Nation / Data Skrive (model)": {
-   "w": 5,
-   "l": 7,
+   "w": 7,
+   "l": 11,
    "p": 0
   },
   "Yahoo Sports / Brian Hamilton (model)": {
@@ -986,8 +987,8 @@
    "p": 0
   },
   "BetMGM (model)": {
-   "w": 3,
-   "l": 0,
+   "w": 7,
+   "l": 1,
    "p": 0
   },
   "Last Word On Hockey / Lori Bennett": {
@@ -1026,7 +1027,7 @@
    "p": 0
   },
   "Action Network / Jonathan Jorcin": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -1066,7 +1067,7 @@
    "p": 0
   },
   "The Lines / Justin Bales": {
-   "w": 1,
+   "w": 2,
    "l": 1,
    "p": 0
   },
@@ -1141,8 +1142,8 @@
    "p": 0
   },
   "DraftKings Network / Hunter Skoczylas": {
-   "w": 2,
-   "l": 4,
+   "w": 4,
+   "l": 6,
    "p": 0
   },
   "Last Word On Sports / Levi Pike": {
@@ -1161,7 +1162,7 @@
    "p": 0
   },
   "SI Betting / Ryan Gilbert": {
-   "w": 1,
+   "w": 3,
    "l": 0,
    "p": 0
   },
@@ -1187,6 +1188,71 @@
   },
   "College Football News (Yahoo) / Pete Fiutak": {
    "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "iHeartRadio Sports (model)": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Andy Bryan (model)": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Chinmay Vaidya": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "Lineups / Thom Cunningham": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "Action Network / Jim Turvey": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Before You Bet / Andy Rosos": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "BetMGM Betting (model)": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Bettors Insider / Mike Noblin": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "FOX Sports 550 (iHeart) (model)": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Sports Talk 790 (iHeart) (model)": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Last Word On Hockey / Marcus Yu": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Athlon via Yahoo / Tyler Schuster": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Sean Paul": {
+   "w": 1,
    "l": 0,
    "p": 0
   }
@@ -1202,27 +1268,27 @@
   },
   "3": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "4": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "5": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "6": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "7": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "8": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "9": {
    "w": 0,
@@ -1234,11 +1300,16 @@
   }
  },
  "partial_files": {
-  "2026-11-12": 117
+  "2026-11-13": 135
  },
- "botd_partial": {},
+ "botd_partial": {
+  "2026-11-13": "lengths 3-8 counted as losses (leg 3 Hawks ML lost); lengths 1-2 wait on Indiana -7.5 and JMU/UConn over 55.5"
+ },
  "botd_graded": [
   "2026-11-11",
   "2026-11-12"
- ]
+ ],
+ "ungradable": {
+  "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)"
+ }
 }

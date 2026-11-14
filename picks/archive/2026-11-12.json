@@ -334,7 +334,7 @@
    "start": "2026-11-13T00:00:00Z",
    "type": "TOTAL",
    "side": "under",
-   "line": 221.0,
+   "line": 221,
    "source": "TheSpread / Alex Becker",
    "url": "https://www.thespread.com/nba-articles/pistons-vs-wizards-prediction-november-12-2026/",
    "note": "Detroit's No. 2 defense vs fatigued Washington offense in slow-paced matchup",
@@ -1613,7 +1613,8 @@
    "line": 3.5,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-11-picks-florida-state-vs-pitt/",
-   "note": "Pitt offense fell off after losing QB Heintschel; Pitt 121st in pass yards allowed"
+   "note": "Pitt offense fell off after losing QB Heintschel; Pitt 121st in pass yards allowed",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1624,7 +1625,8 @@
    "team": "Pittsburgh Panthers",
    "source": "Covers / Chris Vasile",
    "url": "https://covers.com/ncaaf/moneyline-picks-for-week-11-2026",
-   "note": "Pitt ran for 281 in win over GT; FSU lost 3 of 4, allowed 44 and 43"
+   "note": "Pitt ran for 281 in win over GT; FSU lost 3 of 4, allowed 44 and 43",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1636,7 +1638,8 @@
    "line": -3.5,
    "source": "Predictem / Joe Jensen",
    "url": "https://www.predictem.com/college-football/florida-state-at-pitt-best-bet-friday-acc-football-preview/",
-   "note": "Pitt allows 11 ppg at home and is off a bye; FSU 115th in EPA allowed"
+   "note": "Pitt allows 11 ppg at home and is off a bye; FSU 115th in EPA allowed",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1648,7 +1651,8 @@
    "line": 3.5,
    "source": "iHeartRadio Sports (model)",
    "url": "https://1230thegambler.iheart.com/content/2026-11-12-fsu-vs-pitt-football-prediction-odds-nov-13/",
-   "note": "Team-strength algorithm projects Pitt 29-27"
+   "note": "Team-strength algorithm projects Pitt 29-27",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1660,7 +1664,8 @@
    "side": "over",
    "source": "iHeartRadio Sports (model)",
    "url": "https://1230thegambler.iheart.com/content/2026-11-12-fsu-vs-pitt-football-prediction-odds-nov-13/",
-   "note": "Projects 56 total points (Pitt 29-27)"
+   "note": "Projects 56 total points (Pitt 29-27)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1672,7 +1677,8 @@
    "line": 9.5,
    "source": "Covers / JD Yonke",
    "url": "https://www.covers.com/ncaaf/illinois-vs-ucla-prediction-picks-odds-nov-13-2026",
-   "note": "UCLA offense 86th in success rate since Week 6; two starting O-linemen hurt"
+   "note": "UCLA offense 86th in success rate since Week 6; two starting O-linemen hurt",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1684,7 +1690,8 @@
    "side": "under",
    "source": "Covers / JD Yonke",
    "url": "https://www.covers.com/ncaaf/illinois-vs-ucla-prediction-picks-odds-nov-13-2026",
-   "note": "Rain expected; UCLA defense leads nation in EPA since Week 6; both teams play slowly"
+   "note": "Rain expected; UCLA defense leads nation in EPA since Week 6; both teams play slowly",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1695,7 +1702,8 @@
    "team": "UCLA Bruins",
    "source": "Dimers (model)",
    "url": "https://www.dimers.com/cfb/predictions/2026_11_ucla_ill",
-   "note": "Model gives UCLA 79.6% to win, projects 29-19"
+   "note": "Model gives UCLA 79.6% to win, projects 29-19",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1707,7 +1715,8 @@
    "line": 9.5,
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/ncaaf/houston-vs-colorado-prediction-picks-odds-nov-13-2026",
-   "note": "Houston 108th in YPP allowed and 1-5 ATS as favorite"
+   "note": "Houston 108th in YPP allowed and 1-5 ATS as favorite",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1719,7 +1728,8 @@
    "side": "under",
    "source": "Covers / Geoff Clark",
    "url": "https://www.covers.com/ncaaf/houston-vs-colorado-prediction-picks-odds-nov-13-2026",
-   "note": "Both offenses low on explosives and poor in red zone; expect field goals"
+   "note": "Both offenses low on explosives and poor in red zone; expect field goals",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1731,7 +1741,8 @@
    "line": 9,
    "source": "VSiN / Adam Burke",
    "url": "https://vsin.com/college-football/college-football-week-11-picks-florida-state-vs-pitt/",
-   "note": "Houston played 3 straight one-score games and was outgained in Big 12 play"
+   "note": "Houston played 3 straight one-score games and was outgained in Big 12 play",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1743,7 +1754,8 @@
    "line": 10.5,
    "source": "BetMGM (model)",
    "url": "https://sports.betmgm.com/en/blog/college-football/houston-colorado-prediction-odds-player-prop-bets-picks-ncaaf-week-11-jaa/",
-   "note": "Model picks Colorado to cover at 53.1%; Houston to win at 80%"
+   "note": "Model picks Colorado to cover at 53.1%; Houston to win at 80%",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1754,7 +1766,8 @@
    "team": "Houston Cougars",
    "source": "College Football News (Yahoo) / Pete Fiutak",
    "url": "https://sports.yahoo.com/articles/houston-vs-colorado-prediction-cougars-025559402.html",
-   "note": "Predicts Houston 31-21; Houston No. 1 in third-down conversions, Colorado 0-4 when allowing 125+ rush yds"
+   "note": "Predicts Houston 31-21; Houston No. 1 in third-down conversions, Colorado 0-4 when allowing 125+ rush yds",
+   "result": "loss"
   }
  ]
 }
