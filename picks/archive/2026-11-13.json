@@ -1523,7 +1523,8 @@
    "line": -13,
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/college-football/expert-college-football-picks-week-11-best-bets-and-predictions-from-zachary-cohen/",
-   "note": "Miami No. 2 vs the rush; Duke passing game struggling (-110)"
+   "note": "Miami No. 2 vs the rush; Duke passing game struggling (-110)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1535,7 +1536,8 @@
    "line": 13.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Duke defense strong; Miami still missing WR Malachi Toney"
+   "note": "Duke defense strong; Miami still missing WR Malachi Toney",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1547,7 +1549,8 @@
    "line": -13.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Miami No. 2 in rush success rate; doubts Duke QB vs Mensah"
+   "note": "Miami No. 2 in rush success rate; doubts Duke QB vs Mensah",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1559,7 +1562,8 @@
    "line": 1.5,
    "source": "CBS Sports / SportsLine (model)",
    "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-lines-best-bets-week-11-2026/",
-   "note": "Wake 7-2 ATS, best in ACC; SMU allowed 28 in each of last two; covers well over 60%"
+   "note": "Wake 7-2 ATS, best in ACC; SMU allowed 28 in each of last two; covers well over 60%",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1570,7 +1574,8 @@
    "team": "Wake Forest Demon Deacons",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/college-football/expert-college-football-picks-week-11-best-bets-and-predictions-from-zachary-cohen/",
-   "note": "Added play, no reasoning given (-108)"
+   "note": "Added play, no reasoning given (-108)",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1582,7 +1587,8 @@
    "line": 1.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Wake No. 1 in EPA per dropback; SMU defense weak on early downs"
+   "note": "Wake No. 1 in EPA per dropback; SMU defense weak on early downs",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1594,7 +1600,8 @@
    "line": -11.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Northwestern offense weak vs Iowa without injured QB Chiles"
+   "note": "Northwestern offense weak vs Iowa without injured QB Chiles",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1606,7 +1613,8 @@
    "line": -12.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Ranked-team bounce-back system; Northwestern struggles vs strong defenses"
+   "note": "Ranked-team bounce-back system; Northwestern struggles vs strong defenses",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1618,7 +1626,8 @@
    "side": "over",
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/ncaaf/over-under-picks-week-11-2026",
-   "note": "Both offenses score heavily and both defenses leaky"
+   "note": "Both offenses score heavily and both defenses leaky",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1630,7 +1639,8 @@
    "line": -16.5,
    "source": "Covers / Chris Hatfield",
    "url": "https://www.covers.com/ncaaf/alabama-vs-vanderbilt-prediction-picks-odds-nov-14-2026",
-   "note": "Alabama's adjusted efficiency far exceeds Vandy; Vandy D allows success on ~46% of snaps; Russell probable (ankle)"
+   "note": "Alabama's adjusted efficiency far exceeds Vandy; Vandy D allows success on ~46% of snaps; Russell probable (ankle)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1642,7 +1652,8 @@
    "side": "under",
    "source": "Covers / Chris Hatfield",
    "url": "https://www.covers.com/ncaaf/alabama-vs-vanderbilt-prediction-picks-odds-nov-14-2026",
-   "note": "Vandy 90th in points per scoring opp and 123rd in giveaways; Bama strong vs run"
+   "note": "Vandy 90th in points per scoring opp and 123rd in giveaways; Bama strong vs run",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1654,7 +1665,8 @@
    "side": "over",
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/ncaaf/over-under-picks-week-11-2026",
-   "note": "Bama scored 31 in each of last two; Vandy missing Kolenge and Broxton on defense"
+   "note": "Bama scored 31 in each of last two; Vandy missing Kolenge and Broxton on defense",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1666,7 +1678,8 @@
    "line": -17.5,
    "source": "Athlon via Yahoo / Kyle Wood",
    "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html",
-   "note": "Bama already covered 17.5+ in two road wins over top-25 teams"
+   "note": "Bama already covered 17.5+ in two road wins over top-25 teams",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1678,7 +1691,8 @@
    "line": -2.5,
    "source": "Covers / Brad Powers",
    "url": "https://www.covers.com/ncaaf/college-football-predictions-week-11-2026",
-   "note": "Tulane AD criticized last week's showing; Rice better YPP margin and run game; to -3"
+   "note": "Tulane AD criticized last week's showing; Rice better YPP margin and run game; to -3",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1690,7 +1704,8 @@
    "line": -2.5,
    "source": "Covers / Shawn Krest",
    "url": "https://www.covers.com/ncaaf/tennessee-vs-texas-am-prediction-picks-odds-nov-14-2026",
-   "note": "A&M single digits in three SEC games; Tennessee leads nation in sacks"
+   "note": "A&M single digits in three SEC games; Tennessee leads nation in sacks",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1702,7 +1717,8 @@
    "side": "under",
    "source": "Covers / Shawn Krest",
    "url": "https://www.covers.com/ncaaf/tennessee-vs-texas-am-prediction-picks-odds-nov-14-2026",
-   "note": "Both teams run often and control possession, fewer possessions"
+   "note": "Both teams run often and control possession, fewer possessions",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1716,7 +1732,8 @@
    "stat": "passing yards",
    "source": "Covers / Shawn Krest",
    "url": "https://www.covers.com/ncaaf/tennessee-vs-texas-am-prediction-picks-odds-nov-14-2026",
-   "note": "Run-heavy game with short dump-off passing expected"
+   "note": "Run-heavy game with short dump-off passing expected",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1728,7 +1745,8 @@
    "line": -14.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Georgia 3-0 ATS in ranked matchups; Missouri 1-3 ATS vs Top 25"
+   "note": "Georgia 3-0 ATS in ranked matchups; Missouri 1-3 ATS vs Top 25",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1740,7 +1758,8 @@
    "line": 30.5,
    "source": "Covers / Brad Powers",
    "url": "https://www.covers.com/ncaaf/college-football-predictions-week-11-2026",
-   "note": "Notre Dame letdown spot after beating No. 1 Miami; BC improved and motivated; to +28.5"
+   "note": "Notre Dame letdown spot after beating No. 1 Miami; BC improved and motivated; to +28.5",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1752,7 +1771,8 @@
    "line": -10,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Line moved -7.5 to -10; USC struggles on East Coast trips; systems favor Indiana"
+   "note": "Line moved -7.5 to -10; USC struggles on East Coast trips; systems favor Indiana",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1764,7 +1784,8 @@
    "line": -7.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Indiana top-10 havoc defense vs a poor USC defense"
+   "note": "Indiana top-10 havoc defense vs a poor USC defense",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1776,7 +1797,8 @@
    "line": 7.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Baylor 7th in havoc rate; BYU 0-3 ATS since its last upset"
+   "note": "Baylor 7th in havoc rate; BYU 0-3 ATS since its last upset",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1788,7 +1810,8 @@
    "line": -11,
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/college-football/expert-college-football-picks-week-11-best-bets-and-predictions-from-zachary-cohen/",
-   "note": "2 units; Oregon 3rd in EPA/play allowed, Michigan lost 4 of last 6 (-109)"
+   "note": "2 units; Oregon 3rd in EPA/play allowed, Michigan lost 4 of last 6 (-109)",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1800,7 +1823,8 @@
    "side": "under",
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Both offenses struggling; Michigan turnover problems"
+   "note": "Both offenses struggling; Michigan turnover problems",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1848,7 +1872,8 @@
    "line": -3.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Michigan State letdown spot after upset win; Washington covering on road"
+   "note": "Michigan State letdown spot after upset win; Washington covering on road",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1860,7 +1885,8 @@
    "line": -11.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Boise top-five EPA offense vs Oregon State D 97th in EPA/rush; Atkinson expected out"
+   "note": "Boise top-five EPA offense vs Oregon State D 97th in EPA/rush; Atkinson expected out",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1872,7 +1898,8 @@
    "line": -3,
    "source": "DraftKings Network / Julian Edlow",
    "url": "https://dknetwork.draftkings.com/2026/11/11/college-football-predictions-picks-week-11-best-bets-cheat-sheet/",
-   "note": "Florida 1-4 since 4-0 start, 15 points in last two; Kentucky strong at home (-120)"
+   "note": "Florida 1-4 since 4-0 start, 15 points in last two; Kentucky strong at home (-120)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1884,7 +1911,8 @@
    "side": "over",
    "source": "Covers / Chris Vasile",
    "url": "https://www.covers.com/ncaaf/over-under-picks-week-11-2026",
-   "note": "Florida allows 27.6 PPG; Kentucky D struggles on third down"
+   "note": "Florida allows 27.6 PPG; Kentucky D struggles on third down",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1896,7 +1924,8 @@
    "line": -3.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Louisville offense highly efficient; sharp money on the Cardinals"
+   "note": "Louisville offense highly efficient; sharp money on the Cardinals",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1908,7 +1937,8 @@
    "line": 10.5,
    "source": "DraftKings Network / Julian Edlow",
    "url": "https://dknetwork.draftkings.com/2026/11/11/college-football-predictions-picks-week-11-best-bets-cheat-sheet/",
-   "note": "Minnesota 4-1 ATS as conference dog; PSU's only margin P4 win was Purdue by 14 (-130)"
+   "note": "Minnesota 4-1 ATS as conference dog; PSU's only margin P4 win was Purdue by 14 (-130)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1920,7 +1950,8 @@
    "line": -9.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Minnesota held under 21 recently; fade system applies"
+   "note": "Minnesota held under 21 recently; fade system applies",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1932,7 +1963,8 @@
    "line": 2.5,
    "source": "Covers / Brad Powers",
    "url": "https://www.covers.com/ncaaf/college-football-predictions-week-11-2026",
-   "note": "Arizona better YPP margin and defense, rest/home edge vs Utah off rivalry win"
+   "note": "Arizona better YPP margin and defense, rest/home edge vs Utah off rivalry win",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1944,7 +1976,8 @@
    "line": 2.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Utah letdown spot; Arizona stronger than line implies"
+   "note": "Utah letdown spot; Arizona stronger than line implies",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -1956,7 +1989,8 @@
    "line": -2.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Arizona D 89th in EPA per rush vs a strong Utah offense"
+   "note": "Arizona D 89th in EPA per rush vs a strong Utah offense",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1968,7 +2002,8 @@
    "line": -3.5,
    "source": "SI / Iain MacMillan",
    "url": "https://www.si.com/betting/texas-vs-lsu-prediction-odds-and-key-players-to-watch-for-college-football-week-11-2026",
-   "note": "LSU 1st in net adj. EPA/play; Texas 99th in EPA/play (-110)"
+   "note": "LSU 1st in net adj. EPA/play; Texas 99th in EPA/play (-110)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1980,7 +2015,8 @@
    "line": -3.5,
    "source": "DraftKings Network / Julian Edlow",
    "url": "https://dknetwork.draftkings.com/2026/11/11/college-football-predictions-picks-week-11-best-bets-cheat-sheet/",
-   "note": "LSU outgained Alabama by ~200 yards; Texas could be rattled in night road game (-115)"
+   "note": "LSU outgained Alabama by ~200 yards; Texas could be rattled in night road game (-115)",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1992,7 +2028,8 @@
    "line": 4,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Texas strong defensive numbers, won three straight; LSU letdown"
+   "note": "Texas strong defensive numbers, won three straight; LSU letdown",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -2004,7 +2041,8 @@
    "line": 4.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "LSU 0-3 ATS vs ranked teams; Texas No. 1 net adj. EPA/play defense"
+   "note": "LSU 0-3 ATS vs ranked teams; Texas No. 1 net adj. EPA/play defense",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -2016,7 +2054,8 @@
    "side": "under",
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Two strong defenses"
+   "note": "Two strong defenses",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -2028,7 +2067,8 @@
    "line": 15.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Stanford offense improving; Virginia Tech allowed 51 to SMU"
+   "note": "Stanford offense improving; Virginia Tech allowed 51 to SMU",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -2040,7 +2080,8 @@
    "line": -7.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "South Carolina on 4-game ATS surge; Arkansas has one SEC win"
+   "note": "South Carolina on 4-game ATS surge; Arkansas has one SEC win",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -2052,7 +2093,8 @@
    "line": -7.5,
    "source": "Athlon via Yahoo / Steven Lassan",
    "url": "https://sports.yahoo.com/articles/college-football-bets-picks-against-193000512.html",
-   "note": "Expects 8+ point win if Sellers (ankle, questionable) mostly full go"
+   "note": "Expects 8+ point win if Sellers (ankle, questionable) mostly full go",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -2064,7 +2106,8 @@
    "side": "over",
    "source": "VSiN / Zachary Cohen",
    "url": "https://vsin.com/college-football/expert-college-football-picks-week-11-best-bets-and-predictions-from-zachary-cohen/",
-   "note": "Oklahoma State three straight shootouts; Tech D weaker than last year (-112)"
+   "note": "Oklahoma State three straight shootouts; Tech D weaker than last year (-112)",
+   "result": "win"
   },
   {
    "league": "NCAAF",
@@ -2076,7 +2119,8 @@
    "line": -3.5,
    "source": "VSiN / Steve Makinen",
    "url": "https://vsin.com/college-football/steve-makinen-college-football-week-11-best-bets-picks-and-predictions/",
-   "note": "Oklahoma State high-scoring offense; Texas Tech defense has declined"
+   "note": "Oklahoma State high-scoring offense; Texas Tech defense has declined",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -2088,7 +2132,8 @@
    "line": 3.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Tech D forces turnovers; Mestemaker leads nation in turnover-worthy plays"
+   "note": "Tech D forces turnovers; Mestemaker leads nation in turnover-worthy plays",
+   "result": "win"
   },
   {
    "league": "NCAAB",
@@ -2247,7 +2292,8 @@
    "stat": "points",
    "source": "The Lines / Justin Bales",
    "url": "https://www.thelines.com/college-basketball/picks/college-basketball-picks-for-nov-13-top-player-props-for-friday/",
-   "note": "Anderson dominant in Seton Hall offense, strong 3-pt shooter; Bama allows lots of 3PA (DK -115)"
+   "note": "Anderson dominant in Seton Hall offense, strong 3-pt shooter; Bama allows lots of 3PA (DK -115)",
+   "result": "loss"
   },
   {
    "league": "NCAAB",
@@ -2401,7 +2447,8 @@
    "team": "Ciryl Gane",
    "source": "VSiN / Lou Finocchiaro",
    "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/",
-   "note": "Hokit's only path is early wrestling, can't sustain vs Gane's striking; building Gane position (-200)"
+   "note": "Hokit's only path is early wrestling, can't sustain vs Gane's striking; building Gane position (-200)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2413,7 +2460,8 @@
    "side": "under",
    "source": "VSiN / Lou Finocchiaro",
    "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/",
-   "note": "Listed play: Gane-Hokit under 3.5 rounds (-120)"
+   "note": "Listed play: Gane-Hokit under 3.5 rounds (-120)",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2424,7 +2472,8 @@
    "team": "Josh Hokit",
    "source": "Pickswise / Matthew Lowrimore",
    "url": "https://www.pickswise.com/ufc/news/ufc-334-predictions-picks-betting-odds-ft-ciryl-gane-vs-josh-hokit/",
-   "note": "Value on unbeaten Hokit: 9.29 sig strikes/min, 3.73 TD/15 (+180 DK, playable to +160)"
+   "note": "Value on unbeaten Hokit: 9.29 sig strikes/min, 3.73 TD/15 (+180 DK, playable to +160)",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2435,7 +2484,8 @@
    "team": "Ciryl Gane",
    "source": "Sherdog via Yahoo / Tom Feely",
    "url": "https://sports.yahoo.com/articles/ufc-334-preview-predictions-gane-005708495.html",
-   "note": "Near coin flip; Hokit tired late vs Blaydes, Gane survives early and takes over (Gane by R5 stoppage)"
+   "note": "Near coin flip; Hokit tired late vs Blaydes, Gane survives early and takes over (Gane by R5 stoppage)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2447,7 +2497,8 @@
    "side": "under",
    "source": "LegalSportsBetting.com / LSB Staff",
    "url": "https://www.legalsportsbetting.com/news/ufc-334-pick-gane-hokit-finish-inside-three-rounds-at-115-11-12-2026/",
-   "note": "Best bet: fight ends inside 3 rounds (-115); all 7 Gane UFC finishes by R3, Hokit never past R3"
+   "note": "Best bet: fight ends inside 3 rounds (-115); all 7 Gane UFC finishes by R3, Hokit never past R3",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2458,7 +2509,8 @@
    "team": "Amanda Nunes",
    "source": "Pickswise / Matthew Lowrimore",
    "url": "https://www.pickswise.com/ufc/news/ufc-334-predictions-picks-betting-odds-ft-ciryl-gane-vs-josh-hokit/",
-   "note": "Nunes edge in volume and grappling; Harrison only 3 UFC fights (+146 FD, playable to +135)"
+   "note": "Nunes edge in volume and grappling; Harrison only 3 UFC fights (+146 FD, playable to +135)",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2469,7 +2521,8 @@
    "team": "Amanda Nunes",
    "source": "Sherdog via Yahoo / Tom Feely",
    "url": "https://sports.yahoo.com/articles/ufc-334-preview-predictions-gane-005708495.html",
-   "note": "Harrison's stiff striking + neck-surgery layoff vs dangerous puncher (Nunes by R2 KO; Nunes +160)"
+   "note": "Harrison's stiff striking + neck-surgery layoff vs dangerous puncher (Nunes by R2 KO; Nunes +160)",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2480,7 +2533,8 @@
    "team": "Kayla Harrison",
    "source": "LegalSportsBetting.com / LSB Staff",
    "url": "https://www.legalsportsbetting.com/news/ufc-334-pick-gane-hokit-finish-inside-three-rounds-at-115-11-12-2026/",
-   "note": "Small lean: Harrison activity/defense vs Nunes 41-month layoff (-175)"
+   "note": "Small lean: Harrison activity/defense vs Nunes 41-month layoff (-175)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2492,7 +2546,8 @@
    "side": "under",
    "source": "RotoWire / Cole Shelton",
    "url": "https://www.rotowire.com/mma/article/ufc-best-bets-today-picks-odds-predictions-for-ufc-334-146176",
-   "note": "Both fade late, Nunes off 3.5-yr layoff; predicts Nunes TKO R2/R3 (-126)"
+   "note": "Both fade late, Nunes off 3.5-yr layoff; predicts Nunes TKO R2/R3 (-126)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2503,7 +2558,8 @@
    "team": "Caio Borralho",
    "source": "RotoWire / Cole Shelton",
    "url": "https://www.rotowire.com/mma/article/ufc-best-bets-today-picks-odds-predictions-for-ufc-334-146176",
-   "note": "Belgaroui big step up; Borralho clinch/wrestling control to decision (-162)"
+   "note": "Belgaroui big step up; Borralho clinch/wrestling control to decision (-162)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2514,7 +2570,8 @@
    "team": "Caio Borralho",
    "source": "Sherdog via Yahoo / Tom Feely",
    "url": "https://sports.yahoo.com/articles/ufc-334-preview-predictions-gane-005708495.html",
-   "note": "Belgaroui's defensive wrestling unproven; Borralho by R2 sub (-155)"
+   "note": "Belgaroui's defensive wrestling unproven; Borralho by R2 sub (-155)",
+   "result": "win"
   },
   {
    "league": "UFC",
@@ -2525,7 +2582,8 @@
    "team": "Kevin Holland",
    "source": "Sherdog via Yahoo / Tom Feely",
    "url": "https://sports.yahoo.com/articles/ufc-334-preview-predictions-gane-005708495.html",
-   "note": "Medic's aggression invites exchanges that favor durable Holland; Holland by R1 sub (+124)"
+   "note": "Medic's aggression invites exchanges that favor durable Holland; Holland by R1 sub (+124)",
+   "result": "push"
   },
   {
    "league": "UFC",
@@ -2536,7 +2594,8 @@
    "team": "Jim Miller",
    "source": "RotoWire / Cole Shelton",
    "url": "https://www.rotowire.com/mma/article/ufc-best-bets-today-picks-odds-predictions-for-ufc-334-146176",
-   "note": "McKinney one-round fighter who fades; Miller survives R1, finishes in R2 (+162). McKinney reportedly missed weight"
+   "note": "McKinney one-round fighter who fades; Miller survives R1, finishes in R2 (+162). McKinney reportedly missed weight",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2547,7 +2606,8 @@
    "team": "Donte Johnson",
    "source": "VSiN / Lou Finocchiaro",
    "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/",
-   "note": "Best bet: Johnson's pressure breaks Almeida (44% strike def, KO'd last out) in R2 (-155)"
+   "note": "Best bet: Johnson's pressure breaks Almeida (44% strike def, KO'd last out) in R2 (-155)",
+   "result": "loss"
   },
   {
    "league": "UFC",
@@ -2559,7 +2619,8 @@
    "side": "over",
    "source": "VSiN / Lou Finocchiaro",
    "url": "https://vsin.com/mma/ufc-334-gane-vs-hokit-odds-picks-predictions-and-best-bets/",
-   "note": "Over 1.5 rounds (-150), consistent with R2 finish call"
+   "note": "Over 1.5 rounds (-150), consistent with R2 finish call",
+   "result": "loss"
   }
  ]
 }
