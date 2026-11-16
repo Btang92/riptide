@@ -1836,7 +1836,8 @@
    "line": -1.5,
    "source": "CBS Sports / SportsLine (model)",
    "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-lines-best-bets-week-11-2026/",
-   "note": "Oklahoma 4-9-1 ATS after a win since last season, last in SEC rushing; covers well over 50%"
+   "note": "Oklahoma 4-9-1 ATS after a win since last season, last in SEC rushing; covers well over 50%",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1848,7 +1849,8 @@
    "side": "over",
    "source": "CBS Sports / SportsLine (model)",
    "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-lines-best-bets-week-11-2026/",
-   "note": "Model hits the Over about 60% of the time"
+   "note": "Model hits the Over about 60% of the time",
+   "result": "loss"
   },
   {
    "league": "NCAAF",
@@ -1860,7 +1862,8 @@
    "line": -1.5,
    "source": "Covers / Rob Paul",
    "url": "https://www.covers.com/ncaaf/top-25-predictions-week-11-2026",
-   "note": "Ole Miss the better team; Oklahoma offense 109th in success rate"
+   "note": "Ole Miss the better team; Oklahoma offense 109th in success rate",
+   "result": "loss"
   },
   {
    "league": "NCAAF",

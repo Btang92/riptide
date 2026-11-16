@@ -1,276 +1,238 @@
 {
- "at": "2026-11-15T15:56:42Z",
- "date": "2026-11-15",
- "method": "Started from 3,288 priced Kalshi legs in the next 36h. Kept legs priced 30–85¢ with edge ≥ −2.5 and no flags, at most one per game, and researched the strongest against today's 165 newly collected expert picks plus injury and goalie news. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete news agreed, with nothing disagreeing. Dropped for conflicts: Chiefs −2.5 (Action Network has Falcons +3.5); Browns +3.5 and Bills/Jets (experts split); Suns +3.5 (top traders on the Suns, but Action Network and BetMGM have the Lakers); Raptors +4.5 (Dimers and Pickswise have Knicks −4.5); Seahawks/Raiders Over 40.5 (SI has the Under); Steelers/Bengals (experts split 4–4 on the side, and on the total too); Hawks ML (Covers and Dimers have Milwaukee); Thunder ML (Dimers has the Kings); Panthers/Stars (experts split). Monday games had almost no published previews yet, so the ladder runs Sunday afternoon to late Sunday night.",
- "honest": "Every leg costs slightly more than its fair price (edge −0.2 to −2.4¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "at": "2026-11-16T16:45:00Z",
+ "date": "2026-11-16",
+ "method": "Started from 2,392 priced Kalshi legs in the next 36h. Kept legs priced 30–85¢ with edge ≥ −2.5 and no flags, one per game, and checked them against today's 125 newly collected expert picks plus injury news. Polymarket top-trader data came back empty today, so every leg needed both a published pick or model on its side and concrete news or matchup reasoning, with no published pick against it. Dropped for conflicts: Ravens spread (SI's MacMillan has the Chargers moneyline as his best bet, so the ladder uses the Under, which no one opposes); Canadiens/Rangers (experts split 2–2 on the side, and Dimers and Lineups split on the total); Canucks/Mammoth (Covers has Vancouver); Rockets/Heat, Blazers/Timberwolves, Warriors/Pelicans and Suns/Nuggets (Covers' Metler on the opposite side to Dimers, SI or BetMGM). Excluded on price or flags: Grizzlies moneyline (line moved 7 points against), 76ers moneyline, Spurs moneyline, Tulsa and Drake (edges worse than −2.5). Tuesday NHL and most Tuesday NBA games had no published previews yet, so the ladder runs Monday night, then Tuesday MACtion.",
+ "honest": "Every leg costs slightly more than its fair price (edge −1.1 to −2.5¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
  "ladder": [
   {
-   "id": "KXNFLTOTAL-26NOV15JACTEN-47:no",
+   "id": "KXNFLTOTAL-26NOV16LACBAL-39:no",
    "league": "NFL",
-   "game": "Jacksonville Jaguars @ Tennessee Titans",
-   "start": "2026-11-15T18:00:00.000Z",
+   "game": "Los Angeles Chargers @ Baltimore Ravens",
+   "start": "2026-11-17T01:15:00.000Z",
    "mk": "TOTAL",
-   "label": "Under 46.5",
-   "ask": 53,
-   "cost": 54.7437,
-   "fair": 54.5,
-   "sharp": {
-    "for": 11235,
-    "against": 0,
-    "who": [
-     "HomeRunHazard",
-     "keeptheblueflagflyinghigh"
-    ]
-   },
-   "why": "Covers' Neil Parker took Under 46.5: Jacksonville allows the second-fewest points per game and Tennessee plays slow and ranks 28th in scoring. Polymarket's top traders have about $11k on the Under and nothing on the Over.",
-   "sources": [
-    {
-     "name": "Covers / Neil Parker (Under 46.5)",
-     "url": "https://www.covers.com/sport/football/nfl/matchup/380058/picks"
-    },
-    {
-     "name": "Covers / Neil Parker (Under 46.5)",
-     "url": "https://www.covers.com/nfl/jaguars-vs-titans-prediction-picks-nov-15-2026"
-    }
-   ]
-  },
-  {
-   "id": "KXNFLSPREAD-26NOV15MIAIND-IND4:yes",
-   "league": "NFL",
-   "game": "Miami Dolphins @ Indianapolis Colts",
-   "start": "2026-11-15T18:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Indianapolis Colts −3.5",
-   "ask": 54,
-   "cost": 55.7388,
-   "fair": 54.5,
-   "sharp": {
-    "for": 625,
-    "against": 0,
-    "who": [
-     "HomeRunHazard",
-     "Multicoloured-Serf"
-    ]
-   },
-   "why": "Miami starts backup Kyle McCord, making his first career start, on the road. Five published picks back the Colts at -2.5 to -3.5 and none take Miami; Action Network's Doug Kezirian says the line should be near -6. Top-trader money leans Colts too.",
-   "sources": [
-    {
-     "name": "Action Network via Yahoo / Doug Kezirian (Colts -3.5)",
-     "url": "https://sports.yahoo.com/articles/dolphins-vs-colts-prediction-pick-111814521.html"
-    },
-    {
-     "name": "FOX Sports / Will Hill (Colts -3.5)",
-     "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-picks-best-bets-every-game-wills-wagers"
-    },
-    {
-     "name": "CBS Sports / Jordan Dajani (Colts -3.5)",
-     "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-picks-odds-best-bets-lions-munich-bills-jets/"
-    },
-    {
-     "name": "Sports Illustrated / Iain MacMillan (Colts -2.5)",
-     "url": "https://www.si.com/betting/road-to-272-bets-nfl-week-10-picks-for-every-game-01m70qgrdya8"
-    }
-   ]
-  },
-  {
-   "id": "KXNFLTOTAL-26NOV15MINGB-43:no",
-   "league": "NFL",
-   "game": "Minnesota Vikings @ Green Bay Packers",
-   "start": "2026-11-15T18:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 42.5",
-   "ask": 51,
-   "cost": 52.7493,
-   "fair": 50.5,
-   "sharp": {
-    "for": 59568,
-    "against": 21138,
-    "who": [
-     "HomeRunHazard",
-     "keeptheblueflagflyinghigh",
-     "nigiri99"
-    ]
-   },
-   "why": "Pickswise expects a defensive battle with Green Bay missing Josh Jacobs, and Yahoo's Matt De Lima made the Under a 2-unit play. Top traders hold about $60k on the Under against $21k on the Over.",
-   "sources": [
-    {
-     "name": "Pickswise / Kevin Rogers (Under 42)",
-     "url": "https://www.pickswise.com/nfl/games/green-bay-packers-minnesota-vikings-nfl-2026-11-15-1300/picks/"
-    },
-    {
-     "name": "Yahoo Sports / Matt De Lima (Under 42.5)",
-     "url": "https://sports.yahoo.com/articles/nfl-week-10-best-bets-152927047.html"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV14MISSOKLA-OKLA2:yes",
-   "league": "College football",
-   "game": "Ole Miss Rebels @ Oklahoma Sooners",
-   "start": "2026-11-15T18:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Oklahoma Sooners −1.5",
-   "ask": 54,
-   "cost": 55.7388,
-   "fair": 53.5,
-   "sharp": {
-    "for": 601,
-    "against": 0,
-    "who": [
-     "Multicoloured-Serf",
-     "nigiri99"
-    ]
-   },
-   "why": "The game was pushed to Sunday after an FAA ground stop kept Ole Miss in Oxford. Covers' top pick is OU -1.5: Ole Miss's defense was outgained 481-252 by Georgia, and Chambliss struggles under pressure. Pickswise and the Dimers model (57%) both back OU to win, and top-trader money is on Oklahoma only.",
-   "sources": [
-    {
-     "name": "Covers / Nick Galaida (OU -1.5)",
-     "url": "https://www.covers.com/ncaaf/ole-miss-vs-oklahoma-prediction-picks-odds-best-bets-today-nov-15-2026"
-    },
-    {
-     "name": "Pickswise / Sam Avellone (OU ML)",
-     "url": "https://www.pickswise.com/college-football/news/college-football-week-11-best-bets-saturday-november-14/"
-    },
-    {
-     "name": "Dimers model (OU ML)",
-     "url": "https://www.dimers.com/cfb/news/mississippi-vs-oklahoma-prediction-week-11-2026-ac"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLGAME-26NOV15EDMPHI-EDM:yes",
-   "league": "NHL",
-   "game": "Edmonton Oilers @ Philadelphia Flyers",
-   "start": "2026-11-16T00:30:00.000Z",
-   "mk": "ML",
-   "label": "Edmonton Oilers",
-   "ask": 58,
-   "cost": 59.7052,
-   "fair": 57.4,
-   "sharp": {
-    "for": 3078,
-    "against": 0,
-    "who": [
-     "nigiri99",
-     "omnibus-076daa"
-    ]
-   },
-   "why": "The BetMGM model gives Edmonton 58.8%, and the Oilers are 15-6 on the moneyline. Expected Flyers starter Dan Vladar has allowed three or more goals in each of his last five starts (.879). Top traders have about $3k on Edmonton and nothing against.",
-   "sources": [
-    {
-     "name": "BetMGM model (Oilers ML)",
-     "url": "https://sports.betmgm.com/en/blog/nhl/oilers-flyers-prediction-odds-picks-nov-15-2026-jaa/"
-    },
-    {
-     "name": "TheSpread (goalie news)",
-     "url": "https://www.thespread.com/nhl-articles/oilers-vs-flyers-prediction-november-15-2026/"
-    }
-   ]
-  },
-  {
-   "id": "KXNBASPREAD-26NOV15INDPHI-PHI6:no",
-   "league": "NBA",
-   "game": "Indiana Pacers @ Philadelphia 76ers",
-   "start": "2026-11-15T18:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Indiana Pacers +5.5",
-   "ask": 44,
-   "cost": 45.7248,
-   "fair": 43.5,
-   "sharp": {
-    "for": 4270,
-    "against": 117,
-    "who": [
-     "Flaznorp",
-     "HomeRunHazard"
-    ]
-   },
-   "why": "Joel Embiid is out for Philadelphia, along with Bona, Barlow and Hukporti. TheSpread leans Pacers +7 because the net-rating gap doesn't justify the number without Embiid. Haliburton is also out for Indiana, so this is a lean. Top traders have about $4k on Indiana.",
-   "sources": [
-    {
-     "name": "TheSpread / Alex Becker (Pacers +7, lean)",
-     "url": "https://thespread.com/nba-articles/pacers-vs-76ers-prediction-november-15-2026"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAMBGAME-26NOV15CREIIOWA-IOWA:yes",
-   "league": "College basketball",
-   "game": "Creighton Bluejays @ Iowa Hawkeyes",
-   "start": "2026-11-15T20:00:00.000Z",
-   "mk": "ML",
-   "label": "Iowa Hawkeyes",
-   "ask": 64,
-   "cost": 65.61280000000001,
-   "fair": 63.7,
+   "label": "Under 38.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 47.5,
    "sharp": null,
-   "why": "Two published picks lay the points with Iowa, at -3.5 and -4.5. Creighton is on its second straight road game, Iowa rebounds better, and Creighton leans heavily on Enis and Davis against a good Iowa defense. There is no top-trader money in this game.",
+   "why": "Covers' Jason Logan and Dimers' Ryan Leaver (model 54.3%, projects 20-15) both take Under 38.5, and no published pick takes the Over. Lamar Jackson and Tyler Huntley are out, so Jacoby Brissett makes his first Ravens start, and Justin Herbert has a hand injury; the Chargers are 6-2 to the Under this season.",
    "sources": [
     {
-     "name": "Action Network via Yahoo / Jonathan Jorcin (Iowa -3.5)",
-     "url": "https://sports.yahoo.com/articles/creighton-vs-iowa-prediction-pick-111552227.html"
+     "name": "Covers / Jason Logan (Under 38.5)",
+     "url": "https://www.covers.com/nfl/chargers-vs-ravens-prediction-picks-odds-early-leans-week-10-2026"
     },
     {
-     "name": "DraftKings Network / Bryan Armetta (Iowa -4.5)",
-     "url": "https://dknetwork.draftkings.com/2026/11/15/creighton-bluejays-vs-iowa-hawkeyes-prediction-pick-for-ncaam-on-sunday-11-15-26/"
+     "name": "Dimers / Ryan Leaver (Under 38.5)",
+     "url": "https://www.dimers.com/nfl/news/los-angeles-chargers-vs-baltimore-ravens-prediction-week-10-2026-ac"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.cbssports.com/betting/news/ravens-vs-chargers-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.si.com/betting/chargers-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-10-01m741zk70e7"
     }
    ]
   },
   {
-   "id": "KXNFLTOTAL-26NOV15LARARI-45:no",
-   "league": "NFL",
-   "game": "Los Angeles Rams @ Arizona Cardinals",
-   "start": "2026-11-15T21:05:00.000Z",
+   "id": "KXNBATOTAL-26NOV16CHICLE-246:no",
+   "league": "NBA",
+   "game": "Chicago Bulls @ Cleveland Cavaliers",
+   "start": "2026-11-17T00:00:00.000Z",
    "mk": "TOTAL",
-   "label": "Under 44.5",
-   "ask": 71,
-   "cost": 72.4413,
-   "fair": 70.5,
-   "sharp": {
-    "for": 709,
-    "against": 0,
-    "who": [
-     "primm"
-    ]
-   },
-   "why": "Three experts took the Under at the lower 39.5-40.5 numbers, citing major offensive injuries on both sides, a slower pace, and Arizona's rookie QB behind weak pass protection. 44.5 gives five extra points of cushion, and top-trader money is Under only.",
+   "label": "Under 245.5",
+   "ask": 59,
+   "cost": 60.6933,
+   "fair": 59,
+   "sharp": null,
+   "why": "Dimers' Mac Douglass (his strongest model edge of the slate, under 241.5) and SI (under 242.5) both lean Under, so this leg buys four extra points of cushion. Evan Mobley is out for Cleveland and SI notes the Bulls rank 26th in offensive rating.",
    "sources": [
     {
-     "name": "Covers / Jason Logan (Under 39.5)",
-     "url": "https://www.covers.com/sport/football/nfl/matchup/380061/picks"
+     "name": "Dimers / Mac Douglass (Under 241.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-16-2026-ac"
     },
     {
-     "name": "CBS Sports / R.J. White (Under 40.5)",
-     "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-10-2026-expert-ats-picks-predictions-best-bets-player-props-for-nov-15/"
+     "name": "SI Betting (Under 242.5)",
+     "url": "https://www.si.com/betting/bulls-vs-cavaliers-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
     },
     {
-     "name": "FOX Sports / Will Hill (Under 39.5)",
-     "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-picks-best-bets-every-game-wills-wagers"
+     "name": "Injury/news report",
+     "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
     }
    ]
   },
   {
-   "id": "KXNHLGAME-26NOV15VANVGK-VGK:yes",
-   "league": "NHL",
-   "game": "Vancouver Canucks @ Vegas Golden Knights",
-   "start": "2026-11-16T02:00:00.000Z",
-   "mk": "ML",
-   "label": "Vegas Golden Knights",
-   "ask": 79,
-   "cost": 80.1613,
-   "fair": 77.8,
-   "sharp": {
-    "for": 1042,
-    "against": 171,
-    "who": [
-     "HomeRunHazard"
-    ]
-   },
-   "why": "Vancouver has lost seven straight and has the league's worst penalty kill, and likely starter Kevin Lankinen is 1-8 with a 6.03 GAA. Last Word On Sports predicts Vegas 5-2. Top traders lean Vegas, about $1.0k for to $0.2k against.",
+   "id": "KXNBASPREAD-26NOV16MEMWAS-WAS3:no",
+   "league": "NBA",
+   "game": "Memphis Grizzlies @ Washington Wizards",
+   "start": "2026-11-17T00:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Memphis Grizzlies +2.5",
+   "ask": 66,
+   "cost": 67.5708,
+   "fair": 66,
+   "sharp": null,
+   "why": "SI's Peter Dewey, Dimers' Mac Douglass and Covers' Jon Metler all have Memphis to win outright; this leg only needs Washington not to win by 3+. The Wizards have lost 7 straight and are on the second night of a back-to-back. Caveat: Ty Jerome was ruled out after Metler wrote his pick, and the Grizzlies moneyline has drifted.",
    "sources": [
     {
-     "name": "Last Word On Sports / Marcus Yu (Vegas ML)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/15/nhl-predictions-van-vgk/"
+     "name": "SI / Peter Dewey (Memphis Grizzlies ML)",
+     "url": "https://www.si.com/betting/grizzlies-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
+    },
+    {
+     "name": "Dimers / Mac Douglass (Memphis Grizzlies ML)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-16-2026-ac"
+    },
+    {
+     "name": "Covers / Jon Metler (Memphis Grizzlies ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.si.com/betting/grizzlies-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV16ORLBOS-BOS:yes",
+   "league": "NBA",
+   "game": "Orlando Magic @ Boston Celtics",
+   "start": "2026-11-17T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Boston Celtics",
+   "ask": 76,
+   "cost": 77.2768,
+   "fair": 75.8,
+   "sharp": null,
+   "why": "Covers' Jon Metler (Celtics ML) and the BetMGM model (Celtics −8.5, 68.4% cover confidence) both back Boston, and no outlet picks Orlando to win. Paolo Banchero (high ankle sprain) is out for the Magic, along with Isaac, Nelson and Penda. Caveat: Boston is on the second night of a back-to-back.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Boston Celtics ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "BetMGM / model (Boston Celtics SPREAD -8.5)",
+     "url": "https://sports.betmgm.com/en/blog/nba/magic-celtics-prediction-odds-lines-picks-nba-nov-16-jaa/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV16PHIBKN-BKN4:no",
+   "league": "NBA",
+   "game": "Philadelphia 76ers @ Brooklyn Nets",
+   "start": "2026-11-17T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Philadelphia 76ers +3.5",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 74,
+   "sharp": null,
+   "why": "Three outlets have the 76ers winning outright: Covers' Jon Metler, SI's Peter Dewey (as a parlay leg) and the Dimers Data model (68.8%); this leg only needs Brooklyn not to win by 4+. Joel Embiid is expected back, and Michael Porter Jr. is out for the Nets. Caveat: LeBron James is likely out on the back-to-back.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Philadelphia 76ers ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "SI / Peter Dewey (Philadelphia 76ers ML)",
+     "url": "https://www.si.com/betting/nba-best-bets-today-predictions-prop-bets-for-cameron-boozer-rockets-heat-76ers-nuggets"
+    },
+    {
+     "name": "Dimers / Dimers Data (Philadelphia 76ers ML)",
+     "url": "https://www.dimers.com/nba/news/philadelphia-76ers-vs-brooklyn-nets-prediction-11-16-2026-ac"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV17MOHKENT-MOH:yes",
+   "league": "College football",
+   "game": "Miami (OH) RedHawks @ Kent State Golden Flashes",
+   "start": "2026-11-18T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Miami (OH) RedHawks",
+   "ask": 77,
+   "cost": 78.2397,
+   "fair": 76.1,
+   "sharp": null,
+   "why": "All three published picks back Miami: numberFire's model (75.9%), Bang The Book (moneyline) and iHeart's algorithm (projects 31-19). Kent State scores 15.7 points per game (136th), and VSiN's Adam Burke rates the game Miami −12, above the market's −7.5 to −9.5.",
+   "sources": [
+    {
+     "name": "FanDuel Research / Data Skrive (numberFire) (Miami (OH) RedHawks ML)",
+     "url": "https://www.fanduel.com/research/miami-oh-vs-kent-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    },
+    {
+     "name": "Bang The Book (unbylined) (Miami (OH) RedHawks ML)",
+     "url": "https://bangthebook.com/miami-oh-redhawks-vs-kent-state-golden-flashes-prediction-2026-11-17/"
+    },
+    {
+     "name": "iHeartMedia / Data Skrive (algorithm) (Miami (OH) RedHawks SPREAD -8.5)",
+     "url": "https://wncoam.iheart.com/content/2026-11-16-miami-oh-vs-kent-st-football-prediction-odds-nov-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.fanduel.com/research/miami-oh-vs-kent-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV17EMUWMU-WMU8:yes",
+   "league": "College football",
+   "game": "Eastern Michigan Eagles @ Western Michigan Broncos",
+   "start": "2026-11-17T23:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Western Michigan Broncos −7.5",
+   "ask": 67,
+   "cost": 68.5477,
+   "fair": 67.5,
+   "sharp": null,
+   "why": "Bang The Book picks Western Michigan (5-1 in the MAC, 184.7 rush yards per game); the market has WMU around −14.5, well past this −7.5. Eastern Michigan is coming off a 35-7 loss to Central Michigan with 177 total yards.",
+   "sources": [
+    {
+     "name": "Bang The Book (unbylined) (Western Michigan Broncos ML)",
+     "url": "https://bangthebook.com/eastern-michigan-eagles-vs-western-michigan-broncos-prediction-2026-11-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://emueagles.com/news/2026/11/12/football-hits-the-road-for-a-tuesday-battle-in-kalamazoo"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV17BALLOHIO-OHIO:yes",
+   "league": "College football",
+   "game": "Ball State Cardinals @ Ohio Bobcats",
+   "start": "2026-11-18T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Ohio Bobcats",
+   "ask": 81,
+   "cost": 82.0773,
+   "fair": 79.6,
+   "sharp": null,
+   "why": "All three published picks back Ohio: numberFire's model (83.1%), Bang The Book (Ohio is 4-0 at home) and iHeart's algorithm (projects 33-20). Ball State allows 34.1 points per game (130th), and its starting left tackle Chris Hood is unlikely to play.",
+   "sources": [
+    {
+     "name": "FanDuel Research / Data Skrive (numberFire) (Ohio Bobcats ML)",
+     "url": "https://www.fanduel.com/research/ohio-vs-ball-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    },
+    {
+     "name": "Bang The Book (unbylined) (Ohio Bobcats ML)",
+     "url": "https://bangthebook.com/ball-state-cardinals-vs-ohio-bobcats-prediction-2026-11-17/"
+    },
+    {
+     "name": "iHeartMedia / Data Skrive (algorithm) (Ohio Bobcats SPREAD -10.5)",
+     "url": "https://wone.iheart.com/content/2026-11-16-ball-st-vs-ohio-football-prediction-odds-nov-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://sports.yahoo.com/articles/ball-state-football-vs-ohio-150928713.html"
     }
    ]
   }

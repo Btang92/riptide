@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:59:01Z",
+ "updated": "2026-11-16T16:15:00Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -13,7 +13,9 @@
   "2026-11-09",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13",
+  "2026-11-14"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -127,8 +129,8 @@
    "p": 0
   },
   "Covers / Dustin Saracini": {
-   "w": 3,
-   "l": 1,
+   "w": 4,
+   "l": 3,
    "p": 0
   },
   "Covers / Geoff Clark": {
@@ -152,32 +154,32 @@
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 14,
-   "l": 9,
+   "w": 18,
+   "l": 16,
    "p": 0
   },
   "Covers / Joe Osborne": {
-   "w": 6,
-   "l": 7,
+   "w": 7,
+   "l": 8,
    "p": 1
   },
   "Covers / Jon Metler": {
-   "w": 36,
-   "l": 28,
+   "w": 37,
+   "l": 29,
    "p": 0
   },
   "Covers / Josh Inglis": {
    "w": 5,
-   "l": 11,
+   "l": 14,
    "p": 0
   },
   "Covers / Neil Parker": {
-   "w": 14,
-   "l": 11,
+   "w": 23,
+   "l": 18,
    "p": 0
   },
   "Covers / Nick Galaida": {
-   "w": 8,
+   "w": 11,
    "l": 5,
    "p": 0
   },
@@ -188,7 +190,7 @@
   },
   "Covers / Rob Paul": {
    "w": 15,
-   "l": 24,
+   "l": 25,
    "p": 0
   },
   "Covers / Robert Criscola": {
@@ -222,8 +224,8 @@
    "p": 0
   },
   "Dimers / Damien Souness (model)": {
-   "w": 1,
-   "l": 4,
+   "w": 5,
+   "l": 10,
    "p": 0
   },
   "Dimers / Dave Garofolo": {
@@ -257,8 +259,8 @@
    "p": 0
   },
   "Dimers / Mac Douglass (model)": {
-   "w": 12,
-   "l": 7,
+   "w": 16,
+   "l": 11,
    "p": 0
   },
   "Dimers / Ryan Leaver": {
@@ -293,7 +295,7 @@
   },
   "Last Word On Sports / Dan Mount": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "Last Word on Sports / Dan Mount": {
@@ -332,8 +334,8 @@
    "p": 0
   },
   "Pickswise / Chris Farley": {
-   "w": 6,
-   "l": 4,
+   "w": 7,
+   "l": 5,
    "p": 0
   },
   "Pickswise / Connor Grootenhuis": {
@@ -342,8 +344,8 @@
    "p": 0
   },
   "Pickswise / Filip Tomic": {
-   "w": 5,
-   "l": 9,
+   "w": 6,
+   "l": 11,
    "p": 0
   },
   "Pickswise / Joe Williams": {
@@ -357,7 +359,7 @@
    "p": 0
   },
   "Pickswise / Kevin Rogers": {
-   "w": 7,
+   "w": 9,
    "l": 6,
    "p": 0
   },
@@ -392,7 +394,7 @@
    "p": 0
   },
   "Pickswise / Sam Avellone": {
-   "w": 8,
+   "w": 9,
    "l": 9,
    "p": 0
   },
@@ -472,13 +474,13 @@
    "p": 0
   },
   "TheSpread / Paul Elliot": {
-   "w": 10,
+   "w": 11,
    "l": 9,
    "p": 2
   },
   "VSiN / Adam Burke": {
    "w": 11,
-   "l": 9,
+   "l": 10,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
@@ -503,7 +505,7 @@
   },
   "Action Network (via Yahoo) / Sean Paul": {
    "w": 1,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "DK Network / Hunter Skoczylas": {
@@ -523,7 +525,7 @@
   },
   "Predictem / Joe Jensen": {
    "w": 8,
-   "l": 20,
+   "l": 21,
    "p": 0
   },
   "Pickswise / Robby Nardini": {
@@ -592,18 +594,18 @@
    "p": 0
   },
   "Sports Illustrated / Iain MacMillan": {
-   "w": 3,
-   "l": 2,
+   "w": 7,
+   "l": 11,
    "p": 0
   },
   "Sports Illustrated / Ryan Gilbert": {
-   "w": 4,
-   "l": 2,
+   "w": 5,
+   "l": 4,
    "p": 0
   },
   "Sports Illustrated / Peter Dewey": {
-   "w": 2,
-   "l": 7,
+   "w": 9,
+   "l": 9,
    "p": 0
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
@@ -642,8 +644,8 @@
    "p": 0
   },
   "TheLines / Chris Kubala": {
-   "w": 5,
-   "l": 1,
+   "w": 7,
+   "l": 2,
    "p": 0
   },
   "CBS Sports / SportsLine model (Andy Bryan)": {
@@ -657,12 +659,12 @@
    "p": 0
   },
   "Covers / Zak Hanshew": {
-   "w": 0,
-   "l": 3,
+   "w": 1,
+   "l": 4,
    "p": 0
   },
   "Covers / Chris Walder": {
-   "w": 0,
+   "w": 2,
    "l": 3,
    "p": 0
   },
@@ -817,8 +819,8 @@
    "p": 0
   },
   "Covers / Tom Oldfield": {
-   "w": 1,
-   "l": 1,
+   "w": 2,
+   "l": 3,
    "p": 0
   },
   "CBS Sports / Brady Kannon": {
@@ -827,7 +829,7 @@
    "p": 0
   },
   "CBS Sports / Alex Selesnick": {
-   "w": 1,
+   "w": 2,
    "l": 2,
    "p": 0
   },
@@ -837,8 +839,8 @@
    "p": 0
   },
   "CBS Sports / Prop Bet Guy Doug": {
-   "w": 0,
-   "l": 2,
+   "w": 1,
+   "l": 3,
    "p": 0
   },
   "CBS Sports / Emory Hunt": {
@@ -852,13 +854,13 @@
    "p": 0
   },
   "CBS Sports / Adam Thompson": {
-   "w": 1,
+   "w": 2,
    "l": 0,
    "p": 0
   },
   "CBS Sports / R.J. White": {
-   "w": 0,
-   "l": 3,
+   "w": 3,
+   "l": 4,
    "p": 0
   },
   "CBS Sports / Tyler Sullivan": {
@@ -917,7 +919,7 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Matt Moore": {
-   "w": 0,
+   "w": 2,
    "l": 1,
    "p": 0
   },
@@ -987,7 +989,7 @@
    "p": 0
   },
   "BetMGM (model)": {
-   "w": 16,
+   "w": 18,
    "l": 10,
    "p": 0
   },
@@ -1073,8 +1075,8 @@
   },
   "TheSpread.com / Alex Becker": {
    "w": 4,
-   "l": 3,
-   "p": 0
+   "l": 4,
+   "p": 1
   },
   "BetMGM / spread model": {
    "w": 1,
@@ -1087,13 +1089,13 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Jonathan Jorcin": {
-   "w": 1,
-   "l": 0,
+   "w": 2,
+   "l": 1,
    "p": 0
   },
   "BetMGM / Nick Hennion": {
    "w": 0,
-   "l": 2,
+   "l": 5,
    "p": 0
   },
   "Action Network / Collin Wilson": {
@@ -1132,8 +1134,8 @@
    "p": 0
   },
   "Lineups / Juan Carlos Blanco": {
-   "w": 3,
-   "l": 3,
+   "w": 5,
+   "l": 4,
    "p": 0
   },
   "Covers / Luc LeBlanc": {
@@ -1208,7 +1210,7 @@
   },
   "Lineups / Thom Cunningham": {
    "w": 2,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "Action Network / Jim Turvey": {
@@ -1258,7 +1260,7 @@
   },
   "CBS Sports / SportsLine (model)": {
    "w": 1,
-   "l": 0,
+   "l": 2,
    "p": 0
   },
   "Athlon via Yahoo / Kyle Wood": {
@@ -1435,44 +1437,149 @@
    "w": 2,
    "l": 4,
    "p": 0
+  },
+  "FOX Sports / Will Hill": {
+   "w": 3,
+   "l": 8,
+   "p": 0
+  },
+  "CBS Sports / Jordan Dajani": {
+   "w": 4,
+   "l": 1,
+   "p": 0
+  },
+  "Yahoo Sports (The Big Lead) / Matt De Lima": {
+   "w": 7,
+   "l": 2,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Doug Kezirian": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Gilles Gallant": {
+   "w": 2,
+   "l": 16,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Sean Koerner": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Mike Tierney": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Stuckey": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Sia Nejad": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Larry Hartstein": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / SportsLine model (Adam Thompson)": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Action Network Staff": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "BetMGM / BetMGM Betting (model)": {
+   "w": 8,
+   "l": 2,
+   "p": 0
+  },
+  "BetMGM / BetMGM Betting model": {
+   "w": 3,
+   "l": 3,
+   "p": 0
+  },
+  "Dimers model": {
+   "w": 7,
+   "l": 1,
+   "p": 0
+  },
+  "Last Word On Sports / Marcus Yu": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Daniel Lewis (SportsLine model)": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "DraftKings Network / Dan Johnson": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Charlie Disturco": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Ryan Minion": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "DraftKings Network / Bryan Armetta": {
+   "w": 0,
+   "l": 1,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
    "w": 4,
-   "l": 4
+   "l": 5
   },
   "2": {
    "w": 2,
-   "l": 6
+   "l": 7
   },
   "3": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "4": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "5": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "6": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "7": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "8": {
    "w": 0,
-   "l": 8
+   "l": 9
   },
   "9": {
    "w": 0,
-   "l": 4
+   "l": 5
   },
   "10": {
    "w": 0,
@@ -1480,20 +1587,18 @@
   }
  },
  "partial_files": {
-  "2026-11-13": 135,
-  "2026-11-14": 196
- },
- "botd_partial": {
-  "2026-11-14": "all lengths decided (leg 1 Michigan/Oregon Under 39.5 won, leg 2 South Carolina -7.5 lost); legs 3 (Panthers ML) and 10 (Jaguars ML) are Sunday games, still ungraded"
+  "2026-11-15": 159
  },
  "botd_graded": [
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "ungradable": {
   "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)",
-  "2026-11-14": "Jarrett Allen points, Peyton Watson points, Ty Jerome threes (DNP/inactive, no box-score line)"
+  "2026-11-14": "Jarrett Allen points, Peyton Watson points, Ty Jerome threes (DNP/inactive, no box-score line); Washington @ Utah NCAAB (no such game on Nov 15; scheduled Dec 5)",
+  "2026-11-15": "DeMarcus Robinson anytime TD (no box-score line)"
  }
 }

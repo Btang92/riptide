@@ -1,0 +1,240 @@
+{
+ "at": "2026-11-16T16:45:00Z",
+ "date": "2026-11-16",
+ "method": "Started from 2,392 priced Kalshi legs in the next 36h. Kept legs priced 30–85¢ with edge ≥ −2.5 and no flags, one per game, and checked them against today's 125 newly collected expert picks plus injury news. Polymarket top-trader data came back empty today, so every leg needed both a published pick or model on its side and concrete news or matchup reasoning, with no published pick against it. Dropped for conflicts: Ravens spread (SI's MacMillan has the Chargers moneyline as his best bet, so the ladder uses the Under, which no one opposes); Canadiens/Rangers (experts split 2–2 on the side, and Dimers and Lineups split on the total); Canucks/Mammoth (Covers has Vancouver); Rockets/Heat, Blazers/Timberwolves, Warriors/Pelicans and Suns/Nuggets (Covers' Metler on the opposite side to Dimers, SI or BetMGM). Excluded on price or flags: Grizzlies moneyline (line moved 7 points against), 76ers moneyline, Spurs moneyline, Tulsa and Drake (edges worse than −2.5). Tuesday NHL and most Tuesday NBA games had no published previews yet, so the ladder runs Monday night, then Tuesday MACtion.",
+ "honest": "Every leg costs slightly more than its fair price (edge −1.1 to −2.5¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNFLTOTAL-26NOV16LACBAL-39:no",
+   "league": "NFL",
+   "game": "Los Angeles Chargers @ Baltimore Ravens",
+   "start": "2026-11-17T01:15:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 38.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 47.5,
+   "sharp": null,
+   "why": "Covers' Jason Logan and Dimers' Ryan Leaver (model 54.3%, projects 20-15) both take Under 38.5, and no published pick takes the Over. Lamar Jackson and Tyler Huntley are out, so Jacoby Brissett makes his first Ravens start, and Justin Herbert has a hand injury; the Chargers are 6-2 to the Under this season.",
+   "sources": [
+    {
+     "name": "Covers / Jason Logan (Under 38.5)",
+     "url": "https://www.covers.com/nfl/chargers-vs-ravens-prediction-picks-odds-early-leans-week-10-2026"
+    },
+    {
+     "name": "Dimers / Ryan Leaver (Under 38.5)",
+     "url": "https://www.dimers.com/nfl/news/los-angeles-chargers-vs-baltimore-ravens-prediction-week-10-2026-ac"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.cbssports.com/betting/news/ravens-vs-chargers-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.si.com/betting/chargers-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-10-01m741zk70e7"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV16CHICLE-246:no",
+   "league": "NBA",
+   "game": "Chicago Bulls @ Cleveland Cavaliers",
+   "start": "2026-11-17T00:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 245.5",
+   "ask": 59,
+   "cost": 60.6933,
+   "fair": 59,
+   "sharp": null,
+   "why": "Dimers' Mac Douglass (his strongest model edge of the slate, under 241.5) and SI (under 242.5) both lean Under, so this leg buys four extra points of cushion. Evan Mobley is out for Cleveland and SI notes the Bulls rank 26th in offensive rating.",
+   "sources": [
+    {
+     "name": "Dimers / Mac Douglass (Under 241.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-16-2026-ac"
+    },
+    {
+     "name": "SI Betting (Under 242.5)",
+     "url": "https://www.si.com/betting/bulls-vs-cavaliers-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV16MEMWAS-WAS3:no",
+   "league": "NBA",
+   "game": "Memphis Grizzlies @ Washington Wizards",
+   "start": "2026-11-17T00:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Memphis Grizzlies +2.5",
+   "ask": 66,
+   "cost": 67.5708,
+   "fair": 66,
+   "sharp": null,
+   "why": "SI's Peter Dewey, Dimers' Mac Douglass and Covers' Jon Metler all have Memphis to win outright; this leg only needs Washington not to win by 3+. The Wizards have lost 7 straight and are on the second night of a back-to-back. Caveat: Ty Jerome was ruled out after Metler wrote his pick, and the Grizzlies moneyline has drifted.",
+   "sources": [
+    {
+     "name": "SI / Peter Dewey (Memphis Grizzlies ML)",
+     "url": "https://www.si.com/betting/grizzlies-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
+    },
+    {
+     "name": "Dimers / Mac Douglass (Memphis Grizzlies ML)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-16-2026-ac"
+    },
+    {
+     "name": "Covers / Jon Metler (Memphis Grizzlies ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.si.com/betting/grizzlies-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV16ORLBOS-BOS:yes",
+   "league": "NBA",
+   "game": "Orlando Magic @ Boston Celtics",
+   "start": "2026-11-17T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Boston Celtics",
+   "ask": 76,
+   "cost": 77.2768,
+   "fair": 75.8,
+   "sharp": null,
+   "why": "Covers' Jon Metler (Celtics ML) and the BetMGM model (Celtics −8.5, 68.4% cover confidence) both back Boston, and no outlet picks Orlando to win. Paolo Banchero (high ankle sprain) is out for the Magic, along with Isaac, Nelson and Penda. Caveat: Boston is on the second night of a back-to-back.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Boston Celtics ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "BetMGM / model (Boston Celtics SPREAD -8.5)",
+     "url": "https://sports.betmgm.com/en/blog/nba/magic-celtics-prediction-odds-lines-picks-nba-nov-16-jaa/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV16PHIBKN-BKN4:no",
+   "league": "NBA",
+   "game": "Philadelphia 76ers @ Brooklyn Nets",
+   "start": "2026-11-17T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Philadelphia 76ers +3.5",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 74,
+   "sharp": null,
+   "why": "Three outlets have the 76ers winning outright: Covers' Jon Metler, SI's Peter Dewey (as a parlay leg) and the Dimers Data model (68.8%); this leg only needs Brooklyn not to win by 4+. Joel Embiid is expected back, and Michael Porter Jr. is out for the Nets. Caveat: LeBron James is likely out on the back-to-back.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Philadelphia 76ers ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    },
+    {
+     "name": "SI / Peter Dewey (Philadelphia 76ers ML)",
+     "url": "https://www.si.com/betting/nba-best-bets-today-predictions-prop-bets-for-cameron-boozer-rockets-heat-76ers-nuggets"
+    },
+    {
+     "name": "Dimers / Dimers Data (Philadelphia 76ers ML)",
+     "url": "https://www.dimers.com/nba/news/philadelphia-76ers-vs-brooklyn-nets-prediction-11-16-2026-ac"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV17MOHKENT-MOH:yes",
+   "league": "College football",
+   "game": "Miami (OH) RedHawks @ Kent State Golden Flashes",
+   "start": "2026-11-18T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Miami (OH) RedHawks",
+   "ask": 77,
+   "cost": 78.2397,
+   "fair": 76.1,
+   "sharp": null,
+   "why": "All three published picks back Miami: numberFire's model (75.9%), Bang The Book (moneyline) and iHeart's algorithm (projects 31-19). Kent State scores 15.7 points per game (136th), and VSiN's Adam Burke rates the game Miami −12, above the market's −7.5 to −9.5.",
+   "sources": [
+    {
+     "name": "FanDuel Research / Data Skrive (numberFire) (Miami (OH) RedHawks ML)",
+     "url": "https://www.fanduel.com/research/miami-oh-vs-kent-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    },
+    {
+     "name": "Bang The Book (unbylined) (Miami (OH) RedHawks ML)",
+     "url": "https://bangthebook.com/miami-oh-redhawks-vs-kent-state-golden-flashes-prediction-2026-11-17/"
+    },
+    {
+     "name": "iHeartMedia / Data Skrive (algorithm) (Miami (OH) RedHawks SPREAD -8.5)",
+     "url": "https://wncoam.iheart.com/content/2026-11-16-miami-oh-vs-kent-st-football-prediction-odds-nov-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://www.fanduel.com/research/miami-oh-vs-kent-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV17EMUWMU-WMU8:yes",
+   "league": "College football",
+   "game": "Eastern Michigan Eagles @ Western Michigan Broncos",
+   "start": "2026-11-17T23:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Western Michigan Broncos −7.5",
+   "ask": 67,
+   "cost": 68.5477,
+   "fair": 67.5,
+   "sharp": null,
+   "why": "Bang The Book picks Western Michigan (5-1 in the MAC, 184.7 rush yards per game); the market has WMU around −14.5, well past this −7.5. Eastern Michigan is coming off a 35-7 loss to Central Michigan with 177 total yards.",
+   "sources": [
+    {
+     "name": "Bang The Book (unbylined) (Western Michigan Broncos ML)",
+     "url": "https://bangthebook.com/eastern-michigan-eagles-vs-western-michigan-broncos-prediction-2026-11-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://emueagles.com/news/2026/11/12/football-hits-the-road-for-a-tuesday-battle-in-kalamazoo"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV17BALLOHIO-OHIO:yes",
+   "league": "College football",
+   "game": "Ball State Cardinals @ Ohio Bobcats",
+   "start": "2026-11-18T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Ohio Bobcats",
+   "ask": 81,
+   "cost": 82.0773,
+   "fair": 79.6,
+   "sharp": null,
+   "why": "All three published picks back Ohio: numberFire's model (83.1%), Bang The Book (Ohio is 4-0 at home) and iHeart's algorithm (projects 33-20). Ball State allows 34.1 points per game (130th), and its starting left tackle Chris Hood is unlikely to play.",
+   "sources": [
+    {
+     "name": "FanDuel Research / Data Skrive (numberFire) (Ohio Bobcats ML)",
+     "url": "https://www.fanduel.com/research/ohio-vs-ball-state-college-football-odds-picks-best-bets-for-11-17-2026"
+    },
+    {
+     "name": "Bang The Book (unbylined) (Ohio Bobcats ML)",
+     "url": "https://bangthebook.com/ball-state-cardinals-vs-ohio-bobcats-prediction-2026-11-17/"
+    },
+    {
+     "name": "iHeartMedia / Data Skrive (algorithm) (Ohio Bobcats SPREAD -10.5)",
+     "url": "https://wone.iheart.com/content/2026-11-16-ball-st-vs-ohio-football-prediction-odds-nov-17/"
+    },
+    {
+     "name": "Injury/news report",
+     "url": "https://sports.yahoo.com/articles/ball-state-football-vs-ohio-150928713.html"
+    }
+   ]
+  }
+ ]
+}

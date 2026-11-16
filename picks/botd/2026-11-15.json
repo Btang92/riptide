@@ -32,7 +32,8 @@
      "name": "Covers / Neil Parker (Under 46.5)",
      "url": "https://www.covers.com/nfl/jaguars-vs-titans-prediction-picks-nov-15-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNFLSPREAD-26NOV15MIAIND-IND4:yes",
@@ -70,7 +71,8 @@
      "name": "Sports Illustrated / Iain MacMillan (Colts -2.5)",
      "url": "https://www.si.com/betting/road-to-272-bets-nfl-week-10-picks-for-every-game-01m70qgrdya8"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNFLTOTAL-26NOV15MINGB-43:no",
@@ -101,7 +103,8 @@
      "name": "Yahoo Sports / Matt De Lima (Under 42.5)",
      "url": "https://sports.yahoo.com/articles/nfl-week-10-best-bets-152927047.html"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV14MISSOKLA-OKLA2:yes",
@@ -135,7 +138,8 @@
      "name": "Dimers model (OU ML)",
      "url": "https://www.dimers.com/cfb/news/mississippi-vs-oklahoma-prediction-week-11-2026-ac"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLGAME-26NOV15EDMPHI-EDM:yes",
@@ -165,7 +169,8 @@
      "name": "TheSpread (goalie news)",
      "url": "https://www.thespread.com/nhl-articles/oilers-vs-flyers-prediction-november-15-2026/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBASPREAD-26NOV15INDPHI-PHI6:no",
@@ -191,7 +196,8 @@
      "name": "TheSpread / Alex Becker (Pacers +7, lean)",
      "url": "https://thespread.com/nba-articles/pacers-vs-76ers-prediction-november-15-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAMBGAME-26NOV15CREIIOWA-IOWA:yes",
@@ -214,7 +220,8 @@
      "name": "DraftKings Network / Bryan Armetta (Iowa -4.5)",
      "url": "https://dknetwork.draftkings.com/2026/11/15/creighton-bluejays-vs-iowa-hawkeyes-prediction-pick-for-ncaam-on-sunday-11-15-26/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNFLTOTAL-26NOV15LARARI-45:no",
@@ -247,7 +254,8 @@
      "name": "FOX Sports / Will Hill (Under 39.5)",
      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-picks-best-bets-every-game-wills-wagers"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLGAME-26NOV15VANVGK-VGK:yes",
@@ -272,7 +280,8 @@
      "name": "Last Word On Sports / Marcus Yu (Vegas ML)",
      "url": "https://lastwordonsports.com/hockey/2026/11/15/nhl-predictions-van-vgk/"
     }
-   ]
+   ],
+   "result": "loss"
   }
  ]
 }
