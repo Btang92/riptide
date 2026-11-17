@@ -1,0 +1,50 @@
+{
+  "at": "2026-11-17T13:05:00Z",
+  "date": "2026-11-17",
+  "picks": [
+    {
+      "sym": "SITE",
+      "gap": 7.3,
+      "price": 119.0,
+      "catalyst": "Added to S&P SmallCap 600 (effective before open Nov 19)",
+      "why": "SiteOne jumped about 7% after hours Monday because it is being added to the S&P SmallCap 600 index on Thursday, which forces index funds to buy the stock; price is estimated from Monday's $110.90 close plus the after-hours gain, so check the real pre-market quote and watch whether the gap holds.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/siteone-landscape-supply-jumps-7-on-sp-smallcap-600-inclusion-5031150" },
+        { "name": "MarketScreener (MT Newswires)", "url": "https://www.marketscreener.com/news/siteone-landscape-supply-to-join-s-p-smallcap-600-shares-rise-ce785edfdc81f123" }
+      ]
+    },
+    {
+      "sym": "INTC",
+      "gap": -2.6,
+      "price": 54.02,
+      "catalyst": "Nvidia cut its Intel stake by 25% (filing) - sentiment hit, not a business problem",
+      "why": "Intel is down about 3% pre-market after a filing showed Nvidia sold a quarter of its Intel shares; that hurts mood but doesn't change Intel's business, so this kind of drop can bounce - but the stock already fell 7% Monday and faces a shareholder lawsuit, so wait for buyers to show up before going long.",
+      "quality": "ok",
+      "sources": [
+        { "name": "CoinCentral", "url": "https://coincentral.com/intel-intc-stock-slides-to-54-as-nvidia-trims-stake-by-25" },
+        { "name": "TipRanks", "url": "https://www.tipranks.com/news/why-is-intel-stock-falling-in-premarket-trading-today-november-17" },
+        { "name": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/premarket-movers-nvidia-red-cat-fall-home-depot-spacex-gains-5032425" }
+      ]
+    },
+    {
+      "sym": "DIS",
+      "gap": 2.15,
+      "price": 121.25,
+      "catalyst": "Earnings beat + 33% dividend hike + $9B buyback",
+      "why": "Disney beat profit and sales estimates this morning, raised its dividend by a third and plans about $9 billion of buybacks, so the news is clearly good; the pre-market move is only about 2% (under the usual 3% bar), so it is a quality name to watch rather than a big gapper.",
+      "quality": "ok",
+      "sources": [
+        { "name": "CoinCentral", "url": "https://coincentral.com/disney-dis-stock-pops-as-dividend-jumps-33-after-q4-beat" },
+        { "name": "TipRanks", "url": "https://www.tipranks.com/news/disney-beats-q4-estimates-announces-33-dividend-hike-and-3b-cost-saving-plan" },
+        { "name": "24/7 Wall St.", "url": "https://247wallst.com/cards/disney-q4-2026-earnings-dis-01m7mmpfsncp9mx2rz2b14krtq" }
+      ]
+    }
+  ],
+  "avoid": [
+    { "sym": "RCAT", "why": "Down ~26%: revenue badly missed (about $12M vs ~$42M expected) and it withdrew its full-year target - broken outlook, very volatile" },
+    { "sym": "NVDA", "why": "Reports earnings after today's close (first since CEO Huang resigned) - coin-flip event; chip stocks may whipsaw all day" },
+    { "sym": "JD", "why": "Down ~3.4%: revenue and profit both missed on weak China spending - no reason to expect a bounce" },
+    { "sym": "TME", "why": "Down ~3.1% on a revenue miss - mixed results, no clear edge" }
+  ]
+}
