@@ -1,0 +1,199 @@
+{
+ "at": "2026-11-18T15:56:50Z",
+ "date": "2026-11-18",
+ "method": "Started from 2,594 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and checked them against today's 140 newly collected expert picks and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury reasoning agreed, with nothing disagreeing. Dropped for conflicts: Kings +6.5 (top traders $15.6k on Sacramento, but TheLines and BettingPros have Suns −6.5); Texans −13.5 (top traders on Houston, but SI, Covers and The Sports Geek take the Colts +9.5 to +12.5); Cavaliers −4.5 (Dimers and top traders on Cleveland, Covers has Memphis ML); Wizards +6.5 (Dimers and Covers on Washington, but top traders back Toronto's moneyline); Hawks/Thunder Under (Predictem Under, top traders on the Over); Celtics/Nuggets (Lineups has Boston, Covers Denver); Hawks +4.5 (Bang The Book has OKC); Pacers +6.5 (Covers has Houston ML); UMass −2.5 (three outlets, but the small top-trader money is on Akron); Houston/Florida, UConn/Arizona and both MLS wild-card games (experts split). Thursday games (TNF aside) had almost no published previews yet, so all seven legs are Wednesday night; the ladder is shorter than usual rather than padded with unsupported legs.",
+ "honest": "Every leg costs slightly more than its fair price (edge about −1 to −2.5¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNCAAFSPREAD-26NOV18CMUBUFF-BUFF3:yes",
+   "league": "College football",
+   "game": "Central Michigan Chippewas @ Buffalo Bulls",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Buffalo Bulls −2.5",
+   "ask": 52,
+   "cost": 53.7472,
+   "fair": 51.3,
+   "sharp": {
+    "for": 536,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Buffalo has won five straight and covered all six MAC games (7-3 overall). Central Michigan runs 41 times a game but passes for only about 127 yards, and its run defense ranks 136th in success rate against Buffalo's 1,110-yard back Messiah Burch. Three outlets have Buffalo, and top-trader money is all on this side.",
+   "sources": [
+    {
+     "name": "VSiN / Adam Burke (Buffalo −2.5)",
+     "url": "https://vsin.com/college-football/college-football-week-12-picks-akron-vs-umass-central-michigan-vs-buffalo/"
+    },
+    {
+     "name": "Covers / Rob Paul (Buffalo −1.5)",
+     "url": "https://www.covers.com/ncaaf/central-michigan-vs-buffalo-prediction-picks-odds-nov-18-2026"
+    },
+    {
+     "name": "Pro Football Network / Jason Katz (Buffalo −1.5)",
+     "url": "https://www.profootballnetwork.com/cfb/midweek-predictions-week-12-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV18DETNOP-DET8:no",
+   "league": "NBA",
+   "game": "Detroit Pistons @ New Orleans Pelicans",
+   "start": "2026-11-19T01:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "New Orleans Pelicans +7.5",
+   "ask": 55,
+   "cost": 56.7325,
+   "fair": 54.5,
+   "sharp": {
+    "for": 5674,
+    "against": 790,
+    "who": [
+     "monkeymashingkeyboard"
+    ]
+   },
+   "why": "Dimers' model makes the Pelicans a 54% cover at +7 and projects Pistons 117–110, and Covers likes New Orleans outright with Herb Jones on Cade Cunningham and Zion inside. Top traders hold about $5.7k on the Pelicans at this line against $0.8k on Detroit.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Pelicans +7)",
+     "url": "https://www.dimers.com/nba/news/detroit-pistons-vs-new-orleans-pelicans-prediction-11-18-2026-ac"
+    },
+    {
+     "name": "Covers / Jon Metler (Pelicans ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-18-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV18MTLNJ-NJ:yes",
+   "league": "NHL",
+   "game": "Montreal Canadiens @ New Jersey Devils",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "ML",
+   "label": "New Jersey Devils",
+   "ask": 61,
+   "cost": 62.6653,
+   "fair": 60.4,
+   "sharp": {
+    "for": 253,
+    "against": 0,
+    "who": [
+     "nigiri99"
+    ]
+   },
+   "why": "New Jersey is 9-2-0 at home with strong 5-on-5 shot and expected-goal shares, while Montreal is dealing with injuries and scored once in each of its last two games. Three outlets pick the Devils, and the small top-trader money is on New Jersey.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Devils ML)",
+     "url": "https://www.covers.com/picks/nhl"
+    },
+    {
+     "name": "TheSpread / Paul Elliot (Devils ML)",
+     "url": "https://www.thespread.com/nhl-articles/canadiens-vs-devils-prediction-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Devils ML)",
+     "url": "https://bangthebook.com/montreal-canadiens-vs-new-jersey-devils-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV18COLUTA-COL:yes",
+   "league": "NHL",
+   "game": "Colorado Avalanche @ Utah Mammoth",
+   "start": "2026-11-19T03:00:00.000Z",
+   "mk": "ML",
+   "label": "Colorado Avalanche",
+   "ask": 50,
+   "cost": 51.75,
+   "fair": 49.2,
+   "sharp": null,
+   "why": "Utah has lost six straight with an .891 5-on-5 save percentage and a 69% penalty kill, while Colorado's goalie Blackwood is +4.2 goals saved above expected over his last eight. Five outlets take Colorado even without MacKinnon and Makar, which is why it's a near coin-flip price. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Avalanche ML)",
+     "url": "https://www.covers.com/picks/nhl"
+    },
+    {
+     "name": "Bettors Insider / Max Gilson (Avalanche ML)",
+     "url": "https://bettorsinsider.com/sports-betting/2026/11/18/avalanche-vs-mammoth-prediction-colorado-depth-wins/"
+    },
+    {
+     "name": "Lineups.com / Thom Cunningham (Avalanche ML)",
+     "url": "https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Avalanche ML)",
+     "url": "https://bangthebook.com/colorado-avalanche-vs-utah-mammoth-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV18CHIBKN-237:no",
+   "league": "NBA",
+   "game": "Chicago Bulls @ Brooklyn Nets",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 236.5",
+   "ask": 44,
+   "cost": 45.7248,
+   "fair": 43.5,
+   "sharp": null,
+   "why": "Dimers' model has the Under 237.5 in Bulls–Nets, and top traders hold about $1.3k on the Under at the next line up (238.5) against $61 on the Over. No top-trader money at this exact line.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Under 237.5)",
+     "url": "https://www.dimers.com/nba/news/chicago-bulls-vs-brooklyn-nets-prediction-11-18-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLSPREAD-26NOV18BOSDET-DET2:no",
+   "league": "NHL",
+   "game": "Boston Bruins @ Detroit Red Wings",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Boston Bruins +1.5",
+   "ask": 72,
+   "cost": 73.4112,
+   "fair": 71.2,
+   "sharp": null,
+   "why": "Boston has won six straight meetings and scores 3.55 goals a game while allowing 2.60, against Detroit's 2.62 scored. Two outlets pick the Bruins to win outright; this leg only needs them not to lose by two or more. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Lineups.com / Thom Cunningham (Bruins ML)",
+     "url": "https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Bruins ML)",
+     "url": "https://bangthebook.com/boston-bruins-vs-detroit-red-wings-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV18KUWVU-KU:yes",
+   "league": "College basketball",
+   "game": "Kansas Jayhawks @ West Virginia Mountaineers",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "ML",
+   "label": "Kansas Jayhawks",
+   "ask": 79,
+   "cost": 80.1613,
+   "fair": 78.2,
+   "sharp": null,
+   "why": "Dimers' model projects Kansas 80–70 and FanDuel Research cites Kansas' rebounding and interior edge. Both lay 8.5–9.5 points, so this leg only needs the straight-up win. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Kansas −8.5)",
+     "url": "https://www.dimers.com/cbb/news/west-virginia-vs-kansas-prediction-11-18-2026-ac"
+    },
+    {
+     "name": "FanDuel Research (Kansas −9.5)",
+     "url": "https://www.fanduel.com/research/college-basketball-picks-predictions-today-wednesday-nov-18"
+    }
+   ]
+  }
+ ]
+}

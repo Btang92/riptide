@@ -1,254 +1,197 @@
 {
- "at": "2026-11-17T17:10:00Z",
- "date": "2026-11-17",
- "method": "Started from about 2,000 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and checked them against today's 134 newly collected expert picks, injury and goalie news, and Polymarket top-trader positions. The later dump returned no top-trader data, so sharp figures come from the same script's run about 40 minutes earlier. A leg stayed only if at least two of (top traders, a published pick or model, concrete news) agreed and nothing disagreed. Dropped for conflicts: the Spurs spread (Dimers' model is on Pistons +8.5) and the Spurs-Pistons Under (three picks, but top traders are $1.9k against); the Knicks (top traders $6.6k on Toronto, three outlets on Raptors +2.5 to +3.5); the Senators (two picks, but $13k of top-trader money against Ottawa's puck line); Clippers-Jazz (SI on Utah +6.5, top traders against the Clippers); Ducks vs Blues on the side (two picks on Anaheim, $3.8k of top-trader money on St. Louis); Ball State +10.5/+11.5 (three picks, but PFN lays -11.5 with Ohio); Illinois-Duke and Miami (OH)-Kent State (experts split); and Akron-UMass (UMass QB Watson's ankle injury, small money against). Bruins moneyline (edge −2.75) was swapped for Bruins +1.5. Wednesday NBA and NHL previews weren't published yet, so the only Wednesday leg is the MAC game, which is placed last so it fills the ladder after Tuesday's games start.",
- "honest": "Every leg costs slightly more than its fair price (edge about −0.8 to −2.4¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "at": "2026-11-18T15:56:50Z",
+ "date": "2026-11-18",
+ "method": "Started from 2,594 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and checked them against today's 140 newly collected expert picks and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury reasoning agreed, with nothing disagreeing. Dropped for conflicts: Kings +6.5 (top traders $15.6k on Sacramento, but TheLines and BettingPros have Suns −6.5); Texans −13.5 (top traders on Houston, but SI, Covers and The Sports Geek take the Colts +9.5 to +12.5); Cavaliers −4.5 (Dimers and top traders on Cleveland, Covers has Memphis ML); Wizards +6.5 (Dimers and Covers on Washington, but top traders back Toronto's moneyline); Hawks/Thunder Under (Predictem Under, top traders on the Over); Celtics/Nuggets (Lineups has Boston, Covers Denver); Hawks +4.5 (Bang The Book has OKC); Pacers +6.5 (Covers has Houston ML); UMass −2.5 (three outlets, but the small top-trader money is on Akron); Houston/Florida, UConn/Arizona and both MLS wild-card games (experts split). Thursday games (TNF aside) had almost no published previews yet, so all seven legs are Wednesday night; the ladder is shorter than usual rather than padded with unsupported legs.",
+ "honest": "Every leg costs slightly more than its fair price (edge about −1 to −2.5¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
  "ladder": [
   {
-   "id": "KXNHLGAME-26NOV17TORCHI-TOR:yes",
-   "league": "NHL",
-   "game": "Toronto Maple Leafs @ Chicago Blackhawks",
-   "start": "2026-11-18T00:30:00.000Z",
-   "mk": "ML",
-   "label": "Toronto Maple Leafs",
-   "ask": 57,
-   "cost": 58.7157,
-   "fair": 57.9,
-   "sharp": {
-    "for": 34510,
-    "against": 0,
-    "who": [
-     "HomeRunHazard",
-     "keeptheblueflagflyinghigh",
-     "purplegatto"
-    ]
-   },
-   "why": "Three published picks take Toronto: Last Word On Hockey (Leafs 3-2), Bettors Insider (Leafs 4-3) and Covers' Neil Parker (model about 71%). Toronto's power play is 6th (26.7%) against Chicago's 30th (14.3%), and Toronto has the better 5-on-5 expected goals. Polymarket's top sports traders hold about $34.5k on Toronto and none on Chicago.",
-   "sources": [
-    {
-     "name": "Last Word On Hockey / Braden Morrison (Leafs ML)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/17/nhl-predictions-tml-chi/"
-    },
-    {
-     "name": "Bettors Insider / Jason Martinak (Leafs ML)",
-     "url": "https://bettorsinsider.com/nhl/2026/11/17/maple-leafs-vs-blackhawks-prediction-toronto-ends-skid/"
-    },
-    {
-     "name": "Covers / Neil Parker (Leafs ML)",
-     "url": "https://www.covers.com/sport/hockey/nhl/matchup/382458/picks"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV17EMUWMU-WMU14:yes",
-   "league": "College football",
-   "game": "Eastern Michigan Eagles @ Western Michigan Broncos",
-   "start": "2026-11-17T23:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Western Michigan Broncos −13.5",
-   "ask": 57,
-   "cost": 58.7157,
-   "fair": 56.5,
-   "sharp": null,
-   "why": "Covers (Colby Marchio), Pickswise (Chad Hartsock) and Pro Football Network (Jason Katz) all lay -14.5 with Western Michigan, and no one we found takes Eastern Michigan. EMU's defense allows nearly 30 points, 6.1 yards a play and 400+ yards a game, and it gives up the second-most explosive runs in the MAC to a WMU offense that runs on 62% of plays. Pickswise also notes that EMU's offense has stalled without QB Noah Kim, whose status is up in the air.",
-   "sources": [
-    {
-     "name": "Covers / Colby Marchio (WMU -14.5)",
-     "url": "https://covers.com/ncaaf/eastern-michigan-vs-western-michigan-prediction-picks-odds-nov-17-2026"
-    },
-    {
-     "name": "Pickswise / Chad Hartsock (WMU -14.5)",
-     "url": "https://www.pickswise.com/college-football/games/western-michigan-eastern-michigan-college-football-2026-11-17-1800/picks/"
-    },
-    {
-     "name": "Pro Football Network / Jason Katz (WMU -14.5)",
-     "url": "https://www.profootballnetwork.com/cfb/maction-predictions-week-12-2026/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAMBGAME-26NOV17MSUTENN-MSU:yes",
-   "league": "College basketball",
-   "game": "Michigan State Spartans @ Tennessee Volunteers",
-   "start": "2026-11-18T02:00:00.000Z",
-   "mk": "ML",
-   "label": "Michigan State Spartans",
-   "ask": 59,
-   "cost": 60.6933,
-   "fair": 58.3,
-   "sharp": null,
-   "why": "SI's Peter Dewey lays -3.5 with Michigan State, and BetMGM's model gives the Spartans 61.9% to win. Michigan State ranks 10th in adjusted offense and 5th in adjusted defense, while Tennessee (36th on KenPom) is outside the top 25 in both. The Spartans beat Duke last week, and Jeremy Fears Jr. averages 16.8 points and 10.0 assists.",
-   "sources": [
-    {
-     "name": "SI Betting / Peter Dewey (MSU -3.5)",
-     "url": "https://www.si.com/betting/michigan-state-vs-tennessee-prediction-and-odds-for-college-basketball-on-tuesday-nov-17-2026"
-    },
-    {
-     "name": "BetMGM model (MSU ML)",
-     "url": "https://sports.betmgm.com/en/blog/ncaab/michigan-state-tennessee-prediction-odds-picks-nov-17-college-basketball-jaa/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLTOTAL-26NOV17ANASTL-7:yes",
-   "league": "NHL",
-   "game": "Anaheim Ducks @ St. Louis Blues",
-   "start": "2026-11-18T01:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Over 6.5",
-   "ask": 49,
-   "cost": 50.7493,
-   "fair": 48.4,
-   "sharp": null,
-   "why": "SI's Ryan Gilbert and TheSpread's Paul Elliot both take Over 6.5. Anaheim has gone over in 14 of 21 games, including 10 of its last 11, and its games average about 7.4 goals. St. Louis may start Jordan Binnington (4.27 GAA, .851 SV%), and Hofer allowed four goals last time out. No published pick takes the Under.",
-   "sources": [
-    {
-     "name": "SI Betting / Ryan Gilbert (Over 6.5)",
-     "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-kings-bruins-oilers-panthers-ducks-blues"
-    },
-    {
-     "name": "TheSpread / Paul Elliot (Over 6.5)",
-     "url": "https://www.thespread.com/nhl-articles/ducks-vs-blues-prediction-november-17-2026/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLGAME-26NOV17WSHTB-TB:yes",
-   "league": "NHL",
-   "game": "Washington Capitals @ Tampa Bay Lightning",
-   "start": "2026-11-18T00:30:00.000Z",
-   "mk": "ML",
-   "label": "Tampa Bay Lightning",
-   "ask": 60,
-   "cost": 61.68,
-   "fair": 59.4,
-   "sharp": {
-    "for": 191,
-    "against": 0,
-    "who": [
-     "omnibus-076daa"
-    ]
-   },
-   "why": "Last Word On Hockey predicts Lightning 5-3, and SportsBettingDime's Michael Schwartz backs Tampa Bay to win in regulation. Tampa is 13-5-2 and 8-1-0 at home, Washington allowed 12 goals in two losses to New Jersey, and Vasilevskiy is expected in net. The risk is injuries: Cirelli and Cernak missed the last game and Point has been out for three. Top-trader money is small but on Tampa ($191 for, $0 against).",
-   "sources": [
-    {
-     "name": "Last Word On Hockey / Joe Rendace (Lightning)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/17/nhl-predictions-caps-tampa/"
-    },
-    {
-     "name": "SportsBettingDime / Michael Schwartz (Lightning reg. win)",
-     "url": "https://www.sportsbettingdime.com/news/nhl/nhl-picks-today-tuesday-predictions-best-bets-nov-17/"
-    }
-   ]
-  },
-  {
-   "id": "KXNBATOTAL-26NOV17CHALAL-219:yes",
-   "league": "NBA",
-   "game": "Charlotte Hornets @ Los Angeles Lakers",
-   "start": "2026-11-18T04:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Over 218.5",
-   "ask": 55,
-   "cost": 56.7325,
-   "fair": 54.5,
-   "sharp": {
-    "for": 3258,
-    "against": 3016,
-    "who": [
-     "monkeymashingkeyboard"
-    ]
-   },
-   "why": "TheRx (Over 219.5) and Sports Mole (Over 218.5) both take the Over. The Lakers score 122.8 a game and Charlotte allows 119.2, and the Lakers are 10-4 to the Over. Top-trader money is roughly even ($3.3k for, $3.0k against), and no published pick takes the Under.",
-   "sources": [
-    {
-     "name": "TheRx / Jordan Harlow (Over 219.5)",
-     "url": "https://www.therx.com/nba/hornets-lakers-spread-picks-nov-17-2026/55551/"
-    },
-    {
-     "name": "Sports Mole / Adepoju Marvellous (Over 218.5)",
-     "url": "https://www.sportsmole.co.uk/basketball/golden-state-warriors/preview-index/best-bets-and-predictions-for-every-game--18-november-2026_609250.html"
-    }
-   ]
-  },
-  {
-   "id": "KXNBAGAME-26NOV17DETSAS-SAS:yes",
-   "league": "NBA",
-   "game": "Detroit Pistons @ San Antonio Spurs",
-   "start": "2026-11-18T01:00:00.000Z",
-   "mk": "ML",
-   "label": "San Antonio Spurs",
-   "ask": 79,
-   "cost": 80.1613,
-   "fair": 78.6,
-   "sharp": {
-    "for": 66611,
-    "against": 8454,
-    "who": [
-     "HomeRunHazard",
-     "robloxgamblemaster-2008-10-18",
-     "shekelmeister",
-     "purplegatto"
-    ]
-   },
-   "why": "Covers' Geoff Clark takes the Spurs moneyline, and FanDuel Research, Lineups, Sports Mole and TheRx all lay about -9.5. San Antonio is on a 12-game win streak, and Detroit is without starting center Jalen Duren (and Duncan Robinson and Ron Holland II) against Wembanyama. Top traders hold about $66.6k on the Spurs against $8.5k.",
-   "sources": [
-    {
-     "name": "Covers / Geoff Clark (Spurs ML)",
-     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-17-2026"
-    },
-    {
-     "name": "FanDuel Research (Spurs -9.5)",
-     "url": "https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17"
-    },
-    {
-     "name": "TheRx / Jordan Harlow (Spurs -9)",
-     "url": "https://www.therx.com/nba/pistons-spurs-matchup-odds-nov-17-2026/55542/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLSPREAD-26NOV17LABOS-LA2:no",
-   "league": "NHL",
-   "game": "Los Angeles Kings @ Boston Bruins",
-   "start": "2026-11-18T00:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Boston Bruins +1.5",
-   "ask": 80,
-   "cost": 81.12,
-   "fair": 79.5,
-   "sharp": null,
-   "why": "SI (Ryan Gilbert), Bettors Insider (Jessica Stone) and numberFire's model (71.3%) all take Boston on the moneyline; this leg only needs Boston not to lose by 2+. The Kings have lost four straight and are 5-11-2, while Boston is 8-3-0 at home after two days' rest. Top-trader money on the moneyline leans Boston ($1.5k for, $0.3k against).",
-   "sources": [
-    {
-     "name": "SI Betting / Ryan Gilbert (Bruins ML)",
-     "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-kings-bruins-oilers-panthers-ducks-blues"
-    },
-    {
-     "name": "Bettors Insider / Jessica Stone (Bruins ML)",
-     "url": "https://bettorsinsider.com/sports-betting/2026/11/17/kings-vs-bruins-prediction-boston-bounces-back-at-home/"
-    },
-    {
-     "name": "FanDuel Research / numberFire model (Bruins ML)",
-     "url": "https://www.fanduel.com/research/bruins-vs-kings-prediction-nhl-odds-11-17-2026"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV18CMUBUFF-BUFF2:yes",
+   "id": "KXNCAAFSPREAD-26NOV18CMUBUFF-BUFF3:yes",
    "league": "College football",
    "game": "Central Michigan Chippewas @ Buffalo Bulls",
    "start": "2026-11-19T00:30:00.000Z",
    "mk": "SPREAD",
-   "label": "Buffalo Bulls −1.5",
-   "ask": 49,
-   "cost": 50.7493,
-   "fair": 49.3,
-   "sharp": null,
-   "why": "VSiN's Adam Burke takes Buffalo -2.5 on Wednesday. Central Michigan is down to backup QB Jadyn Glasser after Angel Flores was hurt. Buffalo allows 3.95 yards a carry in MAC play against CMU's 4.63, and SP+ ranks Buffalo's special teams 66th and CMU's 126th. No published pick takes Central Michigan.",
+   "label": "Buffalo Bulls −2.5",
+   "ask": 52,
+   "cost": 53.7472,
+   "fair": 51.3,
+   "sharp": {
+    "for": 536,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Buffalo has won five straight and covered all six MAC games (7-3 overall). Central Michigan runs 41 times a game but passes for only about 127 yards, and its run defense ranks 136th in success rate against Buffalo's 1,110-yard back Messiah Burch. Three outlets have Buffalo, and top-trader money is all on this side.",
    "sources": [
     {
-     "name": "VSiN / Adam Burke (Buffalo -2.5)",
+     "name": "VSiN / Adam Burke (Buffalo −2.5)",
      "url": "https://vsin.com/college-football/college-football-week-12-picks-akron-vs-umass-central-michigan-vs-buffalo/"
+    },
+    {
+     "name": "Covers / Rob Paul (Buffalo −1.5)",
+     "url": "https://www.covers.com/ncaaf/central-michigan-vs-buffalo-prediction-picks-odds-nov-18-2026"
+    },
+    {
+     "name": "Pro Football Network / Jason Katz (Buffalo −1.5)",
+     "url": "https://www.profootballnetwork.com/cfb/midweek-predictions-week-12-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV18DETNOP-DET8:no",
+   "league": "NBA",
+   "game": "Detroit Pistons @ New Orleans Pelicans",
+   "start": "2026-11-19T01:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "New Orleans Pelicans +7.5",
+   "ask": 55,
+   "cost": 56.7325,
+   "fair": 54.5,
+   "sharp": {
+    "for": 5674,
+    "against": 790,
+    "who": [
+     "monkeymashingkeyboard"
+    ]
+   },
+   "why": "Dimers' model makes the Pelicans a 54% cover at +7 and projects Pistons 117–110, and Covers likes New Orleans outright with Herb Jones on Cade Cunningham and Zion inside. Top traders hold about $5.7k on the Pelicans at this line against $0.8k on Detroit.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Pelicans +7)",
+     "url": "https://www.dimers.com/nba/news/detroit-pistons-vs-new-orleans-pelicans-prediction-11-18-2026-ac"
+    },
+    {
+     "name": "Covers / Jon Metler (Pelicans ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-18-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV18MTLNJ-NJ:yes",
+   "league": "NHL",
+   "game": "Montreal Canadiens @ New Jersey Devils",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "ML",
+   "label": "New Jersey Devils",
+   "ask": 61,
+   "cost": 62.6653,
+   "fair": 60.4,
+   "sharp": {
+    "for": 253,
+    "against": 0,
+    "who": [
+     "nigiri99"
+    ]
+   },
+   "why": "New Jersey is 9-2-0 at home with strong 5-on-5 shot and expected-goal shares, while Montreal is dealing with injuries and scored once in each of its last two games. Three outlets pick the Devils, and the small top-trader money is on New Jersey.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Devils ML)",
+     "url": "https://www.covers.com/picks/nhl"
+    },
+    {
+     "name": "TheSpread / Paul Elliot (Devils ML)",
+     "url": "https://www.thespread.com/nhl-articles/canadiens-vs-devils-prediction-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Devils ML)",
+     "url": "https://bangthebook.com/montreal-canadiens-vs-new-jersey-devils-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV18COLUTA-COL:yes",
+   "league": "NHL",
+   "game": "Colorado Avalanche @ Utah Mammoth",
+   "start": "2026-11-19T03:00:00.000Z",
+   "mk": "ML",
+   "label": "Colorado Avalanche",
+   "ask": 50,
+   "cost": 51.75,
+   "fair": 49.2,
+   "sharp": null,
+   "why": "Utah has lost six straight with an .891 5-on-5 save percentage and a 69% penalty kill, while Colorado's goalie Blackwood is +4.2 goals saved above expected over his last eight. Five outlets take Colorado even without MacKinnon and Makar, which is why it's a near coin-flip price. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Avalanche ML)",
+     "url": "https://www.covers.com/picks/nhl"
+    },
+    {
+     "name": "Bettors Insider / Max Gilson (Avalanche ML)",
+     "url": "https://bettorsinsider.com/sports-betting/2026/11/18/avalanche-vs-mammoth-prediction-colorado-depth-wins/"
+    },
+    {
+     "name": "Lineups.com / Thom Cunningham (Avalanche ML)",
+     "url": "https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Avalanche ML)",
+     "url": "https://bangthebook.com/colorado-avalanche-vs-utah-mammoth-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV18CHIBKN-237:no",
+   "league": "NBA",
+   "game": "Chicago Bulls @ Brooklyn Nets",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 236.5",
+   "ask": 44,
+   "cost": 45.7248,
+   "fair": 43.5,
+   "sharp": null,
+   "why": "Dimers' model has the Under 237.5 in Bulls–Nets, and top traders hold about $1.3k on the Under at the next line up (238.5) against $61 on the Over. No top-trader money at this exact line.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Under 237.5)",
+     "url": "https://www.dimers.com/nba/news/chicago-bulls-vs-brooklyn-nets-prediction-11-18-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLSPREAD-26NOV18BOSDET-DET2:no",
+   "league": "NHL",
+   "game": "Boston Bruins @ Detroit Red Wings",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Boston Bruins +1.5",
+   "ask": 72,
+   "cost": 73.4112,
+   "fair": 71.2,
+   "sharp": null,
+   "why": "Boston has won six straight meetings and scores 3.55 goals a game while allowing 2.60, against Detroit's 2.62 scored. Two outlets pick the Bruins to win outright; this leg only needs them not to lose by two or more. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Lineups.com / Thom Cunningham (Bruins ML)",
+     "url": "https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/"
+    },
+    {
+     "name": "Bang The Book (Bruins ML)",
+     "url": "https://bangthebook.com/boston-bruins-vs-detroit-red-wings-prediction-2026-11-18/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV18KUWVU-KU:yes",
+   "league": "College basketball",
+   "game": "Kansas Jayhawks @ West Virginia Mountaineers",
+   "start": "2026-11-19T00:30:00.000Z",
+   "mk": "ML",
+   "label": "Kansas Jayhawks",
+   "ask": 79,
+   "cost": 80.1613,
+   "fair": 78.2,
+   "sharp": null,
+   "why": "Dimers' model projects Kansas 80–70 and FanDuel Research cites Kansas' rebounding and interior edge. Both lay 8.5–9.5 points, so this leg only needs the straight-up win. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Dimers / Dimers Data (Kansas −8.5)",
+     "url": "https://www.dimers.com/cbb/news/west-virginia-vs-kansas-prediction-11-18-2026-ac"
+    },
+    {
+     "name": "FanDuel Research (Kansas −9.5)",
+     "url": "https://www.fanduel.com/research/college-basketball-picks-predictions-today-wednesday-nov-18"
     }
    ]
   }

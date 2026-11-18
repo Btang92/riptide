@@ -33,7 +33,8 @@
      "name": "Injury/news report",
      "url": "https://www.si.com/betting/chargers-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-10-01m741zk70e7"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBATOTAL-26NOV16CHICLE-246:no",
@@ -60,7 +61,8 @@
      "name": "Injury/news report",
      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBASPREAD-26NOV16MEMWAS-WAS3:no",
@@ -91,7 +93,8 @@
      "name": "Injury/news report",
      "url": "https://www.si.com/betting/grizzlies-vs-wizards-prediction-odds-and-best-nba-prop-bets-for-monday-nov-16-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBAGAME-26NOV16ORLBOS-BOS:yes",
@@ -118,7 +121,8 @@
      "name": "Injury/news report",
      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_07_30AM.pdf"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBASPREAD-26NOV16PHIBKN-BKN4:no",
@@ -149,7 +153,8 @@
      "name": "Injury/news report",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-16-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFGAME-26NOV17MOHKENT-MOH:yes",
@@ -180,7 +185,8 @@
      "name": "Injury/news report",
      "url": "https://www.fanduel.com/research/miami-oh-vs-kent-state-college-football-odds-picks-best-bets-for-11-17-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV17EMUWMU-WMU8:yes",
@@ -203,7 +209,8 @@
      "name": "Injury/news report",
      "url": "https://emueagles.com/news/2026/11/12/football-hits-the-road-for-a-tuesday-battle-in-kalamazoo"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFGAME-26NOV17BALLOHIO-OHIO:yes",
@@ -234,7 +241,8 @@
      "name": "Injury/news report",
      "url": "https://sports.yahoo.com/articles/ball-state-football-vs-ohio-150928713.html"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }
