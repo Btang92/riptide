@@ -1,0 +1,71 @@
+{
+  "at": "2026-11-18T12:52:00Z",
+  "date": "2026-11-18",
+  "picks": [
+    {
+      "sym": "NBIS",
+      "gap": 7.0,
+      "price": null,
+      "catalyst": "Sympathy move: Nvidia beat and raised (AI cloud rally)",
+      "why": "Nebius rents out Nvidia-powered AI computers, and Nvidia's huge beat and higher forecast last night lifted the whole AI-cloud group; it's a 'sympathy' move with no Nebius news of its own, so it can fade if Nvidia fades. Price not confirmed this morning - use the live quote.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html" }
+      ]
+    },
+    {
+      "sym": "CRWV",
+      "gap": 5.4,
+      "price": null,
+      "catalyst": "Sympathy move: Nvidia beat and raised (AI cloud rally)",
+      "why": "CoreWeave is Nvidia's biggest AI-cloud customer and jumped with the group after Nvidia's strong results and .5 trillion backlog; like Nebius, it has no news of its own today, so treat it as following Nvidia's lead. Price not confirmed this morning - use the live quote.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html" }
+      ]
+    },
+    {
+      "sym": "HPE",
+      "gap": 3.9,
+      "price": null,
+      "catalyst": "Bounce: AI server rally + says its Juniper routers worked as configured",
+      "why": "HPE fell hard Tuesday, then this morning said its Juniper routers worked as the installer (L3Harris) set them up in an ongoing investigation, and it's also riding the AI-server rally after Nvidia; a bounce after a sharp drop can keep going, but the investigation is still open. Price not confirmed - use the live quote.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" }
+      ]
+    },
+    {
+      "sym": "DLB",
+      "gap": -3.8,
+      "price": null,
+      "catalyst": "Gap down on weaker-than-expected annual forecast",
+      "why": "Dolby fell about 4% after hours Tuesday because its yearly forecast came in below Wall Street's estimates; a soft forecast hurts the mood but doesn't threaten the business, which is the kind of gap-down that can bounce once sellers are done. The -3.8% is the after-hours move, not a fresh pre-market quote - check it.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Stock Titan", "url": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026" },
+        { "name": "Rallies.ai", "url": "https://rallies.ai/news/nvidia-take-two-among-us-stocks-on-the-move-3af996310a30242e" }
+      ]
+    },
+    {
+      "sym": "LOW",
+      "gap": -2.5,
+      "price": null,
+      "catalyst": "Earnings beat but profit outlook trimmed (gap down)",
+      "why": "Lowe's beat estimates and raised its sales forecast, but the beat was helped by a one-time tariff refund and it trimmed its profit-margin outlook, so the stock is down; that's a 'good company, disappointing details' drop that can reverse, but at -2.5% it's under the usual 3% bar - watch, don't force it.",
+      "quality": "ok",
+      "sources": [
+        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
+        { "name": "Startup Fortune", "url": "https://startupfortune.com/lowes-beats-third-quarter-estimates-but-shares-fall-as-tariff-refund-flatters-the-profit/" }
+      ]
+    }
+  ],
+  "avoid": [
+    { "sym": "NVDA", "why": "Great earnings (+~3% to ~$160 overnight), but the SEC has reportedly opened a civil probe into Nvidia's disclosures after CEO Jensen Huang's exit - SEC probe = surprise-headline risk, avoid" },
+    { "sym": "ARDT", "why": "Stock offering: 7-8 million shares (reports differ) being sold by big holders (down ~13-15% after hours)" },
+    { "sym": "AAOI", "why": "Stock offering: filed to sell up to $550M of new shares over time (dilution)" },
+    { "sym": "SLS", "why": "Up 156% in one day Tuesday then fell after hours - small biotech spike, too wild for a beginner" }
+  ]
+}
