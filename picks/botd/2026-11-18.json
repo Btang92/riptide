@@ -35,7 +35,8 @@
      "name": "Pro Football Network / Jason Katz (Buffalo −1.5)",
      "url": "https://www.profootballnetwork.com/cfb/midweek-predictions-week-12-2026/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBASPREAD-26NOV18DETNOP-DET8:no",
@@ -64,7 +65,8 @@
      "name": "Covers / Jon Metler (Pelicans ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-18-2026"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNHLGAME-26NOV18MTLNJ-NJ:yes",
@@ -97,7 +99,8 @@
      "name": "Bang The Book (Devils ML)",
      "url": "https://bangthebook.com/montreal-canadiens-vs-new-jersey-devils-prediction-2026-11-18/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNHLGAME-26NOV18COLUTA-COL:yes",
@@ -128,7 +131,8 @@
      "name": "Bang The Book (Avalanche ML)",
      "url": "https://bangthebook.com/colorado-avalanche-vs-utah-mammoth-prediction-2026-11-18/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBATOTAL-26NOV18CHIBKN-237:no",
@@ -147,7 +151,8 @@
      "name": "Dimers / Dimers Data (Under 237.5)",
      "url": "https://www.dimers.com/nba/news/chicago-bulls-vs-brooklyn-nets-prediction-11-18-2026-ac"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNHLSPREAD-26NOV18BOSDET-DET2:no",
@@ -170,7 +175,8 @@
      "name": "Bang The Book (Bruins ML)",
      "url": "https://bangthebook.com/boston-bruins-vs-detroit-red-wings-prediction-2026-11-18/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAMBGAME-26NOV18KUWVU-KU:yes",
@@ -193,7 +199,8 @@
      "name": "FanDuel Research (Kansas −9.5)",
      "url": "https://www.fanduel.com/research/college-basketball-picks-predictions-today-wednesday-nov-18"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }

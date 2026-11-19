@@ -1047,7 +1047,8 @@
    "url": "https://www.covers.com/nfl/chargers-vs-ravens-prediction-picks-odds-early-leans-week-10-2026",
    "note": "LAC run D allowing 4.7 YPC, Henry should exploit (early lean)",
    "team": "Baltimore Ravens",
-   "line": -5.5
+   "line": -5.5,
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1059,7 +1060,8 @@
    "url": "https://www.covers.com/nfl/chargers-vs-ravens-prediction-picks-odds-early-leans-week-10-2026",
    "note": "Herbert hand injury, McConkey questionable (early lean)",
    "side": "under",
-   "line": 38.5
+   "line": 38.5,
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1070,7 +1072,8 @@
    "source": "Sports Illustrated / Iain MacMillan",
    "url": "https://www.si.com/betting/chargers-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-10-01m741zk70e7",
    "note": "ML +185 BetMGM; LAC D comparable, BAL O may not outscore",
-   "team": "Los Angeles Chargers"
+   "team": "Los Angeles Chargers",
+   "result": "win"
   },
   {
    "league": "NFL",
@@ -1082,7 +1085,8 @@
    "url": "https://sports.betmgm.com/en/blog/nfl/ravens-vs-chargers-prediction-odds-picks-week-10-mnf-2026-bm16/",
    "note": "BAL extra rest, end skid on MNF; -105",
    "team": "Baltimore Ravens",
-   "line": -3.5
+   "line": -3.5,
+   "result": "loss"
   },
   {
    "league": "NFL",
@@ -1094,7 +1098,8 @@
    "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-10-2026-expert-ats-picks-predictions-best-bets-player-props-for-nov-15/",
    "note": "BAL extra rest, LAC winless ATS, may start backup QB",
    "team": "Baltimore Ravens",
-   "line": -4.5
+   "line": -4.5,
+   "result": "loss"
   },
   {
    "league": "NBA",

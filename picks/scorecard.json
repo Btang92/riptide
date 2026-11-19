@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:57:01Z",
+ "updated": "2026-11-19T15:46:00Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -16,7 +16,9 @@
   "2026-11-12",
   "2026-11-13",
   "2026-11-14",
-  "2026-11-16"
+  "2026-11-15",
+  "2026-11-16",
+  "2026-11-17"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -105,7 +107,7 @@
    "p": 0
   },
   "CBS Sports / Daniel Kohn (SportsLine model)": {
-   "w": 4,
+   "w": 5,
    "l": 2,
    "p": 0
   },
@@ -126,7 +128,7 @@
   },
   "Covers / Colby Marchio": {
    "w": 13,
-   "l": 8,
+   "l": 11,
    "p": 0
   },
   "Covers / Dustin Saracini": {
@@ -135,8 +137,8 @@
    "p": 0
   },
   "Covers / Geoff Clark": {
-   "w": 10,
-   "l": 11,
+   "w": 11,
+   "l": 15,
    "p": 0
   },
   "Covers / JD Yonke": {
@@ -155,8 +157,8 @@
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 19,
-   "l": 20,
+   "w": 21,
+   "l": 23,
    "p": 0
   },
   "Covers / Joe Osborne": {
@@ -176,7 +178,7 @@
   },
   "Covers / Neil Parker": {
    "w": 23,
-   "l": 18,
+   "l": 22,
    "p": 0
   },
   "Covers / Nick Galaida": {
@@ -215,8 +217,8 @@
    "p": 0
   },
   "Dimers (model)": {
-   "w": 37,
-   "l": 34,
+   "w": 43,
+   "l": 42,
    "p": 1
   },
   "Dimers / Best Bets": {
@@ -270,13 +272,13 @@
    "p": 0
   },
   "Dimers / Ryan Leaver (model)": {
-   "w": 10,
-   "l": 11,
+   "w": 15,
+   "l": 12,
    "p": 0
   },
   "FanDuel Research / Data Skrive (numberFire model)": {
    "w": 1,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "FanDuel Research / Data Skrive (numberFire)": {
@@ -285,8 +287,8 @@
    "p": 0
   },
   "FanDuel Research / FanDuel Staff": {
-   "w": 10,
-   "l": 16,
+   "w": 11,
+   "l": 20,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
@@ -350,7 +352,7 @@
    "p": 0
   },
   "Pickswise / Joe Williams": {
-   "w": 2,
+   "w": 4,
    "l": 2,
    "p": 0
   },
@@ -410,8 +412,8 @@
    "p": 0
   },
   "Pro Football Network / Jason Katz": {
-   "w": 1,
-   "l": 5,
+   "w": 2,
+   "l": 7,
    "p": 0
   },
   "RG.org / Sergey Demidov": {
@@ -425,8 +427,8 @@
    "p": 0
   },
   "SI Betting / Peter Dewey": {
-   "w": 18,
-   "l": 20,
+   "w": 22,
+   "l": 23,
    "p": 0
   },
   "Sports Betting Dime / Chris Amberley": {
@@ -455,8 +457,8 @@
    "p": 0
   },
   "TheLines / Justin Bales": {
-   "w": 4,
-   "l": 3,
+   "w": 5,
+   "l": 5,
    "p": 0
   },
   "TheLines / Nick Crain": {
@@ -465,23 +467,23 @@
    "p": 0
   },
   "TheSpread / Alex Becker": {
-   "w": 10,
-   "l": 9,
+   "w": 11,
+   "l": 10,
    "p": 0
   },
   "TheSpread / Anthony Rome": {
-   "w": 12,
-   "l": 12,
+   "w": 13,
+   "l": 13,
    "p": 0
   },
   "TheSpread / Paul Elliot": {
-   "w": 11,
+   "w": 15,
    "l": 9,
    "p": 2
   },
   "VSiN / Adam Burke": {
-   "w": 12,
-   "l": 10,
+   "w": 15,
+   "l": 11,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
@@ -576,7 +578,7 @@
   },
   "Pickswise / Chad Hartsock": {
    "w": 0,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "SI / Ryan Gilbert": {
@@ -595,7 +597,7 @@
    "p": 0
   },
   "Sports Illustrated / Iain MacMillan": {
-   "w": 7,
+   "w": 8,
    "l": 11,
    "p": 0
   },
@@ -611,7 +613,7 @@
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
    "w": 1,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "ESPN / Seth Walder": {
@@ -645,8 +647,8 @@
    "p": 0
   },
   "TheLines / Chris Kubala": {
-   "w": 7,
-   "l": 2,
+   "w": 8,
+   "l": 5,
    "p": 0
   },
   "CBS Sports / SportsLine model (Andy Bryan)": {
@@ -700,8 +702,8 @@
    "p": 0
   },
   "Covers / Ed Scimia": {
-   "w": 6,
-   "l": 3,
+   "w": 7,
+   "l": 4,
    "p": 0
   },
   "Yahoo Sports (NBC Sports) / Vaughn Dalzell": {
@@ -725,7 +727,7 @@
    "p": 0
   },
   "CBS Sports / Daniel Lewis (model)": {
-   "w": 2,
+   "w": 3,
    "l": 0,
    "p": 0
   },
@@ -915,8 +917,8 @@
    "p": 0
   },
   "Sports Mole / Adepoju Marvellous": {
-   "w": 18,
-   "l": 16,
+   "w": 20,
+   "l": 19,
    "p": 0
   },
   "Action Network (via Yahoo) / Matt Moore": {
@@ -931,7 +933,7 @@
   },
   "Covers / Chris Faria": {
    "w": 1,
-   "l": 2,
+   "l": 4,
    "p": 0
   },
   "RotoWire / Eric Timm": {
@@ -965,8 +967,8 @@
    "p": 0
   },
   "TheRX / Ryan Callahan": {
-   "w": 1,
-   "l": 3,
+   "w": 2,
+   "l": 4,
    "p": 0
   },
   "Hoops HQ / Seth Davis": {
@@ -990,8 +992,8 @@
    "p": 0
   },
   "BetMGM (model)": {
-   "w": 18,
-   "l": 10,
+   "w": 21,
+   "l": 14,
    "p": 0
   },
   "Last Word On Hockey / Lori Bennett": {
@@ -1001,7 +1003,7 @@
   },
   "Last Word On Hockey / Braden Morrison": {
    "w": 3,
-   "l": 0,
+   "l": 2,
    "p": 0
   },
   "FanDuel Research / Data Skrive (model)": {
@@ -1026,11 +1028,11 @@
   },
   "Action Network / Colby Marchio": {
    "w": 0,
-   "l": 1,
+   "l": 3,
    "p": 0
   },
   "Action Network / Jonathan Jorcin": {
-   "w": 1,
+   "w": 2,
    "l": 1,
    "p": 0
   },
@@ -1096,7 +1098,7 @@
   },
   "BetMGM / Nick Hennion": {
    "w": 0,
-   "l": 6,
+   "l": 7,
    "p": 0
   },
   "Action Network / Collin Wilson": {
@@ -1165,8 +1167,8 @@
    "p": 0
   },
   "SI Betting / Ryan Gilbert": {
-   "w": 3,
-   "l": 0,
+   "w": 5,
+   "l": 1,
    "p": 0
   },
   "Covers / Kyle LaRusic": {
@@ -1210,8 +1212,8 @@
    "p": 0
   },
   "Lineups / Thom Cunningham": {
-   "w": 2,
-   "l": 3,
+   "w": 4,
+   "l": 4,
    "p": 0
   },
   "Action Network / Jim Turvey": {
@@ -1231,7 +1233,7 @@
   },
   "Bettors Insider / Mike Noblin": {
    "w": 2,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "FOX Sports 550 (iHeart) (model)": {
@@ -1256,7 +1258,7 @@
   },
   "Action Network / Sean Paul": {
    "w": 1,
-   "l": 0,
+   "l": 2,
    "p": 0
   },
   "CBS Sports / SportsLine (model)": {
@@ -1365,7 +1367,7 @@
    "p": 0
   },
   "Bettors Insider / Bill Christy": {
-   "w": 1,
+   "w": 2,
    "l": 0,
    "p": 0
   },
@@ -1486,7 +1488,7 @@
   },
   "CBS Sports / Larry Hartstein": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "CBS Sports / SportsLine model (Adam Thompson)": {
@@ -1616,7 +1618,7 @@
   },
   "Bettors Insider / Jessica Stone": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "Covers / Jason Wilson": {
@@ -1630,44 +1632,99 @@
    "p": 0
   },
   "Bettors Insider / Earnest Horn": {
-   "w": 0,
-   "l": 1,
+   "w": 3,
+   "l": 2,
    "p": 0
   },
   "iHeart (Ticket 760) predictions": {
    "w": 1,
    "l": 0,
    "p": 0
+  },
+  "CBS Sports / Daniel Kohn (model)": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Ross Kelly (model)": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network / Jordan Mann": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Last Word On Hockey / Matthew Page": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "97.5 The Fanatic / Michael Garaventa": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "SportsBettingDime / Michael Schwartz": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "Last Word On Hockey / Levi Pike": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Bettors Insider / Jason Martinak": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Last Word On Hockey / Joe Rendace": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "TheRx / Jordan Harlow": {
+   "w": 2,
+   "l": 4,
+   "p": 0
+  },
+  "TheRX / Casey Whitmore": {
+   "w": 0,
+   "l": 2,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 4,
+   "w": 5,
    "l": 7
   },
   "2": {
    "w": 2,
-   "l": 9
+   "l": 10
   },
   "3": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "4": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "5": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "6": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "7": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "8": {
    "w": 0,
@@ -1675,16 +1732,14 @@
   },
   "9": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "10": {
    "w": 0,
    "l": 3
   }
  },
- "partial_files": {
-  "2026-11-15": 159
- },
+ "partial_files": {},
  "botd_graded": [
   "2026-11-11",
   "2026-11-12",
@@ -1692,11 +1747,13 @@
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "ungradable": {
   "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)",
   "2026-11-14": "Jarrett Allen points, Peyton Watson points, Ty Jerome threes (DNP/inactive, no box-score line); Washington @ Utah NCAAB (no such game on Nov 15; scheduled Dec 5)",
-  "2026-11-15": "DeMarcus Robinson anytime TD (no box-score line)"
+  "2026-11-15": "DeMarcus Robinson anytime TD (no box-score line)",
+  "2026-11-17": "Brandon Hagel goals (DNP/injured, no box-score line)"
  }
 }
