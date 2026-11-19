@@ -1,71 +1,72 @@
 {
-  "at": "2026-11-18T12:52:00Z",
-  "date": "2026-11-18",
+  "at": "2026-11-19T12:50:00Z",
+  "date": "2026-11-19",
   "picks": [
     {
-      "sym": "NBIS",
-      "gap": 7.0,
+      "sym": "PANW",
+      "gap": 9.5,
       "price": null,
-      "catalyst": "Sympathy move: Nvidia beat and raised (AI cloud rally)",
-      "why": "Nebius rents out Nvidia-powered AI computers, and Nvidia's huge beat and higher forecast last night lifted the whole AI-cloud group; it's a 'sympathy' move with no Nebius news of its own, so it can fade if Nvidia fades. Price not confirmed this morning - use the live quote.",
-      "quality": "ok",
+      "catalyst": "Earnings beat + raised full-year sales forecast",
+      "why": "Palo Alto beat estimates (revenue up 39% to $3.44B) and raised its yearly sales forecast, and it's up about 9-10% before the open; a big, well-known company beating and raising is the classic setup that can keep moving all day. Reports differ between +9% and +10%, so use the live quote for price.",
+      "quality": "strong",
       "sources": [
-        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
-        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html" }
+        { "name": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/stock-market-news/palo-altos-raised-sales-forecast-powers-cybersecurity-stock-rally-5038632" },
+        { "name": "CoinCentral", "url": "https://coincentral.com/todays-market-movers-anthropic-google-palo-alto-walmart-and-more" },
+        { "name": "Benzinga (via TradingView)", "url": "https://www.tradingview.com/news/benzinga:f42c55565094b:0-stock-market-today-dow-s-p-500-futures-rise-as-wall-street-awaits-anthropic-s-listing-panw-ntes-sls-in-focus/" }
       ]
     },
     {
-      "sym": "CRWV",
-      "gap": 5.4,
+      "sym": "P",
+      "gap": 6.0,
       "price": null,
-      "catalyst": "Sympathy move: Nvidia beat and raised (AI cloud rally)",
-      "why": "CoreWeave is Nvidia's biggest AI-cloud customer and jumped with the group after Nvidia's strong results and .5 trillion backlog; like Nebius, it has no news of its own today, so treat it as following Nvidia's lead. Price not confirmed this morning - use the live quote.",
-      "quality": "ok",
+      "catalyst": "Earnings beat + raised guidance (3rd straight raise)",
+      "why": "Everpure (the old Pure Storage) grew sales 51%, beat profit estimates, and raised its yearly forecast for the third quarter in a row, so it jumped about 6% after hours from a $100.74 close; the stock had fallen ~29% in the past month, so good news can spark a strong bounce. The +6% is the after-hours move, not a fresh pre-market quote - check it.",
+      "quality": "strong",
       "sources": [
-        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
-        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html" }
+        { "name": "CoinCentral", "url": "https://coincentral.com/everpure-p-stock-rises-6-after-record-quarter-and-third-straight-guidance-raise" }
       ]
     },
     {
-      "sym": "HPE",
-      "gap": 3.9,
+      "sym": "INTC",
+      "gap": 4.0,
       "price": null,
-      "catalyst": "Bounce: AI server rally + says its Juniper routers worked as configured",
-      "why": "HPE fell hard Tuesday, then this morning said its Juniper routers worked as the installer (L3Harris) set them up in an ongoing investigation, and it's also riding the AI-server rally after Nvidia; a bounce after a sharp drop can keep going, but the investigation is still open. Price not confirmed - use the live quote.",
+      "catalyst": "First outside customer for its newest 18A chip-making process",
+      "why": "Intel's CEO said it signed its first outside customer for its most advanced chip factory process (the customer wasn't named), which is a big step for its factory business, and the stock is up about 4% from a $54.67 close; it also fell 12% in the past five days, so it has room to bounce. Because the customer is unnamed, the move could fade if no details come out.",
       "quality": "ok",
       "sources": [
-        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" }
+        { "name": "MarketScreener (MT Newswires)", "url": "https://www.marketscreener.com/news/intel-shares-rise-pre-bell-on-signing-first-external-customer-for-advanced-18a-chip-tech-ce785ed2d98bf425" },
+        { "name": "TipRanks", "url": "https://www.tipranks.com/news/intel-stock-intc-rises-on-first-external-advanced-18a-chip-customer-win" }
       ]
     },
     {
-      "sym": "DLB",
-      "gap": -3.8,
+      "sym": "CRWD",
+      "gap": 6.6,
       "price": null,
-      "catalyst": "Gap down on weaker-than-expected annual forecast",
-      "why": "Dolby fell about 4% after hours Tuesday because its yearly forecast came in below Wall Street's estimates; a soft forecast hurts the mood but doesn't threaten the business, which is the kind of gap-down that can bounce once sellers are done. The -3.8% is the after-hours move, not a fresh pre-market quote - check it.",
+      "catalyst": "Sympathy move: Palo Alto beat-and-raise lifts cybersecurity",
+      "why": "CrowdStrike has no news of its own today; it's up about 5-7% because its biggest rival Palo Alto posted strong results, which makes investors more upbeat about the whole security group. Sympathy moves follow the leader, so if PANW fades, CRWD likely fades too.",
       "quality": "ok",
       "sources": [
-        { "name": "Stock Titan", "url": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026" },
-        { "name": "Rallies.ai", "url": "https://rallies.ai/news/nvidia-take-two-among-us-stocks-on-the-move-3af996310a30242e" }
+        { "name": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/stock-market-news/palo-altos-raised-sales-forecast-powers-cybersecurity-stock-rally-5038632" },
+        { "name": "Benzinga (via TradingView)", "url": "https://www.tradingview.com/news/benzinga:f42c55565094b:0-stock-market-today-dow-s-p-500-futures-rise-as-wall-street-awaits-anthropic-s-listing-panw-ntes-sls-in-focus/" }
       ]
     },
     {
-      "sym": "LOW",
-      "gap": -2.5,
+      "sym": "GOOGL",
+      "gap": 4.0,
       "price": null,
-      "catalyst": "Earnings beat but profit outlook trimmed (gap down)",
-      "why": "Lowe's beat estimates and raised its sales forecast, but the beat was helped by a one-time tariff refund and it trimmed its profit-margin outlook, so the stock is down; that's a 'good company, disappointing details' drop that can reverse, but at -2.5% it's under the usual 3% bar - watch, don't force it.",
+      "catalyst": "Owns a big stake in Anthropic, which prices a record IPO today",
+      "why": "Alphabet is up about 4% because it owns roughly 1.8 billion shares of Anthropic, whose record IPO priced at $83 (above the expected range) and starts trading today; the move depends on how Anthropic trades, so expect swings once it opens.",
       "quality": "ok",
       "sources": [
-        { "name": "Investing.com (via Finwire)", "url": "https://finwire.io/news/stock-markets-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls" },
-        { "name": "Startup Fortune", "url": "https://startupfortune.com/lowes-beats-third-quarter-estimates-but-shares-fall-as-tariff-refund-flatters-the-profit/" }
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html" },
+        { "name": "CoinCentral", "url": "https://coincentral.com/todays-market-movers-anthropic-google-palo-alto-walmart-and-more" }
       ]
     }
   ],
   "avoid": [
-    { "sym": "NVDA", "why": "Great earnings (+~3% to ~$160 overnight), but the SEC has reportedly opened a civil probe into Nvidia's disclosures after CEO Jensen Huang's exit - SEC probe = surprise-headline risk, avoid" },
-    { "sym": "ARDT", "why": "Stock offering: 7-8 million shares (reports differ) being sold by big holders (down ~13-15% after hours)" },
-    { "sym": "AAOI", "why": "Stock offering: filed to sell up to $550M of new shares over time (dilution)" },
-    { "sym": "SLS", "why": "Up 156% in one day Tuesday then fell after hours - small biotech spike, too wild for a beginner" }
+    { "sym": "SLS", "why": "Stock offering: sold $150M of new shares at $13 the day after a big trial-data spike (down ~18-21% pre-market) - dilution" },
+    { "sym": "ANT", "why": "Anthropic's first trading day (IPO priced at $83) - no trading history and huge first-day swings, too wild for a beginner" },
+    { "sym": "NVDA", "why": "Up ~2% on Trump China-chip comments, but under the 3% bar and the reported SEC probe from earlier this week is still hanging over it" },
+    { "sym": "NTES", "why": "Down ~6% on an earnings miss - a China name with a weak report and no clear bounce reason; skip unless it holds a level" }
   ]
 }
