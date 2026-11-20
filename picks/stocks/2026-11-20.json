@@ -1,0 +1,110 @@
+{
+ "at": "2026-11-20T12:50:00Z",
+ "date": "2026-11-20",
+ "picks": [
+  {
+   "sym": "INTU",
+   "gap": -10.0,
+   "price": 279.3,
+   "catalyst": "Gap down: selling Mailchimp at a big loss + trimmed full-year sales forecast (quarter itself beat)",
+   "why": "Intuit beat on its quarter but agreed to sell Mailchimp for about $3.68B (it paid about $12B) and nudged its yearly sales forecast down to $23.08B-$23.37B, so it's down about 10% before the open; this hurts sentiment, not the business's survival, so a big name like this can bounce once early sellers are done. Wait for the desk's trigger, and remember the whole market is weak today.",
+   "quality": "strong",
+   "sources": [
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
+    },
+    {
+     "name": "StockMarketWatch pre-market movers",
+     "url": "https://stockmarketwatch.com/movers/premarket"
+    },
+    {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    }
+   ]
+  },
+  {
+   "sym": "ROST",
+   "gap": -4.0,
+   "price": null,
+   "catalyst": "Gap down: beat and raised the year, but holiday-quarter profit forecast a bit light",
+   "why": "Ross had a strong quarter (sales up 12%, profit $1.91 a share vs. its own $1.75-$1.83 plan) and raised its full-year forecast, but its holiday-quarter profit range ($2.16-$2.25) came in a little under hopes, so it's down roughly 3-4%; a good business dipping on a small guidance miss is a classic 'can reverse' setup. No reliable pre-market price found, so use the live quote.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "Ross Stores Q3 release (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000047/q326exhibit991.htm"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
+    },
+    {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    }
+   ]
+  },
+  {
+   "sym": "MU",
+   "gap": -5.1,
+   "price": 655.48,
+   "catalyst": "Sector sell-off (AI chips/memory) - no Micron-specific bad news",
+   "why": "Micron is down about 5% only because chip stocks are being sold across the board after a rough night in Asia and a UBS note on AI spending pressure, not because of anything Micron reported; sector-wide drops like this can reverse, but only trade it if the chip group stops falling after the open.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "StockMarketWatch pre-market movers",
+     "url": "https://stockmarketwatch.com/movers/premarket"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
+    },
+    {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    }
+   ]
+  }
+ ],
+ "avoid": [
+  {
+   "sym": "ANT",
+   "why": "Day 2 of a brand-new IPO, down ~7-10% on profit-taking; wild swings, no history to trade from"
+  },
+  {
+   "sym": "AMD",
+   "why": "Down ~6% in the chip sell-off plus a new short-seller report (Hunterbrook) - extra headline risk"
+  },
+  {
+   "sym": "SNDK",
+   "why": "8-for-1 stock split takes effect today, so pre-market % and price levels are confusing"
+  },
+  {
+   "sym": "GAP",
+   "why": "Up ~2-4% on a profit beat, but it cut its full-year outlook and comps were flat - gap could fade"
+  },
+  {
+   "sym": "AAOI",
+   "why": "Down ~7.5% in the optical/AI sell-off with no company news; very volatile"
+  },
+  {
+   "sym": "ERAS",
+   "why": "Down ~12% with no news found to explain it"
+  },
+  {
+   "sym": "AKAN",
+   "why": "Under $10, speculative retail spike with no clear news"
+  },
+  {
+   "sym": "MEDS",
+   "why": "Under $10 ($1), no news or filing behind the jump"
+  },
+  {
+   "sym": "CAPR",
+   "why": "Under $10, no catalyst found"
+  }
+ ]
+}

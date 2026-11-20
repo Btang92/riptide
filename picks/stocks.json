@@ -1,72 +1,110 @@
 {
-  "at": "2026-11-19T12:50:00Z",
-  "date": "2026-11-19",
-  "picks": [
+ "at": "2026-11-20T12:50:00Z",
+ "date": "2026-11-20",
+ "picks": [
+  {
+   "sym": "INTU",
+   "gap": -10.0,
+   "price": 279.3,
+   "catalyst": "Gap down: selling Mailchimp at a big loss + trimmed full-year sales forecast (quarter itself beat)",
+   "why": "Intuit beat on its quarter but agreed to sell Mailchimp for about $3.68B (it paid about $12B) and nudged its yearly sales forecast down to $23.08B-$23.37B, so it's down about 10% before the open; this hurts sentiment, not the business's survival, so a big name like this can bounce once early sellers are done. Wait for the desk's trigger, and remember the whole market is weak today.",
+   "quality": "strong",
+   "sources": [
     {
-      "sym": "PANW",
-      "gap": 9.5,
-      "price": null,
-      "catalyst": "Earnings beat + raised full-year sales forecast",
-      "why": "Palo Alto beat estimates (revenue up 39% to $3.44B) and raised its yearly sales forecast, and it's up about 9-10% before the open; a big, well-known company beating and raising is the classic setup that can keep moving all day. Reports differ between +9% and +10%, so use the live quote for price.",
-      "quality": "strong",
-      "sources": [
-        { "name": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/stock-market-news/palo-altos-raised-sales-forecast-powers-cybersecurity-stock-rally-5038632" },
-        { "name": "CoinCentral", "url": "https://coincentral.com/todays-market-movers-anthropic-google-palo-alto-walmart-and-more" },
-        { "name": "Benzinga (via TradingView)", "url": "https://www.tradingview.com/news/benzinga:f42c55565094b:0-stock-market-today-dow-s-p-500-futures-rise-as-wall-street-awaits-anthropic-s-listing-panw-ntes-sls-in-focus/" }
-      ]
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
     },
     {
-      "sym": "P",
-      "gap": 6.0,
-      "price": null,
-      "catalyst": "Earnings beat + raised guidance (3rd straight raise)",
-      "why": "Everpure (the old Pure Storage) grew sales 51%, beat profit estimates, and raised its yearly forecast for the third quarter in a row, so it jumped about 6% after hours from a $100.74 close; the stock had fallen ~29% in the past month, so good news can spark a strong bounce. The +6% is the after-hours move, not a fresh pre-market quote - check it.",
-      "quality": "strong",
-      "sources": [
-        { "name": "CoinCentral", "url": "https://coincentral.com/everpure-p-stock-rises-6-after-record-quarter-and-third-straight-guidance-raise" }
-      ]
+     "name": "StockMarketWatch pre-market movers",
+     "url": "https://stockmarketwatch.com/movers/premarket"
     },
     {
-      "sym": "INTC",
-      "gap": 4.0,
-      "price": null,
-      "catalyst": "First outside customer for its newest 18A chip-making process",
-      "why": "Intel's CEO said it signed its first outside customer for its most advanced chip factory process (the customer wasn't named), which is a big step for its factory business, and the stock is up about 4% from a $54.67 close; it also fell 12% in the past five days, so it has room to bounce. Because the customer is unnamed, the move could fade if no details come out.",
-      "quality": "ok",
-      "sources": [
-        { "name": "MarketScreener (MT Newswires)", "url": "https://www.marketscreener.com/news/intel-shares-rise-pre-bell-on-signing-first-external-customer-for-advanced-18a-chip-tech-ce785ed2d98bf425" },
-        { "name": "TipRanks", "url": "https://www.tipranks.com/news/intel-stock-intc-rises-on-first-external-advanced-18a-chip-customer-win" }
-      ]
-    },
-    {
-      "sym": "CRWD",
-      "gap": 6.6,
-      "price": null,
-      "catalyst": "Sympathy move: Palo Alto beat-and-raise lifts cybersecurity",
-      "why": "CrowdStrike has no news of its own today; it's up about 5-7% because its biggest rival Palo Alto posted strong results, which makes investors more upbeat about the whole security group. Sympathy moves follow the leader, so if PANW fades, CRWD likely fades too.",
-      "quality": "ok",
-      "sources": [
-        { "name": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/stock-market-news/palo-altos-raised-sales-forecast-powers-cybersecurity-stock-rally-5038632" },
-        { "name": "Benzinga (via TradingView)", "url": "https://www.tradingview.com/news/benzinga:f42c55565094b:0-stock-market-today-dow-s-p-500-futures-rise-as-wall-street-awaits-anthropic-s-listing-panw-ntes-sls-in-focus/" }
-      ]
-    },
-    {
-      "sym": "GOOGL",
-      "gap": 4.0,
-      "price": null,
-      "catalyst": "Owns a big stake in Anthropic, which prices a record IPO today",
-      "why": "Alphabet is up about 4% because it owns roughly 1.8 billion shares of Anthropic, whose record IPO priced at $83 (above the expected range) and starts trading today; the move depends on how Anthropic trades, so expect swings once it opens.",
-      "quality": "ok",
-      "sources": [
-        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html" },
-        { "name": "CoinCentral", "url": "https://coincentral.com/todays-market-movers-anthropic-google-palo-alto-walmart-and-more" }
-      ]
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
     }
-  ],
-  "avoid": [
-    { "sym": "SLS", "why": "Stock offering: sold $150M of new shares at $13 the day after a big trial-data spike (down ~18-21% pre-market) - dilution" },
-    { "sym": "ANT", "why": "Anthropic's first trading day (IPO priced at $83) - no trading history and huge first-day swings, too wild for a beginner" },
-    { "sym": "NVDA", "why": "Up ~2% on Trump China-chip comments, but under the 3% bar and the reported SEC probe from earlier this week is still hanging over it" },
-    { "sym": "NTES", "why": "Down ~6% on an earnings miss - a China name with a weak report and no clear bounce reason; skip unless it holds a level" }
-  ]
+   ]
+  },
+  {
+   "sym": "ROST",
+   "gap": -4.0,
+   "price": null,
+   "catalyst": "Gap down: beat and raised the year, but holiday-quarter profit forecast a bit light",
+   "why": "Ross had a strong quarter (sales up 12%, profit $1.91 a share vs. its own $1.75-$1.83 plan) and raised its full-year forecast, but its holiday-quarter profit range ($2.16-$2.25) came in a little under hopes, so it's down roughly 3-4%; a good business dipping on a small guidance miss is a classic 'can reverse' setup. No reliable pre-market price found, so use the live quote.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "Ross Stores Q3 release (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000047/q326exhibit991.htm"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
+    },
+    {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    }
+   ]
+  },
+  {
+   "sym": "MU",
+   "gap": -5.1,
+   "price": 655.48,
+   "catalyst": "Sector sell-off (AI chips/memory) - no Micron-specific bad news",
+   "why": "Micron is down about 5% only because chip stocks are being sold across the board after a rough night in Asia and a UBS note on AI spending pressure, not because of anything Micron reported; sector-wide drops like this can reverse, but only trade it if the chip group stops falling after the open.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "StockMarketWatch pre-market movers",
+     "url": "https://stockmarketwatch.com/movers/premarket"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"
+    },
+    {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    }
+   ]
+  }
+ ],
+ "avoid": [
+  {
+   "sym": "ANT",
+   "why": "Day 2 of a brand-new IPO, down ~7-10% on profit-taking; wild swings, no history to trade from"
+  },
+  {
+   "sym": "AMD",
+   "why": "Down ~6% in the chip sell-off plus a new short-seller report (Hunterbrook) - extra headline risk"
+  },
+  {
+   "sym": "SNDK",
+   "why": "8-for-1 stock split takes effect today, so pre-market % and price levels are confusing"
+  },
+  {
+   "sym": "GAP",
+   "why": "Up ~2-4% on a profit beat, but it cut its full-year outlook and comps were flat - gap could fade"
+  },
+  {
+   "sym": "AAOI",
+   "why": "Down ~7.5% in the optical/AI sell-off with no company news; very volatile"
+  },
+  {
+   "sym": "ERAS",
+   "why": "Down ~12% with no news found to explain it"
+  },
+  {
+   "sym": "AKAN",
+   "why": "Under $10, speculative retail spike with no clear news"
+  },
+  {
+   "sym": "MEDS",
+   "why": "Under $10 ($1), no news or filing behind the jump"
+  },
+  {
+   "sym": "CAPR",
+   "why": "Under $10, no catalyst found"
+  }
+ ]
 }
