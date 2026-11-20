@@ -1,278 +1,277 @@
 {
- "at": "2026-11-19T15:56:33Z",
- "date": "2026-11-19",
- "method": "Started from 1,690 priced Kalshi legs in the next 36 hours. Kept legs priced 30\u201385\u00a2 with edge of about \u22122.5 or better and no flags, one per game, and checked them against today's 188 newly collected expert picks and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury reasoning agreed, with nothing disagreeing. Dropped for conflicts: Houston ML vs Kansas (five outlets on Houston, but Predictem takes Kansas +2.5); Knicks ML (Covers, but top traders hold $18.5k against); Kings ML (three outlets, but top traders on Toronto); Islanders ML (two outlets, top traders $1.4k against); Oilers, Senators and Wild (outlets split with Doc's Sports); Orlando City (five outlets, TheLines has Cincinnati); Seton Hall +4.5, Iowa State/UCF, Rice/Temple, NC State/Murray State, Dallas/Vegas, Vancouver/Seattle and UTEP/Air Force Under (experts or top traders split). Avalanche ML was skipped for a line-move flag, and Clippers/Spurs Under and Santa Clara for edges worse than \u22123. Friday NBA games had almost no published previews, so Friday legs are college football only.",
- "honest": "Every leg costs slightly more than its fair price (edge about \u22121 to \u22123\u00a2 each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "at": "2026-11-20T15:56:47Z",
+ "date": "2026-11-20",
+ "method": "Started from 5,839 priced Kalshi legs in the next 36 hours. Kept legs priced 30\u201385\u00a2 with edge of about \u22122.5 or better and no flags, one per game, and checked them against today's 193 newly collected expert picks and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury reasoning agreed, with nothing disagreeing. Dropped for conflicts: Rockets ML (five outlets and $12k of top-trader money on Houston, but Covers has Denver and Sengun is a game-time decision); Suns ML (three outlets, but top traders back Utah); Pistons \u22127.5 and Lakers \u221214.5 (experts on the favourite, top traders against); Aston Villa ML and Proch\u00e1zka ML (two picks each, top traders on the other side); Duke ML vs Clemson (Predictem on Duke, top traders against); Tennessee +1.5 (three outlets, top traders on LSU); Wyoming +7.5 (three outlets, but VegasInsider has New Mexico and Wyoming's QB is doubtful) and its Under (top traders on the Over); Notre Dame \u221220.5 (Covers has SMU); Bulls/Wizards, Xavier/Iowa and Ohio State/Nebraska (experts split). NHL had no published picks yet and Saturday's NBA/NCAAB previews weren't out, so the ladder leans on Friday night plus Saturday college football and Premier League.",
+ "honest": "Every leg costs slightly more than its fair price (edge about \u22120.1 to \u22122.5\u00a2 each), so expected return is slightly negative, and it gets worse with each leg you add.",
  "ladder": [
   {
-   "id": "KXNBATOTAL-26NOV19GSWMEM-228:no",
-   "league": "NBA",
-   "game": "Golden State Warriors @ Memphis Grizzlies",
-   "start": "2026-11-20T01:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 227.5",
+   "id": "KXNCAAMBGAME-26NOV20OKSTMINN-MINN:yes",
+   "league": "College basketball",
+   "game": "Oklahoma State Cowboys @ Minnesota Golden Gophers",
+   "start": "2026-11-20T17:30:00.000Z",
+   "mk": "ML",
+   "label": "Minnesota Golden Gophers",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 50.4,
+   "sharp": null,
+   "why": "Minnesota is 5-0, winning by about 23 points a game, shoots 52.6% from the floor and holds opponents to 24.6% from three (21st in adjusted defense). Five outlets back the Gophers; the risk is Oklahoma State's 43% three-point shooting.",
+   "sources": [
+    {
+     "name": "Action Network (via Yahoo) / Ryan Minion (Minnesota ML)",
+     "url": "https://sports.yahoo.com/articles/oklahoma-state-vs-minnesota-prediction-052534728.html"
+    },
+    {
+     "name": "DraftKings Network / Bryan Armetta (Minnesota ML)",
+     "url": "https://dknetwork.draftkings.com/2026/11/20/oklahoma-state-cowboys-vs-minnesota-golden-gophers-prediction-pick-for-ncaam-on-friday-11-20-26/"
+    },
+    {
+     "name": "Pickswise / Napier Montgomery (Minnesota \u22121.5)",
+     "url": "https://www.pickswise.com/college-basketball/games/oklahoma-state-cowboys-minnesota-college-basketball-2026-11-20-1230/picks/"
+    },
+    {
+     "name": "Bang The Book (Minnesota ML)",
+     "url": "https://bangthebook.com/oklahoma-state-cowboys-vs-minnesota-golden-gophers-prediction-2026-11-20/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV20ISUUCF-UCF2:no",
+   "league": "College football",
+   "game": "Iowa State Cyclones @ UCF Knights",
+   "start": "2026-11-20T23:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Iowa State Cyclones +1.5",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 54.5,
+   "sharp": {
+    "for": 1295,
+    "against": 0,
+    "who": [
+     "primm"
+    ]
+   },
+   "why": "VSiN expects a sloppy, rainy game and notes UCF QB Barnett is banged up (11 sacks taken in the last three games). Top-trader money on this line is all on Iowa State.",
+   "sources": [
+    {
+     "name": "VSiN / Adam Burke (Iowa State +2)",
+     "url": "https://vsin.com/college-football/college-football-week-12-picks-iowa-state-vs-ucf/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV21TTUBAY-TTU4:yes",
+   "league": "College football",
+   "game": "Texas Tech Red Raiders @ Baylor Bears",
+   "start": "2026-11-21T20:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Texas Tech Red Raiders \u22123.5",
    "ask": 55,
    "cost": 56.7325,
    "fair": 55.5,
-   "sharp": {
-    "for": 6633,
-    "against": 939,
-    "who": [
-     "HomeRunHazard",
-     "Flaznorp",
-     "omnibus-076daa"
-    ]
-   },
-   "why": "Steph Curry is out for several weeks with an oblique injury, and SI's Peter Dewey takes the Warriors' team total Under 110.5, saying the offense sputters without him. Memphis is on the second night of a back-to-back. Top traders hold about $6.6k on this Under against $0.9k on the Over.",
+   "sharp": null,
+   "why": "Texas Tech has scored 52+ in each of its last three games, while Baylor lost 17-6 at home to TCU as a favourite and keeps stalling in the red zone. Predictem projects 31-24 Tech; WR Kenny Johnson's status is the thing to check.",
    "sources": [
     {
-     "name": "Sports Illustrated / Peter Dewey (Warriors team total Under 110.5)",
-     "url": "https://www.si.com/betting/warriors-vs-grizzlies-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-19-2026"
+     "name": "Sports Illustrated / Ryan Gilbert (Texas Tech \u22123.5)",
+     "url": "https://www.si.com/betting/texas-tech-vs-baylor-prediction-odds-and-key-players-to-watch-for-college-football-week-12-2026"
+    },
+    {
+     "name": "Predictem / Joe Jensen (Texas Tech \u22123.5)",
+     "url": "https://www.predictem.com/?p=216104"
+    },
+    {
+     "name": "Sports Betting Dime / Ryan Potts (Texas Tech ML)",
+     "url": "https://www.sportsbettingdime.com/?p=859595"
     }
    ]
   },
   {
-   "id": "KXNHLGAME-26NOV19MTLCAR-CAR:yes",
-   "league": "NHL",
-   "game": "Montreal Canadiens @ Carolina Hurricanes",
-   "start": "2026-11-20T00:00:00.000Z",
-   "mk": "ML",
-   "label": "Carolina Hurricanes",
-   "ask": 72,
-   "cost": 73.4112,
-   "fair": 71.9,
-   "sharp": {
-    "for": 1251,
-    "against": 369,
-    "who": [
-     "nigiri99"
-    ]
-   },
-   "why": "Montreal is on a back-to-back with Dobes (.852) in goal and without Matheson, Kreider and Demidov, while Carolina is rested at home (4.14 goals for, 2.19 against per Bang The Book). Five outlets take Carolina, and top traders hold about $1.3k on the Hurricanes against $0.4k on Montreal.",
-   "sources": [
-    {
-     "name": "Bettors Insider / Mitchell Lebrun (Hurricanes ML)",
-     "url": "https://bettorsinsider.com/sports-betting/2026/11/19/canadiens-vs-hurricanes-prediction-carolina-rolls-at-home/"
-    },
-    {
-     "name": "Last Word on Sports / Lori Bennett (Hurricanes ML and \u22121.5)",
-     "url": "https://lastwordonsports.com/hockey/2026/11/19/nhl-predictions-habs-canes/"
-    },
-    {
-     "name": "Sports Betting Dime / Michael Schwartz (Hurricanes \u22121.5)",
-     "url": "https://www.sportsbettingdime.com/news/nhl/nhl-picks-today-thursday-predictions-best-bets-nov-19/"
-    },
-    {
-     "name": "Bang The Book (Hurricanes ML)",
-     "url": "https://bangthebook.com/montreal-canadiens-vs-carolina-hurricanes-prediction-2026-11-19/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFSPREAD-26NOV20CLEMDUKE-DUKE14:yes",
+   "id": "KXNCAAFTOTAL-26NOV21LSUTENN-46:no",
    "league": "College football",
-   "game": "Clemson Tigers @ Duke Blue Devils",
-   "start": "2026-11-21T00:30:00.000Z",
-   "mk": "SPREAD",
-   "label": "Duke Blue Devils \u221213.5",
+   "game": "LSU Tigers @ Tennessee Volunteers",
+   "start": "2026-11-21T20:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 45.5",
    "ask": 50,
    "cost": 51.75,
    "fair": 49.5,
    "sharp": null,
-   "why": "Clemson is down to third-string QB Trent Pearman after Tait Reynolds' torn meniscus and Vizzina's concussion, and Duke is 8-2 against the spread with RB Nate Sheppard. Three outlets lay 12.5 to 13.5 with Duke. No top-trader money either way.",
+   "why": "Tennessee's defense held Kentucky and Texas A&M to 13 combined points and plays slow and run-first; LSU's offense has been held under 22 in its last two. Two outlets take the Under 45.5.",
    "sources": [
     {
-     "name": "Predictem / Joe Jensen (Duke \u221213)",
-     "url": "https://www.predictem.com/?p=215960"
+     "name": "Covers / Rob Paul (Under 45.5)",
+     "url": "https://www.covers.com/ncaaf/lsu-vs-tennessee-prediction-picks-odds-early-leans-week-12-2026"
     },
     {
-     "name": "Pro Football Network (Duke \u221213.5)",
-     "url": "https://www.profootballnetwork.com/cfb/midweek-predictions-week-12-2026/"
-    },
-    {
-     "name": "Sports Betting Dime / Chris Amberley (Duke \u221212.5)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/early-ats-picks-week-12-predictions-against-spread/"
+     "name": "Sports Betting Dime / Juan Pablo Aravena (Under 45.5)",
+     "url": "https://www.sportsbettingdime.com/?p=859061"
     }
    ]
   },
   {
-   "id": "KXNCAAFSPREAD-26NOV20BGSUTOL-TOL16:yes",
-   "league": "College football",
-   "game": "Bowling Green Falcons @ Toledo Rockets",
-   "start": "2026-11-21T00:30:00.000Z",
-   "mk": "SPREAD",
-   "label": "Toledo Rockets \u221215.5",
-   "ask": 53,
-   "cost": 54.7437,
-   "fair": 52.5,
-   "sharp": null,
-   "why": "Toledo's defense ranks 3rd in success rate against a Bowling Green offense ranked 121st, and BG QB Kastantin is hurt. Predictem takes Toledo \u221216 and VSiN's Steve Makinen \u221216.5 (his ratings make it Toledo by 17.3); this leg is at \u221215.5. No top-trader money either way.",
-   "sources": [
-    {
-     "name": "Predictem / Joe Jensen (Toledo \u221216)",
-     "url": "https://www.predictem.com/college-football/bowling-green-at-toledo-prediction-i-75-college-football-odds/"
-    },
-    {
-     "name": "VSiN / Steve Makinen (Toledo \u221216.5)",
-     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-12-best-bets-picks-and-predictions/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAFTOTAL-26NOV20UNMWYO-40:no",
-   "league": "College football",
-   "game": "New Mexico Lobos @ Wyoming Cowboys",
-   "start": "2026-11-21T02:00:00.000Z",
+   "id": "KXEPLTOTAL-26NOV21NEWARS-3:no",
+   "league": "Premier League",
+   "game": "Arsenal @ Newcastle United",
+   "start": "2026-11-21T17:30:00.000Z",
    "mk": "TOTAL",
-   "label": "Under 39.5",
-   "ask": 56,
-   "cost": 57.7248,
-   "fair": 56,
+   "label": "Under 2.5",
+   "ask": 44,
+   "cost": 45.7248,
+   "fair": 44.9,
    "sharp": null,
-   "why": "VSiN's Adam Burke expects cold with 25\u201330 mph gusts and notes neither team passes well; Steve Makinen cites two Under systems. Both took Under 37.5, and this leg gives two extra points at 39.5. Wyoming QB Tyler Hughes is doubtful with a forearm fracture. No top-trader money either way.",
+   "why": "Arsenal (9-0-1) have conceded a league-low 5 goals with 7 clean sheets in 10, and 5 of the last 6 meetings went under 2.5. Saka is out and Dowman suspended; both previews predict a low-scoring Arsenal win (1-0, 0-2).",
    "sources": [
     {
-     "name": "VSiN / Adam Burke (Under 37.5)",
-     "url": "https://vsin.com/college-football/college-football-week-12-picks-iowa-state-vs-ucf/"
+     "name": "SoccerNews / Janko Glavonji\u0107 (Under 2.5)",
+     "url": "https://www.soccernews.com/prediction-newcastle-vs-arsenal/408328/"
     },
     {
-     "name": "VSiN / Steve Makinen (Under 37.5)",
-     "url": "https://vsin.com/college-football/steve-makinen-college-football-week-12-best-bets-picks-and-predictions/"
+     "name": "FootballPredictions.com (Under 2.5)",
+     "url": "https://footballpredictions.com/footballpredictions/premierleaguepredictions/newcastle-vs-arsenal-prediction-21-11-2026/"
     }
    ]
   },
   {
-   "id": "KXNCAAFSPREAD-26NOV20OREMSU-ORE15:yes",
-   "league": "College football",
-   "game": "Oregon Ducks @ Michigan State Spartans",
-   "start": "2026-11-21T01:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Oregon Ducks \u221214.5",
-   "ask": 57,
-   "cost": 58.7157,
-   "fair": 56.5,
-   "sharp": null,
-   "why": "SI ranks Oregon's defense 3rd in adjusted EPA against a Michigan State offense 121st in EPA per play, with Dylan Raiola starting for the injured Dante Moore. Three outlets lay 15.5 to 16.5; this leg only needs Oregon by 15+. Small top-trader money ($338) is on Oregon \u221216.5.",
-   "sources": [
-    {
-     "name": "Sports Illustrated / Iain MacMillan (Oregon \u221215.5)",
-     "url": "https://www.si.com/betting/oregon-vs-michigan-state-prediction-odds-and-key-players-to-watch-for-college-football-week-12-2026"
-    },
-    {
-     "name": "Pro Football Network (Oregon \u221216.5)",
-     "url": "https://www.profootballnetwork.com/cfb/midweek-predictions-week-12-2026/"
-    },
-    {
-     "name": "Sports Betting Dime / Chris Amberley (Oregon \u221216)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/early-ats-picks-week-12-predictions-against-spread/"
-    }
-   ]
-  },
-  {
-   "id": "KXNCAAMBGAME-26NOV19TXAMTCU-TXAM:yes",
-   "league": "College basketball",
-   "game": "Texas A&M Aggies @ TCU Horned Frogs",
-   "start": "2026-11-20T01:00:00.000Z",
-   "mk": "ML",
-   "label": "Texas A&M Aggies",
-   "ask": 51,
-   "cost": 52.7493,
-   "fair": 50,
-   "sharp": null,
-   "why": "Three outlets take Texas A&M: Action Network cites A&M's fast, efficient offense against TCU's struggles at the rim, and Pickswise makes it a max best bet citing TCU's poor effective field-goal rate and lucky close wins. No top-trader money either way.",
-   "sources": [
-    {
-     "name": "Action Network (via Yahoo) / Jordan Mann (Texas A&M \u22121.5)",
-     "url": "https://sports.yahoo.com/articles/texas-m-vs-tcu-prediction-130107566.html"
-    },
-    {
-     "name": "Pickswise / Robby Nardini (Texas A&M ML)",
-     "url": "https://www.pickswise.com/college-basketball/picks/"
-    },
-    {
-     "name": "Bang The Book (Texas A&M ML)",
-     "url": "https://bangthebook.com/texas-a-m-aggies-vs-tcu-horned-frogs-prediction-2026-11-19/"
-    }
-   ]
-  },
-  {
-   "id": "KXNHLTOTAL-26NOV19STLPIT-7:no",
-   "league": "NHL",
-   "game": "St. Louis Blues @ Pittsburgh Penguins",
-   "start": "2026-11-20T00:00:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 6.5",
-   "ask": 53,
-   "cost": 54.7437,
-   "fair": 52.6,
-   "sharp": {
-    "for": 344,
-    "against": 0,
-    "who": [
-     "HomeRunHazard"
-    ]
-   },
-   "why": "TheSpread's Paul Elliot takes Under 6.5, noting the market moving to the Under, with the caveat that it assumes Hofer (.921) starts for St. Louis rather than Binnington. Top traders hold $344 on this Under and nothing on the Over.",
-   "sources": [
-    {
-     "name": "TheSpread / Paul Elliot (Under 6.5)",
-     "url": "https://www.thespread.com/nhl-articles/blues-vs-penguins-prediction-nov-19-is-a-well-rested-pittsburgh-the-best-bet/"
-    }
-   ]
-  },
-  {
-   "id": "KXNFLTOTAL-26NOV19INDHOU-47:yes",
-   "league": "NFL",
-   "game": "Indianapolis Colts @ Houston Texans",
-   "start": "2026-11-20T01:15:00.000Z",
-   "mk": "TOTAL",
-   "label": "Over 46.5",
-   "ask": 43,
-   "cost": 44.7157,
-   "fair": 42.5,
-   "sharp": null,
-   "why": "Five outlets take Over 44.5: Houston is a top-10 scoring offense with the Over in 6 of 9 (Covers), and the Colts have allowed 27+ in 4 of their last 5 (SBD); Dimers' model projects 28\u201315. Top traders hold $12.7k on Over 44.5. This leg needs 47+, two points more than the experts' line.",
-   "sources": [
-    {
-     "name": "Covers / Joe Osborne (Over 44.5)",
-     "url": "https://www.covers.com/nfl/colts-vs-texans-prediction-picks-odds-early-leans-week-11-2026"
-    },
-    {
-     "name": "Sports Illustrated / Iain MacMillan (Over 44.5)",
-     "url": "https://www.si.com/betting/colts-vs-texans-odds-skyrocket-in-favor-of-houston-on-thursday-night-football-in-week-11-2026"
-    },
-    {
-     "name": "Sports Betting Dime / Michael Harrison (Over 44.5)",
-     "url": "https://www.sportsbettingdime.com/?p=859426"
-    },
-    {
-     "name": "Dimers / Dave Garofolo (Over 44.5)",
-     "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-houston-texans-prediction-week-11-2026-ac"
-    }
-   ]
-  },
-  {
-   "id": "KXNBAGAME-26NOV19PORMIL-POR:yes",
+   "id": "KXNBAGAME-26NOV20CHAATL-ATL:yes",
    "league": "NBA",
-   "game": "Portland Trail Blazers @ Milwaukee Bucks",
-   "start": "2026-11-20T01:00:00.000Z",
+   "game": "Charlotte Hornets @ Atlanta Hawks",
+   "start": "2026-11-21T00:00:00.000Z",
    "mk": "ML",
-   "label": "Portland Trail Blazers",
-   "ask": 81,
-   "cost": 82.0773,
-   "fair": 79.3,
+   "label": "Atlanta Hawks",
+   "ask": 69,
+   "cost": 70.4973,
+   "fair": 68,
    "sharp": {
-    "for": 4903,
+    "for": 9539,
     "against": 0,
     "who": [
-     "HomeRunHazard"
+     "HomeRunHazard",
+     "darkumbreon88"
     ]
    },
-   "why": "Milwaukee is on the second night of a back-to-back (0-2 on zero rest) and Portland is 4-0 straight up as a road favorite, per Covers' Geoff Clark, who takes Portland. Top traders hold about $4.9k on the Blazers and nothing on Milwaukee.",
+   "why": "Charlotte is without Knueppel, Grayson Allen, Schroder and Grant Williams, is 1-6 on the road, and lost to Atlanta 128-81 last month. Top-trader money is entirely on Atlanta.",
    "sources": [
     {
-     "name": "Covers / Geoff Clark (Blazers ML)",
-     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-19-2026"
+     "name": "Sports Illustrated / Ryan Gilbert (Hawks \u22125.5)",
+     "url": "https://www.si.com/betting/hornets-vs-hawks-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026"
+    },
+    {
+     "name": "Covers / Jon Metler (Hawks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-20-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXEPLGAME-26NOV21MCIFUL-MCI:yes",
+   "league": "Premier League",
+   "game": "Fulham @ Manchester City",
+   "start": "2026-11-21T12:30:00.000Z",
+   "mk": "ML",
+   "label": "Manchester City",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.1,
+   "sharp": {
+    "for": 1725,
+    "against": 1070,
+    "who": [
+     "darkumbreon88"
+    ]
+   },
+   "why": "City have lost three league games in a row, but Fulham have lost 20 straight to them and their last 12 at the Etihad. Three previews take City, and top-trader money leans City ($1.7k for vs $1.1k against).",
+   "sources": [
+    {
+     "name": "SoccerNews / Tom Dunstan (Man City)",
+     "url": "https://www.soccernews.com/prediction-manchester-city-vs-fulham/408311"
+    },
+    {
+     "name": "FootballPredictions.com / Bojan Jovanovic (Man City, 3-1)",
+     "url": "https://footballpredictions.com/footballpredictions/premierleaguepredictions/man-city-vs-fulham-prediction-21-11-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV20TLSAMSST-MSST:yes",
+   "league": "College basketball",
+   "game": "Tulsa Golden Hurricane @ Mississippi State Bulldogs",
+   "start": "2026-11-21T00:30:00.000Z",
+   "mk": "ML",
+   "label": "Mississippi State Bulldogs",
+   "ask": 74,
+   "cost": 75.3468,
+   "fair": 73.4,
+   "sharp": null,
+   "why": "Mississippi State already won at UCF and has the rebounding edge; Tulsa's unbeaten start came in four home games. Two outlets back the Bulldogs.",
+   "sources": [
+    {
+     "name": "TheLines / Jason Green (Mississippi State \u22127.5)",
+     "url": "https://www.thelines.com/cbb/game/previews/college-basketball-picks-for-nov-20-go-with-home-favorites/"
+    },
+    {
+     "name": "Bang The Book (Mississippi State ML)",
+     "url": "https://bangthebook.com/tulsa-golden-hurricane-vs-mississippi-state-bulldogs-prediction-2026-11-20/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV20UGAGT-UGA:yes",
+   "league": "College basketball",
+   "game": "Georgia Bulldogs @ Georgia Tech Yellow Jackets",
+   "start": "2026-11-21T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Georgia Bulldogs",
+   "ask": 77,
+   "cost": 78.2397,
+   "fair": 76.6,
+   "sharp": null,
+   "why": "Georgia scores 86.8 a game and won 78-70 at North Carolina; Georgia Tech's 5-0 start came against a soft schedule in a rebuild under Scott Cross. Three outlets take Georgia.",
+   "sources": [
+    {
+     "name": "Pickswise / Chad Hartsock (Georgia \u22128.5)",
+     "url": "https://www.pickswise.com/college-basketball/games/georgia-tech-georgia-bulldogs-college-basketball-2026-11-20-2000/picks/"
+    },
+    {
+     "name": "TheLines / Jason Green (Georgia \u22128.5)",
+     "url": "https://www.thelines.com/cbb/game/previews/college-basketball-picks-for-nov-20-go-with-home-favorites/"
+    },
+    {
+     "name": "Bang The Book (Georgia ML)",
+     "url": "https://bangthebook.com/georgia-bulldogs-vs-georgia-tech-yellow-jackets-prediction-2026-11-20/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV20NOPOKC-OKC:yes",
+   "league": "NBA",
+   "game": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "start": "2026-11-21T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Oklahoma City Thunder",
+   "ask": 82,
+   "cost": 83.0332,
+   "fair": 82.9,
+   "sharp": {
+    "for": 97,
+    "against": 109,
+    "who": [
+     "darkumbreon88"
+    ]
+   },
+   "why": "New Orleans is on a back-to-back without Dejounte Murray and Mathurin, with Trey Murphy III questionable, and makes the fewest threes in the league. OKC is missing Holmgren and Jalen Williams, but three outlets still back the Thunder (Predictem projects 121-106).",
+   "sources": [
+    {
+     "name": "Predictem / Joe Jensen (Thunder \u221211.5)",
+     "url": "https://www.predictem.com/nba/pelicans-at-thunder-prediction-friday-nba-odds-and-best-bet/"
+    },
+    {
+     "name": "Sports Illustrated / Ryan Gilbert (Thunder \u221211.5)",
+     "url": "https://www.si.com/betting/pelicans-vs-thunder-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026"
+    },
+    {
+     "name": "Covers / Jon Metler (Thunder ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-20-2026"
     }
    ]
   }

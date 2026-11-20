@@ -29,7 +29,8 @@
      "name": "Sports Illustrated / Peter Dewey (Warriors team total Under 110.5)",
      "url": "https://www.si.com/betting/warriors-vs-grizzlies-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-19-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLGAME-26NOV19MTLCAR-CAR:yes",
@@ -66,7 +67,8 @@
      "name": "Bang The Book (Hurricanes ML)",
      "url": "https://bangthebook.com/montreal-canadiens-vs-carolina-hurricanes-prediction-2026-11-19/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV20CLEMDUKE-DUKE14:yes",
@@ -193,7 +195,8 @@
      "name": "Bang The Book (Texas A&M ML)",
      "url": "https://bangthebook.com/texas-a-m-aggies-vs-tcu-horned-frogs-prediction-2026-11-19/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNHLTOTAL-26NOV19STLPIT-7:no",
@@ -218,7 +221,8 @@
      "name": "TheSpread / Paul Elliot (Under 6.5)",
      "url": "https://www.thespread.com/nhl-articles/blues-vs-penguins-prediction-nov-19-is-a-well-rested-pittsburgh-the-best-bet/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNFLTOTAL-26NOV19INDHOU-47:yes",
@@ -249,7 +253,8 @@
      "name": "Dimers / Dave Garofolo (Over 44.5)",
      "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-houston-texans-prediction-week-11-2026-ac"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBAGAME-26NOV19PORMIL-POR:yes",
@@ -274,7 +279,8 @@
      "name": "Covers / Geoff Clark (Blazers ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-19-2026"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:46:00Z",
+ "updated": "2026-11-20T15:46:01Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -18,7 +18,8 @@
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -162,13 +163,13 @@
    "p": 0
   },
   "Covers / Joe Osborne": {
-   "w": 7,
-   "l": 8,
+   "w": 8,
+   "l": 11,
    "p": 1
   },
   "Covers / Jon Metler": {
-   "w": 42,
-   "l": 32,
+   "w": 50,
+   "l": 35,
    "p": 0
   },
   "Covers / Josh Inglis": {
@@ -178,7 +179,7 @@
   },
   "Covers / Neil Parker": {
    "w": 23,
-   "l": 22,
+   "l": 24,
    "p": 0
   },
   "Covers / Nick Galaida": {
@@ -192,8 +193,8 @@
    "p": 0
   },
   "Covers / Rob Paul": {
-   "w": 15,
-   "l": 25,
+   "w": 16,
+   "l": 26,
    "p": 0
   },
   "Covers / Robert Criscola": {
@@ -232,8 +233,8 @@
    "p": 0
   },
   "Dimers / Dave Garofolo": {
-   "w": 16,
-   "l": 7,
+   "w": 18,
+   "l": 13,
    "p": 1
   },
   "Dimers / Dave Garofolo (model)": {
@@ -242,8 +243,8 @@
    "p": 0
   },
   "Dimers / Dimers Data": {
-   "w": 27,
-   "l": 16,
+   "w": 31,
+   "l": 24,
    "p": 0
   },
   "Dimers / Dimers Data (model)": {
@@ -252,13 +253,13 @@
    "p": 0
   },
   "Dimers / Jason Bevilacqua": {
-   "w": 9,
-   "l": 16,
+   "w": 15,
+   "l": 18,
    "p": 0
   },
   "Dimers / Mac Douglass": {
-   "w": 13,
-   "l": 10,
+   "w": 17,
+   "l": 16,
    "p": 0
   },
   "Dimers / Mac Douglass (model)": {
@@ -287,8 +288,8 @@
    "p": 0
   },
   "FanDuel Research / FanDuel Staff": {
-   "w": 11,
-   "l": 20,
+   "w": 17,
+   "l": 23,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
@@ -412,8 +413,8 @@
    "p": 0
   },
   "Pro Football Network / Jason Katz": {
-   "w": 2,
-   "l": 7,
+   "w": 3,
+   "l": 9,
    "p": 0
   },
   "RG.org / Sergey Demidov": {
@@ -427,8 +428,8 @@
    "p": 0
   },
   "SI Betting / Peter Dewey": {
-   "w": 22,
-   "l": 23,
+   "w": 23,
+   "l": 27,
    "p": 0
   },
   "Sports Betting Dime / Chris Amberley": {
@@ -462,8 +463,8 @@
    "p": 0
   },
   "TheLines / Nick Crain": {
-   "w": 10,
-   "l": 6,
+   "w": 13,
+   "l": 9,
    "p": 0
   },
   "TheSpread / Alex Becker": {
@@ -478,12 +479,12 @@
   },
   "TheSpread / Paul Elliot": {
    "w": 15,
-   "l": 9,
+   "l": 11,
    "p": 2
   },
   "VSiN / Adam Burke": {
-   "w": 15,
-   "l": 11,
+   "w": 16,
+   "l": 13,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
@@ -528,7 +529,7 @@
   },
   "Predictem / Joe Jensen": {
    "w": 8,
-   "l": 21,
+   "l": 23,
    "p": 0
   },
   "Pickswise / Robby Nardini": {
@@ -642,8 +643,8 @@
    "p": 0
   },
   "Pickswise / Justin Martin": {
-   "w": 3,
-   "l": 0,
+   "w": 4,
+   "l": 1,
    "p": 0
   },
   "TheLines / Chris Kubala": {
@@ -797,8 +798,8 @@
    "p": 0
   },
   "TheLines / Gareth Hinton": {
-   "w": 1,
-   "l": 6,
+   "w": 3,
+   "l": 7,
    "p": 0
   },
   "SportsbookReview / Ethan Diamandas": {
@@ -977,8 +978,8 @@
    "p": 0
   },
   "Lineups.com / Thom Cunningham": {
-   "w": 3,
-   "l": 6,
+   "w": 5,
+   "l": 7,
    "p": 0
   },
   "Bleacher Nation / Data Skrive (model)": {
@@ -992,8 +993,8 @@
    "p": 0
   },
   "BetMGM (model)": {
-   "w": 21,
-   "l": 14,
+   "w": 23,
+   "l": 15,
    "p": 0
   },
   "Last Word On Hockey / Lori Bennett": {
@@ -1097,7 +1098,7 @@
    "p": 0
   },
   "BetMGM / Nick Hennion": {
-   "w": 0,
+   "w": 1,
    "l": 7,
    "p": 0
   },
@@ -1162,8 +1163,8 @@
    "p": 0
   },
   "Bang The Book": {
-   "w": 7,
-   "l": 2,
+   "w": 8,
+   "l": 5,
    "p": 0
   },
   "SI Betting / Ryan Gilbert": {
@@ -1213,7 +1214,7 @@
   },
   "Lineups / Thom Cunningham": {
    "w": 4,
-   "l": 4,
+   "l": 5,
    "p": 0
   },
   "Action Network / Jim Turvey": {
@@ -1298,7 +1299,7 @@
   },
   "LegalSportsBetting.com / LSB Staff": {
    "w": 1,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "RotoWire / Cole Shelton": {
@@ -1357,8 +1358,8 @@
    "p": 0
   },
   "Bettors Insider / Carmelo Roldan": {
-   "w": 1,
-   "l": 0,
+   "w": 2,
+   "l": 2,
    "p": 0
   },
   "Bettors Insider / Wade Reeser": {
@@ -1695,15 +1696,85 @@
    "w": 0,
    "l": 2,
    "p": 0
+  },
+  "Action Network (Yahoo Sports) / Colby Marchio": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Bang The Book / Staff": {
+   "w": 3,
+   "l": 1,
+   "p": 0
+  },
+  "Covers / Phil Naessens": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "Action Network (Yahoo Sports) / Sean Paul": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "BettingPros / Phil Wood": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "Bettors Insider / Mitchell Lebrun": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Deadspin / Mike Sullivan": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "Action Network / Brandon Kravitz": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network / Bryan Fonseca": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Lineups.com / Kody Malstrom": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "Bettors Insider / Max Gilson": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Fox Sports 1350 (iHeart)": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "Football Whispers / Adam Clancy": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "The Sports Geek / Kyle Eve": {
+   "w": 0,
+   "l": 4,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 5,
+   "w": 6,
    "l": 7
   },
   "2": {
-   "w": 2,
+   "w": 3,
    "l": 10
   },
   "3": {
@@ -1728,15 +1799,15 @@
   },
   "8": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "9": {
    "w": 0,
-   "l": 7
+   "l": 8
   },
   "10": {
    "w": 0,
-   "l": 3
+   "l": 4
   }
  },
  "partial_files": {},
@@ -1755,5 +1826,8 @@
   "2026-11-14": "Jarrett Allen points, Peyton Watson points, Ty Jerome threes (DNP/inactive, no box-score line); Washington @ Utah NCAAB (no such game on Nov 15; scheduled Dec 5)",
   "2026-11-15": "DeMarcus Robinson anytime TD (no box-score line)",
   "2026-11-17": "Brandon Hagel goals (DNP/injured, no box-score line)"
+ },
+ "botd_partial": {
+  "2026-11-19": "lengths 1-2 counted as wins (legs 1 GSW/MEM Under 227.5 and 2 Hurricanes ML won) and 8-10 as losses (leg 8 STL/PIT Under 6.5 lost); lengths 3-7 still to add once legs 3-6 (Fri Nov 20 college football: Duke -13.5, Toledo -15.5, New Mexico/Wyoming Under 39.5, Oregon -14.5) are final"
  }
 }
