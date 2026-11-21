@@ -33,7 +33,8 @@
      "name": "Bang The Book (Minnesota ML)",
      "url": "https://bangthebook.com/oklahoma-state-cowboys-vs-minnesota-golden-gophers-prediction-2026-11-20/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV20ISUUCF-UCF2:no",
@@ -58,7 +59,8 @@
      "name": "VSiN / Adam Burke (Iowa State +2)",
      "url": "https://vsin.com/college-football/college-football-week-12-picks-iowa-state-vs-ucf/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV21TTUBAY-TTU4:yes",
@@ -161,7 +163,8 @@
      "name": "Covers / Jon Metler (Hawks ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-20-2026"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXEPLGAME-26NOV21MCIFUL-MCI:yes",
@@ -190,7 +193,8 @@
      "name": "FootballPredictions.com / Bojan Jovanovic (Man City, 3-1)",
      "url": "https://footballpredictions.com/footballpredictions/premierleaguepredictions/man-city-vs-fulham-prediction-21-11-2026/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAMBGAME-26NOV20TLSAMSST-MSST:yes",
@@ -213,7 +217,8 @@
      "name": "Bang The Book (Mississippi State ML)",
      "url": "https://bangthebook.com/tulsa-golden-hurricane-vs-mississippi-state-bulldogs-prediction-2026-11-20/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAMBGAME-26NOV20UGAGT-UGA:yes",
@@ -240,7 +245,8 @@
      "name": "Bang The Book (Georgia ML)",
      "url": "https://bangthebook.com/georgia-bulldogs-vs-georgia-tech-yellow-jackets-prediction-2026-11-20/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBAGAME-26NOV20NOPOKC-OKC:yes",
@@ -273,7 +279,8 @@
      "name": "Covers / Jon Metler (Thunder ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-20-2026"
     }
-   ]
+   ],
+   "result": "win"
   }
  ]
 }
