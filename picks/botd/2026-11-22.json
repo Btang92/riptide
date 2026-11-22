@@ -1,0 +1,272 @@
+{
+ "at": "2026-11-22T15:59:16Z",
+ "date": "2026-11-22",
+ "method": "Started from 2,204 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and matched them by hand against today's 159 newly collected expert picks (RIPTIDE's dump returned no pick matches, so matching was done by game, side and a line within one point) and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury news agreed, with nothing disagreeing. Dropped for conflicts: Titans/Cowboys Over 54.5 (three outlets, but top traders on the under) and Cowboys −7.5 (ClutchPoints picks a Titans upset); Vikings +3/+3.5 (three outlets, but ~$40k of top-trader money on 49ers −3.5, and three other outlets on San Francisco); Nuggets/Bulls Under (Dimers and Predictem, but top traders on the over); Warriors +9.5 (Dimers and Bettors Insider, but Covers has Boston); Broncos −8.5 (Pickswise on the Raiders); Bengals/Commanders (experts split on side and total); Sabres/Lightning (top traders against both the Lightning and Over 6.5); Liverpool ML (three outlets, but the price is worse than −2.5 edge). Monday NBA/NHL had no published picks yet, so the ladder is mostly Sunday NFL and NBA with Monday's Premier League game last. Also dropped Mavericks/Jazz Under 226.5: its only published support was Predictem, now 18–39 on graded picks.",
+ "honest": "Every leg costs slightly more than its fair price (edge about −1.2 to −2.5¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNFLTOTAL-26NOV22BALCAR-43:yes",
+   "league": "NFL",
+   "game": "Baltimore Ravens @ Carolina Panthers",
+   "start": "2026-11-22T18:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 42.5",
+   "ask": 57,
+   "cost": 58.7157,
+   "fair": 56.5,
+   "sharp": {
+    "for": 6765,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "nigiri99"
+    ]
+   },
+   "why": "All four Panthers home games have gone over this season and the total is one of the lowest on the board; Pickswise and VSiN both take the over at 43.5, so this 42.5 line gives a point of cushion. Top-trader money is on Over 42.5 and Over 44.5 with almost nothing against.",
+   "sources": [
+    {
+     "name": "Pickswise / Kevin Rogers (Over 43.5)",
+     "url": "https://www.pickswise.com/nfl/games/carolina-panthers-baltimore-ravens-nfl-2026-11-22-1300/picks/"
+    },
+    {
+     "name": "VSiN / Zachary Cohen (Over 43.5)",
+     "url": "https://vsin.com/nfl/expert-nfl-picks-week-11-best-bets-predictions-and-player-props-from-zachary-cohen/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLTOTAL-26NOV22MINSF-47:no",
+   "league": "NFL",
+   "game": "Minnesota Vikings @ San Francisco 49ers",
+   "start": "2026-11-23T01:20:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 46.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 52.2,
+   "sharp": {
+    "for": 8205,
+    "against": 0,
+    "who": [
+     "monkeymashingkeyboard",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Rain is forecast for the Vikings–49ers game in Mexico City, and Pickswise's Chris Farley takes the under 46, citing San Francisco's run defense and Kirk Cousins' limitations. Top traders hold about $8.2k on Under 46.5 and none on the over.",
+   "sources": [
+    {
+     "name": "Pickswise / Chris Farley (Under 46)",
+     "url": "https://www.pickswise.com/nfl/games/san-francisco-49ers-minnesota-vikings-nfl-2026-11-22-2020/picks/"
+    },
+    {
+     "name": "Covers / Jason Logan (rain forecast)",
+     "url": "https://www.covers.com/nfl/picks-and-predictions-week-11-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV22BOSGSW-212:no",
+   "league": "NBA",
+   "game": "Boston Celtics @ Golden State Warriors",
+   "start": "2026-11-23T01:30:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 211.5",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 53.5,
+   "sharp": {
+    "for": 1091,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Golden State is without Stephen Curry (oblique), Jimmy Butler and Kristaps Porzingis and scored 85–98 in its last four games without Curry; Boston plays slowly (~99 possessions) and is on a back-to-back. Predictem takes Under 211.5 and top-trader money is on the under.",
+   "sources": [
+    {
+     "name": "Predictem / Joe Jensen (Under 211.5)",
+     "url": "https://www.predictem.com/nba/celtics-at-warriors-picks-odds-sunday-night-nba-preview/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLSPREAD-26NOV22TBDET-DET8:no",
+   "league": "NFL",
+   "game": "Tampa Bay Buccaneers @ Detroit Lions",
+   "start": "2026-11-22T18:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Tampa Bay Buccaneers +7.5",
+   "ask": 65,
+   "cost": 66.5925,
+   "fair": 64.5,
+   "sharp": {
+    "for": 9848,
+    "against": 2571,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Detroit is on short rest after its Germany trip and lost Aidan Hutchinson for the season; Covers' Jason Logan (+7.5) and Neil Parker (+6.5) both take Tampa Bay, even with Baker Mayfield doubtful and rookie Jalon Daniels likely starting. Top traders are net about $7k on the Bucs at this number.",
+   "sources": [
+    {
+     "name": "Covers / Jason Logan (Buccaneers +7.5)",
+     "url": "https://www.covers.com/nfl/picks-and-predictions-week-11-2026"
+    },
+    {
+     "name": "Covers / Neil Parker (Buccaneers +6.5)",
+     "url": "https://www.covers.com/nfl/week-11-top-picks-sunday-nov-22-2026"
+    },
+    {
+     "name": "Pickswise / Kevin Rogers (Buccaneers +3.5)",
+     "url": "https://www.pickswise.com/nfl/picks/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLSPREAD-26NOV22PITPHI-PIT4:yes",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Philadelphia Eagles",
+   "start": "2026-11-22T18:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Pittsburgh Steelers −3.5",
+   "ask": 50,
+   "cost": 51.75,
+   "fair": 50.2,
+   "sharp": null,
+   "why": "Jalen Hurts is out, so Joe Milton starts for Philadelphia, and Pickswise notes the Eagles rank near the bottom in EPA per play. Pickswise and Covers both take Pittsburgh −3.5, leaning on Jaylen Warren's run game against a weak Eagles run defense. No top-trader money on this exact line (a little on Eagles +4.5).",
+   "sources": [
+    {
+     "name": "Pickswise / Sam Avellone (Steelers −3.5)",
+     "url": "https://www.pickswise.com/nfl/games/philadelphia-eagles-pittsburgh-steelers-nfl-2026-11-22-1625/picks/"
+    },
+    {
+     "name": "Covers / Neil Parker (Steelers −3.5)",
+     "url": "https://www.covers.com/nfl/steelers-vs-eagles-prediction-picks-nov-22-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV22ORLWAS-ORL7:no",
+   "league": "NBA",
+   "game": "Orlando Magic @ Washington Wizards",
+   "start": "2026-11-23T00:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Washington Wizards +6.5",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 55.5,
+   "sharp": {
+    "for": 586,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Paolo Banchero is out with a high ankle sprain (plus Jonathan Isaac), and Washington already beat Orlando 103–94 on Nov. 2. Predictem and the Dimers model take the Wizards +5.5, and Covers' Geoff Clark has them on the moneyline; top traders lean Wizards at +5.5/+6.5, though some are on Orlando −4.5.",
+   "sources": [
+    {
+     "name": "Predictem / Joe Jensen (Wizards +5.5)",
+     "url": "https://www.predictem.com/nba/magic-at-wizards-pick-nba-prediction-for-sunday-nov-22/"
+    },
+    {
+     "name": "Dimers model (Wizards +5.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-22-2026-ac"
+    },
+    {
+     "name": "Covers / Geoff Clark (Wizards ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-22-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLGAME-26NOV22JACNYG-JAC:yes",
+   "league": "NFL",
+   "game": "Jacksonville Jaguars @ New York Giants",
+   "start": "2026-11-22T21:25:00.000Z",
+   "mk": "ML",
+   "label": "Jacksonville Jaguars",
+   "ask": 71,
+   "cost": 72.4413,
+   "fair": 70.7,
+   "sharp": {
+    "for": 199404,
+    "against": 0,
+    "who": [
+     "darkumbreon88",
+     "Kch-Temp"
+    ]
+   },
+   "why": "Jacksonville has won three straight by a combined 75 points and has the league's second-best point differential, while the Giants start J.J. McCarthy with Jaxson Dart hurt. Covers (ML) and Pickswise (−6) both back the Jaguars, and top traders hold about $199k on Jacksonville with nothing against.",
+   "sources": [
+    {
+     "name": "Covers / Trevor Knapp (Jaguars ML)",
+     "url": "https://www.covers.com/nfl/moneyline-picks-week-11-2026"
+    },
+    {
+     "name": "Pickswise / Kevin Rogers (Jaguars −6)",
+     "url": "https://www.pickswise.com/nfl/games/new-york-giants-jacksonville-jaguars-nfl-2026-11-22-1300/picks/"
+    },
+    {
+     "name": "NFL.com (Giants QB news)",
+     "url": "https://www.nfl.com/news/nfl-picks-week-11-2026-nfl-season"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV22INDNYK-NYK:yes",
+   "league": "NBA",
+   "game": "Indiana Pacers @ New York Knicks",
+   "start": "2026-11-23T01:00:00.000Z",
+   "mk": "ML",
+   "label": "New York Knicks",
+   "ask": 75,
+   "cost": 76.3125,
+   "fair": 75,
+   "sharp": {
+    "for": 1201,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Indiana is 3–9 without Tyrese Haliburton (out) and Pascal Siakam is questionable; Covers, SI and the Dimers model (82% win) all have the Knicks on the moneyline, and top-trader money is on New York. Risk: the Knicks are on a back-to-back with OG Anunoby and Karl-Anthony Towns uncertain.",
+   "sources": [
+    {
+     "name": "Covers / Geoff Clark (Knicks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-22-2026"
+    },
+    {
+     "name": "SI / Peter Dewey (Knicks ML, parlay leg)",
+     "url": "https://www.si.com/betting/nba-best-bets-today-predictions-prop-bets-for-celtics-warriors-nuggets-knicks-landry-shamet"
+    },
+    {
+     "name": "Dimers model (Knicks ML)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-22-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXEPLTOTAL-26NOV23BREEVE-3:no",
+   "league": "EPL",
+   "game": "Everton @ Brentford",
+   "start": "2026-11-23T20:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 2.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 47.4,
+   "sharp": null,
+   "why": "Brentford is without suspended striker Igor Thiago (first of three games) and concedes about 0.75 goals per home game; FootballPredictions.com takes Under 2.5 and predicts 1–1. This is the Monday leg that fills in once Sunday's games start.",
+   "sources": [
+    {
+     "name": "FootballPredictions.com / Bojan Jovanovic (Under 2.5, 1–1)",
+     "url": "https://footballpredictions.com/footballpredictions/premierleaguepredictions/brentford-vs-everton-prediction-23-11-2026/"
+    },
+    {
+     "name": "Forza Football (team news)",
+     "url": "https://forzafootball.com/gb/play/betting-tips/brentford-vs-everton-premier-league-predictions-odds"
+    }
+   ]
+  }
+ ]
+}

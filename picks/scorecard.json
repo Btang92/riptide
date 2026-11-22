@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:02:09Z",
+ "updated": "2026-11-22T15:59:45Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -20,7 +20,8 @@
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -109,7 +110,7 @@
    "p": 0
   },
   "CBS Sports / Daniel Kohn (SportsLine model)": {
-   "w": 5,
+   "w": 6,
    "l": 4,
    "p": 0
   },
@@ -169,7 +170,7 @@
    "p": 1
   },
   "Covers / Jon Metler": {
-   "w": 50,
+   "w": 59,
    "l": 35,
    "p": 0
   },
@@ -194,8 +195,8 @@
    "p": 0
   },
   "Covers / Rob Paul": {
-   "w": 16,
-   "l": 26,
+   "w": 19,
+   "l": 27,
    "p": 0
   },
   "Covers / Robert Criscola": {
@@ -249,13 +250,13 @@
    "p": 0
   },
   "Dimers / Dimers Data (model)": {
-   "w": 5,
-   "l": 5,
+   "w": 10,
+   "l": 9,
    "p": 0
   },
   "Dimers / Jason Bevilacqua": {
-   "w": 17,
-   "l": 19,
+   "w": 19,
+   "l": 21,
    "p": 0
   },
   "Dimers / Mac Douglass": {
@@ -289,8 +290,8 @@
    "p": 0
   },
   "FanDuel Research / FanDuel Staff": {
-   "w": 19,
-   "l": 27,
+   "w": 22,
+   "l": 30,
    "p": 0
   },
   "FanDuel Research / numberFire model (Data Skrive)": {
@@ -379,8 +380,8 @@
    "p": 0
   },
   "Pickswise / Napier Montgomery": {
-   "w": 5,
-   "l": 9,
+   "w": 6,
+   "l": 10,
    "p": 0
   },
   "Pickswise / Nate Duffett": {
@@ -454,8 +455,8 @@
    "p": 0
   },
   "TheLines / Jason Green": {
-   "w": 6,
-   "l": 4,
+   "w": 8,
+   "l": 6,
    "p": 0
   },
   "TheLines / Justin Bales": {
@@ -484,13 +485,13 @@
    "p": 2
   },
   "VSiN / Adam Burke": {
-   "w": 18,
-   "l": 15,
+   "w": 19,
+   "l": 17,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
-   "w": 5,
-   "l": 8,
+   "w": 6,
+   "l": 9,
    "p": 0
   },
   "WagerTalk / Kyle Kargel": {
@@ -509,7 +510,7 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Sean Paul": {
-   "w": 1,
+   "w": 2,
    "l": 2,
    "p": 0
   },
@@ -529,8 +530,8 @@
    "p": 0
   },
   "Predictem / Joe Jensen": {
-   "w": 11,
-   "l": 28,
+   "w": 18,
+   "l": 39,
    "p": 0
   },
   "Pickswise / Robby Nardini": {
@@ -580,7 +581,7 @@
   },
   "Pickswise / Chad Hartsock": {
    "w": 0,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "SI / Ryan Gilbert": {
@@ -599,18 +600,18 @@
    "p": 0
   },
   "Sports Illustrated / Iain MacMillan": {
-   "w": 9,
-   "l": 12,
+   "w": 16,
+   "l": 14,
    "p": 0
   },
   "Sports Illustrated / Ryan Gilbert": {
-   "w": 5,
-   "l": 4,
+   "w": 13,
+   "l": 14,
    "p": 0
   },
   "Sports Illustrated / Peter Dewey": {
-   "w": 12,
-   "l": 12,
+   "w": 13,
+   "l": 16,
    "p": 0
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
@@ -644,8 +645,8 @@
    "p": 0
   },
   "Pickswise / Justin Martin": {
-   "w": 4,
-   "l": 1,
+   "w": 5,
+   "l": 2,
    "p": 0
   },
   "TheLines / Chris Kubala": {
@@ -674,7 +675,7 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Greg Waddell": {
-   "w": 1,
+   "w": 2,
    "l": 0,
    "p": 0
   },
@@ -759,7 +760,7 @@
    "p": 0
   },
   "RotoWire / Steve Peralta": {
-   "w": 3,
+   "w": 6,
    "l": 6,
    "p": 0
   },
@@ -818,7 +819,7 @@
    "l": 1,
    "p": 0
   },
-  "SI (MMA Knockout) / Drew Beaupr\u00e9": {
+  "SI (MMA Knockout) / Drew Beaupré": {
    "w": 2,
    "l": 1,
    "p": 0
@@ -980,7 +981,7 @@
   },
   "Lineups.com / Thom Cunningham": {
    "w": 5,
-   "l": 7,
+   "l": 8,
    "p": 0
   },
   "Bleacher Nation / Data Skrive (model)": {
@@ -1284,12 +1285,12 @@
    "p": 0
   },
   "VSiN / Lou Finocchiaro": {
-   "w": 1,
-   "l": 3,
+   "w": 2,
+   "l": 7,
    "p": 0
   },
   "Pickswise / Matthew Lowrimore": {
-   "w": 0,
+   "w": 1,
    "l": 2,
    "p": 0
   },
@@ -1370,7 +1371,7 @@
   },
   "Bettors Insider / Bill Christy": {
    "w": 2,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "Last Word on Sports / Lori Bennett": {
@@ -1379,8 +1380,8 @@
    "p": 0
   },
   "Covers / Chris Gregory": {
-   "w": 4,
-   "l": 3,
+   "w": 9,
+   "l": 5,
    "p": 0
   },
   "Action Network / Ryan Minion": {
@@ -1524,7 +1525,7 @@
    "p": 0
   },
   "CBS Sports / Daniel Lewis (SportsLine model)": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -1539,12 +1540,12 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Ryan Minion": {
-   "w": 2,
+   "w": 3,
    "l": 0,
    "p": 0
   },
   "DraftKings Network / Bryan Armetta": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -1635,7 +1636,7 @@
   },
   "Bettors Insider / Earnest Horn": {
    "w": 3,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "iHeart (Ticket 760) predictions": {
@@ -1704,8 +1705,8 @@
    "p": 0
   },
   "Bang The Book / Staff": {
-   "w": 3,
-   "l": 1,
+   "w": 11,
+   "l": 4,
    "p": 0
   },
   "Covers / Phil Naessens": {
@@ -1770,7 +1771,7 @@
   },
   "Doc's Sports / Tony Sink": {
    "w": 3,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "Pro Football Network / Cam Miller & Oliver Hodgkinson": {
@@ -1789,8 +1790,8 @@
    "p": 0
   },
   "Doc's Sports / Josh Schonwald": {
-   "w": 1,
-   "l": 3,
+   "w": 2,
+   "l": 5,
    "p": 0
   },
   "Doc's Sports / Parlays Pundit": {
@@ -1800,7 +1801,7 @@
   },
   "Doc's Sports / Guy Bruhn": {
    "w": 2,
-   "l": 1,
+   "l": 4,
    "p": 0
   },
   "Last Word on Sports / Marcus Yu": {
@@ -1809,8 +1810,8 @@
    "p": 0
   },
   "Sports Mole / Joel Lefevre": {
-   "w": 1,
-   "l": 1,
+   "w": 2,
+   "l": 2,
    "p": 0
   },
   "Sports Gambler / Steven Jackson": {
@@ -1824,14 +1825,74 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Jordan Mann": {
+   "w": 2,
+   "l": 0,
+   "p": 0
+  },
+  "Predictem / R. B. Dressler": {
+   "w": 0,
+   "l": 0,
+   "p": 1
+  },
+  "VegasInsider / Dylan Wilkerson": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "SoccerNews / Tom Dunstan": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "FootballPredictions.com / Bojan Jovanovic": {
+   "w": 10,
+   "l": 6,
+   "p": 0
+  },
+  "MMA Mania (Yahoo) / Tim Edwards": {
+   "w": 3,
+   "l": 8,
+   "p": 0
+  },
+  "Sports Betting Dime / Juan Pablo Aravena": {
+   "w": 5,
+   "l": 0,
+   "p": 0
+  },
+  "FootballPredictions.com / staff": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "SoccerNews / Janko Glavonjić": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "MMA Sucka / Frazer Krohn": {
    "w": 1,
    "l": 0,
+   "p": 0
+  },
+  "Covers / Danny Howard": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Sports Betting Dime / Jordan Tomiyama": {
+   "w": 3,
+   "l": 0,
+   "p": 0
+  },
+  "Sports Betting Dime / Ryan Potts": {
+   "w": 2,
+   "l": 3,
    "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 7,
+   "w": 8,
    "l": 7
   },
   "2": {
@@ -1840,35 +1901,39 @@
   },
   "3": {
    "w": 0,
-   "l": 14
+   "l": 15
   },
   "4": {
    "w": 0,
-   "l": 14
+   "l": 15
   },
   "5": {
    "w": 0,
-   "l": 14
+   "l": 15
   },
   "6": {
    "w": 0,
-   "l": 14
+   "l": 15
   },
   "7": {
    "w": 0,
-   "l": 14
+   "l": 15
   },
   "8": {
    "w": 0,
-   "l": 13
+   "l": 14
   },
   "9": {
    "w": 0,
-   "l": 9
+   "l": 10
   },
   "10": {
    "w": 0,
-   "l": 5
+   "l": 6
+  },
+  "11": {
+   "w": 0,
+   "l": 1
   }
  },
  "partial_files": {},
@@ -1882,7 +1947,8 @@
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "ungradable": {
   "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)",
@@ -1892,7 +1958,7 @@
   "2026-11-19": "Deni Avdija points (DNP, left foot); FC Cincinnati @ Orlando Under 3.75 (3-1) counted as loss (half loss / half push)"
  },
  "botd_partial": {
-  "2026-11-20": "all ladder lengths settled (leg 1 Minnesota ML won, leg 2 Iowa State +1.5 lost); legs 3-5 (Sat Nov 21: Texas Tech -3.5, LSU/Tennessee Under 45.5, Newcastle/Arsenal Under 2.5) not yet individually graded"
+  "2026-11-21": "length 1 won (Bucks +11.5); lengths 3-11 lost (leg 3 Arkansas/Texas Under 47.5 lost, 48 points); length 2 pending (leg 2 Liverpool ML, Sun Nov 22) and not yet tallied; legs 8-11 not yet individually graded"
  },
  "corrections": {
   "2026-11-19": "leg 2 Carolina ML re-graded win->loss (Montreal won 2-1 in OT per ESPN); length-2 tally moved from win to loss"
