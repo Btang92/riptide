@@ -83,7 +83,9 @@
      "name": "Forza Football (Liverpool win)",
      "url": "https://forzafootball.com/gb/play/betting-tips/liverpool-vs-manchester-united-premier-league-predictions-odds"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Manchester United 0, Liverpool 4"
   },
   {
    "id": "KXNCAAFTOTAL-26NOV21ARKTEX-48:no",
@@ -252,7 +254,9 @@
      "name": "Sports Mole / Seye Omidiora (Brighton win)",
      "url": "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-brighton-prediction-team-news-lineups_609478.html"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Brighton & Hove Albion 0, Hull City 2"
   },
   {
    "id": "KXNFLTOTAL-26NOV22MINSF-45:no",
@@ -275,7 +279,9 @@
      "name": "Predictem / Joe Jensen (Under 45.5)",
      "url": "https://www.predictem.com/?p=216126"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Minnesota Vikings 10, San Francisco 49ers 35"
   },
   {
    "id": "KXNFLGAME-26NOV22TENDAL-DAL:yes",
@@ -304,7 +310,9 @@
      "name": "Pickswise / Aaron Taylor (Cowboys −8)",
      "url": "https://www.pickswise.com/nfl/games/dallas-cowboys-tennessee-titans-nfl-2026-11-22-1300/picks/"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Tennessee Titans 30, Dallas Cowboys 51"
   },
   {
    "id": "KXNFLGAME-26NOV22LVDEN-DEN:yes",
@@ -327,7 +335,9 @@
      "name": "Predictem / Joe Jensen (projects Denver 23-17)",
      "url": "https://www.predictem.com/?p=216107"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Las Vegas Raiders 24, Denver Broncos 38"
   }
  ]
 }

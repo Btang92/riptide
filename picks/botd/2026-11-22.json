@@ -32,7 +32,9 @@
      "name": "VSiN / Zachary Cohen (Over 43.5)",
      "url": "https://vsin.com/nfl/expert-nfl-picks-week-11-best-bets-predictions-and-player-props-from-zachary-cohen/"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Baltimore Ravens 33, Carolina Panthers 35"
   },
   {
    "id": "KXNFLTOTAL-26NOV22MINSF-47:no",
@@ -62,7 +64,9 @@
      "name": "Covers / Jason Logan (rain forecast)",
      "url": "https://www.covers.com/nfl/picks-and-predictions-week-11-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Minnesota Vikings 10, San Francisco 49ers 35"
   },
   {
    "id": "KXNBATOTAL-26NOV22BOSGSW-212:no",
@@ -87,7 +91,9 @@
      "name": "Predictem / Joe Jensen (Under 211.5)",
      "url": "https://www.predictem.com/nba/celtics-at-warriors-picks-odds-sunday-night-nba-preview/"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Boston Celtics 87, Golden State Warriors 88"
   },
   {
    "id": "KXNFLSPREAD-26NOV22TBDET-DET8:no",
@@ -120,7 +126,9 @@
      "name": "Pickswise / Kevin Rogers (Buccaneers +3.5)",
      "url": "https://www.pickswise.com/nfl/picks/"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Tampa Bay Buccaneers 21, Detroit Lions 31"
   },
   {
    "id": "KXNFLSPREAD-26NOV22PITPHI-PIT4:yes",
@@ -143,7 +151,9 @@
      "name": "Covers / Neil Parker (Steelers −3.5)",
      "url": "https://www.covers.com/nfl/steelers-vs-eagles-prediction-picks-nov-22-2026"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Pittsburgh Steelers 16, Philadelphia Eagles 19"
   },
   {
    "id": "KXNBASPREAD-26NOV22ORLWAS-ORL7:no",
@@ -176,7 +186,9 @@
      "name": "Covers / Geoff Clark (Wizards ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-22-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Orlando Magic 96, Washington Wizards 116"
   },
   {
    "id": "KXNFLGAME-26NOV22JACNYG-JAC:yes",
@@ -210,7 +222,9 @@
      "name": "NFL.com (Giants QB news)",
      "url": "https://www.nfl.com/news/nfl-picks-week-11-2026-nfl-season"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Jacksonville Jaguars 18, New York Giants 23"
   },
   {
    "id": "KXNBAGAME-26NOV22INDNYK-NYK:yes",
@@ -243,7 +257,9 @@
      "name": "Dimers model (Knicks ML)",
      "url": "https://www.dimers.com/nba/news/nba-best-bets-11-22-2026-ac"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Indiana Pacers 106, New York Knicks 113"
   },
   {
    "id": "KXEPLTOTAL-26NOV23BREEVE-3:no",
