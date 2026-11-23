@@ -1,0 +1,59 @@
+{
+ "at": "2026-11-23T12:56:23Z",
+ "date": "2026-11-23",
+ "picks": [
+  {
+   "sym": "CRWD",
+   "gap": -8.0,
+   "price": null,
+   "catalyst": "Gap down: agreed to buy Zscaler in a $43.9B all-stock deal",
+   "why": "CrowdStrike is buying rival Zscaler by paying with its own shares (1.135 CRWD shares per ZS share, a 34% premium), so it's down roughly 8% before the open as holders worry about the price and share dilution; this hurts sentiment, not the business, so a big name like this can bounce once early sellers finish. No reliable pre-market price found, so use the live quote and wait for the desk's trigger.",
+   "quality": "ok",
+   "sources": [
+    { "name": "CrowdStrike/Zscaler joint press release (SEC filing)", "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000110465926130785/tm2630454d1_ex99-1.htm" },
+    { "name": "IBTimes", "url": "https://www.ibtimes.com/crowdstrike-acquire-zscaler-43-9-billion-deal-3810075" },
+    { "name": "Help Net Security", "url": "https://www.helpnetsecurity.com/2026/11/23/crowdstrike-zscaler-43-9-billion-acquisition/" }
+   ]
+  },
+  {
+   "sym": "MU",
+   "gap": 7.4,
+   "price": 638.79,
+   "catalyst": "Gap up: AI-chip rebound after Friday's -13.9% rout",
+   "why": "Micron fell almost 14% Friday in the AI sell-off and is bouncing about 7% with the whole chip group as futures rally ~3%; there's no new company news, so this is a sector bounce that can fade if the market turns, so only take it if it holds above the early high.",
+   "quality": "ok",
+   "sources": [
+    { "name": "TECHi (4:30 AM ET pre-market table)", "url": "https://www.techi.com/premarket-ai-hardware-stocks-monday-after-friday-rout-nvidia/" },
+    { "name": "Business Insider (via AOL)", "url": "https://www.aol.com/articles/nvidia-rebounds-nearly-9-premarket-114742000.html" }
+   ]
+  },
+  {
+   "sym": "AMD",
+   "gap": 6.7,
+   "price": 452.94,
+   "catalyst": "Gap up: AI-chip rebound after Friday's -13.2% rout",
+   "why": "AMD dropped 13% Friday with other AI stocks and is up about 7% pre-market as buyers step back in; it's a liquid big name, but the move is market-driven, not company news, so respect the stop if the rebound stalls.",
+   "quality": "ok",
+   "sources": [
+    { "name": "TECHi (4:30 AM ET pre-market table)", "url": "https://www.techi.com/premarket-ai-hardware-stocks-monday-after-friday-rout-nvidia/" }
+   ]
+  },
+  {
+   "sym": "TSM",
+   "gap": 8.2,
+   "price": 344.8,
+   "catalyst": "Gap up: AI-chip rebound after Friday's -9.5% drop",
+   "why": "TSMC's US shares fell 9.5% Friday and are up about 8% pre-market in the AI rebound; same story as the other chip names, a bounce with the sector rather than fresh news.",
+   "quality": "ok",
+   "sources": [
+    { "name": "TECHi (4:30 AM ET pre-market table)", "url": "https://www.techi.com/premarket-ai-hardware-stocks-monday-after-friday-rout-nvidia/" }
+   ]
+  }
+ ],
+ "avoid": [
+  { "sym": "ZS", "why": "Being bought by CrowdStrike at a fixed 1.135 CRWD shares per ZS share; up ~13% but now just tracks CRWD, little room left to run" },
+  { "sym": "NVDA", "why": "Up ~9% on a rebound, but a Reuters report says the SEC is examining its accounting and its CEO just resigned in a scandal; headline risk is extreme" },
+  { "sym": "CRNC", "why": "Up ~15.8% pre-market with no company news found; momentum-only move that can reverse hard" },
+  { "sym": "DELL", "why": "Up ~8.6% on the rebound but reports earnings Tuesday; holding it into a report is a gamble" }
+ ]
+}
