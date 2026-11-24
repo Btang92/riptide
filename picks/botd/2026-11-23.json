@@ -29,7 +29,9 @@
      "name": "Bets.com.au / Andrew Hendrie (Under 2.5)",
      "url": "https://www.bets.com.au/soccer/english-premier-league/brentford-vs-everton-premier-league-tips-prediction-20261123-0001/"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Everton 0, Brentford 4"
   },
   {
    "id": "KXNBASPREAD-26NOV23MEMCHA-MEM4:yes",
@@ -58,7 +60,9 @@
      "name": "Covers / Jon Metler (Grizzlies ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-23-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Memphis Grizzlies 117, Charlotte Hornets 111"
   },
   {
    "id": "KXNBASPREAD-26NOV23PHXNOP-PHX4:yes",
@@ -88,7 +92,9 @@
      "name": "Covers / Jon Metler (Suns ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-23-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Phoenix Suns 123, New Orleans Pelicans 119"
   },
   {
    "id": "KXNHLGAME-26NOV23LAMTL-MTL:yes",
@@ -115,7 +121,9 @@
      "name": "iHeartMedia Fox Sports 990 model (Canadiens ML)",
      "url": "https://foxsports990.iheart.com/content/2026-11-22-kings-vs-canadiens-prediction-picks-nov-23/"
     }
-   ]
+   ],
+   "result": "loss",
+   "final": "Los Angeles Kings 2, Montreal Canadiens 1"
   },
   {
    "id": "KXNBAGAME-26NOV23LACHOU-HOU:yes",
@@ -149,7 +157,9 @@
      "name": "Pickswise / Justin Ziolkowski (Rockets −12.5)",
      "url": "https://www.pickswise.com/nba/games/houston-rockets-los-angeles-clippers-nba-2026-11-23-2030/picks/"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "LA Clippers 104, Houston Rockets 116"
   },
   {
    "id": "KXNBAGAME-26NOV23BKNMIN-MIN:yes",
@@ -179,7 +189,9 @@
      "name": "Covers / Jon Metler (Timberwolves ML)",
      "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-23-2026"
     }
-   ]
+   ],
+   "result": "win",
+   "final": "Brooklyn Nets 116, Minnesota Timberwolves 142"
   },
   {
    "id": "KXNCAAFGAME-26NOV24KENTEMU-EMU:yes",

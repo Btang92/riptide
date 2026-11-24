@@ -1,0 +1,183 @@
+{
+ "at": "2026-11-24T16:00:54Z",
+ "date": "2026-11-24",
+ "method": "Started from 793 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and matched them by hand against today's 144 collected expert picks (the dump again returned no automatic matches) and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury news agreed, with nothing disagreeing. Dropped for conflicts: Pistons ML/spread (five outlets on Detroit, top traders $7k on Orlando), Packers/Rams spread (experts on Rams −2.5/−3, top traders $6.4k on Packers +2.5) and total (outlets split Over/Under 44.5), Golden Knights/Oilers Over 5.5 (top traders against), Oklahoma/Pitt, Baylor/Alabama and Texas Tech/Louisville (outlets split), DePaul ML (Dimers' model projects a Purdue win), Kent State/EMU and Miami/WMU totals (outlets split). Tennessee ML was skipped for a line-move flag, and Michigan, Vanderbilt and Iowa State as too expensive (edge worse than −2.5). Wednesday's NBA and NHL games had no published picks yet and only token top-trader money, so the ladder is six Tuesday legs, shorter than the usual 8–12.",
+ "honest": "Every leg costs slightly more than its fair price (edge about −1.2 to −2.4¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNCAAMBGAME-26NOV24MISSBYU-MISS:yes",
+   "league": "College basketball",
+   "game": "Ole Miss Rebels @ BYU Cougars",
+   "start": "2026-11-24T19:30:00.000Z",
+   "mk": "ML",
+   "label": "Ole Miss Rebels",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 51.1,
+   "sharp": null,
+   "why": "Ole Miss forces turnovers at one of the nation's top rates, and BYU point guard Robert Wright has missed two games with muscle tightness with his status still unclear. Covers takes Ole Miss on the moneyline and Pickswise takes Ole Miss +1.5; the market has moved toward Ole Miss since open. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Covers / Phil Naessens (Ole Miss ML)",
+     "url": "https://www.covers.com/ncaab/ole-miss-vs-byu-prediction-picks-nov-24-2026"
+    },
+    {
+     "name": "Pickswise / Sam Avellone (Ole Miss +1.5)",
+     "url": "https://www.pickswise.com/college-basketball/news/college-basketball-best-bets-today-november-24-predictions-picks/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV24DETORL-211:yes",
+   "league": "NBA",
+   "game": "Detroit Pistons @ Orlando Magic",
+   "start": "2026-11-25T00:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 210.5",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 55.5,
+   "sharp": {
+    "for": 199,
+    "against": 260,
+    "who": [
+     "keeptheblueflagflyinghigh"
+    ]
+   },
+   "why": "Covers notes these teams average about 222 combined points against a total in the 211s, and the SportsLine model projects 219; Dimers' model also leans Over. Orlando is without Paolo Banchero and Detroit without Jalen Duren, which removes two starters but hasn't moved the experts off the Over. Top-trader money on the total is small and roughly even.",
+   "sources": [
+    {
+     "name": "Covers / Quinn Allen (Over 211.5)",
+     "url": "https://www.covers.com/nba/pistons-vs-magic-prediction-picks-nov-24-2026"
+    },
+    {
+     "name": "Dimers / Ryan Leaver (Over 211.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-24-2026-ac"
+    },
+    {
+     "name": "CBS Sports / SportsLine model (Over 211.5)",
+     "url": "https://www.cbssports.com/betting/news/pistons-magic-prediction-odds-time-2026-nba-cup-picks-tuesday-november-24/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV24BOSWAS-217:no",
+   "league": "NBA",
+   "game": "Boston Celtics @ Washington Wizards",
+   "start": "2026-11-25T01:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 216.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 47.5,
+   "sharp": {
+    "for": 348,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Boston plays at a slow pace and has gone under in 8 of 9 road games (Lineups), scoring just 87–105 in its last four; Washington is 6–12 to the Over. Boston is also thin at center with Mitchell Robinson out. SI and Lineups both take Under 217.5, and the small top-trader money ($348) is on the Under.",
+   "sources": [
+    {
+     "name": "Sports Illustrated / Peter Dewey (Under 217.5)",
+     "url": "https://www.si.com/betting/celtics-vs-wizards-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026"
+    },
+    {
+     "name": "Lineups / Thom Cunningham (Under 217.5)",
+     "url": "https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV24KENTEMU-EMU5:yes",
+   "league": "College football",
+   "game": "Kent State Golden Flashes @ Eastern Michigan Eagles",
+   "start": "2026-11-25T00:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Eastern Michigan Eagles −4.5",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 52.5,
+   "sharp": null,
+   "why": "Kent State scores about 10 points a game and is 0–6 on the road (Covers); it's Eastern Michigan's Senior Day and VSiN leans on RB Amareon Blue against a struggling Kent QB. Covers and Dimers take EMU −5.5 and VSiN −6, so −4.5 here is a better number. Risk: EMU QB Noah Kim has missed three games and is uncertain.",
+   "sources": [
+    {
+     "name": "Covers / Ed Scimia (EMU −5.5)",
+     "url": "https://www.covers.com/ncaaf/kent-state-vs-eastern-michigan-prediction-picks-nov-24-2026"
+    },
+    {
+     "name": "Dimers / Mac Douglass (EMU −5.5)",
+     "url": "https://www.dimers.com/cfb/news/kent-state-vs-eastern-michigan-prediction-week-13-2026-ac"
+    },
+    {
+     "name": "VSiN / Adam Burke (EMU −6)",
+     "url": "https://vsin.com/college-football/college-football-week-13-picks-kent-state-vs-eastern-michigan/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV24DALDEN-DEN10:no",
+   "league": "NBA",
+   "game": "Dallas Mavericks @ Denver Nuggets",
+   "start": "2026-11-25T03:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Dallas Mavericks +9.5",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 55.5,
+   "sharp": {
+    "for": 2864,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Denver is 1–4 against the spread as a home favourite and Dallas is better with Kyrie Irving back (SI); Denver ranks 22nd in defensive rating (Covers). SI takes Dallas +8.5 and Covers and Dimers +7.5, so +9.5 is extra cushion, and top traders hold $2.9k on this exact line with nothing against. Dallas is missing Dereck Lively II.",
+   "sources": [
+    {
+     "name": "Sports Illustrated / Peter Dewey (Dallas +8.5)",
+     "url": "https://www.si.com/betting/mavericks-vs-nuggets-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026"
+    },
+    {
+     "name": "Dimers / Ryan Leaver (Dallas +7.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-24-2026-ac"
+    },
+    {
+     "name": "Covers / Todd Cordell (Dallas +7.5, parlay leg)",
+     "url": "https://www.covers.com/picks/nba/parlay"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV24MOHWMU-WMU:yes",
+   "league": "College football",
+   "game": "Miami (OH) RedHawks @ Western Michigan Broncos",
+   "start": "2026-11-25T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Western Michigan Broncos",
+   "ask": 69,
+   "cost": 70.4973,
+   "fair": 69.3,
+   "sharp": {
+    "for": 324119,
+    "against": 25613,
+    "who": [
+     "HomeRunHazard",
+     "999585"
+    ]
+   },
+   "why": "Dimers' model gives Western Michigan a 70% win chance and numberFire 61.5%, and Polymarket's top traders have about $324k on the Broncos against $26k on Miami. Covers and Dimers like Miami to keep it within a touchdown, which still fits a Broncos win.",
+   "sources": [
+    {
+     "name": "Dimers / Mac Douglass (WMU ML, model)",
+     "url": "https://www.dimers.com/cfb/news/miami-ohio-vs-western-michigan-prediction-week-13-2026-ac"
+    },
+    {
+     "name": "FanDuel Research / numberFire (WMU win projection)",
+     "url": "https://www.fanduel.com/research/western-michigan-vs-miami-oh-college-football-odds-picks-best-bets-for-11-24-2026"
+    }
+   ]
+  }
+ ]
+}
