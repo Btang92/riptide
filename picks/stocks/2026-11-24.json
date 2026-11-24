@@ -1,0 +1,59 @@
+{
+ "at": "2026-11-24T13:20:00Z",
+ "date": "2026-11-24",
+ "picks": [
+  {
+   "sym": "DKS",
+   "gap": 13.9,
+   "price": null,
+   "catalyst": "Gap up: earnings beat + raised full-year guidance",
+   "why": "Dick's earned $1.94 a share vs about $1.42 expected and raised its full-year profit outlook (adjusted EPS now $11.45-$12.30), so it's up about 14% before the open even though the market is red; a clean beat-and-raise is the strongest kind of news. No reliable pre-market price found, so use the live quote and wait for the desk's trigger.",
+   "quality": "strong",
+   "sources": [
+    { "name": "Dick's Q3 earnings release (SEC filing)", "url": "https://www.sec.gov/Archives/edgar/data/0001089063/000108906326000039/dks-20261031xex991earnings.htm" },
+    { "name": "Finwire (Investing.com repost)", "url": "https://finwire.io/news/stock-markets-news/why-is-dicks-sporting-goods-stock-surging-today" },
+    { "name": "StockTitan", "url": "https://www.stocktitan.net/news/DKS/dick-s-sporting-goods-inc-reports-third-quarter-6noyy84ibkow.html" }
+   ]
+  },
+  {
+   "sym": "BBY",
+   "gap": null,
+   "price": null,
+   "catalyst": "Gap up: earnings beat, best comps in 5 years, raised guidance",
+   "why": "Best Buy beat on profit ($1.62 vs $1.49) and sales ($10.24B vs $9.91B), had its best same-store sales growth in five years (+6.1%) and raised its full-year targets, and headlines say the stock is surging pre-market; strong news, but I couldn't find a reliable pre-market % or price, so check the live quote first.",
+   "quality": "strong",
+   "sources": [
+    { "name": "24/7 Wall St.", "url": "https://247wallst.com/cards/best-buy-q3-2027-earnings-bby-01m86q42patqpfztxd5vm02p67" },
+    { "name": "Panabee (guidance figures)", "url": "https://www.panabee.com/news/best-buy-earnings-q3-2027" }
+   ]
+  },
+  {
+   "sym": "ADI",
+   "gap": -7.6,
+   "price": 350.0,
+   "catalyst": "Gap down: record year but next-quarter guidance a bit below estimates",
+   "why": "Analog Devices posted record results ($4.37B quarterly revenue, full year up 38%) but guided next quarter's profit to $3.82 vs about $3.89 expected, so it's down about 8% in a weak chip market; this is a sell-the-news hit to sentiment, not to the business, so it can bounce if sellers dry up early.",
+   "quality": "ok",
+   "sources": [
+    { "name": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/why-is-analog-devices-stock-tumbling-today-93CH-5047890" }
+   ]
+  },
+  {
+   "sym": "NVDA",
+   "gap": -5.2,
+   "price": null,
+   "catalyst": "Gap down: pullback after Monday's 31% jump on Jensen Huang's return as CEO",
+   "why": "Nvidia soared 31% Monday when Jensen Huang was reinstated as CEO and is giving back about 5% today as chip stocks and Nasdaq futures (-1.7%) slide; there's no bad company news, so it's a profit-taking dip in a very liquid name, but the market is shaky, so respect the stop.",
+   "quality": "ok",
+   "sources": [
+    { "name": "TradingKey pre-market report", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262319957-us-pre-market-trump-jensen-huang-nvidia-ai-chips-xau-wti-oil-gold-ant-tradingkey" },
+    { "name": "Yahoo Finance live blog", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html" }
+   ]
+  }
+ ],
+ "avoid": [
+  { "sym": "INSM", "why": "Being bought by Sanofi for a fixed $175/share in cash, so the price is pinned near the deal price with little room left to move" },
+  { "sym": "ANT", "why": "Anthropic is a brand-new IPO down over 6% to about $82, below its $83 offering price, for a third straight day; no trading history and very choppy" },
+  { "sym": "MDT", "why": "Medtronic only down about 3% on mixed results (tiny EPS beat, sales miss, guidance kept), a weak catalyst with little to trade" }
+ ]
+}
