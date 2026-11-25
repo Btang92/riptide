@@ -1,0 +1,64 @@
+{
+ "at": "2026-11-25T13:05:00Z",
+ "date": "2026-11-25",
+ "picks": [
+  {
+   "sym": "NTNX",
+   "gap": -12.1,
+   "price": 47.97,
+   "catalyst": "Gap down: earnings beat, but CEO stepping down and full-year guidance only reaffirmed",
+   "why": "Nutanix beat on its quarter, but said CEO Rajiv Ramaswami will step down once a successor is found and kept its full-year sales target (midpoint below estimates), so it's down about 12%; a CEO change hurts sentiment more than the business, which is the kind of gap down that can bounce once early sellers are done.",
+   "quality": "strong",
+   "sources": [
+    { "name": "Nutanix CEO succession release (SEC filing)", "url": "https://www.sec.gov/Archives/edgar/data/0001618732/000117184326007693/exh_992.htm" },
+    { "name": "Benzinga via Longbridge (pre-market movers)", "url": "https://longbridge.com/en/news/306760101" }
+   ]
+  },
+  {
+   "sym": "DELL",
+   "gap": -6.0,
+   "price": null,
+   "catalyst": "Gap down despite record quarter and raised full-year outlook (AI chip sell-off)",
+   "why": "Dell posted record quarterly revenue of $54.9B, beat on profit ($9.45 vs $6.59 expected) and raised its full-year sales outlook to $202B, yet it's down in pre-market (reports range from about 3% to 6%) because AI and chip stocks are selling off; the business news is good, so this is a sentiment dip that can reverse, but the sector is weak, so check the live quote and respect the stop.",
+   "quality": "ok",
+   "sources": [
+    { "name": "Dell Q3 FY27 press release", "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results" },
+    { "name": "Investrade morning preview", "url": "https://investrade.com/morning-preview-november-25-2026/" },
+    { "name": "Coinotag", "url": "https://en.coinotag.com/dell-dell-record-54-9-billion-quarter" },
+    { "name": "Jin10 via Longbridge", "url": "https://longbridge.com/en/news/306754165" }
+   ]
+  },
+  {
+   "sym": "WDAY",
+   "gap": -10.2,
+   "price": 161.0,
+   "catalyst": "Gap down: earnings beat, but next-quarter subscription forecast slightly light",
+   "why": "Workday beat on profit ($2.82 vs $2.75) and sales and even raised its full-year subscription and margin targets, but its next-quarter subscription forecast ($2.6B) came in just under the $2.61B expected, so it's down about 10%; that's a small guidance trim on a big, liquid name, which can set up a bounce.",
+   "quality": "ok",
+   "sources": [
+    { "name": "SiliconANGLE", "url": "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/" },
+    { "name": "Benzinga via Longbridge (pre-market movers)", "url": "https://longbridge.com/en/news/306760101" }
+   ]
+  },
+  {
+   "sym": "LI",
+   "gap": 5.0,
+   "price": 11.23,
+   "catalyst": "Gap up: third-quarter results beat",
+   "why": "Li Auto reported better-than-expected third-quarter results, with sales of $4.30B vs $4.09B expected, so it's up about 5% while most of the market is red; a real beat gives buyers a reason to step in, but it's a cheaper stock close to the $10 floor, so keep size small.",
+   "quality": "ok",
+   "sources": [
+    { "name": "Benzinga via Longbridge (pre-market movers)", "url": "https://longbridge.com/en/news/306760101" }
+   ]
+  }
+ ],
+ "avoid": [
+  { "sym": "AMBA", "why": "Down about 37% on a sales miss and weak next-quarter guidance; that's real damage to the business, and huge gaps like this are often a falling knife" },
+  { "sym": "PHAR", "why": "Paused manufacturing of its main drug RUCONEST and told the FDA supply will likely be interrupted; an ongoing business problem with no clear end" },
+  { "sym": "URBN", "why": "Down about 15% on a quarterly sales miss; a real business miss rather than a sentiment hit, so less likely to bounce" },
+  { "sym": "ANT", "why": "Anthropic is a week-old IPO trading below its $83 offering price (about $78); no trading history and very choppy" },
+  { "sym": "JAGX", "why": "Down about 15% after jumping 109% the day before; a small-cap pump unwinding, very risky" },
+  { "sym": "RAYA", "why": "Under $10 (about $1.12) penny-stock spike with no clear news" },
+  { "sym": "AREC", "why": "Under $10 and received a Nasdaq non-compliance (delisting risk) notice" }
+ ]
+}
