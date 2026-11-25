@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:58:17Z",
+ "updated": "2026-11-25T16:12:56Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -23,7 +23,8 @@
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -43,7 +44,7 @@
   },
   "Action Network (via Yahoo) / Colby Marchio": {
    "w": 2,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "Action Network (via Yahoo) / Evan Abrams": {
@@ -157,13 +158,13 @@
    "p": 0
   },
   "Covers / Jason Ence": {
-   "w": 1,
+   "w": 2,
    "l": 3,
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 25,
-   "l": 27,
+   "w": 26,
+   "l": 28,
    "p": 0
   },
   "Covers / Joe Osborne": {
@@ -172,18 +173,18 @@
    "p": 1
   },
   "Covers / Jon Metler": {
-   "w": 59,
-   "l": 35,
+   "w": 67,
+   "l": 37,
    "p": 0
   },
   "Covers / Josh Inglis": {
-   "w": 7,
+   "w": 9,
    "l": 14,
    "p": 0
   },
   "Covers / Neil Parker": {
-   "w": 25,
-   "l": 30,
+   "w": 27,
+   "l": 31,
    "p": 0
   },
   "Covers / Nick Galaida": {
@@ -192,8 +193,8 @@
    "p": 0
   },
   "Covers / Quinn Allen": {
-   "w": 17,
-   "l": 16,
+   "w": 23,
+   "l": 20,
    "p": 0
   },
   "Covers / Rob Paul": {
@@ -247,8 +248,8 @@
    "p": 0
   },
   "Dimers / Dimers Data": {
-   "w": 36,
-   "l": 27,
+   "w": 38,
+   "l": 29,
    "p": 0
   },
   "Dimers / Dimers Data (model)": {
@@ -287,7 +288,7 @@
    "p": 0
   },
   "FanDuel Research / Data Skrive (numberFire)": {
-   "w": 6,
+   "w": 8,
    "l": 2,
    "p": 0
   },
@@ -333,7 +334,7 @@
   },
   "Pickswise / Bobby Stanley": {
    "w": 3,
-   "l": 1,
+   "l": 3,
    "p": 0
   },
   "Pickswise / Brandon Sachs": {
@@ -342,8 +343,8 @@
    "p": 0
   },
   "Pickswise / Chris Farley": {
-   "w": 12,
-   "l": 6,
+   "w": 13,
+   "l": 7,
    "p": 0
   },
   "Pickswise / Connor Grootenhuis": {
@@ -352,8 +353,8 @@
    "p": 0
   },
   "Pickswise / Filip Tomic": {
-   "w": 6,
-   "l": 11,
+   "w": 7,
+   "l": 13,
    "p": 0
   },
   "Pickswise / Joe Williams": {
@@ -382,7 +383,7 @@
    "p": 0
   },
   "Pickswise / Napier Montgomery": {
-   "w": 6,
+   "w": 7,
    "l": 10,
    "p": 0
   },
@@ -467,8 +468,8 @@
    "p": 0
   },
   "TheLines / Nick Crain": {
-   "w": 13,
-   "l": 9,
+   "w": 16,
+   "l": 12,
    "p": 0
   },
   "TheSpread / Alex Becker": {
@@ -477,8 +478,8 @@
    "p": 0
   },
   "TheSpread / Anthony Rome": {
-   "w": 13,
-   "l": 13,
+   "w": 14,
+   "l": 14,
    "p": 0
   },
   "TheSpread / Paul Elliot": {
@@ -488,7 +489,7 @@
   },
   "VSiN / Adam Burke": {
    "w": 19,
-   "l": 17,
+   "l": 18,
    "p": 0
   },
   "VSiN / Zachary Cohen": {
@@ -502,8 +503,8 @@
    "p": 0
   },
   "Yahoo Sports / Matt Russell": {
-   "w": 5,
-   "l": 3,
+   "w": 10,
+   "l": 7,
    "p": 0
   },
   "iHeartMedia (computer model)": {
@@ -513,7 +514,7 @@
   },
   "Action Network (via Yahoo) / Sean Paul": {
    "w": 2,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "DK Network / Hunter Skoczylas": {
@@ -567,8 +568,8 @@
    "p": 0
   },
   "Action Network (via Yahoo) / Sam Farley": {
-   "w": 1,
-   "l": 2,
+   "w": 3,
+   "l": 3,
    "p": 0
   },
   "SportsBettingDime / Michael Harrison": {
@@ -602,8 +603,8 @@
    "p": 0
   },
   "Sports Illustrated / Iain MacMillan": {
-   "w": 26,
-   "l": 17,
+   "w": 27,
+   "l": 18,
    "p": 0
   },
   "Sports Illustrated / Ryan Gilbert": {
@@ -612,8 +613,8 @@
    "p": 0
   },
   "Sports Illustrated / Peter Dewey": {
-   "w": 13,
-   "l": 16,
+   "w": 17,
+   "l": 22,
    "p": 0
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
@@ -628,7 +629,7 @@
   },
   "Covers / Sam Farley": {
    "w": 2,
-   "l": 4,
+   "l": 6,
    "p": 0
   },
   "SportsbookReview / Gary Pearson": {
@@ -648,12 +649,12 @@
   },
   "Pickswise / Justin Martin": {
    "w": 5,
-   "l": 2,
+   "l": 4,
    "p": 0
   },
   "TheLines / Chris Kubala": {
-   "w": 10,
-   "l": 8,
+   "w": 11,
+   "l": 12,
    "p": 0
   },
   "CBS Sports / SportsLine model (Andy Bryan)": {
@@ -918,7 +919,7 @@
   },
   "ClutchPoints / Garrett Kerman": {
    "w": 0,
-   "l": 2,
+   "l": 3,
    "p": 0
   },
   "Sports Mole / Adepoju Marvellous": {
@@ -1378,7 +1379,7 @@
   },
   "Last Word on Sports / Lori Bennett": {
    "w": 0,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "Covers / Chris Gregory": {
@@ -1503,17 +1504,17 @@
   },
   "Action Network (via Yahoo) / Action Network Staff": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "BetMGM / BetMGM Betting (model)": {
-   "w": 8,
-   "l": 2,
+   "w": 14,
+   "l": 4,
    "p": 0
   },
   "BetMGM / BetMGM Betting model": {
-   "w": 3,
-   "l": 3,
+   "w": 12,
+   "l": 10,
    "p": 0
   },
   "Dimers model": {
@@ -1572,8 +1573,8 @@
    "p": 0
   },
   "SportsBettingDime / Eric Rosales": {
-   "w": 2,
-   "l": 1,
+   "w": 3,
+   "l": 3,
    "p": 0
   },
   "Action Network (Yahoo) / Sam Farley": {
@@ -1627,8 +1628,8 @@
    "p": 0
   },
   "Covers / Jason Wilson": {
-   "w": 1,
-   "l": 1,
+   "w": 2,
+   "l": 2,
    "p": 0
   },
   "Bettors Insider": {
@@ -1747,8 +1748,8 @@
    "p": 0
   },
   "Lineups.com / Kody Malstrom": {
-   "w": 0,
-   "l": 3,
+   "w": 2,
+   "l": 4,
    "p": 0
   },
   "Bettors Insider / Max Gilson": {
@@ -1908,7 +1909,7 @@
   },
   "TheSpread.com / Paul Elliot": {
    "w": 1,
-   "l": 1,
+   "l": 3,
    "p": 0
   },
   "Stadium Rant / Ashish Thippanakaje": {
@@ -2020,32 +2021,107 @@
    "w": 1,
    "l": 1,
    "p": 0
+  },
+  "iHeartMedia (1049 Fox Sports Upstate) / computer model": {
+   "w": 2,
+   "l": 0,
+   "p": 0
+  },
+  "GOAL / Lewis Mitchell": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "DAZN / Ste Tudor": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "Bets.com.au / Andrew Hendrie": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "RotoBaller / Dan Palyo": {
+   "w": 3,
+   "l": 3,
+   "p": 0
+  },
+  "Sportsbook Review / Gary Pearson": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "iHeartMedia (Fox Sports 1340 WNCO) / computer model": {
+   "w": 3,
+   "l": 2,
+   "p": 0
+  },
+  "Pickswise / Justin Ziolkowski": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "iHeartMedia (Fox Sports 990) / computer model": {
+   "w": 0,
+   "l": 2,
+   "p": 0
+  },
+  "Last Word on Sports / Braden Morrison": {
+   "w": 1,
+   "l": 3,
+   "p": 0
+  },
+  "CBS Sports / Jared Dubin": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "iHeartMedia (Rip City Radio) / computer model": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "iHeartMedia (KFAN) / computer model": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "TheSpread.com / Anthony Rome": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "iHeartMedia (1390 The Gambler) / computer model": {
+   "w": 0,
+   "l": 2,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 9,
+   "w": 10,
    "l": 8
   },
   "2": {
    "w": 4,
-   "l": 13
+   "l": 14
   },
   "3": {
    "w": 1,
-   "l": 16
+   "l": 17
   },
   "4": {
    "w": 0,
-   "l": 17
+   "l": 18
   },
   "5": {
    "w": 0,
-   "l": 17
+   "l": 18
   },
   "6": {
    "w": 0,
-   "l": 17
+   "l": 18
   },
   "7": {
    "w": 0,
@@ -2082,7 +2158,8 @@
   "2026-11-20",
   "2026-11-21",
   "2026-11-22",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "ungradable": {
   "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)",
@@ -2091,11 +2168,13 @@
   "2026-11-17": "Brandon Hagel goals (DNP/injured, no box-score line)",
   "2026-11-19": "Deni Avdija points (DNP, left foot); FC Cincinnati @ Orlando Under 3.75 (3-1) counted as loss (half loss / half push)",
   "2026-11-21": "Karl-Anthony Towns assists, OG Anunoby rebounds, Trey Murphy III points (DNP, no box-score line); all three remain ungradable after re-check",
-  "2026-11-22": "Aday Mara rebounds (DNP, right shin contusion)"
+  "2026-11-22": "Aday Mara rebounds (DNP, right shin contusion)",
+  "2026-11-23": "Victor Wembanyama points (DNP, right lower-leg bruise, no box-score line)"
  },
  "botd_partial": {
   "2026-11-22": "all lengths settled; leg 9 Everton @ Brentford Under 2.5 lost (0-4)",
-  "2026-11-23": "all lengths settled (leg 1 Under 2.5 lost, Brentford 4-0); leg 7 Eastern Michigan ML not yet individually graded (plays Nov 25 00:00Z)"
+  "2026-11-23": "all lengths settled; leg 7 Eastern Michigan ML won (17-12)",
+  "2026-11-24": "all lengths settled; leg 1 Ole Miss won, leg 2 Over 210.5 lost (190), leg 3 Under 216.5 lost (247), legs 4-5 won, leg 6 WMU ML lost"
  },
  "corrections": {
   "2026-11-19": "leg 2 Carolina ML re-graded win->loss (Montreal won 2-1 in OT per ESPN); length-2 tally moved from win to loss"

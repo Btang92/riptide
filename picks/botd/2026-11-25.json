@@ -1,0 +1,184 @@
+{
+ "at": "2026-11-25T16:12:36Z",
+ "date": "2026-11-25",
+ "method": "Started from 2,310 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game, and matched them by hand against today's 192 collected expert picks (the dump again returned no automatic matches) and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury news agreed, with nothing disagreeing. Dropped for conflicts: Knicks −5.5 (Sports Mole and Covers on New York, Dimers on Cavs +2.5), Rockets −9.5 (Dimers leans Suns +9.5; the Rockets ML was kept instead), Flames ML (Pickswise, Covers and $1.1k top-trader money on Calgary, but Covers' computer leans Pittsburgh), Utah ML (top traders on Utah, Covers on Minnesota), Grizzlies −6.5 (Covers' Metler likes the Clippers ML), UConn ML (Covers/SI/Dimers vs VSiN/CBS on Duke), Timberwolves +1.5, Heat +1.5, Packers/Rams, Bears/Lions, Chiefs/Bills and TCU/Texas Tech sides (outlets split, often against top traders), Hornets ML (top traders heavier against), Warriors −5.5 (Curry and Butler out; Covers on Kings ML). Thunder ML, Knicks ML and 76ers ML were skipped for line-move flags. Thursday's college basketball games had no published picks yet, so the ladder is six legs, with only the Cowboys on Thursday.",
+ "honest": "Every leg costs slightly more than its fair price (edge about −0.9 to −2.6¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNHLGAME-26NOV25OTTFLA-FLA:yes",
+   "league": "NHL",
+   "game": "Ottawa Senators @ Florida Panthers",
+   "start": "2026-11-26T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Florida Panthers",
+   "ask": 52,
+   "cost": 53.7472,
+   "fair": 52.9,
+   "sharp": {
+    "for": 3691,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "nigiri99",
+     "VeryLucky888"
+    ]
+   },
+   "why": "Covers' Neil Parker takes Florida on the moneyline (about 55%), noting Barkov and Marchand could return from knee injuries, and Covers' computer score also leans Florida (3.21–2.93). Polymarket top traders hold $3.7k on Florida and nothing on Ottawa. Ottawa's Linus Ullmark has won five straight (.935), so this is a near coin flip.",
+   "sources": [
+    {
+     "name": "Covers / Neil Parker (Panthers ML)",
+     "url": "https://www.covers.com/nhl/moneyline-picks-nov-25-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV25BKNMIL-MIL:yes",
+   "league": "NBA",
+   "game": "Brooklyn Nets @ Milwaukee Bucks",
+   "start": "2026-11-26T01:00:00.000Z",
+   "mk": "ML",
+   "label": "Milwaukee Bucks",
+   "ask": 53,
+   "cost": 54.7437,
+   "fair": 52.1,
+   "sharp": {
+    "for": 4144,
+    "against": 2944,
+    "who": [
+     "monkeymashingkeyboard",
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Three outlets have Milwaukee: Covers' Jon Metler (Myles Turner's rim protection vs Brooklyn), Dimers' best bet (Bucks ML, 56.7%) and numberFire (61.3%). Milwaukee lists no injuries while Brooklyn is without Nolan Traore (hamstring). Top traders lean Milwaukee ($4.1k vs $2.9k), so not one-sided.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Bucks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-25-2026"
+    },
+    {
+     "name": "Dimers model (Bucks ML)",
+     "url": "https://www.dimers.com/nba/news/brooklyn-nets-vs-milwaukee-bucks-prediction-11-25-2026-ac"
+    },
+    {
+     "name": "FanDuel Research / numberFire (Bucks win 61.3%)",
+     "url": "https://www.fanduel.com/research/bucks-vs-nets-prediction-nba-odds-spread-best-bets-for-11-25-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV25LACMEM-231:no",
+   "league": "NBA",
+   "game": "LA Clippers @ Memphis Grizzlies",
+   "start": "2026-11-26T01:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 230.5",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 55.5,
+   "sharp": {
+    "for": 720,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Covers' Quinn Allen takes Under 229.5, pointing to the Clippers averaging 107.2 points over their last five; Kalshi's line is a point higher at 230.5. Memphis is without Cameron Boozer and Jerami Grant and the Clippers without Bradley Beal. Top traders hold $720 on the Under and nothing on the Over.",
+   "sources": [
+    {
+     "name": "Covers / Quinn Allen (Under 229.5)",
+     "url": "https://www.covers.com/nba/clippers-vs-grizzlies-prediction-picks-nov-25-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAMBGAME-26NOV25SCARUSC-USC:yes",
+   "league": "College basketball",
+   "game": "South Carolina Gamecocks @ USC Trojans",
+   "start": "2026-11-25T21:30:00.000Z",
+   "mk": "ML",
+   "label": "USC Trojans",
+   "ask": 84,
+   "cost": 84.9408,
+   "fair": 82.7,
+   "sharp": null,
+   "why": "Pickswise's Jason Fragomeni takes USC −10.5 (USC won its last game by 26 while South Carolina barely beat Elon), and Dimers' model gives USC an 86.7% win chance. No top-trader money either way.",
+   "sources": [
+    {
+     "name": "Pickswise / Jason Fragomeni (USC −10.5)",
+     "url": "https://www.pickswise.com/college-basketball/games/south-carolina-usc-college-basketball-2026-11-25-1630/"
+    },
+    {
+     "name": "Dimers model (USC ML)",
+     "url": "https://www.dimers.com/best-bets/cbb"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV25PHXHOU-HOU:yes",
+   "league": "NBA",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "start": "2026-11-26T01:30:00.000Z",
+   "mk": "ML",
+   "label": "Houston Rockets",
+   "ask": 78,
+   "cost": 79.2012,
+   "fair": 77.6,
+   "sharp": {
+    "for": 1645,
+    "against": 1114,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Houston is 8-1 at home with a +10.1 average margin and a clean injury report, while Phoenix is without Mark Williams. Covers' Jon Metler (Rockets ML, ~84% projection) and numberFire (71%) back Houston; Dimers' model projects a 9-point Houston win (it leans Suns +9.5 on the spread, not the moneyline). Top traders are mixed ($1.6k for, $1.1k against).",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Rockets ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-25-2026"
+    },
+    {
+     "name": "FanDuel Research / numberFire (Rockets win 71%)",
+     "url": "https://www.fanduel.com/research/rockets-vs-suns-prediction-nba-odds-spread-best-bets-for-11-25-2026"
+    },
+    {
+     "name": "Sports Mole / Adepoju Marvellous (Rockets −9.5)",
+     "url": "https://www.sportsmole.co.uk/basketball/cleveland-cavaliers/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--25-november-2026_609804.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLGAME-26NOV26PHIDAL-DAL:yes",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Dallas Cowboys",
+   "start": "2026-11-26T21:30:00.000Z",
+   "mk": "ML",
+   "label": "Dallas Cowboys",
+   "ask": 80,
+   "cost": 81.12,
+   "fair": 79.4,
+   "sharp": {
+    "for": 659,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Jalen Hurts is on IR with blood clots, so Joe Milton III starts again for Philadelphia, with Saquon Barkley questionable. CBS's John Breech, Pete Prisco (34–17) and Garrett Podell, Covers' Trevor Knapp and SBD's model all pick Dallas to win; Covers' Jason Logan takes Eagles +8.5 but not an Eagles win. Top traders hold $659 on Dallas, none against.",
+   "sources": [
+    {
+     "name": "CBS Sports / Pete Prisco (Cowboys)",
+     "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
+    },
+    {
+     "name": "Covers / Trevor Knapp (Cowboys ML)",
+     "url": "https://www.covers.com/nfl/moneyline-picks-week-12-2026"
+    },
+    {
+     "name": "Sports Illustrated / Peter Dewey (Cowboys −8.5; Hurts out)",
+     "url": "https://www.si.com/betting/eagles-vs-cowboys-prediction-odds-spread-injuries-trends-for-thanksgiving-day-in-nfl-week-12-2026"
+    }
+   ]
+  }
+ ]
+}

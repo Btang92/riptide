@@ -25,7 +25,8 @@
      "name": "Pickswise / Sam Avellone (Ole Miss +1.5)",
      "url": "https://www.pickswise.com/college-basketball/news/college-basketball-best-bets-today-november-24-predictions-picks/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBATOTAL-26NOV24DETORL-211:yes",
@@ -58,7 +59,8 @@
      "name": "CBS Sports / SportsLine model (Over 211.5)",
      "url": "https://www.cbssports.com/betting/news/pistons-magic-prediction-odds-time-2026-nba-cup-picks-tuesday-november-24/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNBATOTAL-26NOV24BOSWAS-217:no",
@@ -87,7 +89,8 @@
      "name": "Lineups / Thom Cunningham (Under 217.5)",
      "url": "https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/"
     }
-   ]
+   ],
+   "result": "loss"
   },
   {
    "id": "KXNCAAFSPREAD-26NOV24KENTEMU-EMU5:yes",
@@ -114,7 +117,8 @@
      "name": "VSiN / Adam Burke (EMU −6)",
      "url": "https://vsin.com/college-football/college-football-week-13-picks-kent-state-vs-eastern-michigan/"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNBASPREAD-26NOV24DALDEN-DEN10:no",
@@ -147,7 +151,8 @@
      "name": "Covers / Todd Cordell (Dallas +7.5, parlay leg)",
      "url": "https://www.covers.com/picks/nba/parlay"
     }
-   ]
+   ],
+   "result": "win"
   },
   {
    "id": "KXNCAAFGAME-26NOV24MOHWMU-WMU:yes",
@@ -177,7 +182,8 @@
      "name": "FanDuel Research / numberFire (WMU win projection)",
      "url": "https://www.fanduel.com/research/western-michigan-vs-miami-oh-college-football-odds-picks-best-bets-for-11-24-2026"
     }
-   ]
+   ],
+   "result": "loss"
   }
  ]
 }
