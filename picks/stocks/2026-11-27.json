@@ -1,0 +1,91 @@
+{
+ "at": "2026-11-27T12:51:56Z",
+ "date": "2026-11-27",
+ "picks": [
+  {
+   "sym": "VRTX",
+   "gap": -7.3,
+   "price": 522.99,
+   "catalyst": "Gap down: FDA extended review of kidney drug povetacicept by up to 3 months (delay, not a rejection)",
+   "why": "The FDA pushed its decision on Vertex's IgA nephropathy drug from Nov 30 to no later than Feb 28, 2027 after calling Vertex's extra data a 'major amendment', so the stock is down about 7%; it's a delay on one drug at a big, profitable company, which hurts sentiment more than the business and can bounce once early sellers are done.",
+   "quality": "strong",
+   "sources": [
+    {
+     "name": "Investing.com (premarket movers, Nov 27)",
+     "url": "https://www.investing.com/news/stock-market-news/premarket-movers-ai-stocks-rebound-vertex-slides-on-fda-review-5053411"
+    },
+    {
+     "name": "Benzinga via KuCoin (20 stocks moving premarket, Nov 27)",
+     "url": "https://kucoin.com/news/flash/kinetik-holdings-rises-over-7-in-premarket-trading-amid-acquisition-rumors"
+    },
+    {
+     "name": "SquawkNews LiveCast (Nov 27)",
+     "url": "https://squawknews.com/brief/livecast/2026-11-27"
+    }
+   ]
+  },
+  {
+   "sym": "MRVL",
+   "gap": 7.3,
+   "price": null,
+   "catalyst": "Gap up: quarterly results beat plus chip-sector rebound",
+   "why": "Marvell is up about 7% after its fiscal third-quarter results beat expectations, and AI chip stocks are bouncing broadly today; the stock had fallen about 43% in the past month, so good news can spark a strong rebound, but the exact numbers weren't confirmed in free sources, so check the live quote and respect the stop.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "Investing.com (premarket movers, Nov 27)",
+     "url": "https://www.investing.com/news/stock-market-news/premarket-movers-ai-stocks-rebound-vertex-slides-on-fda-review-5053411"
+    }
+   ]
+  },
+  {
+   "sym": "KNTK",
+   "gap": 7.3,
+   "price": 58.68,
+   "catalyst": "Gap up: report that Targa Resources is discussing buying Kinetik",
+   "why": "Kinetik, a natural-gas pipeline company, is up about 7% on a report that Targa Resources is in talks to buy it; possible takeover targets often keep moving, but this is a report of talks, not a signed deal, so it can fade if nothing is confirmed.",
+   "quality": "ok",
+   "sources": [
+    {
+     "name": "Benzinga via KuCoin (20 stocks moving premarket, Nov 27)",
+     "url": "https://kucoin.com/news/flash/kinetik-holdings-rises-over-7-in-premarket-trading-amid-acquisition-rumors"
+    }
+   ]
+  }
+ ],
+ "avoid": [
+  {
+   "sym": "ALVO",
+   "why": "Under $10 (about $3.84), down about 9-10% after a court blocked its US biosimilar launch, plus a sales miss and shrinking cash"
+  },
+  {
+   "sym": "CRMT",
+   "why": "America's Car-Mart is being delisted by Nasdaq because of bankruptcy filings (trading around $0.30)"
+  },
+  {
+   "sym": "VIVK",
+   "why": "Vivakor is down about 17% around a 1-for-15 reverse split and trades far under $10"
+  },
+  {
+   "sym": "TRVG",
+   "why": "Trivago down about 16% to about $3.50 with no reason given; under $10"
+  },
+  {
+   "sym": "VERA",
+   "why": "Up about 18% (about $34.88) but no news found for today; a move without a clear reason is hard to trust"
+  },
+  {
+   "sym": "XP",
+   "why": "Up about 18% (about $17.00) but no news found for today; wait for a reason before trading it"
+  },
+  {
+   "sym": "POM",
+   "why": "Penny-stock spike (+74-90%, about $3) with no clear news; under $10"
+  },
+  {
+   "sym": "NCPL",
+   "why": "Penny-stock spike (+24%, about $2.33); under $10"
+  }
+ ],
+ "note": "Half-day session: the market closes early at 1:00 PM ET today (day after Thanksgiving), so volume is usually thin and moves can fade early. Broad AI/chip rebound today (NVDA, AMD, MU, NBIS, CRWV up 5-10% pre-market) is sector-wide, not company news."
+}

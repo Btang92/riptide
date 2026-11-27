@@ -100,6 +100,84 @@
           "result": "unknown"
         }
       ]
+    },
+    {
+      "week_ending": "2026-11-27",
+      "note": "Not graded: still no free intraday price feed reachable from the cloud run and no record of the desk's trigger/stop levels, so whether each setup triggered or hit 2R vs. the stop can't be checked. Marked unknown rather than guessed. Short holiday week (closed Nov 26). Today's picks (VRTX, MRVL, KNTK) roll to next week.",
+      "results": [
+        {
+          "date": "2026-11-23",
+          "sym": "CRWD",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-23",
+          "sym": "MU",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-23",
+          "sym": "AMD",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-23",
+          "sym": "TSM",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-24",
+          "sym": "DKS",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-24",
+          "sym": "BBY",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-24",
+          "sym": "ADI",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-24",
+          "sym": "NVDA",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-25",
+          "sym": "NTNX",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-25",
+          "sym": "DELL",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-25",
+          "sym": "WDAY",
+          "triggered": null,
+          "result": "unknown"
+        },
+        {
+          "date": "2026-11-25",
+          "sym": "LI",
+          "triggered": null,
+          "result": "unknown"
+        }
+      ]
     }
   ]
 }
