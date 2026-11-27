@@ -1,8 +1,8 @@
 {
- "at": "2026-11-26T15:59:09Z",
- "date": "2026-11-26",
- "method": "Started from 1,907 priced Kalshi legs in the next 36 hours. Kept legs priced 30–85¢ with edge of about −2.5 or better and no flags, one per game. Matched them by hand against today's 247 collected expert picks (the dump again returned no automatic matches) and Polymarket top-trader positions. A leg stayed only if at least two of these agreed: top-trader money, a published pick or model, and concrete injury/matchup news. A lone dissent was allowed only where the picks disagreed at a different number or the dissenting pick was written around news that has since changed (Metler's Steelers pick assumed Rodgers). Dropped for conflicts: Lions +1.5/+3.5 (five outlets on Detroit and $28–32k of top-trader money on the Lions spreads, but $43k on the Bears moneyline), Eagles–Cowboys Under (two writers, but $26k of top-trader money on the Over), Chiefs +2.5 ($97k top-trader money vs Covers and DK on Buffalo), Chiefs–Bills Under (top traders vs both published Over picks), Bills ML (top traders against), Iowa −4.5 (five sources vs SI, and top-trader money mixed), Wisconsin −7.5 and South Alabama −3.5 (top traders or ESPN on the other side), Tulsa–UTSA, TCU–Texas Tech side and total (writers split, or traders on the Over). Skipped for line-move flags or bad prices: Spurs ML (also top traders against), Knicks ML, St. John's, Tennessee, UCF and Gonzaga. Hawks +9.5 and Texas Tech ML were too expensive vs fair. Kalshi lists no college basketball spreads or totals, and Thursday's college moneylines had split or single picks, so no Thursday game made the ladder. Every leg is Friday or Friday night.",
- "honest": "Every leg costs slightly more than its fair price (edge about −0.7 to −2.1¢ each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "at": "2026-11-27T16:01:36Z",
+ "date": "2026-11-27",
+ "method": "I started from 6,237 priced Kalshi legs in the next 36 hours and kept those priced 30–85¢ with an edge of about −2.5 or better, no flags, and one per game. I matched them by hand against today's 289 expert picks, because the dump again returned no automatic matches, and against Polymarket top-trader positions. A leg stayed only if at least two of these agreed: top-trader money, a published pick or model, and concrete injury or matchup news. A lone dissent was allowed only when it was at a different number with no reasoning (MacMillan's WVU +25.5). I dropped these conflicts: Broncos @ Steelers (most experts take Denver but top traders hold $36k on the Steelers ML and $83k against Broncos −4.5), Michigan @ Ohio State (experts split on the spread, and top traders are on the Over while experts take the Under), Texas @ Texas A&M (same Over vs Under split, plus a spread dissent), Nebraska @ Iowa (top traders on Nebraska, Rob Paul on Iowa), Devils/Flames and Oilers/Kraken (experts split), Pacers/76ers, Lakers/Spurs, Mavs/Suns and Bucks/Pistons (experts split), and Wolves ML (Edwards out, Predictem on Memphis). Knicks −3.5 had the top-trader money but its edge (−3.2) was too negative, so the Knicks ML is used instead. The ladder puts near coin-flips first and short favourites later, across Friday and Saturday.",
+ "honest": "Every leg costs slightly more than its fair price after Kalshi's fee, so each bet's expected return is slightly negative and gets worse with every leg added.",
  "ladder": [
   {
    "id": "KXNCAAFSPREAD-26NOV27MSSTMISS-MISS18:yes",
@@ -11,144 +11,212 @@
    "start": "2026-11-27T17:00:00.000Z",
    "mk": "SPREAD",
    "label": "Ole Miss Rebels −17.5",
-   "ask": 52,
-   "cost": 53.7472,
-   "fair": 52.5,
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 49.5,
    "sharp": {
-    "for": 3404,
-    "against": 0,
+    "for": 6156,
+    "against": 393,
     "who": [
      "HomeRunHazard",
      "monkeymashingkeyboard"
     ]
    },
-   "why": "Three writers lay the points with Ole Miss: Covers' Colby Marchio (−17.5; Mississippi State's pass defense is bottom-35), Covers' Rob Paul and SI's Iain MacMillan (−18.5; MSU is 101st in opponent EPA per pass). Mississippi State's QB Kamario Taylor is out for the season (CBS). Polymarket top traders hold $3.4k on Ole Miss −17.5 and nothing against.",
+   "why": "Mississippi State QB Kamario Taylor is out for the season, and Covers' Rob Paul says the Bulldogs haven't covered since Week 5. Paul takes Ole Miss −17.5; SI's Iain MacMillan and Athlon's Tyler Schuster take −18.5, so all three clear this line. Top traders hold $6.2k on Ole Miss −17.5 and $393 against.",
    "sources": [
     {
-     "name": "Covers / Colby Marchio (Ole Miss −17.5)",
-     "url": "https://www.covers.com/ncaaf/mississippi-state-vs-ole-miss-prediction-picks-nov-27-2026"
-    },
-    {
-     "name": "Covers / Rob Paul (Ole Miss −18.5)",
-     "url": "https://covers.com/ncaaf/rivalry-week-picks-predictions-2026"
+     "name": "Covers / Rob Paul (Ole Miss −17.5)",
+     "url": "https://covers.com/ncaaf/top-25-predictions-week-13-2026"
     },
     {
      "name": "Sports Illustrated / Iain MacMillan (Ole Miss −18.5)",
-     "url": "https://www.si.com/betting/mississippi-state-vs-ole-miss-prediction-odds-and-key-players-to-watch-for-egg-bowl-in-college-football-week-13-2026"
+     "url": "https://www.si.com/betting/college-football-ats-picks-for-every-top-25-game-in-week-13-bet-purdue-to-cover-as-underdogs-vs-indiana-01m8a07t2v6s"
     },
     {
-     "name": "CBS Sports / Robby Kalland (Taylor injury)",
-     "url": "https://www.cbssports.com/college-football/news/ole-miss-mississippi-state-egg-bowl-prediction-pick-odds-spread-where-to-watch/"
+     "name": "Athlon Sports via Yahoo / Tyler Schuster (Ole Miss −18.5)",
+     "url": "https://sports.yahoo.com/betting/articles/college-football-bets-picks-against-163000864.html"
+    },
+    {
+     "name": "WLOX (Taylor out for season)",
+     "url": "https://www.wlox.com/2026/10/27/kamario-taylor-out-season-mississippi-state-says/"
     }
    ]
   },
   {
-   "id": "KXNCAAFTOTAL-26NOV27TEXTXAM-41:no",
-   "league": "College football",
-   "game": "Texas Longhorns @ Texas A&M Aggies",
-   "start": "2026-11-28T00:30:00.000Z",
-   "mk": "TOTAL",
-   "label": "Under 40.5",
-   "ask": 49,
-   "cost": 50.7493,
-   "fair": 48.9,
-   "sharp": null,
-   "why": "Three sources take Under 40.5 and none take the Over: SI's MacMillan (A&M's offense is 129th in EPA per play against Texas' top-ranked defense), Covers' Chris Hatfield (elite Texas red-zone defense, few explosive plays) and SportsBettingDime's model. A&M's coach hadn't decided between QBs Marcel Reed and Brady Hart (Statesman). Predicted scores sit right on the line (Statesman 27–12, CFN 27–14), so it's close to a coin flip.",
-   "sources": [
-    {
-     "name": "Sports Illustrated / Iain MacMillan (Under 40.5)",
-     "url": "https://www.si.com/betting/texas-vs-texas-a-m-prediction-odds-and-key-players-to-watch-for-college-football-week-13-2026"
-    },
-    {
-     "name": "Covers / Chris Hatfield (Under 40.5)",
-     "url": "https://www.covers.com/ncaaf/texas-vs-texas-am-prediction-picks-nov-27-2026"
-    },
-    {
-     "name": "SportsBettingDime model (Under 40.5)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/ai-picks-week-13-rivalry-week-spread-total-predictions/"
-    },
-    {
-     "name": "Austin American-Statesman via Yahoo (QB news)",
-     "url": "https://sports.yahoo.com/betting/articles/texas-vs-texas-m-predictions-120000076.html"
-    }
-   ]
-  },
-  {
-   "id": "KXNFLSPREAD-26NOV27DENPIT-DEN3:yes",
-   "league": "NFL",
-   "game": "Denver Broncos @ Pittsburgh Steelers",
-   "start": "2026-11-27T20:00:00.000Z",
-   "mk": "SPREAD",
-   "label": "Denver Broncos −2.5",
-   "ask": 61,
-   "cost": 62.6653,
-   "fair": 61.5,
+   "id": "KXNBAGAME-26NOV27MIANYK-NYK:yes",
+   "league": "NBA",
+   "game": "Miami Heat @ New York Knicks",
+   "start": "2026-11-28T00:00:00.000Z",
+   "mk": "ML",
+   "label": "New York Knicks",
+   "ask": 62,
+   "cost": 63.6492,
+   "fair": 61.6,
    "sharp": {
-    "for": 28135,
-    "against": 4682,
+    "for": 2560,
+    "against": 405,
     "who": [
-     "CUTJALENHURTS"
+     "HomeRunHazard"
     ]
    },
-   "why": "Pittsburgh benched Aaron Rodgers on Tuesday, so Mason Rudolph starts after one practice (Covers). Covers' Neil Parker takes Denver −2.5 (5th in EPA per play over the last five weeks, top PFF pass rush) and would bet it up to −5.5. numberFire's model gives Denver 61%. Top traders hold $28k on Denver −2.5 vs $4.7k against. Covers' Jon Metler has a Steelers moneyline pick, but it was written around Rodgers.",
+   "why": "OG Anunoby is out, but the Knicks have won six straight and are strong at MSG. Covers' Jon Metler makes New York about 63%, and Predictem, VegasOdds (−3.5) and TheRx (−4.5) all lay the points with the Knicks. No pick backs Miami. Top traders hold $2.6k on the Knicks ML against $405, plus $13k on Knicks −3.5.",
    "sources": [
     {
-     "name": "Covers / Neil Parker (Broncos −2.5)",
-     "url": "https://www.covers.com/nfl/broncos-vs-steelers-prediction-picks-nov-27-2026"
+     "name": "Covers / Jon Metler (Knicks ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-27-2026"
     },
     {
-     "name": "FanDuel Research / numberFire (Broncos 61%)",
-     "url": "https://www.fanduel.com/research/broncos-vs-steelers-predictions-odds-picks-best-bets-for-nfl-week-12-2026"
+     "name": "Predictem / Joe Jensen (Knicks −3.5)",
+     "url": "https://www.predictem.com/nba/heat-vs-knicks-prediction-nba-cup-group-b-finale-at-msg/"
+    },
+    {
+     "name": "TheRx / Jordan Harlow (Knicks −4.5)",
+     "url": "https://www.therx.com/nba/heat-knicks-betting-odds-nov-27-2026/56263/"
     }
    ]
   },
   {
-   "id": "KXNBASPREAD-26NOV27DENUTA-DEN10:yes",
+   "id": "KXNBAGAME-26NOV27NOPLAC-LAC:yes",
    "league": "NBA",
-   "game": "Denver Nuggets @ Utah Jazz",
+   "game": "New Orleans Pelicans @ LA Clippers",
    "start": "2026-11-28T02:30:00.000Z",
-   "mk": "SPREAD",
-   "label": "Denver Nuggets −9.5",
-   "ask": 51,
-   "cost": 52.7493,
-   "fair": 51.2,
+   "mk": "ML",
+   "label": "LA Clippers",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 55.9,
    "sharp": null,
-   "why": "Utah is without Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic, and Denver lists no injuries. Denver needs a big margin for its NBA Cup wild-card hopes. Pickswise's Filip Tomic takes Denver −9.5 (10 straight wins over Utah, 7 covers). Sports Mole takes Denver −7.5 and notes Utah is 3–16 without Markkanen and Jackson.",
+   "why": "Brandon Ingram is back for the Clippers. New Orleans is without Dejounte Murray, Bennedict Mathurin is doubtful, and the Pelicans are 1-6 on the road while allowing 122.5 points a game (Predictem). Metler makes LA about 62% and the Dimers model about 64%. No pick backs the Pelicans.",
    "sources": [
     {
-     "name": "Pickswise / Filip Tomic (Nuggets −9.5)",
-     "url": "https://www.pickswise.com/nba/games/utah-jazz-denver-nuggets-nba-2026-11-27-2130/picks/"
+     "name": "Covers / Jon Metler (Clippers ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-27-2026"
     },
     {
-     "name": "Sports Mole / Vladimir Kovacevic (Nuggets −7.5)",
-     "url": "https://www.sportsmole.co.uk/basketball/denver-nuggets/preview/denver-nuggets-vs-utah-jazz-player-props-injury-report-and-prediction--nba-cup_609821.html"
+     "name": "Predictem / Joe Jensen (Clippers −3.5)",
+     "url": "https://www.predictem.com/nba/pelicans-at-clippers-best-bet-nba-pick-for-black-friday/"
+    },
+    {
+     "name": "Dimers / Mac Douglass, model (Clippers ML)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"
     }
    ]
   },
   {
-   "id": "KXNCAAFGAME-26NOV27FLAFSU-FLA:yes",
+   "id": "KXNCAAFSPREAD-26NOV28NCSTUNC-UNC6:no",
    "league": "College football",
-   "game": "Florida Gators @ Florida State Seminoles",
-   "start": "2026-11-27T20:30:00.000Z",
-   "mk": "ML",
-   "label": "Florida Gators",
-   "ask": 68,
-   "cost": 69.5232,
-   "fair": 67.8,
-   "sharp": null,
-   "why": "SportsBettingDime's Ryan Potts (Florida's 169-yard rushing game vs FSU's turnover-prone passing), SBD's model and SI all have Florida −6 or −6.5. CFN's Pete Fiutak predicts Florida 30–23. Florida State has an interim coach (Rick Stockstill), a long injury list, and QB Ashton Daniels has 14 INTs (CBS). Covers' Rob Paul takes FSU +6.5 on the spread but doesn't pick FSU to win.",
+   "game": "NC State Wolfpack @ North Carolina Tar Heels",
+   "start": "2026-11-28T17:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "NC State Wolfpack +5.5",
+   "ask": 48,
+   "cost": 49.7472,
+   "fair": 49.8,
+   "sharp": {
+    "for": 347,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "UNC's quarterback is hurt and the team is struggling (Covers' Rob Paul), and NC State has won the last five meetings and covered four (Forbes' Darren Cooper). Both take NC State +5.5. Top traders hold $347 on this side and none against. This leg is priced right at fair.",
    "sources": [
     {
-     "name": "SportsBettingDime / Ryan Potts (Florida −6.5)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/early-florida-florida-state-prediction-spread-sunshine-showdown-picks-2026/"
+     "name": "Covers / Rob Paul (NC State +5.5)",
+     "url": "https://www.covers.com/ncaaf/rivalry-week-picks-predictions-2026"
     },
     {
-     "name": "CFN via Yahoo / Pete Fiutak (Florida 30–23)",
-     "url": "https://sports.yahoo.com/college-football/articles/florida-vs-florida-state-prediction-205610454.html"
+     "name": "Forbes / Darren Cooper (NC State +5.5)",
+     "url": "https://www.forbes.com/sites/darren-cooper/2026/11/27/the-college-football-picks-to-invest-during-your-thanksgiving-hangover/"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV28LOUUK-LOU:yes",
+   "league": "College football",
+   "game": "Louisville Cardinals @ Kentucky Wildcats",
+   "start": "2026-11-28T17:00:00.000Z",
+   "mk": "ML",
+   "label": "Louisville Cardinals",
+   "ask": 57,
+   "cost": 58.7157,
+   "fair": 56.4,
+   "sharp": null,
+   "why": "Louisville has won six straight and Kentucky has lost three in a row. Covers' Rob Paul (−2.5), SI's MacMillan (−3) and Covers' Chris Vasile (ML) all take Louisville, and no pick backs Kentucky. The Kentucky side has moved 8 points against since open. There is no top-trader money in this game.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Louisville −2.5)",
+     "url": "https://covers.com/ncaaf/top-25-predictions-week-13-2026"
     },
     {
-     "name": "CBS Sports / Chip Patterson (FSU injuries)",
-     "url": "https://www.cbssports.com/college-football/news/florida-florida-state-prediction-pick-odds-spread-where-to-watch/"
+     "name": "Covers / Chris Vasile (Louisville ML)",
+     "url": "https://covers.com/ncaaf/moneyline-picks-for-week-13-2026"
+    },
+    {
+     "name": "Sports Illustrated / Iain MacMillan (Louisville −3)",
+     "url": "https://www.si.com/betting/college-football-ats-picks-for-every-top-25-game-in-week-13-bet-purdue-to-cover-as-underdogs-vs-indiana-01m8a07t2v6s"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV28WASHORE-ORE13:yes",
+   "league": "College football",
+   "game": "Washington Huskies @ Oregon Ducks",
+   "start": "2026-11-29T00:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Oregon Ducks −12.5",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 54.5,
+   "sharp": {
+    "for": 57,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Oregon is 4-0 ATS during its win streak and Washington has offensive-line and efficiency problems (Rob Paul, −13.5). SI's Ryan Gilbert takes −14 after Oregon won by 38 at Michigan State and beat Michigan 31-7, and MacMillan also takes −14. All three clear this −12.5 line. Top traders hold a small $57 on it.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Oregon −13.5)",
+     "url": "https://covers.com/ncaaf/top-25-predictions-week-13-2026"
+    },
+    {
+     "name": "Sports Illustrated / Ryan Gilbert (Oregon −14)",
+     "url": "https://www.si.com/betting/washington-vs-oregon-prediction-odds-and-key-players-to-watch-for-college-football-week-13-01m87wraxc5x"
+    },
+    {
+     "name": "Sports Illustrated / Iain MacMillan (Oregon −14)",
+     "url": "https://www.si.com/betting/college-football-ats-picks-for-every-top-25-game-in-week-13-bet-purdue-to-cover-as-underdogs-vs-indiana-01m8a07t2v6s"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV27NYRCHI-NYR:yes",
+   "league": "NHL",
+   "game": "New York Rangers @ Chicago Blackhawks",
+   "start": "2026-11-27T22:30:00.000Z",
+   "mk": "ML",
+   "label": "New York Rangers",
+   "ask": 61,
+   "cost": 62.6653,
+   "fair": 60.7,
+   "sharp": {
+    "for": 1123,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Chicago is without Connor Bedard (Pickswise). Covers' Luc LeBlanc points to the Rangers' much better expected-goals share and the league's best penalty kill against a near-bottom Chicago. Top traders hold $1.1k on New York and none on Chicago.",
+   "sources": [
+    {
+     "name": "Covers / Luc LeBlanc (Rangers ML)",
+     "url": "https://www.covers.com/nhl/moneyline-picks-nov-27-2026"
+    },
+    {
+     "name": "Pickswise / Tyler Mortimer (Rangers ML)",
+     "url": "https://www.pickswise.com/nhl/games/chicago-blackhawks-new-york-rangers-nhl-2026-11-27-1730/picks/"
     }
    ]
   },
@@ -159,75 +227,119 @@
    "start": "2026-11-28T02:00:00.000Z",
    "mk": "SPREAD",
    "label": "Utah Utes −21.5",
-   "ask": 62,
-   "cost": 63.6492,
-   "fair": 63,
+   "ask": 61,
+   "cost": 62.6653,
+   "fair": 61.5,
    "sharp": {
-    "for": 5053,
+    "for": 5571,
     "against": 0,
     "who": [
      "JudgeLance"
     ]
    },
-   "why": "Unbeaten Utah hosts a West Virginia team whose QB Michael Hawkins Jr. is 'questionable at best' (CFN). Fiutak predicts Utah 47–20 and SBD's model lays −26. Top traders hold $5.1k on Utah −21.5 and nothing against. SI's roundup takes WVU +25.5, which still leaves room for a 22–25-point Utah win.",
+   "why": "Covers' Rob Paul takes Utah −24.5, citing West Virginia's doubtful QB and a weak defense. SI's MacMillan has WVU +25.5 with no written reasoning; that is a different number, and any Utah win by 22–25 cashes both. Top traders hold $5.6k on Utah −21.5 and none against.",
    "sources": [
     {
-     "name": "CFN via Yahoo / Pete Fiutak (Utah 47–20)",
-     "url": "https://sports.yahoo.com/college-football/articles/west-virginia-vs-utah-prediction-051426018.html"
+     "name": "Covers / Rob Paul (Utah −24.5)",
+     "url": "https://covers.com/ncaaf/top-25-predictions-week-13-2026"
     },
     {
-     "name": "SportsBettingDime model (Utah −26)",
-     "url": "https://www.sportsbettingdime.com/news/college-football/ai-picks-week-13-rivalry-week-spread-total-predictions/"
+     "name": "Sports Illustrated / Iain MacMillan (WVU +25.5, at a different number)",
+     "url": "https://www.si.com/betting/college-football-ats-picks-for-every-top-25-game-in-week-13-bet-purdue-to-cover-as-underdogs-vs-indiana-01m8a07t2v6s"
     }
    ]
   },
   {
-   "id": "KXNHLGAME-26NOV27SEAEDM-EDM:yes",
-   "league": "NHL",
-   "game": "Seattle Kraken @ Edmonton Oilers",
-   "start": "2026-11-28T01:00:00.000Z",
-   "mk": "ML",
-   "label": "Edmonton Oilers",
-   "ask": 66,
-   "cost": 67.5708,
-   "fair": 65.5,
+   "id": "KXNCAAFSPREAD-26NOV28ASUARIZ-ARIZ7:yes",
+   "league": "College football",
+   "game": "Arizona State Sun Devils @ Arizona Wildcats",
+   "start": "2026-11-29T02:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Arizona Wildcats −6.5",
+   "ask": 56,
+   "cost": 57.7248,
+   "fair": 56.5,
    "sharp": {
-    "for": 531,
+    "for": 287,
     "against": 0,
     "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Arizona has the QB edge with Noah Fifita and Arizona State's pass defense is weak (Rob Paul, −7.5). SI's MacMillan takes −8.5. Top traders hold $287 on Arizona −6.5 and $3.1k against ASU +7.5.",
+   "sources": [
+    {
+     "name": "Covers / Rob Paul (Arizona −7.5)",
+     "url": "https://covers.com/ncaaf/top-25-predictions-week-13-2026"
+    },
+    {
+     "name": "Sports Illustrated / Iain MacMillan (Arizona −8.5)",
+     "url": "https://www.si.com/betting/college-football-ats-picks-for-every-top-25-game-in-week-13-bet-purdue-to-cover-as-underdogs-vs-indiana-01m8a07t2v6s"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV27GSWPOR-POR:yes",
+   "league": "NBA",
+   "game": "Golden State Warriors @ Portland Trail Blazers",
+   "start": "2026-11-28T02:30:00.000Z",
+   "mk": "ML",
+   "label": "Portland Trail Blazers",
+   "ask": 78,
+   "cost": 79.2012,
+   "fair": 77.4,
+   "sharp": {
+    "for": 912,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "darkumbreon88"
+    ]
+   },
+   "why": "Golden State is without Steph Curry (oblique), Jimmy Butler III, Moses Moody and Kristaps Porzingis, and has lost its last four road games without Curry by 21+ (Predictem). Portland is 12-6 with a top-5 offense (BettingPros). Metler, Ammirante and Jensen all back the Blazers, and top traders hold $912 on them with none against.",
+   "sources": [
+    {
+     "name": "Covers / Jon Metler (Blazers ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-27-2026"
+    },
+    {
+     "name": "BettingPros / Frank Ammirante (Blazers −9.5)",
+     "url": "https://www.bettingpros.com/articles/nba-picks-predictions-friday-11-27/"
+    },
+    {
+     "name": "Predictem / Joe Jensen (Blazers −9.5)",
+     "url": "https://www.predictem.com/nba/warriors-at-trail-blazers-nba-cup-best-bet-and-odds-tonight/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBAGAME-26NOV27BKNTOR-TOR:yes",
+   "league": "NBA",
+   "game": "Brooklyn Nets @ Toronto Raptors",
+   "start": "2026-11-28T00:30:00.000Z",
+   "mk": "ML",
+   "label": "Toronto Raptors",
+   "ask": 77,
+   "cost": 78.2397,
+   "fair": 76.2,
+   "sharp": {
+    "for": 5514,
+    "against": 317,
+    "who": [
+     "HomeRunHazard",
+     "Multicoloured-Serf",
      "omnibus-076daa"
     ]
    },
-   "why": "iHeart's projection model has Edmonton winning 4–2 at home against Seattle. Polymarket top traders hold $531 on the Oilers and nothing on Seattle. Model-only support, so this is a later, smaller-conviction leg.",
+   "why": "Toronto is without Kawhi Leonard and RJ Barrett, but Brooklyn is 4-13 and 29th in defensive rating (BettingPros), and Toronto has a rest edge (Metler). Dimers' model likes Nets +7.5, but no one picks a Brooklyn win. Top traders hold $5.5k on Toronto against $317.",
    "sources": [
     {
-     "name": "iHeart Sports model (Oilers ML)",
-     "url": "https://ripcityradio.iheart.com/content/2026-11-26-kraken-vs-oilers-prediction-picks-nov-27/"
-    }
-   ]
-  },
-  {
-   "id": "KXMLSGAME-26NOV27CLBMIA-CLB:yes",
-   "league": "MLS",
-   "game": "Inter Miami CF @ Columbus Crew",
-   "start": "2026-11-28T01:00:00.000Z",
-   "mk": "ML",
-   "label": "Columbus Crew",
-   "ask": 37,
-   "cost": 38.6317,
-   "fair": 36.7,
-   "sharp": {
-    "for": 421,
-    "against": 0,
-    "who": [
-     "xtxpleasecallme"
-    ]
-   },
-   "why": "Columbus won Game 1 of the series 3–0 in Miami and has won five straight. Miami is missing Silvetti, Allende and Abadía-Reid, and Luján is suspended. Columbus is without Wessam Abou Ali. Khel Now predicts Columbus 2–1. Top traders lean Columbus ($421 vs $243 on Miami). This must be won in 90 minutes, so it's the riskiest leg.",
-   "sources": [
+     "name": "Covers / Jon Metler (Raptors ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-27-2026"
+    },
     {
-     "name": "Khel Now / Dilpreet (Columbus to win)",
-     "url": "https://khelnow.com/football/columbus-crew-vs-inter-miami-preview-mls-202611"
+     "name": "BettingPros / Frank Ammirante (Raptors −9.5)",
+     "url": "https://www.bettingpros.com/articles/nba-picks-predictions-friday-11-27/"
     }
    ]
   }
