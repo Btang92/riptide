@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:47:10Z",
+ "updated": "2026-11-28T15:57:05Z",
  "graded_files": [
   "2026-10-31",
   "2026-11-01",
@@ -26,7 +26,8 @@
   "2026-11-22",
   "2026-11-23",
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "sources": {
   "Action Network (via Yahoo) / Alex Kolodziej": {
@@ -51,7 +52,7 @@
   },
   "Action Network (via Yahoo) / Evan Abrams": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "Action Network (via Yahoo) / Kyle Hunter": {
@@ -105,7 +106,7 @@
    "p": 0
   },
   "CBS Sports / Cameron Salerno": {
-   "w": 5,
+   "w": 6,
    "l": 2,
    "p": 0
   },
@@ -130,12 +131,12 @@
    "p": 0
   },
   "Covers / Chris Hatfield": {
-   "w": 2,
-   "l": 4,
+   "w": 4,
+   "l": 6,
    "p": 0
   },
   "Covers / Colby Marchio": {
-   "w": 20,
+   "w": 22,
    "l": 16,
    "p": 0
   },
@@ -150,8 +151,8 @@
    "p": 0
   },
   "Covers / JD Yonke": {
-   "w": 7,
-   "l": 6,
+   "w": 8,
+   "l": 7,
    "p": 0
   },
   "Covers / James Eastham": {
@@ -165,17 +166,17 @@
    "p": 0
   },
   "Covers / Jason Logan": {
-   "w": 28,
-   "l": 35,
+   "w": 31,
+   "l": 38,
    "p": 0
   },
   "Covers / Joe Osborne": {
-   "w": 11,
-   "l": 14,
+   "w": 13,
+   "l": 15,
    "p": 1
   },
   "Covers / Jon Metler": {
-   "w": 71,
+   "w": 72,
    "l": 42,
    "p": 0
   },
@@ -185,8 +186,8 @@
    "p": 0
   },
   "Covers / Neil Parker": {
-   "w": 32,
-   "l": 35,
+   "w": 33,
+   "l": 37,
    "p": 0
   },
   "Covers / Nick Galaida": {
@@ -200,8 +201,8 @@
    "p": 0
   },
   "Covers / Rob Paul": {
-   "w": 25,
-   "l": 34,
+   "w": 29,
+   "l": 36,
    "p": 0
   },
   "Covers / Robert Criscola": {
@@ -210,7 +211,7 @@
    "p": 0
   },
   "Covers / Shawn Krest": {
-   "w": 6,
+   "w": 8,
    "l": 3,
    "p": 0
   },
@@ -240,8 +241,8 @@
    "p": 0
   },
   "Dimers / Dave Garofolo": {
-   "w": 24,
-   "l": 26,
+   "w": 27,
+   "l": 28,
    "p": 1
   },
   "Dimers / Dave Garofolo (model)": {
@@ -250,7 +251,7 @@
    "p": 0
   },
   "Dimers / Dimers Data": {
-   "w": 38,
+   "w": 39,
    "l": 29,
    "p": 0
   },
@@ -275,8 +276,8 @@
    "p": 0
   },
   "Dimers / Ryan Leaver": {
-   "w": 23,
-   "l": 22,
+   "w": 27,
+   "l": 24,
    "p": 0
   },
   "Dimers / Ryan Leaver (model)": {
@@ -355,13 +356,13 @@
    "p": 0
   },
   "Pickswise / Filip Tomic": {
-   "w": 9,
+   "w": 12,
    "l": 14,
    "p": 0
   },
   "Pickswise / Joe Williams": {
    "w": 6,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "Pickswise / Jon Yaremko": {
@@ -376,7 +377,7 @@
   },
   "Pickswise / Luke Lindholm": {
    "w": 4,
-   "l": 2,
+   "l": 4,
    "p": 0
   },
   "Pickswise / Mark Lammey": {
@@ -405,8 +406,8 @@
    "p": 0
   },
   "Pickswise / Sam Avellone": {
-   "w": 18,
-   "l": 14,
+   "w": 20,
+   "l": 17,
    "p": 0
   },
   "Pickswise / Tyler Mortimer": {
@@ -441,7 +442,7 @@
   },
   "Sports Betting Dime / Chris Amberley": {
    "w": 6,
-   "l": 6,
+   "l": 9,
    "p": 0
   },
   "Sports Betting Dime / Michael Harrison": {
@@ -490,7 +491,7 @@
    "p": 2
   },
   "VSiN / Adam Burke": {
-   "w": 22,
+   "w": 23,
    "l": 20,
    "p": 0
   },
@@ -531,7 +532,7 @@
   },
   "SportsBettingDime / Chris Amberley": {
    "w": 8,
-   "l": 5,
+   "l": 6,
    "p": 0
   },
   "Predictem / Joe Jensen": {
@@ -540,13 +541,13 @@
    "p": 0
   },
   "Pickswise / Robby Nardini": {
-   "w": 4,
-   "l": 2,
+   "w": 5,
+   "l": 3,
    "p": 0
   },
   "Pickswise / Jason Fragomeni": {
-   "w": 5,
-   "l": 4,
+   "w": 9,
+   "l": 5,
    "p": 0
   },
   "WagerTalk / GoldSheet": {
@@ -586,7 +587,7 @@
   },
   "Pickswise / Chad Hartsock": {
    "w": 3,
-   "l": 4,
+   "l": 5,
    "p": 0
   },
   "SI / Ryan Gilbert": {
@@ -596,7 +597,7 @@
   },
   "Covers / Chris Vasile": {
    "w": 16,
-   "l": 17,
+   "l": 19,
    "p": 0
   },
   "Yahoo Sports / Matt Jacob": {
@@ -605,18 +606,18 @@
    "p": 0
   },
   "Sports Illustrated / Iain MacMillan": {
-   "w": 30,
-   "l": 19,
+   "w": 36,
+   "l": 23,
    "p": 1
   },
   "Sports Illustrated / Ryan Gilbert": {
-   "w": 18,
+   "w": 19,
    "l": 16,
    "p": 0
   },
   "Sports Illustrated / Peter Dewey": {
-   "w": 24,
-   "l": 27,
+   "w": 26,
+   "l": 28,
    "p": 1
   },
   "CBS Sports / Ross Kelly (SportsLine model)": {
@@ -630,8 +631,8 @@
    "p": 0
   },
   "Covers / Sam Farley": {
-   "w": 2,
-   "l": 6,
+   "w": 3,
+   "l": 7,
    "p": 0
   },
   "SportsbookReview / Gary Pearson": {
@@ -710,7 +711,7 @@
    "p": 0
   },
   "Covers / Ed Scimia": {
-   "w": 8,
+   "w": 10,
    "l": 5,
    "p": 0
   },
@@ -765,8 +766,8 @@
    "p": 0
   },
   "RotoWire / Steve Peralta": {
-   "w": 6,
-   "l": 9,
+   "w": 7,
+   "l": 11,
    "p": 0
   },
   "Action Network (via Yahoo Sports) / Sean Paul": {
@@ -824,7 +825,7 @@
    "l": 1,
    "p": 0
   },
-  "SI (MMA Knockout) / Drew Beaupré": {
+  "SI (MMA Knockout) / Drew Beaupr\u00e9": {
    "w": 2,
    "l": 1,
    "p": 0
@@ -916,7 +917,7 @@
   },
   "FanDuel Research / numberFire model": {
    "w": 5,
-   "l": 1,
+   "l": 2,
    "p": 0
   },
   "ClutchPoints / Garrett Kerman": {
@@ -925,8 +926,8 @@
    "p": 0
   },
   "Sports Mole / Adepoju Marvellous": {
-   "w": 28,
-   "l": 23,
+   "w": 30,
+   "l": 26,
    "p": 0
   },
   "Action Network (via Yahoo) / Matt Moore": {
@@ -1025,8 +1026,8 @@
    "p": 0
   },
   "Sportsbook Review / Mike Spector": {
-   "w": 1,
-   "l": 1,
+   "w": 5,
+   "l": 5,
    "p": 0
   },
   "Action Network / Mike Calabrese": {
@@ -1035,12 +1036,12 @@
    "p": 0
   },
   "Action Network / Colby Marchio": {
-   "w": 2,
-   "l": 4,
+   "w": 5,
+   "l": 5,
    "p": 0
   },
   "Action Network / Jonathan Jorcin": {
-   "w": 2,
+   "w": 3,
    "l": 1,
    "p": 0
   },
@@ -1065,8 +1066,8 @@
    "p": 0
   },
   "Sports Mole / Vladimir Kovacevic": {
-   "w": 9,
-   "l": 11,
+   "w": 17,
+   "l": 22,
    "p": 0
   },
   "BetMGM / BetMGM model": {
@@ -1130,8 +1131,8 @@
    "p": 0
   },
   "Sports Betting Dime / Michael Schwartz": {
-   "w": 4,
-   "l": 6,
+   "w": 6,
+   "l": 7,
    "p": 0
   },
   "Action Network (via Yahoo) / Greg Liodice": {
@@ -1266,7 +1267,7 @@
   },
   "Action Network / Sean Paul": {
    "w": 1,
-   "l": 3,
+   "l": 4,
    "p": 0
   },
   "CBS Sports / SportsLine (model)": {
@@ -1335,8 +1336,8 @@
    "p": 0
   },
   "Sports Betting Dime / Eric Rosales": {
-   "w": 3,
-   "l": 5,
+   "w": 5,
+   "l": 11,
    "p": 0
   },
   "Sports Betting Dime / C. Amberley": {
@@ -1390,7 +1391,7 @@
    "p": 0
   },
   "Action Network / Ryan Minion": {
-   "w": 1,
+   "w": 2,
    "l": 2,
    "p": 0
   },
@@ -1476,7 +1477,7 @@
   },
   "Action Network (via Yahoo) / Sean Koerner": {
    "w": 3,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "CBS Sports / Mike Tierney": {
@@ -1555,7 +1556,7 @@
    "p": 0
   },
   "Fantasy Alarm / Mark Lammey": {
-   "w": 0,
+   "w": 1,
    "l": 1,
    "p": 0
   },
@@ -1766,7 +1767,7 @@
   },
   "Football Whispers / Adam Clancy": {
    "w": 3,
-   "l": 5,
+   "l": 8,
    "p": 0
   },
   "The Sports Geek / Kyle Eve": {
@@ -1869,7 +1870,7 @@
    "l": 2,
    "p": 0
   },
-  "SoccerNews / Janko Glavonjić": {
+  "SoccerNews / Janko Glavonji\u0107": {
    "w": 0,
    "l": 1,
    "p": 0
@@ -1925,8 +1926,8 @@
    "p": 0
   },
   "FanDuel Research / numberFire (Data Skrive)": {
-   "w": 3,
-   "l": 1,
+   "w": 5,
+   "l": 2,
    "p": 0
   },
   "Doc's Sports newsletter": {
@@ -2111,7 +2112,7 @@
   },
   "Action Network / Carter Elliott": {
    "w": 1,
-   "l": 0,
+   "l": 1,
    "p": 0
   },
   "BetMGM / Chase Kiddy": {
@@ -2145,8 +2146,8 @@
    "p": 0
   },
   "FanDuel Research / Chris Beck": {
-   "w": 1,
-   "l": 3,
+   "w": 2,
+   "l": 8,
    "p": 0
   },
   "CBS Sports / SportsLine AI (Ross Kelly)": {
@@ -2188,52 +2189,172 @@
    "w": 0,
    "l": 1,
    "p": 0
+  },
+  "DraftKings Network / Zach Thompson": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "BettingPros / Kurt Blakeway": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "CBS Sports / Nick Stellini": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "The Big Lead (via Yahoo) / Harry Friedl": {
+   "w": 2,
+   "l": 2,
+   "p": 0
+  },
+  "Bleacher Nation / Data Skrive": {
+   "w": 2,
+   "l": 4,
+   "p": 0
+  },
+  "Dimers (model best bet)": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Data Skrive (via iHeart)": {
+   "w": 1,
+   "l": 2,
+   "p": 0
+  },
+  "OutKick (Fox News) / Colin Lynch": {
+   "w": 0,
+   "l": 3,
+   "p": 0
+  },
+  "iHeart Sports (computer projection model)": {
+   "w": 10,
+   "l": 12,
+   "p": 0
+  },
+  "Goal / Mark Richard Sochon": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Khel Now / Dilpreet": {
+   "w": 2,
+   "l": 1,
+   "p": 0
+  },
+  "The Stats Zone / Trystan Pugh": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "Action Network (via Yahoo) / Collin Wilson": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "SportsBettingDime / Brady Trettenero (AI model)": {
+   "w": 6,
+   "l": 4,
+   "p": 0
+  },
+  "CBS Sports / Shehan Jeyarajah": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "College Football News (via Yahoo) / Pete Fiutak": {
+   "w": 10,
+   "l": 2,
+   "p": 0
+  },
+  "Austin American-Statesman (via Yahoo) / Thomas Jones": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Robby Kalland": {
+   "w": 0,
+   "l": 1,
+   "p": 0
+  },
+  "CBS Sports / Tom Fornelli": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "ESPN / Mark Zinno": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "SportsBettingDime / Ryan Potts": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "CBS Sports / Chip Patterson": {
+   "w": 1,
+   "l": 0,
+   "p": 0
+  },
+  "ESPN / Pamela Maldonado": {
+   "w": 1,
+   "l": 1,
+   "p": 0
+  },
+  "Covers / staff": {
+   "w": 2,
+   "l": 0,
+   "p": 0
   }
  },
  "Bet of the Day": {
   "1": {
-   "w": 11,
+   "w": 13,
    "l": 8
   },
   "2": {
-   "w": 4,
-   "l": 15
+   "w": 5,
+   "l": 16
   },
   "3": {
    "w": 1,
-   "l": 18
+   "l": 20
   },
   "4": {
    "w": 0,
-   "l": 19
+   "l": 21
   },
   "5": {
    "w": 0,
-   "l": 19
+   "l": 21
   },
   "6": {
    "w": 0,
-   "l": 19
+   "l": 21
   },
   "7": {
    "w": 0,
-   "l": 17
+   "l": 19
   },
   "8": {
    "w": 0,
-   "l": 15
+   "l": 17
   },
   "9": {
    "w": 0,
-   "l": 11
+   "l": 12
   },
   "10": {
    "w": 0,
-   "l": 6
+   "l": 7
   },
   "11": {
    "w": 0,
-   "l": 1
+   "l": 2
   }
  },
  "partial_files": {},
@@ -2252,7 +2373,9 @@
   "2026-11-22",
   "2026-11-23",
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26",
+  "2026-11-27"
  ],
  "ungradable": {
   "2026-11-12": "Van Jefferson anytime TD (no box-score line; likely inactive)",
@@ -2262,14 +2385,16 @@
   "2026-11-19": "Deni Avdija points (DNP, left foot); FC Cincinnati @ Orlando Under 3.75 (3-1) counted as loss (half loss / half push)",
   "2026-11-21": "Karl-Anthony Towns assists, OG Anunoby rebounds, Trey Murphy III points (DNP, no box-score line); all three remain ungradable after re-check",
   "2026-11-22": "Aday Mara rebounds (DNP, right shin contusion)",
-  "2026-11-23": "Victor Wembanyama points (DNP, right lower-leg bruise, no box-score line)"
+  "2026-11-23": "Victor Wembanyama points (DNP, right lower-leg bruise, no box-score line)",
+  "2026-11-26": "Sports Mole Heat @ Knicks Under (no line stated)"
  },
  "botd_partial": {
   "2026-11-22": "all lengths settled; leg 9 Everton @ Brentford Under 2.5 lost (0-4)",
   "2026-11-23": "all lengths settled; leg 7 Eastern Michigan ML won (17-12)",
   "2026-11-24": "all lengths settled; leg 1 Ole Miss won, leg 2 Over 210.5 lost (190), leg 3 Under 216.5 lost (247), legs 4-5 won, leg 6 WMU ML lost",
   "2026-11-25": "all lengths settled; leg 1 Panthers won (5-3), leg 2 Bucks lost (97-104 to Brooklyn), legs 3-5 won, leg 6 Cowboys ML lost (38-39 to Philadelphia, Thanksgiving); no tally change",
-  "2026-11-26": "nothing settled yet; all 8 legs are Nov 27 games (first kickoff 17:00Z) not yet played at grading time (15:45Z Nov 27); no lengths counted, not added to botd_graded"
+  "2026-11-26": "all lengths settled; legs 1-2 won (Ole Miss -17.5 41-17, Under 40.5 Texas 16-6), leg 3 Broncos -2.5 lost (5-27), legs 4-6 and 8 won, leg 7 Oilers ML lost (2-4); length 1-2 won, 3+ lost",
+  "2026-11-27": "all lengths settled; leg 1 Ole Miss won, leg 2 Knicks ML lost (105-108 to Miami), leg 3 Clippers lost (104-105), leg 7 Rangers lost (1-2), legs 8,10,11 won; legs 4,5,6,9 (Nov 28 college football) pending; length 1 won, 2+ lost"
  },
  "corrections": {
   "2026-11-19": "leg 2 Carolina ML re-graded win->loss (Montreal won 2-1 in OT per ESPN); length-2 tally moved from win to loss"
