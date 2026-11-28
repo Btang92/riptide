@@ -1,0 +1,314 @@
+{
+ "at": "2026-11-28T15:59:43Z",
+ "date": "2026-11-28",
+ "method": "Started from 5,284 priced Kalshi legs in the next 36 hours. Kept legs priced 30\u201385\u00a2 with edge of about \u22122.5 or better and no flags, one per game, and matched them by hand against today's 341 collected expert picks (the dump again returned no automatic matches) and Polymarket top-trader positions. A leg stayed only if at least two of top-trader money, a published pick or model, and concrete matchup/injury news agreed, with nothing disagreeing. Dropped for conflicts: Wizards +6.5 (Sports Mole, Covers, Deadspin and Predictem on Washington with $1.7k top-trader money, but Dimers' model on Orlando), Houston \u22124.5 vs Baylor (Covers, RotoWire, RotoBaller on Houston but SI picks Baylor outright), Colorado \u22123.5 (College Football News projects only a 3-point Colorado win), Patriots \u22121.5 (five outlets on New England but top traders slightly the other way), Virginia Tech ML and Oklahoma State \u22125.5 (top traders on them, RotoBaller against), Giants ML (Yahoo and SBD against), Rockets ML (BettingPros and Dimers against), Ohio State \u22127.5 vs Michigan (outlets split), Washington ML at Arizona (SBD and VSiN against) and Alabama ML (priced at the 85\u00a2 ceiling, RotoBaller on Auburn). Saturday games fill most of the ladder; Sunday's two NFL totals sit at legs 8\u20139 so longer ladders still fill in after today's games start.",
+ "honest": "Every leg costs slightly more than its fair price (edge about \u22120.2 to \u22122.5\u00a2 each), so expected return is slightly negative, and it gets worse with each leg you add.",
+ "ladder": [
+  {
+   "id": "KXNCAAFSPREAD-26NOV28KSUISU-ISU4:yes",
+   "league": "College football",
+   "game": "Kansas State Wildcats @ Iowa State Cyclones",
+   "start": "2026-11-28T19:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Iowa State Cyclones \u22123.5",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 54.5,
+   "sharp": {
+    "for": 1030,
+    "against": 428,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "RotoWire's Chris Bennett and RotoBaller's Mike Marteny both take Iowa State \u22123.5, citing a Kansas State team that is winless on the road and without its starting QB, and College Football News' Pete Fiutak predicts Iowa State 30-24. Polymarket top traders hold $1.0k on Iowa State against $0.4k the other way.",
+   "sources": [
+    {
+     "name": "RotoWire / Chris Bennett (Iowa State \u22123.5)",
+     "url": "https://www.rotowire.com/cfootball/article/week-13-college-football-picks-rivalry-week-best-bets-148364"
+    },
+    {
+     "name": "RotoBaller / Mike Marteny (Iowa State \u22123.5)",
+     "url": "https://www.rotoballer.com/college-football-betting-picks-expert-predictions-ats-for-week-13-2026/2004897"
+    },
+    {
+     "name": "College Football News via Yahoo / Pete Fiutak (Iowa State 30-24)",
+     "url": "https://sports.yahoo.com/college-football/articles/big-12-football-week-13-085109863.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV28UTEPNIU-NIU4:yes",
+   "league": "College football",
+   "game": "UTEP Miners @ Northern Illinois Huskies",
+   "start": "2026-11-28T20:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Northern Illinois Huskies \u22123.5",
+   "ask": 54,
+   "cost": 55.7388,
+   "fair": 55.5,
+   "sharp": {
+    "for": 2513,
+    "against": 0,
+    "who": [
+     "Multicoloured-Serf",
+     "VeryLucky888"
+    ]
+   },
+   "why": "Covers' Brad Powers takes NIU \u22123.5, calling the Huskies much better than their record while UTEP, under an interim coach, just lost by 49 to Air Force. Top traders have $2.5k on NIU and nothing against.",
+   "sources": [
+    {
+     "name": "Covers / Brad Powers (NIU \u22123.5)",
+     "url": "https://www.covers.com/picks/ncaaf"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV28PSUMD-PSU8:no",
+   "league": "College football",
+   "game": "Penn State Nittany Lions @ Maryland Terrapins",
+   "start": "2026-11-28T20:30:00.000Z",
+   "mk": "SPREAD",
+   "label": "Maryland Terrapins +7.5",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 50.3,
+   "sharp": {
+    "for": 11093,
+    "against": 0,
+    "who": [
+     "keeptheblueflagflyinghigh",
+     "VeryLucky888"
+    ]
+   },
+   "why": "RotoBaller's Mike Marteny takes Maryland +7.5 with Penn State coming off a loss to Rutgers, and Dimers' model projects only a 28-21 Penn State win, inside the number. Top traders hold $11.1k on Maryland +7.5 and nothing against.",
+   "sources": [
+    {
+     "name": "RotoBaller / Mike Marteny (Maryland +7.5)",
+     "url": "https://www.rotoballer.com/college-football-betting-picks-expert-predictions-ats-for-week-13-2026/2004897"
+    },
+    {
+     "name": "Dimers model (projects Penn State 28-21)",
+     "url": "https://www.dimers.com/cfb/news/penn-state-vs-maryland-prediction-11-28-2026-ac"
+    }
+   ]
+  },
+  {
+   "id": "KXNBASPREAD-26NOV28BKNCHA-CHA6:no",
+   "league": "NBA",
+   "game": "Brooklyn Nets @ Charlotte Hornets",
+   "start": "2026-11-28T23:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Brooklyn Nets +5.5",
+   "ask": 47,
+   "cost": 48.7437,
+   "fair": 47.3,
+   "sharp": {
+    "for": 890,
+    "against": 254,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Dimers' model gives the Nets 52.9% to cover +5.5, and Covers' Geoff Clark takes Brooklyn outright, noting Charlotte has lost 12 of 13. Top traders lean Brooklyn, $0.9k for vs $0.25k against.",
+   "sources": [
+    {
+     "name": "Dimers model (Nets +5.5)",
+     "url": "https://www.dimers.com/nba/news/nba-best-bets-11-28-2026-ac"
+    },
+    {
+     "name": "Covers / Geoff Clark (Nets ML)",
+     "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-28-2026"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFSPREAD-26NOV28ULLGAST-ULL5:yes",
+   "league": "College football",
+   "game": "Louisiana Ragin' Cajuns @ Georgia State Panthers",
+   "start": "2026-11-28T19:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Louisiana Ragin' Cajuns \u22124.5",
+   "ask": 51,
+   "cost": 52.7493,
+   "fair": 50.5,
+   "sharp": {
+    "for": 1947,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "VeryLucky888"
+    ]
+   },
+   "why": "VSiN's Steve Makinen lists Louisiana \u22125.5 as a play from his Sun Belt road-favorite system, and top traders have $1.9k on Louisiana with nothing against. Thin on matchup detail, so it sits mid-ladder.",
+   "sources": [
+    {
+     "name": "VSiN / Steve Makinen (Louisiana \u22125.5)",
+     "url": "https://vsin.com/college-football/college-football-top-plays-based-on-betting-splits-power-ratings-and-trends-week-13-3/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLGAME-26NOV28NSHDET-NSH:yes",
+   "league": "NHL",
+   "game": "Nashville Predators @ Detroit Red Wings",
+   "start": "2026-11-29T00:00:00.000Z",
+   "mk": "ML",
+   "label": "Nashville Predators",
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 49,
+   "sharp": {
+    "for": 1084,
+    "against": 0,
+    "who": [
+     "HomeRunHazard",
+     "VeryLucky888"
+    ]
+   },
+   "why": "Sports Betting Dime's Michael Harrison names Nashville one of three road underdogs he expects to win outright tonight, and top traders hold $1.1k on the Predators with nothing on Detroit. Close to a coin flip.",
+   "sources": [
+    {
+     "name": "Sports Betting Dime / Michael Harrison (Predators ML)",
+     "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-saturday-predictions-best-bets-nov-28-2026/"
+    }
+   ]
+  },
+  {
+   "id": "KXNHLSPREAD-26NOV28SJCOL-COL2:yes",
+   "league": "NHL",
+   "game": "San Jose Sharks @ Colorado Avalanche",
+   "start": "2026-11-29T02:00:00.000Z",
+   "mk": "SPREAD",
+   "label": "Colorado Avalanche \u22121.5",
+   "ask": 47,
+   "cost": 48.7437,
+   "fair": 46.9,
+   "sharp": {
+    "for": 834,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Covers' Luc LeBlanc takes Colorado \u22121.5, noting the Avalanche have won nine of the last 10 meetings and are strong at home. Top traders have $0.8k on the puck line and nothing against.",
+   "sources": [
+    {
+     "name": "Covers / Luc LeBlanc (Avalanche \u22121.5)",
+     "url": "https://www.covers.com/picks/nhl"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLTOTAL-26NOV29BALHOU-48:yes",
+   "league": "NFL",
+   "game": "Baltimore Ravens @ Houston Texans",
+   "start": "2026-11-29T18:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 47.5",
+   "ask": 49,
+   "cost": 50.7493,
+   "fair": 49.2,
+   "sharp": null,
+   "why": "Three outlets take the Over 47.5: CBS's Brandon Gustafson (Baltimore's offense improved under Brissett, Houston ninth in scoring), BettingPros' Andrew Erickson (Baltimore's defense has been weak) and The Big Lead's Matt De Lima (both defenses missing key players). No top-trader money either way.",
+   "sources": [
+    {
+     "name": "CBS Sports / Brandon Gustafson (Over 47.5)",
+     "url": "https://www.cbssports.com/betting/news/week-12-nfl-overunder-picks-saints-bengals-ravens-texans-among-best-bets-predictions/"
+    },
+    {
+     "name": "BettingPros / Andrew Erickson (Over 47.5)",
+     "url": "https://www.bettingpros.com/articles/nfl-betting-primer-picks-predictions-week-12-advice/"
+    },
+    {
+     "name": "The Big Lead / Matt De Lima (Over 47.5)",
+     "url": "https://www.thebiglead.com/week-12-nfl-best-bets-bengals-jaguars-top-picks-backup-quarterbacks-take-over/"
+    }
+   ]
+  },
+  {
+   "id": "KXNFLTOTAL-26NOV29SEASF-47:no",
+   "league": "NFL",
+   "game": "Seattle Seahawks @ San Francisco 49ers",
+   "start": "2026-11-29T21:25:00.000Z",
+   "mk": "TOTAL",
+   "label": "Under 46.5",
+   "ask": 63,
+   "cost": 64.6317,
+   "fair": 63,
+   "sharp": {
+    "for": 3186,
+    "against": 780,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "Brock Purdy is out and Mac Jones starts for San Francisco. Covers' Jason Logan (Under 43.5; shuffled Seattle O-line, possible rain), BettingPros' Andrew Erickson (Under 44.5; last four Seattle games at Levi's went Under) and The Big Lead (Under 42.5) all go low, and this leg gives a cushion above their numbers. Top traders: $3.2k on the Under vs $0.8k.",
+   "sources": [
+    {
+     "name": "Covers / Jason Logan (Under 43.5)",
+     "url": "https://www.covers.com/nfl/seahawks-vs-49ers-prediction-picks-nov-29-2026"
+    },
+    {
+     "name": "BettingPros / Andrew Erickson (Under 44.5)",
+     "url": "https://www.bettingpros.com/articles/nfl-betting-primer-picks-predictions-week-12-advice/"
+    },
+    {
+     "name": "The Big Lead / Matt De Lima (Under 42.5)",
+     "url": "https://www.thebiglead.com/week-12-nfl-best-bets-bengals-jaguars-top-picks-backup-quarterbacks-take-over/"
+    }
+   ]
+  },
+  {
+   "id": "KXNBATOTAL-26NOV28INDCHI-237:yes",
+   "league": "NBA",
+   "game": "Indiana Pacers @ Chicago Bulls",
+   "start": "2026-11-29T01:00:00.000Z",
+   "mk": "TOTAL",
+   "label": "Over 236.5",
+   "ask": 42,
+   "cost": 43.7052,
+   "fair": 41.5,
+   "sharp": {
+    "for": 3256,
+    "against": 544,
+    "who": [
+     "HomeRunHazard",
+     "CUTJALENHURTS"
+    ]
+   },
+   "why": "Sports Mole's Adepoju Marvellous takes the Over 234.5, saying Chicago home games have regularly gone past this total, and top traders hold $3.3k on the Over vs $0.5k. Priced as an underdog at 42\u00a2.",
+   "sources": [
+    {
+     "name": "Sports Mole / Adepoju Marvellous (Over 234.5)",
+     "url": "https://www.sportsmole.co.uk/basketball/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--28-november-2026_610066.html"
+    }
+   ]
+  },
+  {
+   "id": "KXNCAAFGAME-26NOV28MRSHULM-MRSH:yes",
+   "league": "College football",
+   "game": "Marshall Thundering Herd @ UL Monroe Warhawks",
+   "start": "2026-11-28T18:00:00.000Z",
+   "mk": "ML",
+   "label": "Marshall Thundering Herd",
+   "ask": 70,
+   "cost": 71.47,
+   "fair": 70.5,
+   "sharp": {
+    "for": 711,
+    "against": 0,
+    "who": [
+     "HomeRunHazard"
+    ]
+   },
+   "why": "A short favorite to close the ladder: VSiN's Steve Makinen lists Marshall \u22125.5 as a Sun Belt road-favorite system play, top traders have $0.7k on Marshall and nothing against, and the line has moved 9.6 points Marshall's way.",
+   "sources": [
+    {
+     "name": "VSiN / Steve Makinen (Marshall \u22125.5)",
+     "url": "https://vsin.com/college-football/college-football-top-plays-based-on-betting-splits-power-ratings-and-trends-week-13-3/"
+    }
+   ]
+  }
+ ]
+}
